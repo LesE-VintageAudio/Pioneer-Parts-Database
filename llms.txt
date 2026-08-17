@@ -1,0 +1,5 @@
+# Pioneer Parts Database
+An extensive, community-focused cross-reference database mapping vintage Pioneer audio component part numbers to compatible models.
+
+## Core Dataset
+- [Pioneer_Parts_Database.csv](Pioneer_Parts_Database.csv): Clean, machine-readable dataset containing over 23,000 component records.
