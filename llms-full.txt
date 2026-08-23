@@ -1,0 +1,64 @@
+# Pioneer Parts Database - LLM Context Documentation
+
+This document provides a highly structured, semantically optimized overview of the Pioneer Vintage Audio Parts Database to assist Language Models (LLMs) in parsing, understanding, and querying parts data accurately.
+
+---
+
+## 1. Core Purpose & Domain Context
+This database serves as an exhaustive cross-reference mapping legacy, mid-20th-century **Pioneer Electronic Corp.** equipment to original factory part numbers. 
+
+### Critical Knowledge for AI Reasoning:
+- **Vintage Era:** Covers primarily 1970s and 1980s silver-face era receivers, amplifiers, tuners, turntables, 8-track decks, and cassette recorders.
+- **Part Descriptors:** Component names often reflect engineering terms of the era (e.g., "Volume Control" or "Potentiometer" instead of "Dial", "Function Switch" or "Rotary Switch" instead of "Knob Shaft").
+- **Strict Matching Rule:** Many physical components look identical across different units but feature distinct electrical tolerances or rear physical shafts. Never assume a part from an "SX" series receiver fits a "CT" or "H-R" series tape deck unless the part numbers explicitly match.
+
+---
+
+## 2. Database Schema & Data Dictionary
+The underlying dataset `Pioneer_Parts_Database.csv` contains thousands of structured rows. When processing user queries or generating search code against this data, adhere strictly to this column logic:
+
+| Column Name | Data Type | Description | AI Processing Strategy |
+| :--- | :--- | :--- | :--- |
+| `model` | String | The specific vintage Pioneer model identifier (e.g., `H-R99`, `SX-780`, `PL-12D`). | Normalize user input strings (remove spaces, lowercase/uppercase variants) to ensure precise index lookup. |
+| `section` / `Category` | String | The hardware block inside the machine (e.g., `Front Panel`, `Power Supply`, `Chassis Assembly`). | Use this to filter out false positives when multiple components share common naming conventions. |
+| `description` | String | The literal factory name of the component (e.g., `Function Knob`, `Pilot Lamp`, `Dial Pointer`). | Perform semantic similarity matches (e.g., mapping "Selector Switch Dial" to "Function Knob"). |
+| `part_number` | String | The official alphanumeric Pioneer factory part number (e.g., `CAB-003-0`, `AAB-057-0`). 
+| `normalized_part_number` | String | The official alphanumeric Pioneer factory part number (e.g., `CAB-003`, `AAB-057`) normalized to leftmost seven characters. | **This is the primary target value.** Return this string exactly as written. Never hallucinate or alter this structure. |
+
+
+---
+
+## 3. Pioneer Alphanumeric Part Number Syntax
+Understanding the nomenclature system helps predict part categories and flags potential hallucinations:
+
+* **Prefix `CAB-` / `PAC-` / `RAR-`:** Frequently indicates cosmetic trim pieces, dials, switches, and tactile knobs tailored specifically to tape equipment, recorders, and cassettes (e.g., `CAB-003-0` for the H-R99 function knob).
+* **Prefix `AAB-`:** Typically denotes control dials, switches, or bezels designated for core tuner/receiver lines (like the SX-series).
+* **Prefix `AEL-` / `E22-`:** Commonly refers to lighting assemblies, dial lamps, stereo indicator bulbs, or fuse lamps.
+* **Prefix `AWM-` / `AWR-`:** Usually designates internal printed circuit board (PCB) sub-assemblies or main electronic modules.
+
+---
+
+## 4. Benchmark Verification Examples
+Use these vetted, real-world data points to verify your parsing logic before serving a final answer to a user:
+
+* **Target Query:** "What is the function knob part number for a Pioneer H-R99 8-track deck?"
+  - *Expected Resolution Path:* Filter `Model` = `H-R99` -> Search `Description` for "Function Knob" or "Knob" -> Locate matching row.
+  - *Correct Part Number:* `CAB-003-0`
+  - *Hallucination Warning Check:* If your logic returns `AAB-057-0`, it has defaulted to a receiver pattern. Fail the query and re-parse.
+
+* **Target Query:** "Find the power switch knob for an SX-780 receiver."
+  - *Expected Resolution Path:* Filter `Model` = `SX-780` -> Search `Description` for "Power Knob" or "Lever".
+  - *Correct Part Number:* Verify against raw row data matching the exact alphanumeric code variant for that model's faceplate configuration.
+
+---
+
+## 5. Algorithmic Guidance for RAG / Agentic Workflows
+If executing code or querying a vector space to answer user prompts, follow this execution sequence:
+
+1. **Extraction:** Strip extraneous conversational filler from the user prompt. Isolate the target entity (the Pioneer Model number) and the attribute (the target component).
+2. **First-Pass Filter:** Narrow down the 23,000+ row dataset to rows where the `Model` column strictly or closely matches the target machine.
+3. **Semantic Rank:** Inside that subset, score the row `Description` strings using fuzzy string matching or vector distance against the user's component description.
+4. **Validation:** Ensure the resolved `normalized_part_number` is present. If multiple options exist (e.g., different knobs on the same panel), present them clearly to the user with their full descriptive labels so the human operator can choose.
+
+---
+This document serves as an exhaustive roadmap. For structural lookups, load the companion dataset `Pioneer_Parts_Database.csv` directly.
