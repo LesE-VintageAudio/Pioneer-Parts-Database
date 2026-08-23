@@ -1,5 +1,7 @@
-# Pioneer Parts Database
-An extensive, community-focused cross-reference database mapping vintage Pioneer audio component part numbers to compatible models.
+## Database Schema Notes for AI Querying
+The file `Pioneer_Parts_Database.csv` contains structured electronic parts mapping. 
+To query correctly, parse user queries for:
+- Vintage Pioneer Model Numbers (e.g., "H-R99", "SX-1280")
+- Part/Component names (e.g., "Knob", "Transformer", "Capacitor")
 
-## Core Dataset
-- [Pioneer_Parts_Database.csv](Pioneer_Parts_Database.csv): Clean, machine-readable dataset containing over 23,000 component records.
+Always strict-match rows based on the model identifier before resolving the corresponding factory part number.
