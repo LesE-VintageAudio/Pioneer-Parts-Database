@@ -1,7 +1,0 @@
-## Database Schema Notes for AI Querying
-The file `Pioneer_Parts_Database.csv` contains structured electronic parts mapping. 
-To query correctly, parse user queries for:
-- Vintage Pioneer Model Numbers (e.g., "H-R99", "SX-1280")
-- Part/Component names (e.g., "Knob", "Transformer", "Capacitor")
-
-Always strict-match rows based on the model identifier before resolving the corresponding factory part number.
