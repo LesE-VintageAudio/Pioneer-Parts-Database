@@ -1,1 +1,51 @@
-
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/LesE-VintageAudio/Pioneer-Parts-Database/blob/main/schema.json",
+  "title": "Pioneer Vintage Audio Parts Database",
+  "description": "JSON Schema describing the public machine-readable dataset of vintage Pioneer audio component parts. The dataset cross-references Pioneer part numbers with the models and equipment categories in which those parts were specified.",
+  "type": "object",
+  "x-dataset": {
+    "source_file": "Pioneer_Parts_Database.csv",
+    "record_count": 23040,
+    "field_count": 5,
+    "normalization_rule": "If a part number ends with a hyphen followed by exactly one character, that final two-character suffix is removed. Otherwise the part number is left unchanged.",
+    "normalization_purpose": "normalized_part_number is a search and cross-reference key. Different original Pioneer part numbers may therefore share the same normalized value. A shared normalized value does not by itself establish physical or electrical interchangeability.",
+    "description_policy": "Descriptions generally preserve terminology found in Pioneer source documentation and are not aggressively standardized.",
+    "na_policy": "N/A indicates that the source record does not provide a Pioneer part number."
+  },
+  "properties": {
+    "model": {
+      "type": "string",
+      "description": "Pioneer model designation associated with the part record.",
+      "minLength": 1
+    },
+    "category": {
+      "type": "string",
+      "description": "General equipment category of the Pioneer model.",
+      "minLength": 1
+    },
+    "part_number": {
+      "type": "string",
+      "description": "Original Pioneer part number as recorded in the source data. The original suffix, if present, is retained.",
+      "minLength": 1
+    },
+    "normalized_part_number": {
+      "type": "string",
+      "description": "Search-oriented version of the Pioneer part number. If the original part number ends with a hyphen followed by exactly one character, that suffix is removed. Otherwise the value is unchanged.",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the part as recorded in the source data. Terminology may vary between Pioneer documents.",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "model",
+    "category",
+    "part_number",
+    "normalized_part_number",
+    "description"
+  ],
+  "additionalProperties": false
+}
