@@ -1,14 +1,39 @@
 model,category,part_number,normalized_part_number,description
-H-R99,8-Track Tape,CXM-020,CXM-020,MOTOR #112-75 (per pioneerelectronics.com)
-H-R99,8-Track Tape,N26-621-B,N26-621,Cam
-H-R99,8-Track Tape,B10-864-A,B10-864,"Screw, M3 x 8"
-H-R99,8-Track Tape,W74-776-A,W74-776,Flywheel Holder
-H-R99,8-Track Tape,CNT-021-0,CNT-021,Counter Belt
-H-R99,8-Track Tape,CBH-131-0,CBH-131,Spring (Recording Lever)
-H-R99,8-Track Tape,CSG-020-0,CSG-020,Push Switch (ALC)
-H-R99,8-Track Tape,CNC-577-0,CNC-577,Lever Holder
-H-R99,8-Track Tape,CSE-002-0,CSE-002,Rotary Switch (Function)
-H-R99,8-Track Tape,B06-162-A,B06-162,"Screw, M3 x 5"
+H-R100,8-Track Tape,CCG-003-0,CCG-003,Capacitor 0.01uF
+H-R100,8-Track Tape,CXA-868-0,CXA-868,RECORDING LEVER
+H-R100,8-Track Tape,CTT-039-0,CTT-039,Power Transformer
+H-R100,8-Track Tape,CAW-013-0,CAW-013,Level Meter (Rch.)
+H-R100,8-Track Tape,CAC-036-B,CAC-036,"BUTTON, FFWD,PROGRAM,PAUSE"
+H-R100,8-Track Tape,CNT-016-0,CNT-016,BELT (DRIVE)
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-024-0,CEL-024,"Lamp, 150mA 8V (Level Meter Ind)"
+H-R100,8-Track Tape,CKN-014-0,CKN-014,Microphone Jack (Switch)
+H-R100,8-Track Tape,Y20-943-J,Y20-943,"Resistor, RS2P823J 82kΩ ±5% 2W"
+H-R100,8-Track Tape,CKN-013-0,CKN-013,Head phone Jack
+H-R100,8-Track Tape,CSG-041-0,CSG-041,Push Switch (F.F.)
+H-R100,8-Track Tape,CAB-003-B,CAB-003,"KNOB, FUNCTION"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Line Input)
+H-R100,8-Track Tape,S21-625-0,S21-625,Micro Switch (Power)
+H-R100,8-Track Tape,CXA-866-0,CXA-866,FRONT GRILLE
+H-R100,8-Track Tape,W74-776-A,W74-776,FLYWHEEL HOLDER
+H-R100,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Line Output)
+H-R9000,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R9000,8-Track Tape,B33-726-0,B33-726,Spring (Head Base)
+H-R9000,8-Track Tape,K13-047-0,K13-047,Grounding Terminal
+H-R9000,8-Track Tape,CKB-002-0,CKB-002,"Pin Jack, 6P (REC., PHONO and AUX)"
+H-R9000,8-Track Tape,CAW-006-0,CAW-006,Tuning Meter
+H-R9000,8-Track Tape,B09-382-E,B09-382,"Screw, M4 x 20"
+H-R9000,8-Track Tape,CAB-003-0,CAB-003,Knob (SELECTOR)
+H-R9000,8-Track Tape,k13-806-0,k13-806,Lug Terminal. 2L2
+H-R9000,8-Track Tape,CWE-042-0,CWE-042,Tuner Unit
+H-R9000,8-Track Tape,K71 -031-0,K71 -031,Insulating Nut
+H-R9000,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R9000,8-Track Tape,CXA-447-0,CXA-447,Program Selector Assembly
+H-R9000,8-Track Tape,CXA-333-A,CXA-333,Head Base
+H-R9000,8-Track Tape,E32-603-A,E32-603,Guide Pole
+H-R9000,8-Track Tape,CNC-444-0,CNC-444,Revolution Lever
+H-R9000,8-Track Tape,W72-002-B,W72-002,Antenna Holder
 H-R99,8-Track Tape,CXP-009-0,CXP-009,Solenoid
 H-R99,8-Track Tape,CXA-503-0,CXA-503,Sub Panel
 H-R99,8-Track Tape,CNC-587-0,CNC-587,"Bracket, Push Switch"
@@ -32,19 +57,3 @@ H-R99,8-Track Tape,B06-109-A,B06-109,"Screw, M2.6 x 4"
 H-R99,8-Track Tape,B01-863-A,B01-863,"Screw, M3x 6"
 H-R99,8-Track Tape,CNS-092-0,CNS-092,Front Panel
 H-R99,8-Track Tape,CXA-333-A,CXA-333,Head Base
-H-R99,8-Track Tape,CXA-413-0,CXA-413,Recording Lever
-H-R99,8-Track Tape,M98-576-A,M98-576,Insulating Plate
-H-R99,8-Track Tape,E22-017-0,E22-017,Lamp (Level Meter Indicator)
-H-R99,8-Track Tape,B20-508-E,B20-508,Stop Pin
-H-R99,8-Track Tape,E22-617-A,E22-617,Lamp (Program Indicator)
-H-R99,8-Track Tape,CNA-056-0,CNA-056,Chassis
-H-R99,8-Track Tape,K72-622-A,K72-622,Mic Jack
-H-R99,8-Track Tape,E22-017-0,E22-017,Lamp (Level Meter indicator)
-H-R99,8-Track Tape,CNC-590-0,CNC-590,"Holder, Power Transformer"
-H-R99,8-Track Tape,B71-031-0,B71-031,Insulating Nut
-H-R99,8-Track Tape,B20-010-A,B20-010,"Spring Washer, M2"
-H-R99,8-Track Tape,B33-726-0,B33-726,Spring (Head Base)
-H-R99,8-Track Tape,B01-267-A,B01-267,"Screw, M3 x 14"
-H-R99,8-Track Tape,B10-205-A,B10-205,"Screw, M2 x 8"
-H-R99,8-Track Tape,CNC-433-A,CNC-433,Recording Lever
-H-R99,8-Track Tape,CRY-002-0,CRY-002,Registration Card
