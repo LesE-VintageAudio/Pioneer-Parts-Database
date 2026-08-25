@@ -1,0 +1,1001 @@
+model,category,part_number,normalized_part_number,description
+A-9,Integrated Amplifier,ASX-154,ASX-154,Remote rotary switch (REC OUT SELECTOR)
+A-7,Integrated Amplifier,ASX-156,ASX-156,Rotary switch (REC OUT SELECT)
+A-8,Integrated Amplifier,ASX-156,ASX-156,REC OUT selector switch
+A-9,Integrated Amplifier,ASX-156,ASX-156,Remote Slide switch (REC SELECTOR)
+A-6,Integrated Amplifier,ASX-169,ASX-169,Remote slide switch (REC OUT SELECTOR)
+SX-7,Receiver,ASX-173,ASX-173,"6-ganged push switch (TAPE,MONO,SUBSONlC,LOUDNESS,PHONO)"
+SX-7,Receiver,ASX-175,ASX-175,Remote slide switch (MM/MC)
+SX-8,Receiver,ASX-175,ASX-175,Remote slide switch (MM/MC)
+TX-530L,Tuner,ASX-182,ASX-182,Switch (FUNCTlON)
+SX-8,Receiver,ASX-184,ASX-184,"3-ganged Push switch (MEMORY, SUBSONIC, PHONO)"
+SA-930,Integrated Amplifier,ASX-189,ASX-189,Rotary switch (SPEAKERS)
+TX-130L,Tuner,ASX-190,ASX-190,Remote push switch (FUNCTION)
+A-70,Integrated Amplifier,ASX-191,ASX-191,Remote push switch (MC/MM)
+A-90,Integrated Amplifier,ASX-193,ASX-193,Remote slide switch (PHONO SELECTOR)
+A-80,Integrated Amplifier,ASX-196,ASX-196,Slide switch (PHONO SELECTOR)
+A-77X,Integrated Amplifier,ASX-199,ASX-199,Remote slide switch (MC-MM) Eq Assembly
+A-88X,Integrated Amplifier,ASX-199,ASX-199,Remote slide switch (MC-MM)
+A-5,Integrated Amplifier,ASX-203,ASX-203,SWITCH(REC OUT SELECTOR)
+A-6,Integrated Amplifier,ASX-203,ASX-203,Remote slide switch (REC OUT SELECTOR)
+A-90,Integrated Amplifier,ASX-204,ASX-204,Remote rotary slide switch (PHONO SELECTOR)
+A-80,Integrated Amplifier,ASX-205,ASX-205,Remote slide rotary switch (PHONO SELECTOR)
+A-88X,Integrated Amplifier,ASX-206,ASX-206,Remote slide rotary switch (MC-MM)
+A-77X,Integrated Amplifier,ASX-207,ASX-207,Remote slide rotary switch (PHONO)
+SX-1000TA (Early),Receiver,AT4214,AT4214,AM Ferrite Loopstick antenna coil
+SX-1000TA (Early),Receiver,AT5263,AT5263,Power transformer
+SX-828,Receiver,ATB-002-0,ATB-002,AM ferrite loopstick antenna (KUW)
+TX-1000,Tuner,ATB-002,ATB-002,COIL FOR MW
+SX-727,Receiver,ATB-005-0,ATB-005,Ferrite loopstick antenna (KUW)
+TX-800,Tuner,ATB-005,ATB-005,BAR ANTENNA SX-616
+QX-4000,Receiver,ATB-006-0,ATB-006,AM ferrite loopstick antenna
+QX-646,Receiver,ATB-006-0,ATB-006,AM ferrite loopstick antenna
+QX-8000A,Receiver,ATB-006-0,ATB-006,Ferrite loopstick antenna (KUW)
+SX-525,Receiver,ATB-006-0,ATB-006,Ferrite loopstick antenna (KUW)
+TX-500A,Tuner,ATB-009,ATB-009,BAR ANTENNA
+SX-424,Receiver,ATB-010-0,ATB-010,AM ferrite loopstick antenna
+QX-747,Receiver,ATB-015-A,ATB-015,AM ferrite loopstick antenna
+QX-949,Receiver,ATB-015-A,ATB-015,Ferrite loopstick antenna
+SX-434,Receiver,ATB-015-A,ATB-015,Ferrite loopstick antenna
+SX-434,Receiver,ATB-015-A,ATB-015,Ferrite loopstick antenna
+SX-626 (1973),Receiver,ATB-015-A,ATB-015,Ferrite loopstick antenna
+TX-6200,Tuner,ATB-015-A,ATB-015,AM ferrite loopstick antenna
+TX-7100,Tuner,ATB-015-A,ATB-015,Ferrite loopstick antenna
+TX-8100,Tuner,ATB-015-A,ATB-015,Ferrite loopstick antenna
+TX-9100,Tuner,ATB-021-0,ATB-021,AM ferrite loopstick antenna
+SX-535,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-636,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-737,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-838,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-939,Receiver,ATB-026-0,ATB-026,Ferrite locpstick antenna
+SX-1010,Receiver,ATB-027-0,ATB-027,Ferrite loopstick antenna
+TX-7500,Tuner,ATB-037,ATB-037,BAR ANTENNA
+TX-5300,Tuner,ATB-038-0,ATB-038,Ferrite bar antenna (T2)
+TX-5300,Tuner,ATB-038-0,ATB-038,"T2, Ferrite bar antenna"
+TX-9500,Tuner,ATB-040-0,ATB-040,Bar-antenna
+QX-747A,Receiver,ATB-041,ATB-041,Bar-antenna
+QX-949A,Receiver,ATB-042,ATB-042,Ferrite bar-antenna
+SX-950,Receiver,ATB-046,ATB-046,Ferrite bar-antenna
+SX-1050,Receiver,ATB-050,ATB-050,Ferrite bar-antenna
+SX-1250,Receiver,ATB-051,ATB-051,Ferrite bar-antenna
+SX-202,Receiver,ATB-076,ATB-076,Loop antenna assembly
+TX-130L,Tuner,ATB-076,ATB-076,Antenna assembly
+TX-530L,Tuner,ATB-076,ATB-076,ANT assembly
+TX-930,Tuner,ATB-076,ATB-076,AM loop antenna
+F-90,Tuner,ATB-086,ATB-086,AM loop antenna ass'Y
+SX-50,Receiver,ATB-086,ATB-086,Loop antenna
+SX-60,Receiver,ATB-086,ATB-086,Loop antenna
+TX-950,Tuner,ATB-086,ATB-086,Loop antenna assembly
+SX-1080,Receiver,ATB-505,ATB-505,Bar antenna
+SX-1280,Receiver,ATB-505,ATB-505,Bar antenna assembly
+SX-580/590,Receiver,ATB-505,ATB-505,Bar antenna
+SX-680/690,Receiver,ATB-505,ATB-505,Ferrite bar-antenna
+SX-780,Receiver,ATB-505,ATB-505,Bar antenna
+SX-880/890,Receiver,ATB-505,ATB-505,Ferrite bar antenna
+SX-980,Receiver,ATB-505,ATB-505,Bar antenna
+TX-6500II,Tuner,ATB-505,ATB-505,Bar antenna
+TX-6800/608,Tuner,ATB-505,ATB-505,Bar antenna
+TX-8500II,Tuner,ATB-506,ATB-506,Bar antenna
+SX-1980,Receiver,ATB-507,ATB-507,Ferrite bar-antenna
+TX-9500II,Tuner,ATB-507,ATB-507,Bar antenna
+TX-5500II,Tuner,ATB-602,ATB-602,BAR ANTENNA
+SX-D5000,Receiver,ATB-619,ATB-619,Bar-antenna
+TX-520,Tuner,ATB-623,ATB-623,BAR ANTENNA
+TX-610,Tuner,ATB-623,ATB-623,BAR ANTENNA
+SX-3700,Receiver,ATB-624,ATB-624,Bar-antenna Ass'y
+SX-3800,Receiver,ATB-624,ATB-624,Bar -antenna assembly
+SX-3900,Receiver,ATB-624,ATB-624,Bar-antenna assembly
+SX-820,Receiver,ATB-624,ATB-624,Bar-antenna Ass'y
+SX-600,Receiver,ATB-626,ATB-626,Bar antenna
+SX-700,Receiver,ATB-626,ATB-626,Bar-antenna assembly
+SX-6,Receiver,ATB-631,ATB-631,Bar antenna assembly
+SX-7,Receiver,ATB-631,ATB-631,Bar-antenna assembly
+F-7,Tuner,ATB-634,ATB-634,Bar-antenna assembly
+SX-4,Receiver,ATB-636,ATB-636,Bar-antenna assembly
+SX-5,Receiver,ATB-636,ATB-636,Bar-antenna assembly
+SX-8,Receiver,ATB-638,ATB-638,Bar-antenna assembly
+QX-747,Receiver,ATF-016-0,ATF-016,Low pass filter
+SX-4,Receiver,ATF-125,ATF-125,Ceramic resonator
+SX-5,Receiver,ATF-125,ATF-125,Ceramic resonator
+SA-500A,Integrated Amplifier,ATH-003-O,ATH-003,Choke Coil
+SA-500A,Integrated Amplifier,ATH-003-O,ATH-003,Choke Coil
+SA-940,Integrated Amplifier,ATS-004,ATS-004,Power transformer (120V) - KU
+SA-950,Integrated Amplifier,ATS-004,ATS-004,Power transformer (120V) - KU
+SA-950,Integrated Amplifier,ATS-005,ATS-005,Power transformer (120V) - KC
+A-90,Integrated Amplifier,ATS-010,ATS-010,Power transformer (120V)
+SA-1040,Integrated Amplifier,ATS-013,ATS-013,Power transformer (120V) - KU
+SA-1050,Integrated Amplifier,ATS-013,ATS-013,Power transformer (120V) - KU
+A-60,Integrated Amplifier,ATS-014,ATS-014,Power transformer (120V) - KU
+SX-60,Receiver,ATS-016,ATS-016,Power transformer (120V)
+SX-50,Receiver,ATS-017,ATS-017,Power transformer (120V)
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HB
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HE
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (240V) - YP
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (200V/240V) - HEZ
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HE
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (240V) - YP
+F-90,Tuner,ATS-022,ATS-022,Power transformer (120V - KU)
+F-90,Tuner,ATS-023,ATS-023,Power transformer (220V - 240V - HB)
+F-90,Tuner,ATS-023,ATS-023,Power transformer (220V - 240V - HE)
+A-70,Integrated Amplifier,ATS-025,ATS-025,Power transformer
+A-60,Integrated Amplifier,ATS-027,ATS-027,Power transformer (220V/240V) - HB
+A-60,Integrated Amplifier,ATS-027,ATS-027,Power transformer (220V/240V) - HE
+A-60,Integrated Amplifier,ATS-027,ATS-027,Power transformer (220V/240V) - YP
+SA-1040,Integrated Amplifier,ATS-027,ATS-027,Power transformer (240V) - YP
+SA-1050,Integrated Amplifier,ATS-027,ATS-027,Power transformer (240V) - YP
+SA-1040,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S"
+SA-1040,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S/G"
+SA-1050,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S"
+SA-1050,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S/G"
+SA-940,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V,120V,220V,240V) - S"
+SA-940,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V,120V,220V,240V) - S/G"
+SA-950,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V, 120V, 220V, 240V) - S"
+SA-950,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V, 120V, 220V, 240V) - S/G"
+A-80,Integrated Amplifier,ATS-041,ATS-041,Power transformer (220/240V) - HE
+SG-90,Equalizer,ATS-042,ATS-042,Power transformer (KU - 120V)
+SG-90,Equalizer,ATS-047,ATS-047,"Power transformer (S,S/G - 110, 120, 220, 240V)"
+A-60,Integrated Amplifier,ATS-049,ATS-049,"Power transformer (110V, 120V, 220V, 240V) - S"
+A-80,Integrated Amplifier,ATS-053,ATS-053,Power transformer (110/120/220/240V) - S
+A-80,Integrated Amplifier,ATS-053,ATS-053,Power transformer (110/120/220/240V) - S/G
+TX-201Z,Tuner,ATS-095,ATS-095,PWR XFMR TX950
+TX-905,Tuner,ATS-095,ATS-095,PWR XFMR TX950
+TX-950,Tuner,ATS-095,ATS-095,Power transformer - KU
+TX-950,Tuner,ATS-096,ATS-096,Power transformer - HEZ/YP
+TX-950,Tuner,ATS-097,ATS-097,"Power transformer - S,S/G"
+TX-950,Tuner,ATS-097,ATS-097,Power transformer - SS
+A-88X,Integrated Amplifier,ATS-201,ATS-201,Power transformer
+A-88X,Integrated Amplifier,ATS-202,ATS-202,Power transformer
+A-77X,Integrated Amplifier,ATS-203,ATS-203,Power transformer (AC120V) - KU
+A-77X,Integrated Amplifier,ATS-203,ATS-203,Power transformer (AC120V) - KU
+A-77X,Integrated Amplifier,ATS-204,ATS-204,Power transformer (AC120V) - KU
+A-77X,Integrated Amplifier,ATS-204,ATS-204,Power transformer (Power supply assembly GWR-217)
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HB"
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HB"
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HE"
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HE"
+A-77X,Integrated Amplifier,ATS-217,ATS-217,Power transformer (AC220V) - HB
+A-77X,Integrated Amplifier,ATS-217,ATS-217,Power transformer (AC220V) - HE
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power transformer (AC110,120, 220, 240V) - S"
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power transformer (AC110,120, 220, 240V) - S/G"
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power translormer (AC110, 120, 220, 240V) - S"
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power translormer (AC110, 120, 220, 240V) - S/G"
+A-77X,Integrated Amplifier,ATS-226,ATS-226,Power transformer (AC120V only) - S
+A-77X,Integrated Amplifier,ATS-226,ATS-226,Power transformer (AC120V only) - S/G
+SA-970,Integrated Amplifier,ATS-227,ATS-227,Power transformer (AC220V/240V) - HE
+A-66X,Integrated Amplifier,ATS-252,ATS-252,"Power transformer (T1) (AC220, 240V)"
+A-66X,Integrated Amplifier,ATS-253,ATS-253,Power transformer (T2) (AC220V)
+A-858,Integrated Amplifier,ATS1198,ATS1198,Power transformer (HEZ)
+A-858,Integrated Amplifier,ATS1199,ATS1199,Power transformer (HEZ)
+SD-1000,Other,ATT-008-A,ATT-008,Power transformer
+QX-8000,Receiver,ATT-010-B,ATT-010,Power Transformer
+SA-1000,Integrated Amplifier,ATT-011-A,ATT-011,Power transformer (FVW model)
+QC-800,Pre-Amplifier,ATT-012-0,ATT-012,Power transformer
+QA-800,Integrated Amplifier,ATT-013-A,ATT-013,Power transformer
+QA-800A,Integrated Amplifier,ATT-013-A,ATT-013,Power transformer (FVW)
+SA-600,Integrated Amplifier,ATT-015-0,ATT-015,Power transformer (KUW/KCW)
+SA-600,Integrated Amplifier,ATT-016-0,ATT-016,Power transformer (FVW)
+SA-800,Integrated Amplifier,ATT-019-A,ATT-019,Power transformer (KUW/KCW)
+SA-800,Integrated Amplifier,ATT-020-A,ATT-020,Power transformer (FVW)
+TX-600,Tuner,ATT-021,ATT-021,PWR XFMR TX-600/K
+TX-800,Tuner,ATT-023,ATT-023,PWR XFMR TX-800/K
+QM-800,Amplifier,ATT-025-0,ATT-025,Power Transformer
+QL-600,Integrated Amplifier,ATT-029-0,ATT-029,Power Transformer
+TX-500A,Tuner,ATT-034,ATT-034,PWR XFMR
+SA-500A,Integrated Amplifier,ATT-036-B,ATT-036,Power Transformer (KU)
+SA-500A,Integrated Amplifier,ATT-037-A,ATT-037,Power Transformer (FV)
+SX-626 (1971),Receiver,ATT-040-A,ATT-040,"Power transformer (KUW,KCW)"
+SX-626 (1973),Receiver,ATT-040-B,ATT-040,Power transformer    KUW
+SX-626 (1971),Receiver,ATT-041-B,ATT-041,"Power transformer (FVZW,FW)"
+SX-626 (1973),Receiver,ATT-041-E,ATT-041,"Power transformer    FVZW, FW"
+SX-525,Receiver,ATT-043-C,ATT-043,"Power transformer (KUW,KCW)"
+SX-525,Receiver,ATT-044-C,ATT-044,Power transformer (FVZW)
+SX-727,Receiver,ATT-050-0,ATT-050,Power transformer (KUW)
+SX-727,Receiver,ATT-051-0,ATT-051,"Power transformer (FVZW,FW)"
+SX-828,Receiver,ATT-058-0,ATT-058,Power transformer (KUW)
+SX-828,Receiver,ATT-059,ATT-059,"Power transformer (FVZW,FW)"
+SX-525,Receiver,ATT-060-A,ATT-060,Power transformer (NBW)
+SX-626 (1971),Receiver,ATT-061-0,ATT-061,Power transformer (NBW)
+SX-626 (1973),Receiver,ATT-061-A,ATT-061,Power transformer    NBW
+SX-424,Receiver,ATT-063-0,ATT-063,Power transformer (KUW)
+SX-424,Receiver,ATT-064-0,ATT-064,Power transformer (FVZW)
+SX-626 (1973),Receiver,ATT-072-B,ATT-072,Power transformer    KCW
+QL-600A,Integrated Amplifier,ATT-079-0,ATT-079,Power transformer (KLW)
+QL-600A,Integrated Amplifier,ATT-080-0,ATT-080,Power transformer (FLW)
+QX-8000A,Receiver,ATT-082-0,ATT-082,Power transformer (KUW)
+QX-8000A,Receiver,ATT-083-0,ATT-083,"Power transformer (FW,FSAW)"
+QM-800A,Amplifier,ATT-086-0,ATT-086,Power transformer
+QC-800A,Pre-Amplifier,ATT-087-0,ATT-087,Power transformer
+QA-800A,Integrated Amplifier,ATT-091-A,ATT-091,Power transformer (KLW)
+QX-4000,Receiver,ATT-095-A,ATT-095,Power transformer KLUW model
+QX-646,Receiver,ATT-095-B,ATT-095,Power transformer (KUW model)
+QX-4000,Receiver,ATT-096-A,ATT-096,Power transformer FW model
+QX-646,Receiver,ATT-096-B,ATT-096,Power transformer (FW model)
+SD-1100,Other,ATT-097-0,ATT-097,Power transformer
+QX-9900,Receiver,ATT-098-A,ATT-098,Power transformer
+SA-7100,Integrated Amplifier,ATT-100-0,ATT-100,Power transformer for KUW model
+SA-7100,Integrated Amplifier,ATT-101-0,ATT-101,Power transformer for FVW model
+SA-8100,Integrated Amplifier,ATT-104-0,ATT-104,Power transformer for KUW model
+SA-8100,Integrated Amplifier,ATT-105-0,ATT-105,Power transformer for FVW model
+SA-9100,Integrated Amplifier,ATT-107-0,ATT-107,Power transformer for KUW model
+SA-9100,Integrated Amplifier,ATT-108-0,ATT-108,Power transformer for FVW model
+TX-7100,Tuner,ATT-110-0,ATT-110,Power transformer (KUW model)
+TX-8100,Tuner,ATT-110-0,ATT-110,Power transformer (KUW model)
+TX-7100,Tuner,ATT-111-0,ATT-111,"Power transformer (FVZW, FW model)"
+TX-8100,Tuner,ATT-111-0,ATT-111,"Power transformer (FVZW, FW model)"
+TX-9100,Tuner,ATT-113-0,ATT-113,Power transformer (KUW model)
+TX-9100,Tuner,ATT-114-0,ATT-114,"Power transformer (FVZW, FW model)"
+TX-6200,Tuner,ATT-120-0,ATT-120,Power transformer KU model
+TX-6200,Tuner,ATT-121-0,ATT-121,Power transformer F and FVZ model
+SA-5200,Integrated Amplifier,ATT-127-0,ATT-127,Power transformer (KU model)
+SA-5200,Integrated Amplifier,ATT-128-0,ATT-128,Power transformer (FV model)
+QD-240,Other,ATT-131,ATT-131,PWR XFMR QD-240/F
+TX-7100,Tuner,ATT-132-0,ATT-132,Power transformer (KCW model)
+TX-8100,Tuner,ATT-132-0,ATT-132,Power transformer (KCW model)
+TX-9100,Tuner,ATT-133-0,ATT-133,Power transformer (KCW model)
+SA-5200,Integrated Amplifier,ATT-135-0,ATT-135,Power transformer (KC model)
+QX-949,Receiver,ATT-144-A,ATT-144,Power transformer
+QX-747,Receiver,ATT-145-0,ATT-145,Power transformer
+SX-1010,Receiver,ATT-166-A,ATT-166,Power transformer (KCU)
+SX-939,Receiver,ATT-167-A,ATT-167,Power transformer (KCU)
+SX-838,Receiver,ATT-168-A,ATT-168,Power transformer (KCU)
+SX-434,Receiver,ATT-169-0,ATT-169,Power transformer (KCU)
+SX-434,Receiver,ATT-170-A,ATT-170,Power transformer (GN)
+SX-434,Receiver,ATT-171-0,ATT-171,Power transformer (FV)
+SX-838,Receiver,ATT-172-0,ATT-172,Power transformer (F)
+SX-939,Receiver,ATT-173-0,ATT-173,Power transformer (F)
+SX-1010,Receiver,ATT-174-0,ATT-174,Power transformer (F)
+SX-636,Receiver,ATT-176-0,ATT-176,Power transformer (KCU)
+SX-1010,Receiver,ATT-179-0,ATT-179,Power transformer (GN)
+SX-939,Receiver,ATT-180-A,ATT-180,Power transformer (GN)
+SX-838,Receiver,ATT-181-0,ATT-181,Power transformer (GN)
+SX-636,Receiver,ATT-184-0,ATT-184,Power transformer (FV)
+SX-636,Receiver,ATT-185-0,ATT-185,Power transformer (GN)
+SX-737,Receiver,ATT-186-0,ATT-186,Power transformer (KCU)
+SX-535,Receiver,ATT-188-0,ATT-188,Power transformer (KCU)
+SX-535,Receiver,ATT-189-A,ATT-189,Power transformer (GN)
+SX-535,Receiver,ATT-190-0,ATT-190,Power transformer (FV)
+SX-737,Receiver,ATT-191-0,ATT-191,Power transformer (GN)
+SX-737,Receiver,ATT-192-0,ATT-192,Power transformer (F)
+Exclusive M3,Amplifier,ATT-199-A,ATT-199,Power transformer
+Exclusive M3,Amplifier,ATT-199-A,ATT-199,Power transformer
+SA-9900,Integrated Amplifier,ATT-206-0,ATT-206,Power transformer (KCU)
+TX-5300,Tuner,ATT-218-0,ATT-218,Power transformer (T1)
+QX-949A,Receiver,ATT-221,ATT-221,"Power transformer (for ""KCU"" type)"
+QX-949A,Receiver,ATT-222,ATT-222,Power transformer (for “F” type)
+SA-7500,Integrated Amplifier,ATT-226-B,ATT-226,Power transformer (FV)
+SA-7500,Integrated Amplifier,ATT-227-B,ATT-227,Power transformer (GN)
+SA-7500,Integrated Amplifier,ATT-228-B,ATT-228,Power transformer (KCU)
+SA-8500,Integrated Amplifier,ATT-232-A,ATT-232,Power transformer (FV)
+SA-8500,Integrated Amplifier,ATT-233-B,ATT-233,Power transformer (GN)
+SA-8500,Integrated Amplifier,ATT-234-A,ATT-234,Power transformer (KCU)
+TX-9500,Tuner,ATT-235-A,ATT-235,Power transformer
+SA-9500,Integrated Amplifier,ATT-236-A,ATT-236,Power transformer (D)
+SA-9500,Integrated Amplifier,ATT-238-A,ATT-238,Power transformer (KCU)
+SA-9900,Integrated Amplifier,ATT-239-0,ATT-239,Power transformer (D)
+SA-9900,Integrated Amplifier,ATT-240-0,ATT-240,Power transformer (GN)
+QX-747A,Receiver,ATT-242,ATT-242,Power transformer
+SPEC-1,Pre-Amplifier,ATT-248,ATT-248,Power transformer
+SPEC-2,Amplifier,ATT-249,ATT-249,Power transformer
+RG-1,Dynamic Range Expander,ATT-253,ATT-253,Power transformer
+SX-550,Receiver,ATT-263,ATT-263,Power transformer (KU)
+SX-750,Receiver,ATT-264,ATT-264,Power transformer (KU model)
+SX-950,Receiver,ATT-265,ATT-265,Power transformer
+SX-1050,Receiver,ATT-266,ATT-266,Power transformer
+SX-1250,Receiver,ATT-267,ATT-267,Power Transformer (KCU)
+SG-9500,Equalizer,ATT-270,ATT-270,Power transformer
+SA-6500,Integrated Amplifier,ATT-285,ATT-285,Power transformer
+TX-6500,Tuner,ATT-286,ATT-286,PWR XFMR TX-6500
+TX-6500II,Tuner,ATT-286,ATT-286,Power transformer (KC)
+SX-1050,Receiver,ATT-290,ATT-290,Power transformer (S)
+SX-1250,Receiver,ATT-291,ATT-291,Power Transformer (S)
+SX-1250,Receiver,ATT-295,ATT-295,Power Transformer (HG)
+TX-6500II,Tuner,ATT-298,ATT-298,Power transformer (KU)
+SX-750,Receiver,ATT-301,ATT-301,Power transformer (KC model)
+SX-850,Receiver,ATT-302,ATT-302,Power transformer
+SX-650,Receiver,ATT-303,ATT-303,Power transformer (MODEL KU)
+SX-450,Receiver,ATT-304,ATT-304,Power transformer (KU)
+SX-550,Receiver,ATT-305,ATT-305,Power transformer (KC)
+SX-650,Receiver,ATT-315,ATT-315,Power transformer (MODEL KC)
+SX-450,Receiver,ATT-320,ATT-320,Power transformer (KC)
+SX-450,Receiver,ATT-322,ATT-322,Power Transformer (S)
+SX-550,Receiver,ATT-323,ATT-323,Power transformer (S)
+SX-550,Receiver,ATT-327,ATT-327,Power transformer (HG)
+SX-450,Receiver,ATT-333,ATT-333,Power Transformer (HG)
+SX-650,Receiver,ATT-339,ATT-339,Power transformer (MODEL S)
+SX-650,Receiver,ATT-340,ATT-340,Power transformer (MODEL HG)
+TX-8500II,Tuner,ATT-342,ATT-342,Power transformer (KU)
+TX-8500II,Tuner,ATT-343,ATT-343,Power transformer (KC)
+TX-8500II,Tuner,ATT-344,ATT-344,Power transformer (HG)
+TX-8500II,Tuner,ATT-345,ATT-345,Power transformer (S)
+TX-9500II,Tuner,ATT-347,ATT-347,Power transformer(KU/KC)
+TX-9500II,Tuner,ATT-348,ATT-348,Power transformer(HG)
+TX-9500II,Tuner,ATT-349,ATT-349,Power transformer(S)
+TX-5500II,Tuner,ATT-350,ATT-350,PWR XFMR TX-5500/2
+TX-6500II,Tuner,ATT-353,ATT-353,Power transformer (HG)
+TX-6500II,Tuner,ATT-354,ATT-354,Power transformer (S)
+SA-5500II,Integrated Amplifier,ATT-356,ATT-356,Power transformer
+SA-8500II,Integrated Amplifier,ATT-366,ATT-366,Power transformer (L-KU)
+SA-8500II,Integrated Amplifier,ATT-367,ATT-367,Power transformer (R-KU)
+SA-8500II,Integrated Amplifier,ATT-368,ATT-368,Power transformer (L-KC)
+SA-8500II,Integrated Amplifier,ATT-369,ATT-369,Power transformer (R-KC)
+SA-8500II,Integrated Amplifier,ATT-370,ATT-370,Power transformer (L-HG)
+SA-8500II,Integrated Amplifier,ATT-371,ATT-371,Power transformer (R-HG)
+SA-8500II,Integrated Amplifier,ATT-372,ATT-372,Power transformer (L-S)
+SA-8500II,Integrated Amplifier,ATT-373,ATT-373,Power transformer (R-S)
+SA-9500II,Integrated Amplifier,ATT-374,ATT-374,Power transformer (KU-L)
+SA-9500II,Integrated Amplifier,ATT-375,ATT-375,Power transformer (KU-R)
+SA-9500II,Integrated Amplifier,ATT-376,ATT-376,Power transformer (KC-L)
+SA-9500II,Integrated Amplifier,ATT-377,ATT-377,Power transformer (KC-R)
+SA-9500II,Integrated Amplifier,ATT-378,ATT-378,Power transformer (HG-L)
+SA-9500II,Integrated Amplifier,ATT-379,ATT-379,Power transformer (HG-R)
+SA-9500II,Integrated Amplifier,ATT-380,ATT-380,Power transformer (S-L)
+SA-9500II,Integrated Amplifier,ATT-381,ATT-381,Power transformer (S-R)
+SA-7500II,Integrated Amplifier,ATT-389,ATT-389,Power transformer
+C-21,Pre-Amplifier,ATT-395,ATT-395,Power transformer (for KL-type)
+M-22,Amplifier,ATT-396,ATT-396,Power transformer R ch. (KL-type)
+M-22,Amplifier,ATT-397,ATT-397,Power transformer L ch.  (KL-type)
+SA-6500II,Integrated Amplifier,ATT-398,ATT-398,Power transformer
+M-22,Amplifier,ATT-407,ATT-407,Power transformer R ch. (N-type)
+M-22,Amplifier,ATT-408,ATT-408,Power transformer L ch. (N-type)
+C-21,Pre-Amplifier,ATT-410,ATT-410,Power transformer (for S-type)
+SPEC-4,Amplifier,ATT-416,ATT-416,Power transformer (LEFT)
+SPEC-4,Amplifier,ATT-417,ATT-417,Power transformer (RIGHT)
+SX-1980,Receiver,ATT-446,ATT-446,Power Transformer (KU)
+SX-1280,Receiver,ATT-447,ATT-447,Power transformer (For KU type)
+SX-1080,Receiver,ATT-448,ATT-448,Power transformer
+SX-980,Receiver,ATT-449,ATT-449,Power transformer
+M-25,Amplifier,ATT-450,ATT-450,Power transformer
+M-25,Amplifier,ATT-451,ATT-451,Power transformer
+SX-1280,Receiver,ATT-460,ATT-460,Power transformer (For KC type)
+SX-550,Receiver,ATT-463,ATT-463,Power transformer (???)
+SX-1980,Receiver,ATT-464,ATT-464,Power Transformer (HG)
+SX-1980,Receiver,ATT-472,ATT-472,Power Transformer (S)
+SX-1980,Receiver,ATT-473,ATT-473,Power Transformer (S/G)
+SX-1280,Receiver,ATT-474,ATT-474,Power transformer (S)
+SX-1280,Receiver,ATT-475,ATT-475,Power transformer (SG)
+TX-606,Tuner,ATT-480,ATT-480,PWR XFMR TX-6700
+TX-6700,Tuner,ATT-480,ATT-480,PWR XFMR TX-6700
+SA-6700,Integrated Amplifier,ATT-483,ATT-483,Power transformer (KU)
+SA-6700,Integrated Amplifier,ATT-484,ATT-484,Power transformer (KC)
+SA-606,Integrated Amplifier,ATT-485,ATT-485,"Power transformer (S,S/G)"
+SA-606,Integrated Amplifier,ATT-486,ATT-486,Power transformer (HG)
+SA-6700,Integrated Amplifier,ATT-487,ATT-487,Power transformer
+SA-606,Integrated Amplifier,ATT-488,ATT-488,"Power transformer (S,S/G)"
+SA-606,Integrated Amplifier,ATT-489,ATT-489,Power transformer (HG)
+SA-7700,Integrated Amplifier,ATT-490,ATT-490,Power transformer (KU)
+SA-7700,Integrated Amplifier,ATT-491,ATT-491,Power transformer (KC)
+SA-706,Integrated Amplifier,ATT-492,ATT-492,"Power transformer (S,S/G)"
+SA-706,Integrated Amplifier,ATT-493,ATT-493,Power transformer (HG)
+SA-706,Integrated Amplifier,ATT-494,ATT-494,Power transformer
+SA-7700,Integrated Amplifier,ATT-494,ATT-494,Power transformer
+SA-706,Integrated Amplifier,ATT-495,ATT-495,"Power transformer (S,S/G)"
+SA-706,Integrated Amplifier,ATT-496,ATT-496,Power transformer (HG)
+SX-580/590,Receiver,ATT-510,ATT-510,Power transformer (SX-580/KU)
+SX-680/690,Receiver,ATT-511,ATT-511,Power transformer (SX-680/KU)
+SX-780,Receiver,ATT-512,ATT-512,Power transformer
+SX-880/890,Receiver,ATT-513,ATT-513,Power transformer (KU)
+SX-680/690,Receiver,ATT-516,ATT-516,Power transformer (KC type)
+SX-880/890,Receiver,ATT-518,ATT-518,Power transformer (KC)
+SX-680/690,Receiver,ATT-520,ATT-520,Power transformer (S/SG type)
+SX-880/890,Receiver,ATT-522,ATT-522,Power transformer (S)
+SX-880/890,Receiver,ATT-522,ATT-522,Power transformer (SG)
+SX-580/590,Receiver,ATT-523,ATT-523,Power transformer (SX-590/HG)
+SX-580/590,Receiver,ATT-523,ATT-523,Power transformer (SX-590/HGW4)
+SX-680/690,Receiver,ATT-524,ATT-524,Power transformer (SX-680/HG)
+SX-680/690,Receiver,ATT-524,ATT-524,Power transformer (SX-680/HGW4)
+A-27,Integrated Amplifier,ATT-528,ATT-528,Power transformer (L)
+A-27,Integrated Amplifier,ATT-528,ATT-528,Power transformer (L) - KU
+A-27,Integrated Amplifier,ATT-529,ATT-529,Power transformer (R)
+A-27,Integrated Amplifier,ATT-529,ATT-529,Power transformer (R) - KU
+F-28,Tuner,ATT-530,ATT-530,Power transformer (KU)
+F-28,Tuner,ATT-534,ATT-534,Power transformer (S/G)
+A-27,Integrated Amplifier,ATT-538,ATT-538,Power transformer (L) - S
+A-27,Integrated Amplifier,ATT-538,ATT-538,Power transformer (L) - S/G
+A-27,Integrated Amplifier,ATT-539,ATT-539,Power transformer (R) - S
+A-27,Integrated Amplifier,ATT-539,ATT-539,Power transformer (R) - S/G
+SA-3000,Integrated Amplifier,ATT-552,ATT-552,"Power transformer (HE, HB)"
+SA-3000,Integrated Amplifier,ATT-553,ATT-553,"Power transformer (HE, HB)"
+SA-9800,Integrated Amplifier,ATT-556,ATT-556,Power transformer (KU)
+SA-9800,Integrated Amplifier,ATT-556,ATT-556,Power transformer (KU)
+SA-9800,Integrated Amplifier,ATT-559,ATT-559,Power transformer (S/G)
+SA-9800,Integrated Amplifier,ATT-560,ATT-560,Power transformer (S/G)
+SA-8800,Integrated Amplifier,ATT-563,ATT-563,Power transformer (KU)
+SA-8800,Integrated Amplifier,ATT-564,ATT-564,Power transformer (KC)
+SA-8800,Integrated Amplifier,ATT-565,ATT-565,Power transformer (S/G)
+SA-7800,Integrated Amplifier,ATT-567,ATT-567,Power transformer
+TX-7800,Tuner,ATT-574,ATT-574,PWR XFMR TX-7800
+TX-7800,Tuner,ATT-575,ATT-575,Power transformer (S/SG)
+TX-7800,Tuner,ATT-576,ATT-576,Power transformer (HG)
+SA-5800/508,Integrated Amplifier,ATT-577,ATT-577,Heater transformer
+SA-9800,Integrated Amplifier,ATT-577,ATT-577,Transformer
+SA-9800,Integrated Amplifier,ATT-578,ATT-578,Power transformer (S)
+SA-9800,Integrated Amplifier,ATT-579,ATT-579,Power transformer (S)
+SA-8800,Integrated Amplifier,ATT-580,ATT-580,Power transformer (S)
+RG-2,Dynamic Range Expander,ATT-588,ATT-588,Power transformer
+RG-60,Dynamic Range Expander,ATT-589,ATT-589,"Power transformer (110V, 120V, 220V, 240V) - S,S/G"
+SG-9,Equalizer,ATT-591,ATT-591,Power transformer (120V) - KU
+SG-9800,Equalizer,ATT-591,ATT-591,Power transformer
+SG-9,Equalizer,ATT-592,ATT-592,"Power transformer (110V-120V,220V-240V) - R"
+SG-9,Equalizer,ATT-592,ATT-592,"Power transformer (110V-120V,220V-240V) - R/G"
+SR-303,Reverb,ATT-595,ATT-595,Power transformer
+SG-9,Equalizer,ATT-597,ATT-597,Power transformer (120V) - KC
+SA-3000,Integrated Amplifier,ATT-601,ATT-601,Power transformer (KU)
+SA-3000,Integrated Amplifier,ATT-602,ATT-602,Power transformer (KU)
+SA-708,Integrated Amplifier,ATT-603,ATT-603,Power transformer
+SA-6800/608,Integrated Amplifier,ATT-605,ATT-605,Power transformer
+SA-5800/508,Integrated Amplifier,ATT-609,ATT-609,Power transformer
+TX-6800/608,Tuner,ATT-612,ATT-612,Power transformer
+SA-710,Integrated Amplifier,ATT-668,ATT-668,Power transformer - KU
+SX-3900,Receiver,ATT-675,ATT-675,Power transformer (KU)
+SX-3900,Receiver,ATT-676,ATT-676,Power transformer (KU)
+SX-D7000,Receiver,ATT-676,ATT-676,Power transformer (KU)
+SX-3800,Receiver,ATT-677,ATT-677,Power transformer (KU)
+SX-3800,Receiver,ATT-678,ATT-678,Heater transformer
+SX-3900,Receiver,ATT-678,ATT-678,Heater transformer
+SX-D5000,Receiver,ATT-678,ATT-678,Heater transformer
+SX-D7000,Receiver,ATT-678,ATT-678,Heater transformer
+SX-3900,Receiver,ATT-681,ATT-681,Power transformer (S/G)
+SX-3900,Receiver,ATT-682,ATT-682,Power transformer (S/G)
+SX-3800,Receiver,ATT-683,ATT-683,"Power transformer (S/G,S)"
+SX-3400,Receiver,ATT-687,ATT-687,Power transformer (KU)
+SX-3400,Receiver,ATT-689,ATT-689,Power transformer (S)
+SX-3500,Receiver,ATT-690,ATT-690,Power transformer
+SX-3600/720,Receiver,ATT-693,ATT-693,Power transformer
+SX-3700,Receiver,ATT-696,ATT-696,Power transformer
+SX-820,Receiver,ATT-696,ATT-696,Power transformer
+SA-710,Integrated Amplifier,ATT-703,ATT-703,Power transformer - HB
+SA-710,Integrated Amplifier,ATT-703,ATT-703,Power transformer - HE
+SX-700L,Receiver,ATT-706,ATT-706,Power transformer
+SX-600L,Receiver,ATT-707,ATT-707,Power transformer
+SX-600,Receiver,ATT-714,ATT-714,Power transformer - YP
+SX-D5000,Receiver,ATT-717,ATT-717,Power transformer (120V - KU)
+SX-D7000,Receiver,ATT-718,ATT-718,Power transformer (KU)
+SX-D5000,Receiver,ATT-719,ATT-719,Transformer
+SX-D7000,Receiver,ATT-719,ATT-719,Transformer
+SX-D5000,Receiver,ATT-721,ATT-721,Power transformer (220/240V - HG)
+SX-D5000,Receiver,ATT-727,ATT-727,Transformer (HG)
+SX-600,Receiver,ATT-730,ATT-730,Power transformer - KU
+SX-700,Receiver,ATT-731,ATT-731,Power transformer
+SX-D7000,Receiver,ATT-737,ATT-737,Power transformer (KC)
+SX-D7000,Receiver,ATT-738,ATT-738,Power transformer (KC)
+A-9,Integrated Amplifier,ATT-759,ATT-759,Power transformer - KU
+A-9,Integrated Amplifier,ATT-760,ATT-760,Power transformer - KC
+A-9,Integrated Amplifier,ATT-761,ATT-761,Power transformer - S
+A-9,Integrated Amplifier,ATT-761,ATT-761,Power transformer - S/G
+A-9,Integrated Amplifier,ATT-762,ATT-762,Power transformer (220V/240V) - HE
+A-8,Integrated Amplifier,ATT-763,ATT-763,Power transformer (KU)
+A-8,Integrated Amplifier,ATT-764,ATT-764,Power transformer (KC)
+A-8,Integrated Amplifier,ATT-765-A,ATT-765,"Power transformer (S, S/G)"
+A-8,Integrated Amplifier,ATT-766-A,ATT-766,"Power transformer (HE, HB)"
+A-7,Integrated Amplifier,ATT-770,ATT-770,Power transformer  220V/240V (HE)
+A-7,Integrated Amplifier,ATT-770-A,ATT-770,Power transformer  220V/240V (HEZ)
+F-7,Tuner,ATT-774,ATT-774,"Power transformer (KU, KC)"
+F-7,Tuner,ATT-776,ATT-776,Power transformer (HG)
+SA-420,Integrated Amplifier,ATT-793,ATT-793,Power transformer (120V) - KU
+SA-420,Integrated Amplifier,ATT-794,ATT-794,Power transformer (240V) - YP
+SA-420,Integrated Amplifier,ATT-795,ATT-795,"Power transformer (110V, 120V, 220V, 240V) - S"
+A-6,Integrated Amplifier,ATT-796,ATT-796,Power transformer (120V) - KU
+A-6,Integrated Amplifier,ATT-798,ATT-798,"Power transformer (220V, 240V) - HB"
+A-6,Integrated Amplifier,ATT-798,ATT-798,"Power transformer (220V, 240V) - HE"
+SX-4,Receiver,ATT-839,ATT-839,Power transformer
+SX-5,Receiver,ATT-840,ATT-840,Power transformer
+SX-6,Receiver,ATT-841,ATT-841,Power transformer
+SX-7,Receiver,ATT-842,ATT-842,Power transformer (T2)
+SX-7,Receiver,ATT-847,ATT-847,Power transformer (T2)
+TX-130L,Tuner,ATT-881,ATT-881,Power transformer
+TX-530L,Tuner,ATT-881,ATT-881,Power transformer
+SX-8,Receiver,ATT-882,ATT-882,Power transformer (120V) KU-type
+SX-8,Receiver,ATT-883,ATT-883,Power transformer (120V) KU-type
+SX-8,Receiver,ATT-887,ATT-887,Power transformer (116/120/220/240V) S/SG-type
+SX-8,Receiver,ATT-888,ATT-888,Power transformer (110/120/220/240V) S/SG-type
+SA-930,Integrated Amplifier,ATT-889,ATT-889,Power transformer (120V) - KU
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HB"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HE"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HEZ"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - YP"
+SA-930,Integrated Amplifier,ATT-891,ATT-891,"Power transformer (110V, 120V, 220V and 240V) - S/SG"
+SA-530,Integrated Amplifier,ATT-895,ATT-895,Power transformer (120V) - KU
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HB"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HE"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HEZ"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - YP"
+SA-530,Integrated Amplifier,ATT-897,ATT-897,"Power transformer (110V,120V,220V. 240V) - S"
+TX-930,Tuner,ATT-916,ATT-916,Power transformer
+SX-202,Receiver,ATT-942,ATT-942,Power transformer (120V)
+A-80,Integrated Amplifier,ATT-987,ATT-987,MC transformer
+A-88X,Integrated Amplifier,ATT-987,ATT-987,MC Transformer
+GR-551,Equalizer,ATT1032,ATT1032,Power transformer (AC 220/240V) - HB
+GR-551,Equalizer,ATT1032,ATT1032,Power transformer (AC 220/240V) - HEZ
+GR-555,Equalizer,ATT1032,ATT1032,Power transformer (AC220V/240V) - HB
+GR-555,Equalizer,ATT1032,ATT1032,Power transformer (AC220V/240V) - HEZ
+GR-551,Equalizer,ATT1039,ATT1039,Power transformer (AC120V) - KUC
+GR-555,Equalizer,ATT1039,ATT1039,Power transformer (AC120V) - KUC
+GR-551,Equalizer,ATT1049,ATT1049,Power transformer (AC 110/120-127/220/240V) - SD
+GR-551,Equalizer,ATT1049,ATT1049,Power transformer (AC 110/120-127/220/240V) - SD/G
+GR-555,Equalizer,ATT1049,ATT1049,Power transformer (AC110V/120 -127V/220V/240V)  - SD
+GR-555,Equalizer,ATT1049,ATT1049,Power transformer (AC110V/120 -127V/220V/240V) - SD/G
+GR-777,Equalizer,ATT1067,ATT1067,Power transformer
+C-72,Pre-Amplifier,ATT1122,ATT1122,Power transformer (KU/CA)
+C-72,Pre-Amplifier,ATT1123,ATT1123,Power transformer (SD)
+C-72,Pre-Amplifier,ATT1126,ATT1126,Power transformer (KU/CA)
+C-72,Pre-Amplifier,ATT1127,ATT1127,Power transformer (SD)
+SX-8,Receiver,ATX-013,ATX-013,Balun
+SX-600L,Receiver,ATX-019,ATX-019,Bar antenna
+SX-700L,Receiver,ATX-019,ATX-019,Bar-antenna assembly
+SX-1000TA (Early),Receiver,AV0212,AV0212,Pilot Lamp
+SX-1000TA (Early),Receiver,AV7211,AV7211,Pilot Lamp for FM Stereo
+SX-1000TA (Early),Receiver,AV7305,AV7305,Fuse 2A
+SX-1500TD,Receiver,AWB-001,AWB-001,FM FRONT END (FVZW)
+SX-828,Receiver,AWB-005-0,AWB-005,FM front end (FVZW)
+SX-727,Receiver,AWB-006-0,AWB-006,FM front end (FVZW)
+SX-626 (1971),Receiver,AWB-008-0,AWB-008,"FM front end (KUW,FVZW,NBW,FW)"
+SX-626 (1971),Receiver,AWB-009-0,AWB-009,FM front end (KUC)
+TX-9100,Tuner,AWB-013-0,AWB-013,FM front end (Used with AAG-046-0)
+TX-9100,Tuner,AWB-015-0,AWB-015,FM front end (Used with AAG-050-0)
+SX-1010,Receiver,AWB-017-0,AWB-017,FM front end
+SX-1250,Receiver,AWB-023,AWB-023,FM Front End
+TX-9500,Tuner,AWB-023-0,AWB-023,Front end
+TX-9500II,Tuner,AWB-023,AWB-023,FM front end
+TX-8500II,Tuner,AWB-028,AWB-028,FM front end
+SX-1980,Receiver,AWB-030,AWB-030,FM front end
+F-28,Tuner,AWB-036,AWB-036,FM front end (KU type)
+F-28,Tuner,AWB-036,AWB-036,FM front end (S/G type)
+SX-202,Receiver,AWB-044,AWB-044,FM Front-end
+TX-9100,Tuner,AWD-002-0,AWD-002,"MPX, AF amplifier assembly"
+TX-9100,Tuner,AWD-002-0,AWD-002,"MPX, AF amplifier assembly"
+TX-9500,Tuner,AWD-007-0,AWD-007,MPX assembly
+TX-9500II,Tuner,AWD-008,AWD-008,MPX AF assembly (HG)
+TX-9500II,Tuner,AWD-009,AWD-009,MPX AF assembly
+TX-9500II,Tuner,AWD-009,AWD-009,MPX AF assembly (KU/KC)
+TX-9500II,Tuner,AWD-010,AWD-010,MPX AF assembly (S)
+F-28,Tuner,AWD-014,AWD-014,MPX AF assembly (KU type)
+F-28,Tuner,AWD-015,AWD-015,MPX AF assembly (S/G type)
+QX-4000,Receiver,AWE-003-D,AWE-003,Tuner unit
+QX-646,Receiver,AWE-003-E,AWE-003,Tuner assembly
+QX-8000,Receiver,AWE-003-C,AWE-003,Tuner Unit
+QX-8000A,Receiver,AWE-003-0,AWE-003,Tuner unit
+SX-525,Receiver,AWE-003-0,AWE-003,Tuner unit
+SX-440,Receiver,AWE-004,AWE-004,Tuner Unit (FVZW)
+SX-424,Receiver,AWE-008-0,AWE-008,Tuner unit
+SX-626 (1971),Receiver,AWE-011-A,AWE-011,FM /AM Unit
+QX-9900,Receiver,AWE-015-B,AWE-015,FM/AM unit
+SX-727,Receiver,AWE-015-A,AWE-015,FM/AM unit
+SX-828,Receiver,AWE-016-A,AWE-016,Tuner unit
+TX-8100,Tuner,AWE-023-0,AWE-023,Tuner assembly
+TX-7100,Tuner,AWE-024-0,AWE-024,Tuner assembly
+TX-6200,Tuner,AWE-025-0,AWE-025,Tuner assembly
+TX-9100,Tuner,AWE-026-0,AWE-026,AM/FM IF amplifier assembly
+TX-9100,Tuner,AWE-026-0,AWE-026,AM/FM IF amplifier assembly
+QX-949,Receiver,AWE-027-0,AWE-027,Tuner assembly
+QX-747,Receiver,AWE-028-0,AWE-028,Tuner assembly
+SX-626 (1973),Receiver,AWE-031-0,AWE-031,Tuner assembly
+SX-434,Receiver,AWE-037-0,AWE-037,Tuner assembly
+SX-1010,Receiver,AWE-040-0,AWE-040,Tuner assembly
+QX-949A,Receiver,AWE-041,AWE-041,Tuner assembly
+SX-838,Receiver,AWE-041-A,AWE-041,Tuner assembly
+SX-939,Receiver,AWE-041-0,AWE-041,Tuner assembly
+SX-737,Receiver,AWE-043-0,AWE-043,Tuner assembly
+SX-535,Receiver,AWE-046-0,AWE-046,Tuner assembly
+SX-636,Receiver,AWE-046-0,AWE-046,Tuner assembly
+TX-5300,Tuner,AWE-048-0,AWE-048,Tuner assembly
+TX-9500,Tuner,AWE-055-A,AWE-055,AM-FM IF assembly
+QX-747A,Receiver,AWE-056,AWE-056,Tuner assembly
+TX-6500II,Tuner,AWE-062,AWE-062,"Tuner assembly (KU,KC)"
+SX-950,Receiver,AWE-066,AWE-066,Tuner assembly
+SX-1050,Receiver,AWE-067,AWE-067,Tuner assembly
+SX-1250,Receiver,AWE-068,AWE-068,TUNER ASSEMBLY
+TX-8500II,Tuner,AWE-069,AWE-069,Tuner assembly (HG)
+TX-9500II,Tuner,AWE-070,AWE-070,AM FM IF assembly
+SX-850,Receiver,AWE-071,AWE-071,Tuner assembly
+SX-550,Receiver,AWE-072,AWE-072,RF assembly
+SX-750,Receiver,AWE-073,AWE-073,"Tuner, AF & control assembly"
+SX-450,Receiver,AWE-074,AWE-074,RF assembly
+SX-650,Receiver,AWE-075,AWE-075,Tuner and AF assembly e/w TA7136P IC in the phono EQ
+SX-650,Receiver,AWE-075-A,AWE-075,Tuner and AF assembly e/w AWK-165 EQ amplifier
+TX-8500II,Tuner,AWE-084,AWE-084,"Tuner assembly (KU,KC)"
+TX-8500II,Tuner,AWE-085,AWE-085,Tuner assembly (S)
+TX-6500II,Tuner,AWE-087,AWE-087,Tuner assembly (HG)
+TX-6500II,Tuner,AWE-088,AWE-088,Tuner assembly (S)
+SX-1080,Receiver,AWE-092,AWE-092,Tuner assembly
+SX-1280,Receiver,AWE-092,AWE-092,Tuner assembly
+SX-1980,Receiver,AWE-093,AWE-093,Tuner assembly
+SX-980,Receiver,AWE-094,AWE-094,Tuner assembly
+F-28,Tuner,AWE-097,AWE-097,IF assembly (KU type)
+F-28,Tuner,AWE-097,AWE-097,IF assembly (S/G type)
+SX-780,Receiver,AWE-099,AWE-099,Tuner assembly
+SX-880/890,Receiver,AWE-099,AWE-099,Tuner assembly
+SX-7,Receiver,AWE-114,AWE-114,Tuner assembly
+QC-800,Pre-Amplifier,AWF-002-0,AWF-002,Head amp unit
+QC-800A,Pre-Amplifier,AWF-002-0,AWF-002,Head amp unit
+QX-4000,Receiver,AWF-003-0,AWF-003,Head amp unit
+QX-8000,Receiver,AWF-003-0,AWF-003,Head Amp Unit
+QX-8000A,Receiver,AWF-003-0,AWF-003,Head amp unit
+SX-525,Receiver,AWF-003-0,AWF-003,Head amp unit
+SA-7100,Integrated Amplifier,AWF-005-0,AWF-005,Equalizer amp unit
+SA-8100,Integrated Amplifier,AWF-006-0,AWF-006,Equalizer amp unit
+SA-9100,Integrated Amplifier,AWF-007-0,AWF-007,Equalizer amp ass'y
+SA-5200,Integrated Amplifier,AWF-008-0,AWF-008,Equalizer amplifier assembly
+QX-747,Receiver,AWF-010-0,AWF-010,Equalizer amplifier assembly
+QX-949,Receiver,AWF-010-0,AWF-010,Equalizer amplifier assembly
+SX-737,Receiver,AWF-011-0,AWF-011,Equalizer amplifier assembly
+SX-838,Receiver,AWF-011-0,AWF-011,Equalizer amplifier assembly
+SX-850,Receiver,AWF-011,AWF-011,Equalizer amplifier assembly
+SX-950,Receiver,AWF-011,AWF-011,Equalizer amplifier assembly
+SX-1010,Receiver,AWF-013-0,AWF-013,Equalizer ampliﬁer assembly
+SX-939,Receiver,AWF-013-0,AWF-013,Equalizer amplifier assembly
+SX-535,Receiver,AWF-014-0,AWF-014,Equalizer amplifier assembly
+SX-636,Receiver,AWF-014-0,AWF-014,Equalizer amplifier assembly
+SA-7500,Integrated Amplifier,AWF-015-B,AWF-015,Equalizer amplifier assembly
+SA-8500,Integrated Amplifier,AWF-016-A,AWF-016,Equalizer amplifier assembly
+SPEC-1,Pre-Amplifier,AWF-017,AWF-017,Input circuit assembly
+SX-1050,Receiver,AWF-020,AWF-020,Equalizer amplifier assembly
+SX-1250,Receiver,AWF-021,AWF-021,EQUALIZER AMPLIFIER ASSEMBLY
+SA-8500II,Integrated Amplifier,AWF-023,AWF-023,Equalizer amplifier assembly
+SA-9500II,Integrated Amplifier,AWF-024,AWF-024,Equalizer amplifier assembly
+C-21,Pre-Amplifier,AWF-025,AWF-025,Input Assembly
+SX-1980,Receiver,AWF-030,AWF-030,EQ ampliﬁer assembly
+SX-1280,Receiver,AWF-031,AWF-031,EQ amplifier assembly
+A-27,Integrated Amplifier,AWF-034,AWF-034,Head amplifier assembly
+SX-D7000,Receiver,AWF-046,AWF-046,EQUALIZER Ass'y
+SX-D5000,Receiver,AWF-047,AWF-047,Equalizer assembly
+A-7,Integrated Amplifier,AWF-048,AWF-048,EQ assembly (HE)
+A-8,Integrated Amplifier,AWF-049,AWF-049,Equalizer assembly
+A-9,Integrated Amplifier,AWF-052,AWF-052,EQ ampliﬁer assembly
+A-7,Integrated Amplifier,AWF-054,AWF-054,EQ assembly (HEZ)
+A-90,Integrated Amplifier,AWF-058,AWF-058,MC arm. assembly
+SA-1040,Integrated Amplifier,AWF-059,AWF-059,Equalizer amp ass'y
+SA-1050,Integrated Amplifier,AWF-059,AWF-059,Equalizer amp ass'y
+A-60,Integrated Amplifier,AWF-060,AWF-060,Equalizer amp. ass’y
+A-66X,Integrated Amplifier,AWF-073,AWF-073,Equalizer assembly (HEZ)
+A-66X,Integrated Amplifier,AWF-076,AWF-076,Equalizer assembly (HB)
+A-66X,Integrated Amplifier,AWF-076,AWF-076,Equalizer assembly (HE)
+QA-800,Integrated Amplifier,AWG-001-0,AWG-001,Control amp unit
+QA-800A,Integrated Amplifier,AWG-001-0,AWG-001,Control amp unit
+QC-800,Pre-Amplifier,AWG-002-0,AWG-002,Control amp unit
+QC-800A,Pre-Amplifier,AWG-002-0,AWG-002,Control amp unit
+QX-8000,Receiver,AWG-003-0,AWG-003,Control Amp Unit
+QX-8000A,Receiver,AWG-003-A,AWG-003,Control amp unit
+SX-6000,Receiver,AWG-006-0,AWG-006,Control Unit
+SX-626 (1971),Receiver,AWG-008-0,AWG-008,Control amp unit
+SX-626 (1973),Receiver,AWG-008-A,AWG-008,Control amplifier assembly
+QL-600,Integrated Amplifier,AWG-009-0,AWG-009,Control Amp Unit
+QL-600A,Integrated Amplifier,AWG-009-0,AWG-009,Control amp unit
+SA-500A,Integrated Amplifier,AWG-010-O,AWG-010,Control Amp Unit
+SX-525,Receiver,AWG-011-0,AWG-011,Control amp unit
+QX-9900,Receiver,AWG-013-0,AWG-013,Control amp unit
+QX-9900,Receiver,AWG-013-0,AWG-013,Control amp unit
+QX-9900,Receiver,AWG-014-0,AWG-014,Tone control unit
+QX-4000,Receiver,AWG-015-0,AWG-015,Control amp unit
+QX-646,Receiver,AWG-015-0,AWG-015,Control amplifier assembly
+SA-7100,Integrated Amplifier,AWG-016-0,AWG-016,Control amp unit
+SA-8100,Integrated Amplifier,AWG-017-0,AWG-017,Control amp unit
+SA-9100,Integrated Amplifier,AWG-018-A,AWG-018,Control amp ass‘v
+SA-5200,Integrated Amplifier,AWG-021-0,AWG-021,Control amplifier assembly
+QX-949,Receiver,AWG-023-0,AWG-023,Control amplifier assembly
+QX-949A,Receiver,AWG-023,AWG-023,Control amplifier assembly
+QX-747,Receiver,AWG-024-0,AWG-024,Control amplifier assembly
+QX-747,Receiver,AWG-024-0,AWG-024,Control amplifier assembly
+QX-747A,Receiver,AWG-024,AWG-024,"Control amplifier assembly (for CH1, CH3)"
+QX-747A,Receiver,AWG-024,AWG-024,"Control amplifier assembly (for CH2, CH4)"
+SX-1010,Receiver,AWG-027-0,AWG-027,Control ampliﬁer assembly
+SX-939,Receiver,AWG-027-0,AWG-027,Control amplifier assembly
+SX-838,Receiver,AWG-029-0,AWG-029,Control amplifier assembly
+SX-737,Receiver,AWG-030-0,AWG-030,Control amplifier assembly
+SA-9900,Integrated Amplifier,AWG-031-0,AWG-031,Control amplifier assembly
+SA-9500,Integrated Amplifier,AWG-032-0,AWG-032,Control amplifier assembly
+SA-7500,Integrated Amplifier,AWG-033-0,AWG-033,Control amplifier assembly
+SA-8500,Integrated Amplifier,AWG-034-A,AWG-034,Control amplifier assembly
+SPEC-1,Pre-Amplifier,AWG-035,AWG-035,Tone amplifier assembly
+SG-9500,Equalizer,AWG-036,AWG-036,Graphic EQ assembly
+SX-850,Receiver,AWG-038,AWG-038,Flat amplifier assembly
+SX-950,Receiver,AWG-038,AWG-038,Flat amplifier assembly
+SX-850,Receiver,AWG-039,AWG-039,Tone amplifier assembly
+SX-950,Receiver,AWG-039,AWG-039,Tone amplifier assembly
+SX-1050,Receiver,AWG-040,AWG-040,Flat amplifier assembly
+SX-1050,Receiver,AWG-041,AWG-041,Control amplifier assembly
+SX-1250,Receiver,AWG-041,AWG-041,CONTROL AMPLIFIER ASSEMBLY
+SX-1250,Receiver,AWG-042,AWG-042,FLAT AMPLIFIER ASSEMBLY
+SA-8500II,Integrated Amplifier,AWG-044,AWG-044,Control amplifier assembly
+SA-9500II,Integrated Amplifier,AWG-045,AWG-045,Control amplifier assembly
+SX-750,Receiver,AWG-046,AWG-046,Tone control assembly
+SA-7500II,Integrated Amplifier,AWG-047,AWG-047,Control amplifier assembly
+SX-650,Receiver,AWG-049,AWG-049,Tone control assembly
+SX-1080,Receiver,AWG-056,AWG-056,Tone control assembly
+SX-980,Receiver,AWG-056,AWG-056,Tone control assembly
+SX-1980,Receiver,AWG-058,AWG-058,Flat amplifier assembly
+SX-1280,Receiver,AWG-059,AWG-059,Tone amplifier assembly
+SX-1980,Receiver,AWG-059,AWG-059,Tone control assembly
+SX-1280,Receiver,AWG-060,AWG-060,Flat amplifier assembly
+SA-930,Integrated Amplifier,AWG-080,AWG-080,Control assembly
+SA-530,Integrated Amplifier,AWG-084,AWG-084,Control assembly
+A-90,Integrated Amplifier,AWG-088,AWG-088,Tone control ssernbly
+SA-1040,Integrated Amplifier,AWG-090,AWG-090,Control ass’y
+SA-1050,Integrated Amplifier,AWG-090,AWG-090,Control ass’y
+SA-940,Integrated Amplifier,AWG-091,AWG-091,Control ass‘y
+SA-950,Integrated Amplifier,AWG-091,AWG-091,Control ass‘y
+SA-970,Integrated Amplifier,AWG1002,AWG1002,Control assembly
+SX-626 (1971),Receiver,AWH -013-0,AWH -013,Main amp unit (NBW)
+SA-7100,Integrated Amplifier,AWH -021-0,AWH -021,Power amp unit
+QA-800,Integrated Amplifier,AWH-002-B,AWH-002,Main amp unit
+QA-800A,Integrated Amplifier,AWH-002-0,AWH-002,Main amp unit
+SX-626 (1971),Receiver,AWH-002-C,AWH-002,"Main amp unit (KUW,KCW,FVZW,FW)"
+SX-626 (1973),Receiver,AWH-002-E,AWH-002,"Power amplifier assembly    KUW, KCW, FVZW, FW"
+QL-600,Integrated Amplifier,AWH-005-A,AWH-005,Main Amp Unit
+QL-600A,Integrated Amplifier,AWH-005-A,AWH-005,Main amp unit
+SA-500A,Integrated Amplifier,AWH-005-A,AWH-005,Main Amp Unit
+SX-525,Receiver,AWH-006-A,AWH-006,"Main amp unit (KUW,KCW,FVZW)"
+SX-828,Receiver,AWH-010-0,AWH-010,Main amp unit
+SX-727,Receiver,AWH-011-0,AWH-011,Power amp unit
+SX-525,Receiver,AWH-012-0,AWH-012,Main amp unit (NBW)
+SX-626 (1973),Receiver,AWH-013-B,AWH-013,Power amplifier assembly    NBW
+QM-800A,Amplifier,AWH-015-A,AWH-015,Power amp unit
+QX-9900,Receiver,AWH-015-B,AWH-015,Main amp unit
+QX-9900,Receiver,AWH-015-B,AWH-015,Main amp unit
+QX-4000,Receiver,AWH-019-C,AWH-019,Main amp unit
+QX-4000,Receiver,AWH-019-C,AWH-019,Main amp unit
+QX-646,Receiver,AWH-019-F,AWH-019,Power amplifier assembly
+SA-5200,Integrated Amplifier,AWH-019-E,AWH-019,Power amplifier assembly
+SA-8100,Integrated Amplifier,AWH-022-A,AWH-022,Power amp unit
+SA-9100,Integrated Amplifier,AWH-023-B,AWH-023,Power amp ass'v
+SA-9100,Integrated Amplifier,AWH-023-B,AWH-023,Power amp ass’y
+QX-949,Receiver,AWH-027-0,AWH-027,Power amplifier assembly
+QX-949,Receiver,AWH-027-0,AWH-027,Power amplifier assembly
+QX-949A,Receiver,AWH-027,AWH-027,"Power amplifier assembly (for CH1, CH4)"
+QX-949A,Receiver,AWH-027,AWH-027,"Power amplifier assembly (for CH2, CH3)"
+QX-747,Receiver,AWH-028-0,AWH-028,Power amplifier assembly
+QX-747A,Receiver,AWH-028,AWH-028,Power amplifier assembly
+Exclusive M3,Amplifier,AWH-029-0,AWH-029,Power amplifier assembly
+Exclusive M3,Amplifier,AWH-029-0,AWH-029,Power amplifier assembly
+SX-939,Receiver,AWH-030-0,AWH-030,Power amplifier assembly
+SX-838,Receiver,AWH-031-A,AWH-031,Power ampliﬁer assembly
+SX-1010,Receiver,AWH-032-0,AWH-032,Power amplifier assembly
+SX-737,Receiver,AWH-033-0,AWH-033,Power amplifier assembly
+SX-636,Receiver,AWH-034-0,AWH-034,Power amplifier assembly
+SX-535,Receiver,AWH-035-0,AWH-035,Power amplifier assembly
+SA-9900,Integrated Amplifier,AWH-037-A,AWH-037,Power Amplifier Assembly
+SA-7500,Integrated Amplifier,AWH-040-0,AWH-040,Power amplifier assembly
+SA-9500,Integrated Amplifier,AWH-041-0,AWH-041,Power amplifier assembly
+SA-8500,Integrated Amplifier,AWH-042-0,AWH-042,Power amplifier assembly
+SPEC-2,Amplifier,AWH-045,AWH-045,Power amplifier assembly (LEFT CHANNEL)
+SPEC-2,Amplifier,AWH-045,AWH-045,Power amplifier assembly (RIGHT CHANNEL)
+SX-750,Receiver,AWH-046,AWH-046,Power amplifier assembly
+SX-1050,Receiver,AWH-047,AWH-047,Power amplifier assembly
+SX-1250,Receiver,AWH-048,AWH-048,POWER AMPLIFIER ASSEMBLY
+SX-950,Receiver,AWH-050,AWH-050,Power amplifier assembly
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-KC
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-KU
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-S
+SA-9500II,Integrated Amplifier,AWH-052,AWH-052,Power amplifier assembly
+SA-9500II,Integrated Amplifier,AWH-052,AWH-052,Power amplifier assembly (KU/KC/S)
+SX-850,Receiver,AWH-059,AWH-059,Power amplifier assembly
+SA-8500II,Integrated Amplifier,AWH-061,AWH-061,Power amplifier assembly-HG
+SA-9500II,Integrated Amplifier,AWH-062,AWH-062,Power amplifier assembly (HG)
+SPEC-4,Amplifier,AWH-065,AWH-065,Power amplifier assembly
+SX-1080,Receiver,AWH-071,AWH-071,Power amplifier assembly
+SX-980,Receiver,AWH-073,AWH-073,Power amplifier assembly
+SX-1280,Receiver,AWH-074,AWH-074,Power amplifier assembly
+A-27,Integrated Amplifier,AWH-079,AWH-079,Power amplifier assembly
+SX-3900,Receiver,AWH-097,AWH-097,Power ampifier assembly
+SX-D7000,Receiver,AWH-097,AWH-097,Power amplifier assembly (KU)
+SX-D7000,Receiver,AWH-099,AWH-099,Power amplifier assembly (KC)
+A-7,Integrated Amplifier,AWH-104,AWH-104,Power amplifier assembly (HE)
+A-8,Integrated Amplifier,AWH-108,AWH-108,Power amp assembly (KU)
+A-8,Integrated Amplifier,AWH-108,AWH-108,"Power amp assembly (S, S/G)"
+A-8,Integrated Amplifier,AWH-110,AWH-110,Power amp assembly (KC)
+A-8,Integrated Amplifier,AWH-112,AWH-112,"Power amp assembly (HE, HB)"
+SX-8,Receiver,AWH-113,AWH-113,Power amplifier assembly
+A-7,Integrated Amplifier,AWH-117,AWH-117,Power amplifier assembly (HEZ)
+A-90,Integrated Amplifier,AWH-121,AWH-121,Power amp. assembly
+A-80,Integrated Amplifier,AWH-124,AWH-124,Power amp. assembly
+QC-800,Pre-Amplifier,AWK-001-A,AWK-001,Headphone amp unit
+SX-727,Receiver,AWK-010-A,AWK-010,AF unit
+SX-828,Receiver,AWK-012-0,AWK-012,AF unit
+SX-424,Receiver,AWK-014-A,AWK-014,AF unit
+QC-800A,Pre-Amplifier,AWK-016-0,AWK-016,Headphone amp unit
+TX-7100,Tuner,AWK-019-A,AWK-019,AF amplifier assembly
+TX-8100,Tuner,AWK-019-A,AWK-019,AF amplifier assembly
+SA-8100,Integrated Amplifier,AWK-020-0,AWK-020,Filter amp unit
+SA-9100,Integrated Amplifier,AWK-021-0,AWK-021,Filter amp ass'y
+TX-6200,Tuner,AWK-023-C,AWK-023,AF amplifier assembly
+QX-646,Receiver,AWK-025-0,AWK-025,AF amplifier assembly
+SX-434,Receiver,AWK-034-0,AWK-034,AF amplifier assembly
+SX-636,Receiver,AWK-035-0,AWK-035,AF amplifier assembly
+SA-9900,Integrated Amplifier,AWK-038-C,AWK-038,Input circuit assembly
+SA-9500,Integrated Amplifier,AWK-039-C,AWK-039,Input circuit assembly
+TX-9500,Tuner,AWK-040-0,AWK-040,AF oscillator assembly
+SA-6500,Integrated Amplifier,AWK-052,AWK-052,AF Amplifier Assembly
+SA-6500,Integrated Amplifier,AWK-052,AWK-052,AF assembly assembly
+SX-550,Receiver,AWK-054,AWK-054,AF Amplifier Assembly (KU)
+C-21,Pre-Amplifier,AWK-055,AWK-055,Flat amplifier assembly
+SX-550,Receiver,AWK-056,AWK-056,AF assembly (KC)
+M-22,Amplifier,AWK-057,AWK-057,AF POWER ASSEMBLY (L)
+M-22,Amplifier,AWK-058,AWK-058,AF POWER ASSEMBLY (R)
+SX-550,Receiver,AWK-059,AWK-059,AF Amplifier Assembly (S)
+SX-450,Receiver,AWK-060,AWK-060,AF assembly (KU)
+SX-550,Receiver,AWK-061,AWK-061,AF Amplifier Assembly (HG)
+SX-450,Receiver,AWK-064,AWK-064,AF assembly (KC)
+SX-650,Receiver,AWK-065,AWK-065,Equalizer Amplifier Assembly (used only with AWE-075-A)
+SX-750,Receiver,AWK-065,AWK-065,Amplifier Assembly
+SX-450,Receiver,AWK-067,AWK-067,AF assembly (S)
+SX-450,Receiver,AWK-069,AWK-069,AF assembly (HG)
+SA-7500II,Integrated Amplifier,AWK-079,AWK-079,AF amplifier assembly
+SA-6500II,Integrated Amplifier,AWK-083,AWK-083,AF assembly
+M-25,Amplifier,AWK-087,AWK-087,AF power assembly
+M-25,Amplifier,AWK-088,AWK-088,AF power assembly
+SA-530,Integrated Amplifier,AWK-199,AWK-199,"AF assembly - KU,S,YP,HE,HB"
+SA-930,Integrated Amplifier,AWK-200,AWK-200,AF assembly (HEZ)
+SA-930,Integrated Amplifier,AWK-201,AWK-201,"AF assembly (KU, S, S/G, YP, HE, HB)"
+SA-530,Integrated Amplifier,AWK-202,AWK-202,AF assembly - HEZ
+C-72,Pre-Amplifier,AWK1301,AWK1301,AF assembly
+QX-4000,Receiver,AWM -033-0,AWM -033,Muting unit
+QX-646,Receiver,AWM -045-0,AWM -045,Equalizer and matrix circuit assembly
+QA-800,Integrated Amplifier,AWM-001-A,AWM-001,Q unit
+QC-800,Pre-Amplifier,AWM-001-A,AWM-001,Q unit
+QL-600,Integrated Amplifier,AWM-001-A,AWM-001,Q Unit
+QX-8000,Receiver,AWM-001 -A,AWM-001 ,Q Unit
+QM-800,Amplifier,AWM-003-0,AWM-003,Protection unit
+SX-2500,Receiver,AWM-004,AWM-004,Protector Unit
+QL-600,Integrated Amplifier,AWM-009-0,AWM-009,Output Unit
+QM-800,Amplifier,AWM-011-0,AWM-011,Protection unit
+SX-727,Receiver,AWM-011-0,AWM-011,Protector unit
+QL-600,Integrated Amplifier,AWM-012-A,AWM-012,Meter Amp Unit
+QL-600A,Integrated Amplifier,AWM-020-0,AWM-020,Meter amp unit
+SA-9100,Integrated Amplifier,AWM-025-A,AWM-025,Protection circuit ass'y
+SX-737,Receiver,AWM-025-C,AWM-025,Protection circuit assembly
+SX-828,Receiver,AWM-025,AWM-025,Protector unit (later)
+SX-838,Receiver,AWM-025-C,AWM-025,Protection circuit assembly
+QL-600A,Integrated Amplifier,AWM-026-0,AWM-026,Input-output unit
+SA-7100,Integrated Amplifier,AWM-027-A,AWM-027,Protection unit
+SA-8100,Integrated Amplifier,AWM-027-A,AWM-027,Protection unit
+SX-727,Receiver,AWM-027,AWM-027,Protector Unit (Later)
+QM-800A,Amplifier,AWM-028-0,AWM-028,Protection unit
+QX-9900,Receiver,AWM-028-0,AWM-028,Protection unit
+QM-800A,Amplifier,AWM-029-0,AWM-029,Protection unit
+QX-9900,Receiver,AWM-029-0,AWM-029,Protection unit
+QA-800A,Integrated Amplifier,AWM-031-0,AWM-031,Decoder unit
+QC-800A,Pre-Amplifier,AWM-031-0,AWM-031,Decoder unit
+QL-600A,Integrated Amplifier,AWM-031-0,AWM-031,Decoder unit
+QX-4000,Receiver,AWM-031-0,AWM-031,Decoder unit
+QX-646,Receiver,AWM-031-A,AWM-031,Decoder circuit assembly
+QX-747,Receiver,AWM-031-0,AWM-031,Decoder circuit assembly
+QX-8000A,Receiver,AWM-031-0,AWM-031,Decoder unit
+QX-949,Receiver,AWM-031-0,AWM-031,Decoder circuit assembly
+QX-9900,Receiver,AWM-031-0,AWM-031,Decoder unit
+QA-800A,Integrated Amplifier,AWM-032-A,AWM-032,Logic unit
+QC-800A,Pre-Amplifier,AWM-032-A,AWM-032,Logic unit
+QL-600A,Integrated Amplifier,AWM-032-0,AWM-032,Logic unit
+QX-8000A,Receiver,AWM-032-0,AWM-032,Logic unit
+QX-9900,Receiver,AWM-032-A,AWM-032,Logic unit
+SD-1100,Other,AWM-034-0,AWM-034,Complex unit
+QX-9900,Receiver,AWM-036-0,AWM-036,Reverb amp unit
+QX-9900,Receiver,AWM-037-A,AWM-037,Reverb unit
+TX-9100,Tuner,AWM-038-0,AWM-038,"Volume, headphone amplifier assembly"
+SX-1010,Receiver,AWM-039-A,AWM-039,Muting circuit assembly
+TX-8100,Tuner,AWM-039-0,AWM-039,Muting circuit assembly
+TX-8100,Tuner,AWM-041-B,AWM-041,Headphone amplifier assembly
+TX-9100,Tuner,AWM-044-0,AWM-044,Muting circuit assembly
+QX-646,Receiver,AWM-045-0,AWM-045,Equalizer and matrix circuit assembly
+QX-646,Receiver,AWM-046-0,AWM-046,Muting circuit assembly
+QX-747,Receiver,AWM-048-0,AWM-048,Matrix circuit assembly
+QX-949,Receiver,AWM-048-0,AWM-048,Matrix circuit assembly
+QX-747,Receiver,AWM-049-A,AWM-049,Protection circuit assembly
+QX-949,Receiver,AWM-049-A,AWM-049,Protection circuit assembly
+SX-626 (1973),Receiver,AWM-050-0,AWM-050,CR & meter drive assembly
+Exclusive M3,Amplifier,AWM-057-A,AWM-057,Buffer amplifier assembly
+Exclusive M3,Amplifier,AWM-059-A,AWM-059,Mater amplifier assembly
+SX-1010,Receiver,AWM-062-0,AWM-062,Protection circuit assembly
+SX-850,Receiver,AWM-062,AWM-062,Protection circuit assembly
+SX-939,Receiver,AWM-062-0,AWM-062,Protection circuit assembly
+SX-950,Receiver,AWM-062,AWM-062,Protection circuit assembly
+SX-939,Receiver,AWM-063-0,AWM-063,Muting circuit assembly
+SX-838,Receiver,AWM-064-0,AWM-064,Microphone amplifier assembly
+SX-737,Receiver,AWM-066-0,AWM-066,Microphone amplifier assembly
+SX-535,Receiver,AWM-068-0,AWM-068,SW & control assembly
+SA-9900,Integrated Amplifier,AWM-071-0,AWM-071,Protection circuit assembly
+SA-7500,Integrated Amplifier,AWM-072-C,AWM-072,"Switch circuit assembly (KCU, FV)"
+Exclusive M3,Amplifier,AWM-073-0,AWM-073,Protection circuit assembly
+SA-9500,Integrated Amplifier,AWM-074-0,AWM-074,Protection circuit assembly
+QX-747A,Receiver,AWM-076,AWM-076,CD-4 assembly
+QX-949A,Receiver,AWM-076,AWM-076,CD-4 assembly
+QX-747A,Receiver,AWM-077,AWM-077,SQ/RM decoder assembly
+QX-949A,Receiver,AWM-077,AWM-077,SQ/RM decoder assembly
+SA-7500,Integrated Amplifier,AWM-078-B,AWM-078,Switch circuit assembly (GN)
+QX-747A,Receiver,AWM-079,AWM-079,Protection circuit assembly
+QX-949A,Receiver,AWM-079,AWM-079,Protection circuit assembly
+SPEC-2,Amplifier,AWM-081,AWM-081,Meter amplifier assembly
+SPEC-1,Pre-Amplifier,AWM-082,AWM-082,Filter amplifier assembly
+SPEC-1,Pre-Amplifier,AWM-083,AWM-083,Mixing amplifier assembiy
+RG-1,Dynamic Range Expander,AWM-086,AWM-086,Processor assembly
+SX-1050,Receiver,AWM-089,AWM-089,Filter amplifier assembly
+SX-1250,Receiver,AWM-089,AWM-089,FILTER AMPLIFIER ASSEMBLY
+SX-1050,Receiver,AWM-090,AWM-090,Protection Assembly
+SX-1250,Receiver,AWM-091,AWM-091,PROTECTION CIRCUIT ASSEMBLY
+SX-750,Receiver,AWM-094,AWM-094,Filter & muting assembly
+SX-550,Receiver,AWM-101,AWM-101,AF MUTING assembly
+SPEC-4,Amplifier,AWM-113,AWM-113,Meter amplifier assembiy
+SX-1280,Receiver,AWM-119,AWM-119,Filter amplifier assembly
+SX-1980,Receiver,AWM-119,AWM-119,Filter assembly
+SX-1080,Receiver,AWM-120,AWM-120,Protection and surge killer assembly
+SX-1280,Receiver,AWM-121,AWM-121,Meter amplifier assembly
+SX-1980,Receiver,AWM-122,AWM-122,Meter amplifier assembly
+SX-1980,Receiver,AWM-122,AWM-122,Meter amplifier assembly (KU/S/SG)
+SX-1280,Receiver,AWM-123,AWM-123,Protection circuit assembly
+SX-980,Receiver,AWM-124,AWM-124,Protection assembly
+SX-1980,Receiver,AWM-126,AWM-126,Meter amplifier assembly (HG)
+SA-3000,Integrated Amplifier,AWM-162,AWM-162,"Protection Control Assembly (HE, HB)"
+SA-9800,Integrated Amplifier,AWM-163,AWM-163,Protection assembly
+SA-3000,Integrated Amplifier,AWM-179,AWM-179,Protection assembly (KU)
+SX-3900,Receiver,AWM-226,AWM-226,Equalizer assembly
+SX-3800,Receiver,AWM-227,AWM-227,Equalizer assembly
+SX-4,Receiver,AWM-351,AWM-351,"Complex assembly (Nos.111,114,117 and 118)"
+TX-930,Tuner,AWM-433,AWM-433,"Complex assembly (composed of Control assembly, Switch assembly, Battery assembly, De-emphasis switch assembly and AM CH. step switch assembly)"
+TX-930,Tuner,AWM-439,AWM-439,Tuner assembly
+A-80,Integrated Amplifier,AWP-014,AWP-014,Output assembly
+SA-9500,Integrated Amplifier,AWR -089-0,AWR -089,Power supply circuit assembly-1 (GN)
+SA-9800,Integrated Amplifier,AWR -191,AWR -191,Power supply assembly
+QM-800,Amplifier,AWR-001-0,AWR-001,Power supply unit
+QM-800A,Amplifier,AWR-001-0,AWR-001,Power supply unit
+QA-800,Integrated Amplifier,AWR-002-0,AWR-002,Power supply unit
+QC-800,Pre-Amplifier,AWR-003-0,AWR-003,Power supply unit
+QX-8000,Receiver,AWR-004-0,AWR-004,Power Supply Unit
+QX-8000A,Receiver,AWR-004-A,AWR-004,Power supply unit
+SX-626 (1971),Receiver,AWR-006-A,AWR-006,"Power supply unit (KUW,KCW,FVZW,FW)"
+SX-525,Receiver,AWR-007-0,AWR-007,"Power supply unit (KUW,KUC,FVZW)"
+SX-828,Receiver,AWR-010-0,AWR-010,Power supply unit
+SX-727,Receiver,AWR-011-0,AWR-011,Power supply unit
+SX-626 (1971),Receiver,AWR-012-A,AWR-012,Power supply unit (NBW)
+SX-525,Receiver,AWR-013-0,AWR-013,Power supply unit (NBW)
+QL-600A,Integrated Amplifier,AWR-016-0,AWR-016,Power supply unit
+QA-800A,Integrated Amplifier,AWR-018-0,AWR-018,Power supply unit
+QC-800A,Pre-Amplifier,AWR-019-0,AWR-019,Power supply unit
+QX-4000,Receiver,AWR-021-0,AWR-021,Power supply unit
+SD-1100,Other,AWR-022-0,AWR-022,Power supply unit
+SD-1100,Other,AWR-023-0,AWR-023,Power supply Unit
+QX-9900,Receiver,AWR-024-B,AWR-024,Power supply unit
+SA-7100,Integrated Amplifier,AWR-026-A,AWR-026,Power supply unit
+TX-7100,Tuner,AWR-027-0,AWR-027,Power supply circuit assembly
+TX-9100,Tuner,AWR-028-0,AWR-028,Power supply circuit assembly
+SX-626 (1973),Receiver,AWR-029-A,AWR-029,Power supply circuit assembly
+SA-8100,Integrated Amplifier,AWR-030-0,AWR-030,Power supply unit
+SA-9100,Integrated Amplifier,AWR-031-0,AWR-031,Power supply circuit-A ass'y
+SA-9100,Integrated Amplifier,AWR-032-0,AWR-032,Power supply circuit-B ass’y
+TX-8100,Tuner,AWR-033-0,AWR-033,Power supply circuit assembly
+SA-5200,Integrated Amplifier,AWR-034-B,AWR-034,Power supply circuit assembly
+QX-646,Receiver,AWR-035-0,AWR-035,Power supply circuit assembly
+QX-949,Receiver,AWR-038-0,AWR-038,Power supply circuit-A assembly
+QX-949,Receiver,AWR-039-0,AWR-039,Power supply circuit-B assembly
+QX-949A,Receiver,AWR-039,AWR-039,Power supply circuit B assembly
+QX-747,Receiver,AWR-040-0,AWR-040,Power supply circuit assembly
+SX-434,Receiver,AWR-049-0,AWR-049,Power supply circuit assembly (FV)
+Exclusive M3,Amplifier,AWR-050-B,AWR-050,Power supply circuit assembly
+SX-939,Receiver,AWR-052-0,AWR-052,"Power supply circuit assembly (KSC,F)"
+SX-1010,Receiver,AWR-053-0,AWR-053,Power supply circuit assembly (KCU. F)
+SX-1010,Receiver,AWR-054-A,AWR-054,Power supply circuit assembly
+SX-838,Receiver,AWR-055-A,AWR-055,"Power supply circuit assembly (KCU,F)"
+SX-939,Receiver,AWR-056-0,AWR-056,Power supply circuit assembly (GN)
+SX-737,Receiver,AWR-057-0,AWR-057,"Power supply circuit assembly (KCU,F)"
+SX-737,Receiver,AWR-058-0,AWR-058,Power supply circuit assembly (GN)
+SX-434,Receiver,AWR-059-0,AWR-059,Power supply circuit assembly (GN)
+SX-636,Receiver,AWR-060-0,AWR-060,"Power supply circuit assembly (KCU,FV)"
+SX-636,Receiver,AWR-061-0,AWR-061,Power supply circuit assembly (GN)
+SX-434,Receiver,AWR-062-0,AWR-062,"Power supply circuit assembly (KCU,FV)"
+SX-1010,Receiver,AWR-063-0,AWR-063,Power supply circuit assembly (GN)
+SX-838,Receiver,AWR-064-0,AWR-064,Power supply circuit assembly (GN)
+SX-535,Receiver,AWR-065-0,AWR-065,"Power supply circuit assembly (KCU,FV)"
+SX-535,Receiver,AWR-065-0,AWR-065,"Power supply circuit assembly (KCU,FV)"
+SX-535,Receiver,AWR-067-0,AWR-067,Power supply circuit assembly (GN)
+SA-9900,Integrated Amplifier,AWR-069-A,AWR-069,Power supply circuit assembly (KCU)
+SA-9900,Integrated Amplifier,AWR-069-B,AWR-069,Power supply circuit assembly-1 (D)
+SA-9900,Integrated Amplifier,AWR-070-A,AWR-070,Power supply circuit assembly-2 (KCU)
+SA-9900,Integrated Amplifier,AWR-070-B,AWR-070,Power supply circuit assembly-2 (D)
+SA-9500,Integrated Amplifier,AWR-074-A,AWR-074,Power supply circuit assembly-1  (KCU/D)
+SA-9500,Integrated Amplifier,AWR-075-A,AWR-075,Power supply circuit assembly-2 (KCU/D)
+TX-9500,Tuner,AWR-076-0,AWR-076,Power supply circuit assembly
+SA-9900,Integrated Amplifier,AWR-077-0,AWR-077,Power supply circuit assembly-3
+TX-5300,Tuner,AWR-079-0,AWR-079,Power supply circuit assembly
+QX-949A,Receiver,AWR-080,AWR-080,Power supply circuit A assembly
+QX-747A,Receiver,AWR-086,AWR-086,Power supply circuit assembly
+SA-9900,Integrated Amplifier,AWR-087-0,AWR-087,Power supply circuit assembly-1 (GN)
+SA-9900,Integrated Amplifier,AWR-088-0,AWR-088,Power supply circuit assembly-2 (GN)
+SA-9500,Integrated Amplifier,AWR-090-0,AWR-090,Power supply circuit assembly-2 (GN)
+SPEC-2,Amplifier,AWR-093,AWR-093,Power supply circuit assembly

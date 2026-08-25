@@ -1,0 +1,1004 @@
+model,category,part_number,normalized_part_number,description
+RT-707,Reel To Reel Tape,RSG-048,RSG-048,SWITCH(PAUSE/REPEAT)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (BIAS)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (EQUALIZATION)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (MONITOR)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (POWER)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (SPEED)
+RT-707,Reel To Reel Tape,RSG-050,RSG-050,SWITCH ASSY(FF/REW/PLAY/REC)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (EQ)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (POWER)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (RECORD LEFT)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (RECORD RIGHT)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (SPEED)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch(BIAS)
+CT-F1000,Cassette Tape,RSG-053,RSG-053,Push switch
+CT-F700,Cassette Tape,RSG-057,RSG-057,Push switch (MEMORY)
+CT-F500/505,Cassette Tape,RSG-062,RSG-062,"Push switch (TAPE SELECTOR,DOLBY NR)"
+CT-F1050,Cassette Tape,RSG-063,RSG-063,"Function switch (MEMORY,SET,A/B,UP,DOWN,CHECK,RUN/SKIP)"
+RT-909,Reel To Reel Tape,RSG-063,RSG-063,Function switch (RESET)
+CT-F900,Cassette Tape,RSG-064,RSG-064,Push switch A (MONITOR)
+CT-F950,Cassette Tape,RSG-064,RSG-064,Push switch A (MONITOR)
+CT-F900,Cassette Tape,RSG-065,RSG-065,Push switch C (TAPE)
+CT-F950,Cassette Tape,RSG-066,RSG-066,Switch E
+CT-F950,Cassette Tape,RSG-067,RSG-067,Switch F
+CT-F900,Cassette Tape,RSG-068,RSG-068,"Push switch B (DOLBY NR, INPUT)"
+CT-F900,Cassette Tape,RSG-068,RSG-068,"Push switch C (DOLBY.NR, INPUT)"
+CT-F950,Cassette Tape,RSG-068,RSG-068,"Push switch B (INPUT SELECTOR, DOLBY)"
+CT-F850,Cassette Tape,RSG-071,RSG-071,"Function switch (REW, FF, STOP, PLAY, REC, PAUSE)"
+CT-F600/605,Cassette Tape,RSG-074,RSG-074,"Push switch ass'y (DOLBY,TAPE STD,FeCr,CrO2)"
+CT-F850,Cassette Tape,RSG-078,RSG-078,"Push switch  (MONITOR, METER SELECT, DOLBY)"
+CT-F1250,Cassette Tape,RSG-083,RSG-083,Switch
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (BIAS)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (EQ)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (MONITOR)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (REC MODE - L)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (REC MODE - R)
+RT-909,Reel To Reel Tape,RSG-087,RSG-087,Meter switch (AVG/PEAK)
+RT-909,Reel To Reel Tape,RSG-087,RSG-087,Meter switch (DIMMER)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (FF)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (FWD)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (PAUSE)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (REC)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (REV)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (REW)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (STOP)
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,AUTO REPEAT
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,REEL
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,TAPE SPEED
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,TIMER START
+CT-F750,Cassette Tape,RSG-090,RSG-090,Push switch assembly
+CT-F1050,Cassette Tape,RSG-099,RSG-099,"Push switch (REC MUTE,REC,PAUSE,PLAY,STOP,REW,FF)"
+CT-F1050,Cassette Tape,RSG-106,RSG-106,"Push switch A (TIMER-REC/PLAY/STOP,MEMORY STOP,RESET)"
+CT-F1050,Cassette Tape,RSG-107,RSG-107,"Push switch B (DOLBY,METAL,NORM,CrO2)"
+CT-F1050,Cassette Tape,RSG-108,RSG-108,Push switch
+QT-6600,Reel To Reel Tape,RSH-002,RSH-002,SWITCH(REC/PLAYBACK/PB POS)
+QT-74,Reel To Reel Tape,RSH-002-0,RSH-002,Slide switch (REC/PB)
+PL-15D,Turntable,RSH-003-A,RSH-003,Line voltage switch
+QT-6600,Reel To Reel Tape,RSH-003,RSH-003,SWITCH(MODE/4 CHNL. POS)
+QT-74,Reel To Reel Tape,RSH-003-0,RSH-003,Rotary switch (MODE)
+QT-6600,Reel To Reel Tape,RSH-004,RSH-004,SWITCH(REC/PLAYBACK/REC POS)
+QT-74,Reel To Reel Tape,RSH-004-0,RSH-004,Slide switch (REC/PB)
+QT-74,Reel To Reel Tape,RSH-006-0,RSH-006,Slide switch (TAPE SELECTOR)
+CT-F6161,Cassette Tape,RSH-008-B,RSH-008,Slide switch (REC/P.B Selector)
+CT-F6161,Cassette Tape,RSH-009-A,RSH-009,Slide Switch (Muting)
+CT-F7171,Cassette Tape,RSH-009-A,RSH-009,Slide Switch (Muting)
+CT-F6262,Cassette Tape,RSH-011,RSH-011,Slide switch (REC/PB)
+CT-F7272,Cassette Tape,RSH-011,RSH-011,Slide switch
+RT-1011L,Reel To Reel Tape,RSH-013-0,RSH-013,Frequency change switch (FV model)
+RT-1011L,Reel To Reel Tape,RSH-013-0,RSH-013,Frequency switch
+CT-F6262,Cassette Tape,RSH-021,RSH-021,Slide switch (INPUT SELECTOR)
+CT-F7272,Cassette Tape,RSH-021,RSH-021,Switch (INPUT SELECTOR)
+CT-F8282,Cassette Tape,RSH-021,RSH-021,Switch (INPUT SELECTOR)
+CT-F700,Cassette Tape,RSH-027,RSH-027,Slide switch
+CT-F700,Cassette Tape,RSH-030,RSH-030,Slide switch M
+CT-F500/505,Cassette Tape,RSH-037,RSH-037,Slide switch (REC/PLAYBACK SELECTOR)
+CT-F600/605,Cassette Tape,RSH-038,RSH-038,Slide switch
+CT-F750,Cassette Tape,RSH-043,RSH-043,Slide switch (REC PLAYBACK SEL - L)
+CT-F750,Cassette Tape,RSH-048,RSH-048,"Slide switch (FWD REV SEL, REC PLAYBACK SEL - R)"
+CT-F1050,Cassette Tape,RSH-058,RSH-058,Slide switch
+QT-74,Reel To Reel Tape,RSK-001-0,RSK-001,Lever switch (Muting)
+T-3500,Cassette Tape,RSK-007,RSK-007,SWITCH(MUTING)
+QT-6600,Reel To Reel Tape,RSK-008,RSK-008,SWITCH(MUTING/PLAY POS)
+QT-6100,Reel To Reel Tape,RSK-011-0,RSK-011,Muting switch ass’y
+CT-F6161,Cassette Tape,RSK-019-A,RSK-019,Leaf switch (PAUSE)
+CT-F700,Cassette Tape,RSK-019,RSK-019,Leaf switch
+CT-F7171,Cassette Tape,RSK-019-A,RSK-019,Leaf switch (PAUSE)
+CT-F7171,Cassette Tape,RSK-019-A,RSK-019,Leaf switch (REW)
+RT-1020L,Reel To Reel Tape,RSK-021-B,RSK-021,Lever switch (PAUSE)
+CT-F7171,Cassette Tape,RSK-024-0,RSK-024,Lever switch (MEMORY and LIGHT)
+CT-F9191,Cassette Tape,RSK-026,RSK-026,Lever switch (PAUSE)
+RT-1011L,Reel To Reel Tape,RSK-026-0,RSK-026,Lever switch
+RT-1011L,Reel To Reel Tape,RSK-026-0,RSK-026,Lever switch (PAUSE)
+CT-F6262,Cassette Tape,RSK-031,RSK-031,Lever switch (DOLBY NR)
+CT-F7272,Cassette Tape,RSK-031,RSK-031,Lever switch
+CT-F6262,Cassette Tape,RSK-032,RSK-032,Lever switch (TAPE SELECTOR)
+CT-F7272,Cassette Tape,RSK-032,RSK-032,Lever switch
+CT-F7272,Cassette Tape,RSK-032,RSK-032,Lever switch
+CT-F8282,Cassette Tape,RSK-033,RSK-033,Lever switch (PAUSE)
+CT-F1000,Cassette Tape,RSK-038,RSK-038,"Lever switch A (REC-LIMITER, BlAS)"
+CT-F1000,Cassette Tape,RSK-039,RSK-039,Lever switch B (EQ)
+CT-F1000,Cassette Tape,RSK-040,RSK-040,Lever switch C (DOLBY REC CAL TEST)
+CT-F1000,Cassette Tape,RSK-041,RSK-041,"Lever switch D (DOLBY, MPX FIL)"
+CT-F1000,Cassette Tape,RSK-042,RSK-042,Lever switch E (PAUSE)
+CT-F1000,Cassette Tape,RSK-043,RSK-043,Lever switch F (MONITOR)
+CT-F750,Cassette Tape,RSK-055,RSK-055,Lever switch (REC MUTE)
+CT-F750,Cassette Tape,RSK-056,RSK-056,Lever switch (DOLBY NR)
+RT-1020L,Reel To Reel Tape,RSL-004-0,RSL-004,Frequency switch
+RT-1020L,Reel To Reel Tape,RSL-004-0,RSL-004,Snap switch (frequency change switch)
+CT-F6161,Cassette Tape,RSN-002-0,RSN-002,Leaf switch (Play)
+CT-F7171,Cassette Tape,RSN-002-0,RSN-002,Leaf switch (Play)
+CT-F600/605,Cassette Tape,RSN-006,RSN-006,Switch
+CT-F6262,Cassette Tape,RSN-006,RSN-006,Spring switch (Muting)
+CT-F6262,Cassette Tape,RSN-006,RSN-006,Spring switch (Pause)
+CT-F700,Cassette Tape,RSN-006,RSN-006,Leaf switch D
+CT-F7272,Cassette Tape,RSN-006,RSN-006,MUTING Switch
+CT-F7272,Cassette Tape,RSN-006,RSN-006,PAUSE Switch
+CT-F500/505,Cassette Tape,RSN-010,RSN-010,Motor
+CT-F6262,Cassette Tape,RSN-010,RSN-010,Lever switch (Cr02 DET.)
+CT-F700,Cassette Tape,RSN-010,RSN-010,Lever switch
+CT-F7272,Cassette Tape,RSN-010,RSN-010,CHROME TAPE DETECTOR
+CT-F6262,Cassette Tape,RSN-011,RSN-011,Spring switch (Motor)
+CT-F7272,Cassette Tape,RSN-011,RSN-011,PLAY Switch
+CT-F500/505,Cassette Tape,RSN-013,RSN-013,"FF, REW Muting"
+CT-F500/505,Cassette Tape,RSN-014,RSN-014,Chrome tape detector
+CT-F700,Cassette Tape,RSN-016,RSN-016,Leaf switch (REC)
+CT-F600/605,Cassette Tape,RSN-018,RSN-018,Switch
+CT-F7272,Cassette Tape,RSN-019,RSN-019,REW Switch
+CT-F500/505,Cassette Tape,RSN-021,RSN-021,Play
+CT-F600/605,Cassette Tape,RSN-024,RSN-024,Chrome switch
+CT-F600/605,Cassette Tape,RSN-025,RSN-025,Switch
+CT-F750,Cassette Tape,RSN-025,RSN-025,Leaf switch
+CT-F750,Cassette Tape,RSN-027,RSN-027,Lever switch
+CT-F600/605,Cassette Tape,RSN-027 (RSN-010),RSN-027 (RSN-010),Lever switch
+CT-F750,Cassette Tape,RSN-028,RSN-028,Switch S002
+QT-74,Reel To Reel Tape,RSR-013-0,RSR-013,Relay (12V)
+RT-909,Reel To Reel Tape,RSR-024,RSR-024,Relay
+RT-707,Reel To Reel Tape,RSR-025,RSR-025,RELAY SWITCH
+CT-F750,Cassette Tape,RSR-031,RSR-031,Relay
+CT-F1050,Cassette Tape,RSR-035,RSR-035,Relay
+T-3500,Cassette Tape,RSX-002,RSX-002,SWITCH(REED)
+CT-F6161,Cassette Tape,RSX-034-A,RSX-034,Sensing switch assembly
+CT-F7171,Cassette Tape,RSX-034-0,RSX-034,Sensing switch assembly
+CT-F9191,Cassette Tape,RSX-035,RSX-035,Sensing switch assembly
+CT-F8282,Cassette Tape,RSX-040,RSX-040,Sensing switch assembly
+CT-F6262,Cassette Tape,RSX-041,RSX-041,Hall tape running detector
+CT-F7272,Cassette Tape,RSX-041,RSX-041,Switch assembly
+CT-F700,Cassette Tape,RSX-044,RSX-044,Sensing switch assembly
+CT-F1050,Cassette Tape,RSX-050,RSX-050,Plunger slide-switch
+SX-626 (1971),Receiver,RT3B  151K,RT3B  151K,Wire wound  150  3W
+SX-626 (1971),Receiver,RT3B  151K,RT3B  151K,Wire wound  150  3W
+SX-626 (1971),Receiver,RT5B  100K,RT5B  100K,Wire wound  10  5W
+SX-525,Receiver,RT5B 100K,RT5B 100K,Wire wound 10  5W
+SX-828,Receiver,RT5B 151 K,RT5B 151 K,Wire wound  150 5W
+SX-828,Receiver,RT5B 151 K,RT5B 151 K,Wire wound  150 5W
+SX-727,Receiver,RT5B 151K,RT5B 151K,Wire wound  150  5W
+SX-828,Receiver,RT5B 151K,RT5B 151K,Wire wound  150 5W
+SPEC-1,Pre-Amplifier,RTEB 151K,RTEB 151K,Wire wound 150 5W
+SX-626 (1971),Receiver,RTSB  100K,RTSB  100K,Wire wound  10  5W
+SPEC-1,Pre-Amplifier,RTSB 151K,RTSB 151K,Wire wound 150 5W
+SX-727,Receiver,RTSB 151K,RTSB 151K,Wire wound  150  5W
+QT-2100,8-Track Tape,RTT-005,RTT-005,PWR XFMR QT-2100
+QT-6100,Reel To Reel Tape,RTT-007-0,RTT-007,Power transformer
+QT-6600,Reel To Reel Tape,RTT-007-A,RTT-007,Power transformer
+QT-74,Reel To Reel Tape,RTT-007-A,RTT-007,Power transformer
+RT-1020L,Reel To Reel Tape,RTT-039-A,RTT-039,Power transformer
+RT-1011L,Reel To Reel Tape,RTT-048-A,RTT-048,Power transformer
+RT-1011L,Reel To Reel Tape,RTT-048-A,RTT-048,Power transformer (FV model)
+CT-F7171,Cassette Tape,RTT-055-B,RTT-055,Power transformer  (KCU model)
+CT-F7171,Cassette Tape,RTT-056-A,RTT-056,Power transformer (FV model)
+RT-1011L,Reel To Reel Tape,RTT-057-A,RTT-057,Power transformer (KU model)
+CT-F6161,Cassette Tape,RTT-059-B,RTT-059,Power transformer  (KCU model)
+CT-F6161,Cassette Tape,RTT-060-0,RTT-060,Power transformer  (FV model)
+CT-F9191,Cassette Tape,RTT-069-0,RTT-069,Power transformer (KCU model)
+CT-F9191,Cassette Tape,RTT-070-0,RTT-070,Power transformer (FV model)
+CT-F6262,Cassette Tape,RTT-097,RTT-097,Power transformer
+CT-F7272,Cassette Tape,RTT-097,RTT-097,Power transformer
+CT-F8282,Cassette Tape,RTT-101,RTT-101,Power transformer
+RT-701,Reel To Reel Tape,RTT-115,RTT-115,Power transformer
+RT-707,Reel To Reel Tape,RTT-115,RTT-115,Power transformer (KCU)
+RT-707,Reel To Reel Tape,RTT-116,RTT-116,Power transformer (KCU - Improved)
+CT-F1000,Cassette Tape,RTT-117,RTT-117,Power transformer
+RT-707,Reel To Reel Tape,RTT-118,RTT-118,Power transformer (D model)
+RT-707,Reel To Reel Tape,RTT-123,RTT-123,Power transformer (HG model)
+CT-F700,Cassette Tape,RTT-131,RTT-131,Power transformer (KU type)
+CT-F700,Cassette Tape,RTT-132,RTT-132,Power transformer
+CT-F700,Cassette Tape,RTT-132,RTT-132,Power transformer (D type)
+CT-F700,Cassette Tape,RTT-132,RTT-132,Power transformer (D/G type)
+CT-F700,Cassette Tape,RTT-133,RTT-133,Power transformer (HG type)
+CT-F700,Cassette Tape,RTT-138,RTT-138,Power transformer (KC type)
+CT-F900,Cassette Tape,RTT-140,RTT-140,Power transformer
+CT-F500/505,Cassette Tape,RTT-142,RTT-142,Power transformer (KU)
+CT-F600/605,Cassette Tape,RTT-161,RTT-161,Power transformer - CT-F605/KU Model
+CT-F600/605,Cassette Tape,RTT-162,RTT-162,Power transformer  (CT-F600/KC)
+RT-701,Reel To Reel Tape,RTT-166,RTT-166,Power transformer (Improved)
+CT-F850,Cassette Tape,RTT-174,RTT-174,Power transformer
+CT-F950,Cassette Tape,RTT-175,RTT-175,Power transformer (CT-F950/KU)
+CT-F1250,Cassette Tape,RTT-176,RTT-176,"Power transformer (KU, KC)"
+CT-F750,Cassette Tape,RTT-177,RTT-177,Power transformer (KU)
+RT-909,Reel To Reel Tape,RTT-178,RTT-178,Power transformer (KU)
+CT-F950,Cassette Tape,RTT-185,RTT-185,Power transformer (CT-F950/KC)
+CT-F1250,Cassette Tape,RTT-188,RTT-188,"Power transformer (HB, HE)"
+CT-F1250,Cassette Tape,RTT-195,RTT-195,"Power transformer (D, DG)"
+CT-F750,Cassette Tape,RTT-198,RTT-198,Power transformer (KC)
+RT-909,Reel To Reel Tape,RTT-199,RTT-199,Power transformer (D/G)
+CT-F1050,Cassette Tape,RTT-224,RTT-224,"Power transformer (120V, 220V and 240V)"
+QT-6600,Reel To Reel Tape,RWA-002-B,RWA-002,OSC. unit
+QT-74,Reel To Reel Tape,RWA-002-B,RWA-002,Oscillator assembly
+QT-6100,Reel To Reel Tape,RWA-004-0,RWA-004,OSC unit
+RT-1020L,Reel To Reel Tape,RWA-008-A,RWA-008,OSC assembly
+RT-1011L,Reel To Reel Tape,RWA-021-0,RWA-021,OSC assembly
+CT-F1000,Cassette Tape,RWA-028,RWA-028,Test tone assembly
+QT-6600,Reel To Reel Tape,RWF-003-B,RWF-003,AMP. unit (A)
+QT-74,Reel To Reel Tape,RWF-003-B,RWF-003,Amplifier-A assembly
+QT-6600,Reel To Reel Tape,RWF-004-B,RWF-004,AMP. unit (B)
+QT-74,Reel To Reel Tape,RWF-004-B,RWF-004,Amplifier-B assembly
+QT-6100,Reel To Reel Tape,RWF-005-A,RWF-005,Amp unit (A)
+QT-6100,Reel To Reel Tape,RWF-006-0,RWF-006,Amp unit (B)
+RT-1020L,Reel To Reel Tape,RWF-014-0,RWF-014,P. B. amplifier assembly
+RT-1020L,Reel To Reel Tape,RWF-015-0,RWF-015,REC ampiifier assembly
+CT-F7171,Cassette Tape,RWF-025-A,RWF-025,REC/P.B. amplifier assembly
+RT-1011L,Reel To Reel Tape,RWF-028-0,RWF-028,P.B. amplifier assembly
+RT-1011L,Reel To Reel Tape,RWF-029-0,RWF-029,REC amplifier assembly
+CT-F6161,Cassette Tape,RWF-038-B,RWF-038,REC/P.B. amplifier assembly
+CT-F9191,Cassette Tape,RWF-041,RWF-041,REC/PB ampliﬁer assembly
+CT-F8282,Cassette Tape,RWF-055,RWF-055,REC/PB amplifier assembly
+CT-F7272,Cassette Tape,RWF-056,RWF-056,REC/PB amplifier assembly
+CT-F6262,Cassette Tape,RWF-061,RWF-061,REC/PB amplifier assembly
+RT-701,Reel To Reel Tape,RWF-064,RWF-064,Playback amplifier assembly
+RT-701,Reel To Reel Tape,RWF-065,RWF-065,MIC amplifier assembly
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,Mic amplifier assembly
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,"MlC amplifier assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,MlC amplifier assembly (HG)
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,MlC amplifier assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,MlC amplifier assembly (KCU)
+RT-707,Reel To Reel Tape,RWF-069,RWF-069,Playback amplifier assembly (KCU)
+RT-707,Reel To Reel Tape,RWF-078,RWF-078,"Playback amplifier assembly (D,D/G)"
+CT-F1000,Cassette Tape,RWF-079,RWF-079,Playback equalizer assembly
+RT-707,Reel To Reel Tape,RWF-080,RWF-080,Playback amplifier assembly (HG)
+RT-707,Reel To Reel Tape,RWF-080,RWF-080,Playback amplifier assembly (Improved Model - KCU)
+RT-701,Reel To Reel Tape,RWF-081,RWF-081,Playback ampliﬁer assembly
+CT-F700,Cassette Tape,RWF-082,RWF-082,Amplifier assembly (HG type)
+CT-F700,Cassette Tape,RWF-084,RWF-084,Amplifier assembly (D type)
+CT-F700,Cassette Tape,RWF-084,RWF-084,Amplifier assembly (D/G type)
+CT-F700,Cassette Tape,RWF-085,RWF-085,Amplifier assembly (KC type)
+CT-F700,Cassette Tape,RWF-085,RWF-085,Amplifier assembly (KU type)
+RT-909,Reel To Reel Tape,RWF-088,RWF-088,Preamplifier assembly
+CT-F700,Cassette Tape,RWF-191,RWF-191,Dolby assembly (D/G type)
+RT-1020L,Reel To Reel Tape,RWG-040-0,RWG-040,Control assembly
+RT-1011L,Reel To Reel Tape,RWG-046-0,RWG-046,Control assembly (FV model)
+RT-1011L,Reel To Reel Tape,RWG-047-0,RWG-047,Control assembly (KU model)
+CT-F9191,Cassette Tape,RWG-048,RWG-048,Control assembly
+CT-F6262,Cassette Tape,RWG-057,RWG-057,Control assembly
+CT-F7272,Cassette Tape,RWG-062,RWG-062,Control assembly
+CT-F8282,Cassette Tape,RWG-063,RWG-063,Control assembly
+RT-701,Reel To Reel Tape,RWG-068,RWG-068,Servo amplifier assembly
+RT-707,Reel To Reel Tape,RWG-069,RWG-069,"Servo amplifier assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWG-069,RWG-069,Servo amplifier assembly (HG)
+RT-701,Reel To Reel Tape,RWG-070,RWG-070,Control assembly
+RT-707,Reel To Reel Tape,RWG-070,RWG-070,"Control assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWG-070,RWG-070,Control assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWG-070,RWG-070,Control assembly (KCU)
+RT-707,Reel To Reel Tape,RWG-076,RWG-076,Servo amplifier assembly (Improved Mode - KCU)
+RT-707,Reel To Reel Tape,RWG-076,RWG-076,Servo amplifier assembly (KCU)
+CT-F1000,Cassette Tape,RWG-080,RWG-080,Control assembly
+RT-707,Reel To Reel Tape,RWG-082,RWG-082,Control assembly (HG)
+CT-F700,Cassette Tape,RWG-085,RWG-085,Control assembly
+CT-F900,Cassette Tape,RWG-093,RWG-093,Control assembly
+CT-F1250,Cassette Tape,RWG-100,RWG-100,Control unit
+CT-F950,Cassette Tape,RWG-103,RWG-103,Control assembly
+CT-F1250,Cassette Tape,RWG-104,RWG-104,Control unit
+RT-909,Reel To Reel Tape,RWG-105,RWG-105,Control B assembly
+QT-6600,Reel To Reel Tape,RWR-008-A,RWR-008,Power supply unit
+QT-6100,Reel To Reel Tape,RWR-008 A,RWR-008 A,Power supply unit
+QT-74,Reel To Reel Tape,RWR-020-A,RWR-020,Power supply circuit assembly
+CT-F7171,Cassette Tape,RWR-023-A,RWR-023,Sensing circuit assembly  with in power supply
+CT-F6161,Cassette Tape,RWR-025-0,RWR-025,Sensing circuit assembly  (with in power supply)
+CT-F9191,Cassette Tape,RWR-026,RWR-026,Power supply assembly
+CT-F7272,Cassette Tape,RWR-035,RWR-035,Power supply assembly
+CT-F8282,Cassette Tape,RWR-043,RWR-043,Power supply assembly
+CT-F6262,Cassette Tape,RWR-045,RWR-045,Power supply assembly
+RT-707,Reel To Reel Tape,RWR-050,RWR-050,"Power and oscillation assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWR-053,RWR-053,Power and oscillation assembly (KCU)
+RT-701,Reel To Reel Tape,RWR-054,RWR-054,Power and oscillation assembly
+CT-F1000,Cassette Tape,RWR-055,RWR-055,Power supply assembly
+RT-707,Reel To Reel Tape,RWR-056,RWR-056,Power and oscillation assembly (HG)
+RT-707,Reel To Reel Tape,RWR-058,RWR-058,Power and oscillation assembly (Improved Model - KCU)
+RT-701,Reel To Reel Tape,RWR-059,RWR-059,Power and oscillation assembly (Improved)
+CT-F700,Cassette Tape,RWR-061,RWR-061,Power and oscillation assembly (D type)
+CT-F700,Cassette Tape,RWR-061,RWR-061,Power and oscillation assembly (D/G type)
+CT-F700,Cassette Tape,RWR-063,RWR-063,Power and oscillation assembly (KU type)
+CT-F700,Cassette Tape,RWR-066,RWR-066,Power and oscillation assembly (HG type)
+CT-F700,Cassette Tape,RWR-066,RWR-066,Power and oscillation assembly (KC type)
+CT-F900,Cassette Tape,RWR-067,RWR-067,Power supply assembly
+CT-F950,Cassette Tape,RWR-067,RWR-067,Power supply assembly
+CT-F1250,Cassette Tape,RWR-074,RWR-074,Power supply unit
+CT-F750,Cassette Tape,RWR-075,RWR-075,Power supply unit
+CT-F850,Cassette Tape,RWR-076,RWR-076,Power supply & control assembly
+CT-F7171,Cassette Tape,RWS-010-A,RWS-010,Slide switch assembly (Muting)
+RT-1020L,Reel To Reel Tape,RWS-011-A,RWS-011,SW circuit assembly
+RT-1020L,Reel To Reel Tape,RWS-013-A,RWS-013,EQ switch circuit assembly
+CT-F7171,Cassette Tape,RWS-022-A,RWS-022,Switch assembly
+CT-F6161,Cassette Tape,RWS-023-A,RWS-023,Switch assembly
+RT-1011L,Reel To Reel Tape,RWS-024-0,RWS-024,SW circuit assembly
+RT-1011L,Reel To Reel Tape,RWS-026-A,RWS-026,EQ switch circuit assembly (KU model)
+RT-1011L,Reel To Reel Tape,RWS-027-B,RWS-027,EQ switch circuit assembly (FV model)
+CT-F6161,Cassette Tape,RWS-030-0,RWS-030,Slide switch assembly (Muting)
+CT-F9191,Cassette Tape,RWS-031,RWS-031,Switch assembly
+CT-F7272,Cassette Tape,RWS-044,RWS-044,Switch assembly
+CT-F6262,Cassette Tape,RWS-046,RWS-046,Switch assembly
+CT-F8282,Cassette Tape,RWS-048,RWS-048,Switch assembly
+RT-701,Reel To Reel Tape,RWS-051,RWS-051,Function switch assembly
+RT-707,Reel To Reel Tape,RWS-052,RWS-052,"Function switch assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWS-052,RWS-052,Function switch assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWS-052,RWS-052,Function switch assembly (KCU)
+RT-707,Reel To Reel Tape,RWS-053,RWS-053,"Switch assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWS-058,RWS-058,Switch assembly (Improved Model - KU)
+RT-707,Reel To Reel Tape,RWS-058,RWS-058,Switch assembly (KU)
+RT-707,Reel To Reel Tape,RWS-059,RWS-059,Switch assembly (Improved Model - KC)
+RT-707,Reel To Reel Tape,RWS-059,RWS-059,Switch assembly (KC)
+RT-701,Reel To Reel Tape,RWS-062,RWS-062,Switch assembly (KU)
+RT-701,Reel To Reel Tape,RWS-063,RWS-063,Switch assembly (KC)
+CT-F1000,Cassette Tape,RWS-064,RWS-064,Pause switch assembly
+RT-707,Reel To Reel Tape,RWS-065,RWS-065,Switch assembly (HG)
+RT-707,Reel To Reel Tape,RWS-066,RWS-066,Function switch assembly (HG)
+RT-701,Reel To Reel Tape,RWS-067,RWS-067,Switch assembly  (Improved - KC)
+RT-701,Reel To Reel Tape,RWS-068,RWS-068,Switch assembly  (Improved - KU)
+CT-F1250,Cassette Tape,RWS-075,RWS-075,Function switch unit
+CT-F750,Cassette Tape,RWS-077,RWS-077,Switch unit
+RT-909,Reel To Reel Tape,RWS-078,RWS-078,Function switch assembly
+RT-909,Reel To Reel Tape,RWS-079,RWS-079,Switch assembly
+CT-F1000,Cassette Tape,RWX -176,RWX -176,lndicator assembly
+QT-6600,Reel To Reel Tape,RWX-001-A,RWX-001,Mode switch unit
+QT-74,Reel To Reel Tape,RWX-001-A,RWX-001,Mode switch circuit assembly
+QT-6600,Reel To Reel Tape,RWX-002-0,RWX-002,REC. SW. unit
+QT-74,Reel To Reel Tape,RWX-002-0,RWX-002,REC switch assembly
+QT-6600,Reel To Reel Tape,RWX-003-0,RWX-003,Muting SW.unit
+QT-74,Reel To Reel Tape,RWX-003-0,RWX-003,Muting switch assembly
+QT-6600,Reel To Reel Tape,RWX-004-0,RWX-004,Lamp unit
+QT-74,Reel To Reel Tape,RWX-004-0,RWX-004,Lamp board
+QT-6100,Reel To Reel Tape,RWX-008-0,RWX-008,Equalizer switch unit
+QT-6600,Reel To Reel Tape,RWX-008-0,RWX-008,Equalizer switch unit
+QT-74,Reel To Reel Tape,RWX-008-A,RWX-008,Equalizer switch assembly
+QT-6100,Reel To Reel Tape,RWX-009-0,RWX-009,Lamp unit
+QT-6100,Reel To Reel Tape,RWX-010-0,RWX-010,Muting switch unit
+QT-74,Reel To Reel Tape,RWX-030-0,RWX-030,Spark killer
+QT-74,Reel To Reel Tape,RWX-030-0,RWX-030,Spark killer
+RT-1011L,Reel To Reel Tape,RWX-030-0,RWX-030,Spark killer
+RT-1020L,Reel To Reel Tape,RWX-030-0,RWX-030,Spark killer
+RT-701,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-701,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-707,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-707,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-1020L,Reel To Reel Tape,RWX-033-0,RWX-033,REC lamp P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-035-0,RWX-035,Head P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-036-A,RWX-036,Fuse P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-038-0,RWX-038,Shut-off switch P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-040-0,RWX-040,VR assembly
+RT-1011L,Reel To Reel Tape,RWX-047-0,RWX-047,Shut-off switch P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-048-0,RWX-048,Motor Fuse board assembly
+CT-F7171,Cassette Tape,RWX-050-A,RWX-050,Limiter circuit assembly
+CT-F7171,Cassette Tape,RWX-051-B,RWX-051,Dolby processor assembly
+CT-F6161,Cassette Tape,RWX-052-0,RWX-052,Lamp board assembly
+CT-F7171,Cassette Tape,RWX-052-0,RWX-052,Lamp board assembly
+CT-F7171,Cassette Tape,RWX-053-0,RWX-053,Indicator board assembly
+CT-F7171,Cassette Tape,RWX-054-0,RWX-054,Terminal board
+CT-F6161,Cassette Tape,RWX-056-A,RWX-056,Indicator board assembly
+RT-1011L,Reel To Reel Tape,RWX-057-A,RWX-057,Transistor P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-058-0,RWX-058,REC lamp P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-059-0,RWX-059,Head P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-061-A,RWX-061,Fuse P.C. board assembly
+CT-F7171,Cassette Tape,RWX-066-C,RWX-066,Fuse board assembly
+CT-F6161,Cassette Tape,RWX-070-B,RWX-070,Dolby processor assembly
+CT-F6161,Cassette Tape,RWX-073-0,RWX-073,Fuse board assembly  (KCU model)
+CT-F6161,Cassette Tape,RWX-075-0,RWX-075,Terminal board
+CT-F6161,Cassette Tape,RWX-076-0,RWX-076,Fuse board assembly   (FV model)
+CT-F9191,Cassette Tape,RWX-078,RWX-078,Dolby assembly
+CT-F9191,Cassette Tape,RWX-080,RWX-080,Fuse assembly
+CT-F9191,Cassette Tape,RWX-081,RWX-081,Indicator assembly
+CT-F9191,Cassette Tape,RWX-083,RWX-083,Transistor assembly
+CT-F9191,Cassette Tape,RWX-084,RWX-084,Connector assembly
+CT-F1000,Cassette Tape,RWX-109,RWX-109,Spark killer (KU)
+CT-F1250,Cassette Tape,RWX-109,RWX-109,Spark killer (KU)
+CT-F6262,Cassette Tape,RWX-109,RWX-109,Spark killer
+CT-F700,Cassette Tape,RWX-109,RWX-109,Spark killer (KU type)
+CT-F7272,Cassette Tape,RWX-109,RWX-109,Spark killer
+CT-F750,Cassette Tape,RWX-109,RWX-109,Spark killer (KU)
+CT-F8282,Cassette Tape,RWX-109,RWX-109,Spark killer
+CT-F850,Cassette Tape,RWX-109,RWX-109,Spark killer (KU)
+CT-F900,Cassette Tape,RWX-109,RWX-109,Spark killer (for KU type)
+CT-F950,Cassette Tape,RWX-109,RWX-109,Spark killer (CT-F950/KU)
+RT-909,Reel To Reel Tape,RWX-109,RWX-109,Spark klller (UL)
+CT-F8282,Cassette Tape,RWX-113,RWX-113,Indicator assembly
+CT-F8282,Cassette Tape,RWX-127,RWX-127,Transistor assembly
+CT-F6262,Cassette Tape,RWX-128,RWX-128,Jack assembly
+CT-F7272,Cassette Tape,RWX-128,RWX-128,Jack Assembly
+CT-F8282,Cassette Tape,RWX-128,RWX-128,Jack assembly
+CT-F8282,Cassette Tape,RWX-129,RWX-129,Dolby processer assembly
+CT-F6262,Cassette Tape,RWX-130,RWX-130,Indicator assembly
+CT-F7272,Cassette Tape,RWX-130,RWX-130,Indicator assembly
+CT-F6262,Cassette Tape,RWX-138,RWX-138,Dolby assembly
+CT-F1000,Cassette Tape,RWX-139,RWX-139,Fuse assembly
+CT-F8282,Cassette Tape,RWX-139,RWX-139,Fuse assembly
+RT-707,Reel To Reel Tape,RWX-141,RWX-141,Fuse assembly (KCU)
+RT-701,Reel To Reel Tape,RWX-142,RWX-142,Indicator assembly
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,"lndicator assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,lndicator assembly (HG)
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,lndicator assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,lndicator assembly (KCU)
+RT-701,Reel To Reel Tape,RWX-146,RWX-146,Connector assembly L
+RT-701,Reel To Reel Tape,RWX-147,RWX-147,Connector assembly R
+CT-F1000,Cassette Tape,RWX-150,RWX-150,Spark killer (KC)
+CT-F1250,Cassette Tape,RWX-150,RWX-150,Spark killer (KC)
+CT-F700,Cassette Tape,RWX-150,RWX-150,Spark killer (KC type)
+CT-F750,Cassette Tape,RWX-150,RWX-150,Spark killer (KC)
+CT-F850,Cassette Tape,RWX-150,RWX-150,Spark killer (KC)
+CT-F950,Cassette Tape,RWX-150,RWX-150,Spark killer (CT-F950/KC)
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,"Connector assembly L (D,D/G)"
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,Connector assembly L (HG)
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,Connector assembly L (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,Connector assembly L (KCU)
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,"Connector assembly R (D,D/G)"
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,Connector assembly R (HG)
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,Connector assembly R (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,Connector assembly R (KCU)
+RT-707,Reel To Reel Tape,RWX-154,RWX-154,Equalizer amplifier assembly
+RT-707,Reel To Reel Tape,RWX-155,RWX-155,Meter amplifier assembly
+RT-701,Reel To Reel Tape,RWX-170,RWX-170,Fuse assembly
+RT-707,Reel To Reel Tape,RWX-170,RWX-170,Fuse assembly (Improved Model - KCU)
+RT-701,Reel To Reel Tape,RWX-171,RWX-171,Connector assembly L
+RT-701,Reel To Reel Tape,RWX-172,RWX-172,Connector assembly R
+RT-707,Reel To Reel Tape,RWX-174,RWX-174,"Terminal assembly (D,D/G)"
+CT-F1000,Cassette Tape,RWX-175,RWX-175,IC amplifier assembly
+CT-F1000,Cassette Tape,RWX-177,RWX-177,Flat amplifier assembly
+CT-F1000,Cassette Tape,RWX-178,RWX-178,Main board assembly
+CT-F1000,Cassette Tape,RWX-179,RWX-179,Peak amplifier assembIy
+CT-F1000,Cassette Tape,RWX-180,RWX-180,Meter amplifier assembly
+CT-F1000,Cassette Tape,RWX-181,RWX-181,Volume assembly
+CT-F1000,Cassette Tape,RWX-182,RWX-182,Recording equalizer assembly
+CT-F1000,Cassette Tape,RWX-183,RWX-183,Dolby assembly
+RT-707,Reel To Reel Tape,RWX-185,RWX-185,Fuse assembly (HG)
+CT-F700,Cassette Tape,RWX-191,RWX-191,Dolby assembly (D type)
+CT-F700,Cassette Tape,RWX-192,RWX-192,Muting assembly (D type)
+CT-F700,Cassette Tape,RWX-192,RWX-192,Muting assembly (D/G type)
+CT-F700,Cassette Tape,RWX-192,RWX-192,Muting assembly (HG type)
+CT-F700,Cassette Tape,RWX-192,RWX-192,Muting assembly (KC type)
+CT-F700,Cassette Tape,RWX-192,RWX-192,Muting assembly (KU type)
+CT-F700,Cassette Tape,RWX-195,RWX-195,Meter amplifier assembly (D type)
+CT-F700,Cassette Tape,RWX-195,RWX-195,Meter amplifier assembly (D/G type)
+CT-F700,Cassette Tape,RWX-195,RWX-195,Meter amplifier assembly (HG type)
+CT-F700,Cassette Tape,RWX-195,RWX-195,Meter amplifier assembly (KC type)
+CT-F700,Cassette Tape,RWX-195,RWX-195,Meter amplifier assembly (KU type)
+CT-F700,Cassette Tape,RWX-196,RWX-196,Connector assembly
+CT-F700,Cassette Tape,RWX-200,RWX-200,Dolby assembly (HG type)
+CT-F700,Cassette Tape,RWX-200,RWX-200,Dolby assembly (KC type)
+CT-F700,Cassette Tape,RWX-200,RWX-200,Dolby assembly (KU type)
+CT-F700,Cassette Tape,RWX-202,RWX-202,Fuse assembly (HG type)
+CT-F500/505,Cassette Tape,RWX-228,RWX-228,Dolby assembly
+CT-F900,Cassette Tape,RWX-233,RWX-233,Mother assembly
+CT-F500/505,Cassette Tape,RWX-234,RWX-234,Spark killer (KU)
+CT-F500/505,Cassette Tape,RWX-235,RWX-235,Spark killer (KC)
+CT-F900,Cassette Tape,RWX-236,RWX-236,Indicator assembly
+CT-F900,Cassette Tape,RWX-238,RWX-238,IC amplifier assembly
+CT-F950,Cassette Tape,RWX-240,RWX-240,Volume unit
+CT-F850,Cassette Tape,RWX-302,RWX-302,Mother assembly
+CT-F950,Cassette Tape,RWX-311,RWX-311,Tape selector assembly
+CT-F1250,Cassette Tape,RWX-317,RWX-317,Indicator unit
+CT-F1250,Cassette Tape,RWX-319,RWX-319,Mother unit
+CT-F1250,Cassette Tape,RWX-322,RWX-322,BLE unit
+CT-F950,Cassette Tape,RWX-327,RWX-327,Indicator unit
+CT-F950,Cassette Tape,RWX-328,RWX-328,Indicator amp assembly
+CT-F750,Cassette Tape,RWX-330,RWX-330,Main unit (KU)
+CT-F750,Cassette Tape,RWX-331,RWX-331,FL unit
+RT-909,Reel To Reel Tape,RWX-336,RWX-336,Counter assembly
+RT-909,Reel To Reel Tape,RWX-339,RWX-339,Driver assembly
+RT-909,Reel To Reel Tape,RWX-340,RWX-340,Mother assembly
+CT-F950,Cassette Tape,RWX-359,RWX-359,Mother assembly
+CT-F950,Cassette Tape,RWX-360,RWX-360,Integrated amplifier assembly
+CT-F950,Cassette Tape,RWX-361,RWX-361,REC EQ assembly
+CT-F750,Cassette Tape,RWX-388,RWX-388,Main unit (KC)
+RT-707,Reel To Reel Tape,RWX-I52,RWX-I52,Connector assembly R
+CT-F6161,Cassette Tape,RXA-,RXA-,Front panel assembly
+QT-6100,Reel To Reel Tape,RXA-001-0,RXA-001,Brake arm (A) assembly
+QT-6600,Reel To Reel Tape,RXA-001-0,RXA-001,Brake arm (A) assembly
+QT-6100,Reel To Reel Tape,RXA-002-0,RXA-002,Brake arm (B) assembly
+QT-6600,Reel To Reel Tape,RXA-002-0,RXA-002,Brake arm (B) assembly
+T-3500,Cassette Tape,RXA-075,RXA-075,REEL BASE ASSY
+QT-6100,Reel To Reel Tape,RXA-077-A,RXA-077,Mounting plate ass'y
+QT-6600,Reel To Reel Tape,RXA-077-A,RXA-077,Mounting plate assembly
+QT-74,Reel To Reel Tape,RXA-077-A,RXA-077,Mounting plate assembly
+QT-6600,Reel To Reel Tape,RXA-080-A,RXA-080,Joint lever assembly
+QT-74,Reel To Reel Tape,RXA-080-A,RXA-080,Joint lever assembly
+T-3500,Cassette Tape,RXA-095,RXA-095,IDLE PULLEY
+QT-6600,Reel To Reel Tape,RXA-103-A,RXA-103,Chassis assembly
+QT-74,Reel To Reel Tape,RXA-103-B,RXA-103,Chassis
+QT-74,Reel To Reel Tape,RXA-103-B,RXA-103,Chassis
+QT-6100,Reel To Reel Tape,RXA-130-B,RXA-130,Slide lever assembly
+QT-6600,Reel To Reel Tape,RXA-130-B,RXA-130,Slide lever assembly
+QT-6100,Reel To Reel Tape,RXA-132-A,RXA-132,Chassis
+QT-6100,Reel To Reel Tape,RXA-132-A,RXA-132,Chassis ass'y
+QT-6600,Reel To Reel Tape,RXA-132-A,RXA-132,Chassis
+T-3500,Cassette Tape,RXA-151,RXA-151,SUPPLY REEL ASSY
+T-3500,Cassette Tape,RXA-154,RXA-154,PINCH ROLLER ASSY
+T-3500,Cassette Tape,RXA-174,RXA-174,MOTOR FAN
+QT-74,Reel To Reel Tape,RXA-183-0,RXA-183,Back tension pulley assembly
+QT-6100,Reel To Reel Tape,RXA-232-0,RXA-232,Side chassis (B) ass'y
+QT-6600,Reel To Reel Tape,RXA-232-0,RXA-232,Side chassis (Right side)
+QT-74,Reel To Reel Tape,RXA-232-0,RXA-232,Side chassis (B) assembly
+QT-6100,Reel To Reel Tape,RXA-235-0,RXA-235,Motor pulley 50Hz
+QT-6600,Reel To Reel Tape,RXA-235-0,RXA-235,Motor pulley 50Hz
+QT-74,Reel To Reel Tape,RXA-235-0,RXA-235,Motor pulley 50Hz
+QT-6100,Reel To Reel Tape,RXA-238-0,RXA-238,Motor pulley 60Hz
+QT-6600,Reel To Reel Tape,RXA-238-0,RXA-238,Motor pulley 60Hz
+QT-74,Reel To Reel Tape,RXA-238-0,RXA-238,Motor pulley 60Hz
+QT-74,Reel To Reel Tape,RXA-241-0,RXA-241,Speed selector cam (B) assembly
+QT-74,Reel To Reel Tape,RXA-294-0,RXA-294,Brake arm lL) assembly
+QT-74,Reel To Reel Tape,RXA-295-0,RXA-295,Brake arm (R) assembly
+RT-1011L,Reel To Reel Tape,RXA-307-0,RXA-307,Capstan holder assembly
+RT-1020L,Reel To Reel Tape,RXA-307-0,RXA-307,Capstan bearing assembly
+RT-1011L,Reel To Reel Tape,RXA-309-0,RXA-309,Pinch roller assembly
+RT-1020L,Reel To Reel Tape,RXA-309-0,RXA-309,Pinch roller assembly
+RT-1011L,Reel To Reel Tape,RXA-310-D,RXA-310,Tension arm assembly
+RT-1020L,Reel To Reel Tape,RXA-311-A,RXA-311,Roller arm assembly
+RT-1020L,Reel To Reel Tape,RXA-313-A,RXA-313,Brake plate (L) assembly
+RT-1020L,Reel To Reel Tape,RXA-314-A,RXA-314,Brake plate (R) assembly
+RT-1011L,Reel To Reel Tape,RXA-316-A,RXA-316,Button spring assembly
+RT-1020L,Reel To Reel Tape,RXA-316-A,RXA-316,Button spring assembly
+QT-74,Reel To Reel Tape,RXA-327-0,RXA-327,Back tension plate (L) assembly
+QT-74,Reel To Reel Tape,RXA-328-0,RXA-328,Back tension plate (R) assembly
+RT-1011L,Reel To Reel Tape,RXA-360-A,RXA-360,Tension arm cam assembly
+RT-1020L,Reel To Reel Tape,RXA-360-A,RXA-360,Tension arm cam assembly
+QT-74,Reel To Reel Tape,RXA-371-0,RXA-371,Tension adjusting plate assembly
+RT-1011L,Reel To Reel Tape,RXA-382-A,RXA-382,Tension arm bracket assembly
+RT-1020L,Reel To Reel Tape,RXA-382-A,RXA-382,Tension arm bracket assembly
+RT-1011L,Reel To Reel Tape,RXA-399-0,RXA-399,Pinch arm (A) assembly
+RT-1020L,Reel To Reel Tape,RXA-399-0,RXA-399,Pinch arm (A) assembly
+RT-1020L,Reel To Reel Tape,RXA-400-0,RXA-400,Reel base assembly
+CT-F6161,Cassette Tape,RXA-417-0,RXA-417,FR lever assembly
+CT-F7171,Cassette Tape,RXA-417-0,RXA-417,FR lever assembly
+CT-F6161,Cassette Tape,RXA-421-0,RXA-421,Idler B lever assembly
+CT-F7171,Cassette Tape,RXA-421-0,RXA-421,Idler B lever assembly
+CT-F6161,Cassette Tape,RXA-430-0,RXA-430,Tension arm assembly
+CT-F7171,Cassette Tape,RXA-430-0,RXA-430,Tension arm assembly
+CT-F6161,Cassette Tape,RXA-431-0,RXA-431,Sliding bar assembly (FF)
+CT-F7171,Cassette Tape,RXA-431-0,RXA-431,Sliding bar assembly (FF)
+CT-F6161,Cassette Tape,RXA-432-0,RXA-432,Flywheel assembly B
+CT-F7171,Cassette Tape,RXA-432-0,RXA-432,Flywheel assembly B
+CT-F6161,Cassette Tape,RXA-433-0,RXA-433,Reel base B assembly
+CT-F7171,Cassette Tape,RXA-433-0,RXA-433,Reel base B assembly
+QT-74,Reel To Reel Tape,RXA-435-0,RXA-435,Slide lever assembly
+RT-1011L,Reel To Reel Tape,RXA-436-0,RXA-436,Reel base assembly
+QT-74,Reel To Reel Tape,RXA-439-0,RXA-439,Capstan bearing
+CT-F7171,Cassette Tape,RXA-455-A,RXA-455,Knob A assembly  (REC (red))
+CT-F7171,Cassette Tape,RXA-456-A,RXA-456,Knob B assembly  (STOP (blue))
+CT-F7171,Cassette Tape,RXA-457-A,RXA-457,Knob C assembly  (PLAY (white))
+CT-F7171,Cassette Tape,RXA-458-A,RXA-458,"Knob D assembly  (FF, REW, PAUSE)"
+CT-F6161,Cassette Tape,RXA-459-B,RXA-459,Release lever assembly
+CT-F7171,Cassette Tape,RXA-459-A,RXA-459,Release lever assembly
+CT-F7171,Cassette Tape,RXA-460-0,RXA-460,Sliding bar assembly
+CT-F7171,Cassette Tape,RXA-461-A,RXA-461,Sub chassis assembly
+CT-F7171,Cassette Tape,RXA-463-A,RXA-463,Eject plate assembly
+CT-F6161,Cassette Tape,RXA-464-A,RXA-464,Counter mounting angle assembly
+CT-F7171,Cassette Tape,RXA-464-A,RXA-464,Counter mounting angle assembly
+CT-F6161,Cassette Tape,RXA-466-A,RXA-466,Pulley assembly
+CT-F7171,Cassette Tape,RXA-466-0,RXA-466,Pulley assembly
+CT-F6161,Cassette Tape,RXA-477-0,RXA-477,Foot assembly
+CT-F7171,Cassette Tape,RXA-477-0,RXA-477,Foot assembly
+CT-F6161,Cassette Tape,RXA-481-A,RXA-481,Chassis assembly
+CT-F7171,Cassette Tape,RXA-481-0,RXA-481,Chassis assembly
+CT-F6161,Cassette Tape,RXA-485-0,RXA-485,Head base assembly
+CT-F7171,Cassette Tape,RXA-485-0,RXA-485,Head base assembly
+CT-F6161,Cassette Tape,RXA-486-0,RXA-486,Pinch roller arm assembly
+CT-F7171,Cassette Tape,RXA-486-0,RXA-486,Pinch roller arm assembly
+CT-F6161,Cassette Tape,RXA-489-0,RXA-489,Idler A assembly
+CT-F7171,Cassette Tape,RXA-489-0,RXA-489,Idler A assembly
+CT-F6161,Cassette Tape,RXA-490-0,RXA-490,Sliding bar assembly (PAUSE)
+CT-F7171,Cassette Tape,RXA-490-0,RXA-490,Sliding bar assembly (PAUSE)
+CT-F6161,Cassette Tape,RXA-492-0,RXA-492,Button lever P assembly
+CT-F7171,Cassette Tape,RXA-492-0,RXA-492,Button lever P assembly
+CT-F6161,Cassette Tape,RXA-498-0,RXA-498,"Button block assembly  (Part No. RXA-498 contains
+key No.1 ~ 11, 13 and 14)"
+CT-F7171,Cassette Tape,RXA-498-0,RXA-498,"Button block assembly (Part No.RXA-498 contains
+key No.1 ~ 11, 13 and 14)"
+CT-F6161,Cassette Tape,RXA-499-0,RXA-499,Button chassis assembly
+CT-F7171,Cassette Tape,RXA-499-0,RXA-499,Button chassis assembly
+CT-F6161,Cassette Tape,RXA-500-0,RXA-500,Button lever assembly
+CT-F7171,Cassette Tape,RXA-500-0,RXA-500,Button lever assembly
+CT-F6161,Cassette Tape,RXA-501-0,RXA-501,Sliding cam assembly
+CT-F7171,Cassette Tape,RXA-501-0,RXA-501,Sliding cam assembly
+CT-F6161,Cassette Tape,RXA-502-0,RXA-502,Bracket
+CT-F7171,Cassette Tape,RXA-502-0,RXA-502,Bracket
+RT-1011L,Reel To Reel Tape,RXA-508-0,RXA-508,Brake plate (R) assembly
+RT-1011L,Reel To Reel Tape,RXA-509-0,RXA-509,Brake plate (L) assembly
+RT-1011L,Reel To Reel Tape,RXA-510-0,RXA-510,Roller guide assembly
+RT-1011L,Reel To Reel Tape,RXA-511-0,RXA-511,Roller arm assembly
+CT-F7171,Cassette Tape,RXA-513-A,RXA-513,Front panel assembly
+CT-F6161,Cassette Tape,RXA-519-A,RXA-519,Sliding bar assembly
+CT-F6161,Cassette Tape,RXA-523-B,RXA-523,Bracket assembly (EJECT)
+CT-F7171,Cassette Tape,RXA-523-0,RXA-523,Bracket assembly (EJECT)
+CT-F6161,Cassette Tape,RXA-536-0,RXA-536,Knob A assembly  REC (red)
+CT-F6161,Cassette Tape,RXA-537-0,RXA-537,Knob B assembly  STOP (blue)
+CT-F6161,Cassette Tape,RXA-538-0,RXA-538,Knob C assembly  PLAY (white)
+CT-F6161,Cassette Tape,RXA-539-0,RXA-539,"Knob D assembly  FF, REW, PAUSE"
+CT-F6161,Cassette Tape,RXA-540-A,RXA-540,Sub chassis assembly
+CT-F6161,Cassette Tape,RXA-544-0,RXA-544,Eject plate assembly
+CT-F6262,Cassette Tape,RXA-558,RXA-558,Bearing
+CT-F7272,Cassette Tape,RXA-558,RXA-558,Shaft holder
+CT-F8282,Cassette Tape,RXA-559,RXA-559,Flywheel assembly
+CT-F9191,Cassette Tape,RXA-559,RXA-559,Flywheel
+CT-F8282,Cassette Tape,RXA-560,RXA-560,Take up reel full assembly
+CT-F8282,Cassette Tape,RXA-563,RXA-563,Supply reel full assembly
+CT-F8282,Cassette Tape,RXA-565,RXA-565,TU Idler assembly
+CT-F8282,Cassette Tape,RXA-570,RXA-570,TU idler lever A assembly
+CT-F8282,Cassette Tape,RXA-571,RXA-571,TU Idler lever B assembly
+CT-F8282,Cassette Tape,RXA-573,RXA-573,Rapid lever A assembly
+CT-F8282,Cassette Tape,RXA-574,RXA-574,Protector assembly
+CT-F8282,Cassette Tape,RXA-575,RXA-575,Pinch arm assembly
+CT-F8282,Cassette Tape,RXA-581,RXA-581,F.F. Idler Assembly
+CT-F9191,Cassette Tape,RXA-581,RXA-581,FF Idler assembly
+CT-F9191,Cassette Tape,RXA-584,RXA-584,Door arm assembly
+RT-701,Reel To Reel Tape,RXA-601,RXA-601,Shield assembly
+RT-707,Reel To Reel Tape,RXA-601,RXA-601,Shield assembly
+CT-F8282,Cassette Tape,RXA-657,RXA-657,Angle assembly
+CT-F6262,Cassette Tape,RXA-661,RXA-661,REW arm
+CT-F7272,Cassette Tape,RXA-661,RXA-661,Angle assembly
+CT-F6262,Cassette Tape,RXA-664,RXA-664,Flywheel
+CT-F7272,Cassette Tape,RXA-664,RXA-664,Flywheel assembly
+CT-F6262,Cassette Tape,RXA-677,RXA-677,Door stopper
+CT-F7272,Cassette Tape,RXA-677,RXA-677,Door cushion assembly
+CT-F6262,Cassette Tape,RXA-678,RXA-678,Head base
+CT-F7272,Cassette Tape,RXA-678,RXA-678,Chassis assembly
+CT-F6262,Cassette Tape,RXA-682,RXA-682,REC coupling arm
+CT-F7272,Cassette Tape,RXA-682,RXA-682,REC arm assembly
+CT-F6262,Cassette Tape,RXA-683,RXA-683,REC lever
+CT-F7272,Cassette Tape,RXA-683,RXA-683,REC lever assembly
+CT-F6262,Cassette Tape,RXA-685,RXA-685,REW operating plate
+CT-F6262,Cassette Tape,RXA-686,RXA-686,Bracket R
+CT-F7272,Cassette Tape,RXA-686,RXA-686,Bracket (R) Assembly
+CT-F6262,Cassette Tape,RXA-687,RXA-687,Bracket I
+CT-F7272,Cassette Tape,RXA-687,RXA-687,Bracket (L) assembly
+CT-F6262,Cassette Tape,RXA-688,RXA-688,Pause plate
+CT-F7272,Cassette Tape,RXA-688,RXA-688,Plate assembly
+CT-F6262,Cassette Tape,RXA-689,RXA-689,Detector lever holder
+CT-F7272,Cassette Tape,RXA-689,RXA-689,Holder assembly
+CT-F6262,Cassette Tape,RXA-690,RXA-690,Operating lever frame
+CT-F7272,Cassette Tape,RXA-690,RXA-690,Bracket assembly
+CT-F6262,Cassette Tape,RXA-691,RXA-691,Pinch arm
+CT-F700,Cassette Tape,RXA-691,RXA-691,Pinch arm assembly
+CT-F7272,Cassette Tape,RXA-691,RXA-691,Pinch arm assembly
+CT-F6262,Cassette Tape,RXA-692,RXA-692,Shaft-held plate
+CT-F7272,Cassette Tape,RXA-692,RXA-692,Bracket assembly
+CT-F6262,Cassette Tape,RXA-693,RXA-693,Cassette detector
+CT-F7272,Cassette Tape,RXA-693,RXA-693,Lever assembly
+CT-F6262,Cassette Tape,RXA-696,RXA-696,Pause lever
+CT-F7272,Cassette Tape,RXA-696,RXA-696,Lever assembly
+CT-F6262,Cassette Tape,RXA-700,RXA-700,Operating lever
+CT-F7272,Cassette Tape,RXA-700,RXA-700,Lever assembly
+CT-F600/605,Cassette Tape,RXA-703,RXA-703,Foot assembly
+CT-F6262,Cassette Tape,RXA-723,RXA-723,Fast arm R
+CT-F7272,Cassette Tape,RXA-723,RXA-723,Fast arm full assembly (R)
+CT-F6262,Cassette Tape,RXA-724,RXA-724,Fast arm (L)
+CT-F7272,Cassette Tape,RXA-724,RXA-724,Fast arm full assembly(L)
+CT-F6262,Cassette Tape,RXA-732,RXA-732,Foot assembly
+CT-F8282,Cassette Tape,RXA-735,RXA-735,Plastic cover assembly
+CT-F6262,Cassette Tape,RXA-740,RXA-740,Take-up reel base
+CT-F7272,Cassette Tape,RXA-740,RXA-740,Take up reel full assembly
+CT-F6262,Cassette Tape,RXA-741,RXA-741,Supply reel base
+CT-F7272,Cassette Tape,RXA-741,RXA-741,Supply reel full assembly
+CT-F6262,Cassette Tape,RXA-742,RXA-742,REW idler
+CT-F7272,Cassette Tape,RXA-742,RXA-742,Idler assembly
+CT-F6262,Cassette Tape,RXA-744,RXA-744,Idler
+CT-F7272,Cassette Tape,RXA-744,RXA-744,Idler assembly
+CT-F700,Cassette Tape,RXA-751,RXA-751,Bearing assembly
+CT-F6262,Cassette Tape,RXA-754,RXA-754,TU arm assembly
+CT-F7272,Cassette Tape,RXA-754,RXA-754,Arm full assembly
+RT-701,Reel To Reel Tape,RXA-758,RXA-758,Jack assembly
+RT-707,Reel To Reel Tape,RXA-758,RXA-758,Jack assembly
+RT-707,Reel To Reel Tape,RXA-759,RXA-759,Pinch roller assembly
+RT-707,Reel To Reel Tape,RXA-760,RXA-760,Shifter roller assembly
+RT-707,Reel To Reel Tape,RXA-761,RXA-761,Pinch roller arm assembly
+RT-707,Reel To Reel Tape,RXA-762,RXA-762,Shifter roller arm assembly
+RT-701,Reel To Reel Tape,RXA-766,RXA-766,Brake arm L assembly
+RT-707,Reel To Reel Tape,RXA-766,RXA-766,Brake arm L assembly
+RT-701,Reel To Reel Tape,RXA-767,RXA-767,Brake arm R assembly
+RT-707,Reel To Reel Tape,RXA-767,RXA-767,Brake arm R assembly
+RT-707,Reel To Reel Tape,RXA-769,RXA-769,Brake arm assembly
+RT-701,Reel To Reel Tape,RXA-771,RXA-771,Pause arm assembly
+RT-707,Reel To Reel Tape,RXA-772,RXA-772,Brake band assembIy
+RT-707,Reel To Reel Tape,RXA-773,RXA-773,Release arm assembly
+RT-701,Reel To Reel Tape,RXA-774,RXA-774,Solenoid bar assembly
+RT-707,Reel To Reel Tape,RXA-774,RXA-774,Solenoid bar assembly
+RT-707,Reel To Reel Tape,RXA-780,RXA-780,Sensing guide assembly
+RT-701,Reel To Reel Tape,RXA-781,RXA-781,Tension arm R assembly
+RT-707,Reel To Reel Tape,RXA-781,RXA-781,Tension arm R assembly
+RT-701,Reel To Reel Tape,RXA-782,RXA-782,Tension arm L assembly
+RT-707,Reel To Reel Tape,RXA-782,RXA-782,Tension arm L assembly
+CT-F700,Cassette Tape,RXA-783,RXA-783,TU idler assembly
+CT-F700,Cassette Tape,RXA-787,RXA-787,Supply reel full assembly
+CT-F700,Cassette Tape,RXA-808,RXA-808,Lever assembly
+CT-F700,Cassette Tape,RXA-809,RXA-809,REW arm full assembly
+CT-F700,Cassette Tape,RXA-810,RXA-810,Plate assembly
+CT-F700,Cassette Tape,RXA-811,RXA-811,Pause lever assembly
+RT-707,Reel To Reel Tape,RXA-832,RXA-832,Shut off arm assembly
+RT-701,Reel To Reel Tape,RXA-848,RXA-848,Brake drive arm assembly
+RT-701,Reel To Reel Tape,RXA-850,RXA-850,Shut off bracket assembly
+RT-701,Reel To Reel Tape,RXA-853,RXA-853,Brake band assembly
+RT-701,Reel To Reel Tape,RXA-871,RXA-871,Pinch roller assembly
+RT-701,Reel To Reel Tape,RXA-873,RXA-873,Pinch roller arm assembly
+RT-701,Reel To Reel Tape,RXA-874,RXA-874,Shifter roller arm assembly
+CT-F700,Cassette Tape,RXA-888,RXA-888,Fly wheel assembly
+CT-F700,Cassette Tape,RXA-890,RXA-890,Bracket assembly
+RT-701,Reel To Reel Tape,RXA-902,RXA-902,Shifter roller assembly
+CT-F700,Cassette Tape,RXA-903,RXA-903,TU idler arm assembly
+CT-F700,Cassette Tape,RXA-904,RXA-904,Button frame assembly
+CT-F1250,Cassette Tape,RXA-905,RXA-905,Foot assembly
+CT-F900,Cassette Tape,RXA-905,RXA-905,Foot assembly
+CT-F950,Cassette Tape,RXA-905,RXA-905,Foot assembly
+CT-F700,Cassette Tape,RXA-906,RXA-906,Stop lever assembly
+CT-F700,Cassette Tape,RXA-944,RXA-944,Fast arm R full assembly
+CT-F700,Cassette Tape,RXA-945,RXA-945,Fast arm L full assembly
+CT-F700,Cassette Tape,RXA-948,RXA-948,Take-up reel full assembly
+CT-F500/505,Cassette Tape,RXA-949,RXA-949,Air dump assembly
+CT-F600/605,Cassette Tape,RXA-949,RXA-949,Air dump assembly
+CT-F500/505,Cassette Tape,RXA-950,RXA-950,Arm Assembly
+CT-F600/605,Cassette Tape,RXA-950,RXA-950,Arm assembly
+CT-F500/505,Cassette Tape,RXA-952,RXA-952,Flywheel assembly
+CT-F600/605,Cassette Tape,RXA-952,RXA-952,Flywheel assembly
+CT-F500/505,Cassette Tape,RXA-954,RXA-954,Take-up reel assembly
+CT-F600/605,Cassette Tape,RXA-954,RXA-954,Take-up reel assembly
+CT-F500/505,Cassette Tape,RXA-955,RXA-955,Supply reel assembly
+CT-F600/605,Cassette Tape,RXA-955,RXA-955,Supply reel assembly
+CT-F500/505,Cassette Tape,RXA-956,RXA-956,Drive arm assembly
+CT-F600/605,Cassette Tape,RXA-956,RXA-956,Drive pulley assembly
+CT-F500/505,Cassette Tape,RXA-959,RXA-959,TU arm assembIy
+CT-F600/605,Cassette Tape,RXA-959,RXA-959,TU idler arm assembly
+CT-F600/605,Cassette Tape,RXA-960,RXA-960,FF idler arm full assembly
+CT-F500/505,Cassette Tape,RXA-962,RXA-962,Pulley assembly
+CT-F600/605,Cassette Tape,RXA-962,RXA-962,Pulley assembly
+CT-F500/505,Cassette Tape,RXA-963,RXA-963,Plate assembly
+CT-F600/605,Cassette Tape,RXA-963,RXA-963,Plate assembly
+CT-F500/505,Cassette Tape,RXA-964,RXA-964,Plate assembly
+CT-F600/605,Cassette Tape,RXA-964,RXA-964,Plate assembly
+CT-F500/505,Cassette Tape,RXA-965,RXA-965,Shaft (cam)
+CT-F600/605,Cassette Tape,RXA-965,RXA-965,Gear assembly
+CT-F700,Cassette Tape,RXA-966,RXA-966,Open lever assembly
+CT-F700,Cassette Tape,RXA-967,RXA-967,Power switch joint-bar assembly
+CT-F500/505,Cassette Tape,RXA-976,RXA-976,Button frame
+CT-F600/605,Cassette Tape,RXA-976,RXA-976,Button frame assembly
+CT-F500/505,Cassette Tape,RXA-980,RXA-980,Reel base assembly
+CT-F900,Cassette Tape,RXA-997,RXA-997,Bearing assembly
+CT-F1250,Cassette Tape,RXA-998,RXA-998,Take-up pulley assembly
+CT-F850,Cassette Tape,RXA-998,RXA-998,Take-up pulley assembly
+CT-F900,Cassette Tape,RXA-998,RXA-998,Take-up pulley assembly
+CT-F950,Cassette Tape,RXA-998,RXA-998,Take-up pulley assembly
+CT-F900,Cassette Tape,RXA-999,RXA-999,Take-up reel assembly
+CT-F900,Cassette Tape,RXB-001,RXB-001,Supply reel assembly
+CT-F850,Cassette Tape,RXB-005,RXB-005,Pinch-roller arm assembly
+CT-F900,Cassette Tape,RXB-005,RXB-005,Pinch-roller arm assembly
+CT-F950,Cassette Tape,RXB-005,RXB-005,Pinch-roller arm assembly
+CT-F900,Cassette Tape,RXB-045,RXB-045,Arm assembly
+CT-F900,Cassette Tape,RXB-047,RXB-047,Idler arm full assembly
+CT-F850,Cassette Tape,RXB-055,RXB-055,Flywheel assembly
+CT-F900,Cassette Tape,RXB-055,RXB-055,Flywheel assembly
+CT-F950,Cassette Tape,RXB-055,RXB-055,Flywheel assembly
+CT-F500/505,Cassette Tape,RXB-056,RXB-056,REC Arm assembly
+CT-F600/605,Cassette Tape,RXB-056,RXB-056,REC arm assembly
+CT-F900,Cassette Tape,RXB-057,RXB-057,Head base assembly
+CT-F900,Cassette Tape,RXB-057,RXB-057,Sub head-base assembly
+CT-F850,Cassette Tape,RXB-058,RXB-058,Supply pulley assembly
+CT-F900,Cassette Tape,RXB-058,RXB-058,Supply pulley assembly
+CT-F950,Cassette Tape,RXB-058,RXB-058,Supply pulley assembly
+CT-F850,Cassette Tape,RXB-063,RXB-063,Motor pulley (A) assembly
+CT-F900,Cassette Tape,RXB-063,RXB-063,Motor pulley A assembly
+CT-F950,Cassette Tape,RXB-063,RXB-063,Motor pulley Assembly
+CT-F1250,Cassette Tape,RXB-064,RXB-064,Motor pulley (B) assembly
+CT-F850,Cassette Tape,RXB-064,RXB-064,Motor pulley (B) assembly
+CT-F900,Cassette Tape,RXB-064,RXB-064,Motor pulley B assembly
+CT-F950,Cassette Tape,RXB-064,RXB-064,Motor pulley (B) assembly
+CT-F600/605,Cassette Tape,RXB-089,RXB-089,Fleel base assembly
+CT-F850,Cassette Tape,RXB-093,RXB-093,Holder assembly
+CT-F950,Cassette Tape,RXB-093,RXB-093,Bearing assembly
+CT-F600/605,Cassette Tape,RXB-105,RXB-105,Pinch arm (B) assembly
+CT-F750,Cassette Tape,RXB-133,RXB-133,Foot assembly
+CT-F1050,Cassette Tape,RXB-134,RXB-134,Foot assembly
+CT-F1250,Cassette Tape,RXB-144,RXB-144,Idler arm full assembly
+CT-F850,Cassette Tape,RXB-144,RXB-144,Idler arm full assembly
+CT-F950,Cassette Tape,RXB-144,RXB-144,Idler arm full assembly
+CT-F750,Cassette Tape,RXB-146,RXB-146,Gear A assembly
+CT-F750,Cassette Tape,RXB-150,RXB-150,TU operation pulley assembly
+CT-F750,Cassette Tape,RXB-155,RXB-155,Pinch spring arm L assembly
+CT-F750,Cassette Tape,RXB-156,RXB-156,Pinch spring arm R assembly
+CT-F750,Cassette Tape,RXB-157,RXB-157,Pinch-arm assembly
+CT-F750,Cassette Tape,RXB-158,RXB-158,Flywheel assembly (L)
+CT-F750,Cassette Tape,RXB-159,RXB-159,Flywheel assembly (R)
+CT-F750,Cassette Tape,RXB-160,RXB-160,Holder assembly
+CT-F1250,Cassette Tape,RXB-162,RXB-162,Bearing (Bl assembly
+CT-F950,Cassette Tape,RXB-169,RXB-169,Head cover assembly
+RT-909,Reel To Reel Tape,RXB-174,RXB-174,Bearing assembly
+CT-F1250,Cassette Tape,RXB-189,RXB-189,Supply reel assembly (B)
+CT-F850,Cassette Tape,RXB-189,RXB-189,Take-up reel base assembly (B)
+CT-F950,Cassette Tape,RXB-189,RXB-189,Supply reel assembly (B)
+CT-F1250,Cassette Tape,RXB-190,RXB-190,Take-up reel assembly (B)
+CT-F950,Cassette Tape,RXB-190,RXB-190,Take-up reel assembly (B)
+CT-F850,Cassette Tape,RXB-191,RXB-191,Supply reel base assembly (B)
+RT-909,Reel To Reel Tape,RXB-194,RXB-194,Pinch roller assembly
+RT-909,Reel To Reel Tape,RXB-195,RXB-195,Pinch arm L assembly
+RT-909,Reel To Reel Tape,RXB-196,RXB-196,Pinch arm R assembly
+RT-909,Reel To Reel Tape,RXB-200,RXB-200,Sensing guide assembly
+RT-909,Reel To Reel Tape,RXB-204,RXB-204,Brake band assembly
+CT-F850,Cassette Tape,RXB-209,RXB-209,Head cover assembly
+CT-F1250,Cassette Tape,RXB-212,RXB-212,Sub-head base assembly
+CT-F750,Cassette Tape,RXB-221,RXB-221,TU arm full assembly
+CT-F750,Cassette Tape,RXB-222,RXB-222,Spring bracket assembly
+CT-F750,Cassette Tape,RXB-223,RXB-223,Pulley assembly
+CT-F750,Cassette Tape,RXB-224,RXB-224,Reel L assembly
+CT-F750,Cassette Tape,RXB-225,RXB-225,Reel R assembly
+CT-F750,Cassette Tape,RXB-226,RXB-226,REW pulley assembly
+CT-F750,Cassette Tape,RXB-229,RXB-229,Fast operation full assembly
+CT-F750,Cassette Tape,RXB-230,RXB-230,REW arm full assembly A
+CT-F750,Cassette Tape,RXB-232,RXB-232,REW arm full assembly B
+CT-F750,Cassette Tape,RXB-237 (RXB-285),RXB-237 (RXB-285),Sub-head assembly
+RT-909,Reel To Reel Tape,RXB-239,RXB-239,Pulley assembly
+CT-F850,Cassette Tape,RXB-240,RXB-240,Sub-head base assembly
+CT-F1250,Cassette Tape,RXB-243,RXB-243,Supply pulley assembly
+CT-F950,Cassette Tape,RXB-255,RXB-255,Sub-head base assembly
+CT-F1250,Cassette Tape,RXB-257,RXB-257,Pinch-roIler arm assembly
+RT-909,Reel To Reel Tape,RXB-283,RXB-283,Capstan assembly
+CT-F1050,Cassette Tape,RXB-436,RXB-436,ldler arm full assembly
+CT-F1050,Cassette Tape,RXB-438,RXB-438,Reel base R assembly
+CT-F1050,Cassette Tape,RXB-439,RXB-439,Detector pulley assembiy
+CT-F1050,Cassette Tape,RXB-441,RXB-441,Metal flange assembly
+CT-F1050,Cassette Tape,RXB-442,RXB-442,BT pulley assembly
+CT-F1050,Cassette Tape,RXB-443,RXB-443,Flywheel F assembly
+CT-F1050,Cassette Tape,RXB-444,RXB-444,Flywheel R assembly
+CT-F1050,Cassette Tape,RXB-447,RXB-447,Pinch roller arm F assembly
+CT-F1050,Cassette Tape,RXB-448,RXB-448,Pinch roller arm R assembly
+CT-F1050,Cassette Tape,RXB-451,RXB-451,Erase head L assembly
+CT-F1050,Cassette Tape,RXB-452,RXB-452,Erase head R assembly
+CT-F1050,Cassette Tape,RXB-482,RXB-482,Reel base F assembly
+CT-F1050,Cassette Tape,RXB-483,RXB-483,Head base assembly
+CT-F1050,Cassette Tape,RXB-488,RXB-488,Arm assembly
+QT-6100,Reel To Reel Tape,RXE-010-0,RXE-010,Push switch ass'y
+QT-6600,Reel To Reel Tape,RXE-010-0,RXE-010,Push switch assembly
+QT-74,Reel To Reel Tape,RXE-010-0,RXE-010,Push switch assembly
+RT-1011L,Reel To Reel Tape,RXM-0 1 2-0,RXM-0 1 2,Capstan motor
+QT-6100,Reel To Reel Tape,RXM-003-A,RXM-003,Motor
+QT-6600,Reel To Reel Tape,RXM-003-A,RXM-003,Motor
+QT-74,Reel To Reel Tape,RXM-003-A,RXM-003,Motor
+CT-F6161,Cassette Tape,RXM-006-0,RXM-006,Motor
+CT-F7171,Cassette Tape,RXM-006-0,RXM-006,Motor
+RT-1011L,Reel To Reel Tape,RXM-012-0,RXM-012,Capstan motor
+RT-1020L,Reel To Reel Tape,RXM-012-0,RXM-012,Capstan motor
+RT-1020L,Reel To Reel Tape,RXM-015-0,RXM-015,Reel motor
+RT-1011L,Reel To Reel Tape,RXM-017-0,RXM-017,Reel motor
+RT-1011L,Reel To Reel Tape,RXM-017-0,RXM-017,Reel motor
+CT-F9191,Cassette Tape,RXM-018,RXM-018,Main motor
+CT-F1000,Cassette Tape,RXM-019,RXM-019,Motor
+CT-F8282,Cassette Tape,RXM-019,RXM-019,Motor (FFW/REW)
+CT-F9191,Cassette Tape,RXM-019,RXM-019,FF motor
+CT-F8282,Cassette Tape,RXM-022,RXM-022,Motor (CAPSTAN)
+CT-F6262,Cassette Tape,RXM-027,RXM-027,Motor
+CT-F700,Cassette Tape,RXM-027,RXM-027,Motor
+CT-F7272,Cassette Tape,RXM-027,RXM-027,Motor
+CT-F900,Cassette Tape,RXM-027,RXM-027,Capstan motor
+RT-701,Reel To Reel Tape,RXM-032,RXM-032,Reel motor
+RT-707,Reel To Reel Tape,RXM-032,RXM-032,Reel motor
+RT-701,Reel To Reel Tape,RXM-033,RXM-033,Capstan motor
+RT-707,Reel To Reel Tape,RXM-033,RXM-033,Capstan motor
+RT-707,Reel To Reel Tape,RXM-034,RXM-034,Reel motor (L)
+RT-707,Reel To Reel Tape,RXM-035,RXM-035,Capstan motor
+CT-F1000,Cassette Tape,RXM-036,RXM-036,Capstan motor
+CT-F500/505,Cassette Tape,RXM-046,RXM-046,Motor
+CT-F1250,Cassette Tape,RXM-047,RXM-047,Take-up motor
+CT-F850,Cassette Tape,RXM-047,RXM-047,Take-up motor
+CT-F900,Cassette Tape,RXM-047,RXM-047,Take-up motor
+CT-F950,Cassette Tape,RXM-047,RXM-047,Take up motor
+CT-F850,Cassette Tape,RXM-050,RXM-050,Capstan motor
+CT-F950,Cassette Tape,RXM-050,RXM-050,Motor
+CT-F600/605,Cassette Tape,RXM-055,RXM-055,Motor
+CT-F1250,Cassette Tape,RXM-056,RXM-056,Motor unit
+RT-909,Reel To Reel Tape,RXM-060,RXM-060,Reel motor
+CT-F750,Cassette Tape,RXM-061,RXM-061,Motor
+RT-1020L,Reel To Reel Tape,RXP-011-C,RXP-011,Pinch solenoid
+RT-1020L,Reel To Reel Tape,RXP-012-A,RXP-012,Brake solenoid
+RT-1020L,Reel To Reel Tape,RXP-013-B,RXP-013,Reset solenoid
+CT-F6161,Cassette Tape,RXP-016-A,RXP-016,Solenoid
+CT-F7171,Cassette Tape,RXP-016-0,RXP-016,Solenoid
+RT-1011L,Reel To Reel Tape,RXP-019-A,RXP-019,Reset solenoid
+RT-1011L,Reel To Reel Tape,RXP-021-0,RXP-021,Pinch solenoid
+RT-1011L,Reel To Reel Tape,RXP-021-A,RXP-021,Pinch solenoid
+RT-1011L,Reel To Reel Tape,RXP-022-0,RXP-022,Brake solenoid
+RT-1011L,Reel To Reel Tape,RXP-022-A,RXP-022,Brake solenoid
+RT-1011L,Reel To Reel Tape,RXP-022-A,RXP-022,Brake solenoid
+CT-F8282,Cassette Tape,RXP-029,RXP-029,Plunger solenoid
+CT-F9191,Cassette Tape,RXP-029-0,RXP-029,Solenoid A (PlNCH solenoid)
+CT-F8282,Cassette Tape,RXP-030,RXP-030,Plunger solenoid
+CT-F9191,Cassette Tape,RXP-030-0,RXP-030,Solenoid C (BRAKE solenoid)
+CT-F8282,Cassette Tape,RXP-031,RXP-031,Solenoid (REC)
+CT-F9191,Cassette Tape,RXP-031-0,RXP-031,Solenoid B (REC solenoid)
+CT-F8282,Cassette Tape,RXP-032,RXP-032,Solenoid D (ControlAssembly)
+CT-F9191,Cassette Tape,RXP-032-0,RXP-032,Solenoid D (RESET solenoid)
+CT-F6262,Cassette Tape,RXP-036,RXP-036,Solenoid
+CT-F7272,Cassette Tape,RXP-036,RXP-036,STOP SOL
+RT-701,Reel To Reel Tape,RXP-038,RXP-038,Solenoid (PINCH)
+RT-707,Reel To Reel Tape,RXP-038,RXP-038,Solenoid (PlNCH)
+RT-701,Reel To Reel Tape,RXP-040,RXP-040,Solenoid (BRAKE)
+RT-707,Reel To Reel Tape,RXP-040,RXP-040,Solenoid (BRAKE)
+RT-701,Reel To Reel Tape,RXP-041,RXP-041,Solenoid (PAUSE)
+RT-707,Reel To Reel Tape,RXP-041,RXP-041,Solenoid (PAUSE)
+RT-701,Reel To Reel Tape,RXP-042,RXP-042,Solenoid (RELEASE)
+CT-F900,Cassette Tape,RXP-045,RXP-045,Solenoid A
+CT-F700,Cassette Tape,RXP-048,RXP-048,Solenoid
+CT-F850,Cassette Tape,RXP-056,RXP-056,Solenoid (B) SL802
+CT-F900,Cassette Tape,RXP-056,RXP-056,Solenoid B
+CT-F950,Cassette Tape,RXP-056,RXP-056,Solenoid B (BRAKE SOL.)
+CT-F850,Cassette Tape,RXP-057,RXP-057,SL1 Reset solenoid
+CT-F850,Cassette Tape,RXP-062,RXP-062,Solenoid (A) SL801
+CT-F950,Cassette Tape,RXP-062,RXP-062,Solenoid A (PINCH SOL.)
+CT-F1250,Cassette Tape,RXP-068,RXP-068,Solenoid (A)
+CT-F1250,Cassette Tape,RXP-069,RXP-069,Solenoid (B)
+RT-909,Reel To Reel Tape,RXP-070,RXP-070,Pause solenoid
+RT-909,Reel To Reel Tape,RXP-071,RXP-071,Pinch solenoid
+CT-F750,Cassette Tape,RXP-072,RXP-072,Start solenoid
+CT-F750,Cassette Tape,RXP-073,RXP-073,Stop solenoid
+CT-F750,Cassette Tape,RXP-074,RXP-074,Trigger solenoid
+RT-909,Reel To Reel Tape,RXP-075,RXP-075,Brake solenoid
+CT-F1050,Cassette Tape,RXP-096,RXP-096,P solenoid
+CT-F1050,Cassette Tape,RXP-097,RXP-097,B solenoid
+CT-F1050,Cassette Tape,RXP-098,RXP-098,HB solenoid
+PL-510,Turntable,RXT-034,RXT-034,Angle
+PL-510S,Turntable,RXT-034,RXT-034,Angle
+QT-6100,Reel To Reel Tape,RXX-001 -0,RXX-001 ,REC/P.B. head (4 channel) ass'y
+QT-6600,Reel To Reel Tape,RXX-001-0,RXX-001,REC/P.B. head (4 channel) assamblv
+QT-6100,Reel To Reel Tape,RXX-002-0,RXX-002,REC/P.B. head (2 channel) ass'y
+QT-6600,Reel To Reel Tape,RXX-002-0,RXX-002,REC/P.B. head (2 channel) assembly
+QT-6600,Reel To Reel Tape,RXX-003-0,RXX-003,Amplifier panel
+QT-6100,Reel To Reel Tape,RXX-004-0,RXX-004,Head housing ass'y
+QT-6600,Reel To Reel Tape,RXX-004-0,RXX-004,Head housing assembly
+T-3500,Cassette Tape,RXX-020,RXX-020,BUTTON(PAUSE ASSY)
+T-3500,Cassette Tape,RXX-021,RXX-021,BUTTON(STOP ASSY)
+T-3500,Cassette Tape,RXX-022,RXX-022,BUTTON(FAST FORWARD ASSY)
+T-3500,Cassette Tape,RXX-023,RXX-023,BUTTON(PLAY ASSY)
+T-3500,Cassette Tape,RXX-024,RXX-024,BUTTON(REW ASSY)
+T-3500,Cassette Tape,RXX-025,RXX-025,BUTTON(RECORD ASSY)
+T-3500,Cassette Tape,RXX-026,RXX-026,BUTTON(EJECT ASSY)
+T-3500,Cassette Tape,RXX-028,RXX-028,CASSETTE COVER ASSY
+QT-74,Reel To Reel Tape,RXX-049-0,RXX-049,Brake arm assembly (L)
+QT-74,Reel To Reel Tape,RXX-050-0,RXX-050,Brake arm assembly (R)
+QT-74,Reel To Reel Tape,RXX-051-0,RXX-051,Tension pulley assembly
+QT-74,Reel To Reel Tape,RXX-052-0,RXX-052,Reel mount pulley assembly
+QT-6100,Reel To Reel Tape,RXX-053-0,RXX-053,Speed selector ass'y
+QT-6600,Reel To Reel Tape,RXX-053-0,RXX-053,Speed selector assembly
+QT-74,Reel To Reel Tape,RXX-053-0,RXX-053,Speed selector assembly
+QT-74,Reel To Reel Tape,RXX-054-0,RXX-054,Clutch cam pulley assembly (A)
+QT-74,Reel To Reel Tape,RXX-055-0,RXX-055,Clutch cam pulley assembly (B)
+QT-74,Reel To Reel Tape,RXX-056-0,RXX-056,Reel mount base assembly
+QT-74,Reel To Reel Tape,RXX-062-0,RXX-062,Deck panel assembly
+QT-74,Reel To Reel Tape,RXX-077-0,RXX-077,Reel base assembly (L)
+QT-74,Reel To Reel Tape,RXX-078-0,RXX-078,Reel base assembly (R)
+QT-74,Reel To Reel Tape,RXX-079-0,RXX-079,Back tension assembly (L)
+QT-74,Reel To Reel Tape,RXX-080-0,RXX-080,Back tension assembly (R)
+QT-74,Reel To Reel Tape,RXX-085-0,RXX-085,Amplifier panel assembly
+QT-74,Reel To Reel Tape,RXX-086-0,RXX-086,Head cover assembly
+RT-1011L,Reel To Reel Tape,RXX-105-0,RXX-105,Fly wheel assembly
+RT-1020L,Reel To Reel Tape,RXX-105-0,RXX-105,Flywheel assembly
+RT-1020L,Reel To Reel Tape,RXX-106-0,RXX-106,Pinch solenoid assembly
+RT-1020L,Reel To Reel Tape,RXX-107-0,RXX-107,Playback head assembly
+RT-1020L,Reel To Reel Tape,RXX-108-0,RXX-108,Recording head assembly
+RT-1020L,Reel To Reel Tape,RXX-109-0,RXX-109,Roller guide assembly (Including B)
+RT-1011L,Reel To Reel Tape,RXX-110-0,RXX-110,Brake drum assembly
+RT-1020L,Reel To Reel Tape,RXX-110-0,RXX-110,Brake dram assembly
+RT-1011L,Reel To Reel Tape,RXX-111-0,RXX-111,Brake band assembly
+RT-1020L,Reel To Reel Tape,RXX-111-0,RXX-111,Brake band assembly
+RT-1011L,Reel To Reel Tape,RXX-112-0,RXX-112,Back cover (A - including key No.44) assembly
+RT-1020L,Reel To Reel Tape,RXX-113-0,RXX-113,"Back cover (B) assembly (including 46, 47, 52)"
+RT-1020L,Reel To Reel Tape,RXX-115-0,RXX-115,Mech. panel assembly
+RT-1020L,Reel To Reel Tape,RXX-124-0,RXX-124,"Back cover (L) assembly (Including 44, 51, 55)"
+RT-1020L,Reel To Reel Tape,RXX-128-0,RXX-128,Head cover (L) assembly
+RT-1020L,Reel To Reel Tape,RXX-129-0,RXX-129,"Amp. panel (L) assembly (Including 11,34,40)"
+RT-1011L,Reel To Reel Tape,RXX-143-0,RXX-143,Function button (A)assembly (STOP) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-144-0,RXX-144,Function button (B) assembly (FF) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-144-0,RXX-144,Function button (B) assembly (HEW) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-144-0,RXX-144,Function button (B) assembly (PLAY) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-145-0,RXX-145,Function button (C) assembly (REC) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-146-0,RXX-146,"AMP panel assembly (including key No.33, 57)"
+RT-1011L,Reel To Reel Tape,RXX-147-0,RXX-147,Mech. panel assembly (including key No. 52. 56)
+RT-1011L,Reel To Reel Tape,RXX-149-0,RXX-149,Reel adaptors
+RT-1011L,Reel To Reel Tape,RXX-150-0,RXX-150,Head cover assembly (including key No.55)
+RT-1011L,Reel To Reel Tape,RXX-151-0,RXX-151,Playback head assembly
+RT-1011L,Reel To Reel Tape,RXX-152-0,RXX-152,Recording head assembly
+RT-1011L,Reel To Reel Tape,RXX-154-0,RXX-154,Pinch solenoid assembly
+CT-F9191,Cassette Tape,RXX-167,RXX-167,Front panel assembly
+RT-701,Reel To Reel Tape,RXX-199,RXX-199,Front panel assembly
+RT-707,Reel To Reel Tape,RXX-207,RXX-207,Front panel assembly
+CT-F1000,Cassette Tape,RXX-212,RXX-212,Front panel assembly
+CT-F700,Cassette Tape,RXX-221,RXX-221,Front panel assembly  (D type)
+CT-F700,Cassette Tape,RXX-221,RXX-221,Front panel assembly  (D/G type)
+CT-F700,Cassette Tape,RXX-221,RXX-221,Front panel assembly  (HG type)
+CT-F700,Cassette Tape,RXX-223,RXX-223,Front panel assembly  (KC type)
+CT-F700,Cassette Tape,RXX-223,RXX-223,Front panel assembly  (KU type)
+RT-707,Reel To Reel Tape,RXX-227,RXX-227,PINCH ROLLER ASSY(TAKE-UP)
+CT-F500/505,Cassette Tape,RXX-230,RXX-230,PulIey assembly
+CT-F600/605,Cassette Tape,RXX-230,RXX-230,Motor pulley assembly
+CT-F500/505,Cassette Tape,RXX-234,RXX-234,Door assembly
+CT-F600/605,Cassette Tape,RXX-234,RXX-234,Door assembly - CT-F605/KU Model

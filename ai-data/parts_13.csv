@@ -1,0 +1,1005 @@
+model,category,part_number,normalized_part_number,description
+PL-50,Turntable,B71-602-0,B71-602,Nut
+PL-55/55D,Turntable,B71-602-0,B71-602,Nut
+PL-25/F,Turntable,B71-603-0,B71-603,Nut
+PL-50,Turntable,B71-619-0,B71-619,Nut
+PL-55/55D,Turntable,B71-619-0,B71-619,Washer
+PL-A45,Turntable,B71-625-A,B71-625,Nut
+PL-A25,Turntable,B71-635-0,B71-635,Nut special
+PL-A25,Turntable,B71-636-0,B71-636,Nut special
+PL-A35,Turntable,B71-636-0,B71-636,Nut
+PL-A45,Turntable,B71-636-0,B71-636,Nut
+PL-A45D,Turntable,B71-636-0,B71-636,Nut
+PL-A25,Turntable,B71-642-0,B71-642,Nut special
+PL-50,Turntable,B71-646-0,B71-646,Nut
+PL-510,Turntable,B71-652,B71-652,Nut
+PL-510S,Turntable,B71-652,B71-652,Nut
+PL-A505,Turntable,B71-652-A,B71-652,Nut
+PL-50,Turntable,B71-653-A,B71-653,Nut
+PL-50,Turntable,B71-653-A,B71-653,Nut
+PL-51,Turntable,B71-653-A,B71-653,Nut
+PL-51A,Turntable,B71-653-A,B71-653,Nut
+PL-71,Turntable,B71-653-0,B71-653,Nut
+PL-A35,Turntable,B71-653-0,B71-653,Nut
+PL-A45D,Turntable,B71-653-A,B71-653,Nut
+PL-12E,Turntable,B71-656-B,B71-656,Nut
+PL-15D,Turntable,B71-656-B,B71-656,Nut
+PL-A25,Turntable,B71-656-0,B71-656,Hexagon nut for center shaft
+PL-A35,Turntable,B71-656-A,B71-656,Nut
+PL-A45,Turntable,B71-656-B,B71-656,Nut
+PL-A45D,Turntable,B71-656-B,B71-656,Nut
+H-R9000,8-Track Tape,B71-673-A,B71-673,Hex. Nut (with Nylon Ring)
+H-R99,8-Track Tape,B71-673-A,B71-673,Hex. Nut (with Nylon Ring)
+QT-6600,Reel To Reel Tape,B71-856-0,B71-856,Special nut
+QT-74,Reel To Reel Tape,B71-856-0,B71-856,Special nut
+H-R9000,8-Track Tape,B90-002-A,B90-002,Screw (Dial Pulley A)
+RT-707,Reel To Reel Tape,BBH-352,BBH-352,Shut off spring
+SX-6,Receiver,BBT30P080FZK,BBT30P080FZK,Screw (3X8)
+A-9,Integrated Amplifier,BBT3OPU80FZK,BBT3OPU80FZK,Screw 3X8
+A-66X,Integrated Amplifier,BBZ30P060FMC,BBZ30P060FMC,Screw
+A-66X,Integrated Amplifier,BBZ30P060FZK,BBZ30P060FZK,Screw (3 x 6)
+SX-6,Receiver,BBZ30P060FZK,BBZ30P060FZK,Screw (3X6)
+A-66X,Integrated Amplifier,BBZ30P080FZK,BBZ30P080FZK,Screw (3 x 8)
+RT-707,Reel To Reel Tape,BEB-219,BEB-219,Cushion rubber
+CT-F750,Cassette Tape,BG-30,BG-30,Indicator
+CT-F850,Cassette Tape,BG-30,BG-30,Flourescent indicator tube
+TX-05,Tuner,BG5724S,BG5724S,LED CT730
+SX-6,Receiver,BMZ40P080FZB,BMZ40P080FZB,Screw (4X8)
+SX-828,Receiver,BT5B 151 K,BT5B 151 K,Wire wound  150 5W
+SA-600,Integrated Amplifier,C15-001-O,C15-001,Oil paper 0.01 450V
+SA-800,Integrated Amplifier,C15-001-0,C15-001,Oil paper 0.01 800V (KCW)
+QT-6100,Reel To Reel Tape,C22-403-A,C22-403,MP capacitor
+QT-6600,Reel To Reel Tape,C22-403-A,C22-403,MP capacitor
+QT-74,Reel To Reel Tape,C22-403-A,C22-403,MP capacitor 1uF+3uF 250V
+SX-9000,Receiver,C35-055-0,C35-055,Volume Control with switch (50k-HB)
+CT-F1050,Cassette Tape,C43-003,C43-003,Capacitor
+CT-F1050,Cassette Tape,C43-003,C43-003,Capacitor (0.01 /1.4k)
+CT-F700,Cassette Tape,C43-003,C43-003,Capacitor 0.01uF
+CT-F9191,Cassette Tape,C43-003,C43-003,Ceramic 0.01 1.4kV
+PL-51,Turntable,C43-003-0,C43-003,Capacitor 0.01uF 1.4kV
+PL-51A,Turntable,C43-003-0,C43-003,Capacitor 0.01uF 1.4kV
+PL-55/55D,Turntable,C43-003-0,C43-003,Ceramic capacitor 0.01uF
+PL-71,Turntable,C43-003-0,C43-003,Capacitor 0.01uF 1.4kV
+QT-6100,Reel To Reel Tape,C43-003-0,C43-003,Ceramic capacitor 0.01uF DC 1.4kV
+QT-6600,Reel To Reel Tape,C43-003-0,C43-003,Ceramic capacitor 0.01uF DC 1.4kV
+QT-74,Reel To Reel Tape,C43-003-0,C43-003,Ceramic capacitor 0.01uF 1.4kV
+RT-909,Reel To Reel Tape,C43-003,C43-003,Capacitor 0.01 (D/G)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (KU/KC)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.21 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-O,C43-003,Ceramic 0.01 DC 1.4kV
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic    1.4kV FVW model only
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic  0.01  1 .4kV FVW model
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic  0.01  1.4kV FVW model
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FWV)
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SD-1100,Other,C43-003-0,C43-003,Ceramic capacitor 0.01 uF DC1.4kV
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV (FVZW)
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV (FVZW)
+SX-525,Receiver,C43-003-0,C43-003,Ceramic 0.01  DC 1.4kV
+SX-6000,Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-6000,Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-6000,Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-626 (1971),Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-626 (1971),Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-626 (1971),Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-727,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC .4kV
+SX-727,Receiver,C43-003-0,C43-003,"Ceramic 0.01 DC 1 4kV (FVZW,FW)"
+SX-727,Receiver,C43-003-0,C43-003,"Ceramic 0.01 DC l.4kV (FVZW,FW)"
+SX-828,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4kV
+SX-828,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4kV
+SX-828,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4kV
+SX-1500T,Receiver,C45-004-B,C45-004,Cylinder trimmer
+SX-440,Receiver,C51-021-0,C51-021,Electrolytic 1000 16V
+SX-440,Receiver,C51-021-0,C51-021,Electrolytic 1000 16V
+SX-9000,Receiver,C52-045-A,C52-045,Electrolytic 2200 50V
+SX-9000,Receiver,C52-045-A,C52-045,Electrolytic 2200 50V
+SX-440,Receiver,C52-046-A,C52-046,Electrolytic 1000 35V
+SA-500A,Integrated Amplifier,C52-066-B,C52-066,Electrolytic 3300 50V (FV)
+SA-500A,Integrated Amplifier,C52-066-B,C52-066,Electrolytic 3300 50V (KU/KC)
+SX-1500TD,Receiver,C52-071-0,C52-071,Electrolytic 2200uf  80V
+SX-990,Receiver,C52-071-0,C52-071,Electrolytic  2200 80V
+SX-424,Receiver,C52-074-B,C52-074,Electrolytic  2200  50V
+SX-525,Receiver,C52-075-B,C52-075,Electrolytic 2200  35V
+SX-525,Receiver,C52-075-B,C52-075,Electrolytic 2200  35V
+SX-9000,Receiver,C52-075-0,C52-075,Electrolytic 2200 35V
+SX-9000,Receiver,C52-076-A,C52-076,Electrolytic 2200 100V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (FVW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (FVW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (KCW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (KCW)
+SA-800,Integrated Amplifier,C52-083-B,C52-083,Electrolytic 4700 50V (FVW)
+SX-6000,Receiver,C52-084-B,C52-084,Electrolytic 1000 50V
+SX-6000,Receiver,C52-084-B,C52-084,Electrolytic 1000 50V
+SA-600,Integrated Amplifier,C52-085-B,C52-085,Electrolytic 3300 80V (FVW)
+SA-600,Integrated Amplifier,C52-085-O,C52-085,Electrolytic 3300 80V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QX-4000,Receiver,C52-088-C,C52-088,Electrolytic capacitor 4700uF 50V
+QX-646,Receiver,C52-088-C,C52-088,"Electrolytic capacitor 4,700 uF 50V"
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electroiytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-800,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V (FVW)
+SX-1000TW,Receiver,C64-030-0,C64-030,AM variable capacitor
+SX-2500,Receiver,C64-030-O,C64-030,AM Tuning Capacitor
+SX-6000,Receiver,C64-030-0,C64-030,AM Tuning Capacitor
+SX-9000,Receiver,C64-030-0,C64-030,AM Variable Capacitor
+SX-1000TA (Later),Receiver,C64-033,C64-033,Variable Capacitor
+SX-1500T,Receiver,C64-036-0,C64-036,4 gang air variable capacitor
+SX-1500TD,Receiver,C64-036-B,C64-036,Variable Capacitor for FM tuner unit 4-gang
+SX-828,Receiver,C64-045-0,C64-045,AM tuning capacitor
+SX-1500TD,Receiver,C81-013-0,C81-013,30kΩ MIC LEVEL
+SX-2500,Receiver,C81-013-0,C81-013,"30kΩ ,FM MUTlNG"
+TX-1000,Tuner,C81-017,C81-017,CONTROL(AM OUTPUT LEVEL)
+T-6100,Reel To Reel Tape,C81-433,C81-433,CONTROL(REC LEVEL)
+T-3300,Cassette Tape,C81-435,C81-435,CONTROL(REC/PLAYBACK LEVEL)
+T-3500,Cassette Tape,C81-435,C81-435,CONTROL(REC/PLAYBACK LEVEL)
+T-8800,Reel To Reel Tape,C81-436,C81-436,CONTROL(RECORD LEVEL)
+SX-440,Receiver,C82-033-0,C82-033,"100K dual, Bass"
+SX-440,Receiver,C82-033-0,C82-033,"100K dual, Treble"
+SA-600,Integrated Amplifier,C82-038-O,C82-038,Dual type Volume control 250k
+SX-1000TD,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-1000TW,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-1500T,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-770,Receiver,C82-038-0,C82-038,"250kΩ dual,Volume"
+QL-600,Integrated Amplifier,C82-040-A,C82-040,"100k-B (BASS), dual"
+QL-600,Integrated Amplifier,C82-040-A,C82-040,"100k-B (TREBLE), dual"
+QL-600A,Integrated Amplifier,C82-040,C82-040,"100k-B, dual variable (BASS,TREBLE)"
+SA-500,Integrated Amplifier,C82-040-O,C82-040,100K dual Bass control
+SA-500,Integrated Amplifier,C82-040-O,C82-040,100K dual Treble control
+SX-6000,Receiver,C82-040-A,C82-040,"100k dual, Bass Control"
+SX-6000,Receiver,C82-040-A,C82-040,"100k dual, Treble Control"
+SX-770,Receiver,C82-040-0,C82-040,"100kΩ dual, BASS Control"
+SX-770,Receiver,C82-040-0,C82-040,"100kΩ dual, TREBLE Control"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-REAR)"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-FRONT)"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-REAR)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-FRONT)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-REAR)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-FRONT)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-REAR)"
+SX-9000,Receiver,C82-045,C82-045,BASS CONTROL (I00K-A)
+SX-9000,Receiver,C82-045,C82-045,TREBLE CONTROL (100K-A)
+QX-8000,Receiver,C82-045 0,C82-045 0,"100k B, dual (BASS-FRONT)"
+SX-424,Receiver,C82-046-A,C82-046,100k dual Bass
+SX-424,Receiver,C82-046-A,C82-046,100k dual Treble
+SX-525,Receiver,C82-046-A,C82-046,"Dual, bass"
+SX-525,Receiver,C82-046-A,C82-046,"Dual, treble"
+QX-9900,Receiver,C82-049-0,C82-049,500k B dual balance (FRONT)
+QX-9900,Receiver,C82-049-0,C82-049,"500k-B dual, balance (REAR)"
+SX-727,Receiver,C82-049-0,C82-049,Dual  100k-B (Balance)
+SX-828,Receiver,C82-049-0,C82-049,"500k,dual, Balance"
+QA-800,Integrated Amplifier,C82-050-0,C82-050,"Bass control, 100k - B"
+QA-800,Integrated Amplifier,C82-050-0,C82-050,"Treble control, 100k- B"
+QA-800A,Integrated Amplifier,C82-050-0,C82-050,100k-B Bass control
+QA-800A,Integrated Amplifier,C82-050-0,C82-050,100k-B Treble control
+SX-626 (1971),Receiver,C82-050-0,C82-050,100k-B dual (Bass)
+SX-626 (1971),Receiver,C82-050-0,C82-050,100k-B dual (Treble)
+SX-626 (1973),Receiver,C82-050-0,C82-050,Variable resistor 100k-B (Bass)
+SX-626 (1973),Receiver,C82-050-0,C82-050,Variable resistor 100k-B (Treble)
+TX-1000,Tuner,C82-051,C82-051,CONTROL(FM OUTPUT LEVEL)
+QX-9900,Receiver,C82-056-B,C82-056,Mic mixing control
+QX-9900,Receiver,C82-056-B,C82-056,Mic mixing control
+SX-9000,Receiver,C85-010-0,C85-010,Volume Control (250k-A2)
+SA-1000,Integrated Amplifier,C85-048-B,C85-048,Dual-potentiometer 500k (HB BALANCE)
+SA-700,Integrated Amplifier,C85-048-0,C85-048,"500k, Dual, Balance"
+SA-800,Integrated Amplifier,C85-048-B,C85-048,"500k dual, BALANCE"
+SA-900,Integrated Amplifier,C85-048-B,C85-048,500K Dual BALANCE Control
+SX-6000,Receiver,C85-048-B,C85-048,"500k HB, dual, BALANCE"
+SX-990,Receiver,C85-048-O,C85-048,500KΩ dual BALANCE
+SA-600,Integrated Amplifier,C85-052-O,C85-052,Dual type Balance Volume control 50k
+SX-1000TA (Later),Receiver,C85-052,C85-052,50K dual. Balance
+SX-1000TD,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-1000TW,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-1500T,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-700T,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-770,Receiver,C85-052-0,C85-052,"50kΩ dual, Balance"
+SA-1000,Integrated Amplifier,C85-054-0,C85-054,Dual-potentiometer 500k (B1 VOLUME)
+SA-700,Integrated Amplifier,C85-054-0,C85-054,"500K, Dual, Volume"
+SA-800,Integrated Amplifier,C85-054-0,C85-054,"500k dual, VOLUME"
+SA-900,Integrated Amplifier,C85-054-0,C85-054,500K Dual VOLUME Control
+SX-1000TA (Later),Receiver,C85-054,C85-054,500K dual. Volume
+SX-6000,Receiver,C85-054-0,C85-054,"500k B, dual, VOLUME"
+SX-700T,Receiver,C85-054-0,C85-054,500K dual Volume
+SX-990,Receiver,C85-054-0,C85-054,500KΩ dual VOLUME
+QX-9900,Receiver,C85-056-B,C85-056,"50k-A2, Mic mixing control"
+QX-9900,Receiver,C85-056-B,C85-056,"50k-A2, Mic mixing control"
+SX-9000,Receiver,C85-056-0,C85-056,Volume Control with switch (50k-A2)
+SX-9000,Receiver,C85-056-0,C85-056,Volume Control with switch (50k-A2)
+TX-1000,Tuner,C85-058,C85-058,CONTROL(MUTING LEVEL)
+SX-1000TA (Later),Receiver,C87-018,C87-018,100K dual. Bass
+SX-1000TA (Later),Receiver,C87-018,C87-018,100K dual. Treble
+SX-1000TD,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-1000TD,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-1000TW,Receiver,C87-018-0,C87-018,100K dual  Bass
+SX-1000TW,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-1500T,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-1500T,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-700T,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-700T,Receiver,C87-018-0,C87-018,100K dual Treble
+SA-500,Integrated Amplifier,C87-021-O,C87-021,"250K Dual, Volume Control"
+SX-440,Receiver,C87-021-0,C87-021,"250k dual, Volume"
+SX-990,Receiver,C87-024-0,C87-024,"100KΩ, dual (Bass Control)"
+SX-990,Receiver,C87-024-0,C87-024,"100KΩ, dual (Treble Control)"
+SX-424,Receiver,C87-025-0,C87-025,250k dual Volume
+T-8800,Reel To Reel Tape,C87-401,C87-401,CONTROL(PLAYBACK LEVEL)
+SX-1500TD,Receiver,C88-009-0,C88-009,500kΩ dual. VOLUME. BALANCE
+SX-2500,Receiver,C88-009-0,C88-009,"500kΩ 4-gang, VOLUME and BALANCE"
+SX-9000,Receiver,C88-010-0,C88-010,Volume Control (250k-A2)
+SX-1000TA (Later),Receiver,C92-004,C92-004,10K MPX Separatian Control
+SX-1000TA (Later),Receiver,C92-022-0,C92-022,"1K,L and R Level adjust"
+SX-1000TD,Receiver,C92-022-0,C92-022,1kΩ Left and Right Level Adjust
+SX-1500T,Receiver,C92-022-0,C92-022,1kΩ Left and Right Level Adjust
+TX-900,Tuner,C92-022,C92-022,"CONTROL(LEVEL ADJUSTMENT ""L""/""R"
+SX-1000TA (Later),Receiver,C92-026,C92-026,300Ω Current control
+SX-1000TA (Later),Receiver,C92-026,C92-026,300Ω Current control
+SX-1000TA (Later),Receiver,C92-026-0,C92-026,300Ω Auto Level adjust
+SX-1000TD,Receiver,C92-026-0,C92-026,300Ω Auto Level Adjust
+SX-1500T,Receiver,C92-026-0,C92-026,300Ω Auto Level Adjust
+SX-1000TD,Receiver,C92-028-0,C92-028,10k MPX Separation Control
+SX-1000TW,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-1500T,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-700T,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-700T,Receiver,C92-032-0,C92-032,100 ohm Current Control
+SX-700T,Receiver,C92-032-0,C92-032,100 ohm Current Control
+SX-1000TD,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TD,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TW,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TW,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1500T,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1500T,Receiver,C92-037-0,C92-037,300Ω Current Control
+TX-7800,Tuner,C92-051,C92-051,VCO adjust 4.7k
+SX-1000TW,Receiver,CA-20-1,CA-20,Wooden case
+H-R9000,8-Track Tape,CAA-035-0,CAA-035,"Knob, internal"
+H-R9000,8-Track Tape,CAA-036-0,CAA-036,"Knob, External"
+H-R100,8-Track Tape,CAA-037-C,CAA-037,"KNOB, REC LEVEL"
+H-R9000,8-Track Tape,CAA-037-0,CAA-037,Knob (REC LEVEL)
+H-R99,8-Track Tape,CAA-037-0,CAA-037,Knob (REC Level)
+H-R100,8-Track Tape,CAB-003-B,CAB-003,"KNOB, FUNCTION"
+H-R9000,8-Track Tape,CAB-003-0,CAB-003,Knob (SELECTOR)
+H-R99,8-Track Tape,CAB-003-0,CAB-003,Knob (Function)
+H-R9000,8-Track Tape,CAB-004-0,CAB-004,Knob (Tuning)
+H-R9000,8-Track Tape,CAB-005-0,CAB-005,Knob (FUNCTlON)
+H-R100,8-Track Tape,CAC-036-B,CAC-036,"BUTTON, FFWD,PROGRAM,PAUSE"
+H-R9000,8-Track Tape,CAC-036-0,CAC-036,"Push Button (ALC, F. FWD,PROGRAM, PAUSE)"
+H-R99,8-Track Tape,CAC-036-0,CAC-036,"Push Button (ALC, F. FWD, Program, Pause)"
+H-R100,8-Track Tape,CAC-037-A,CAC-037,"BUTTON, REC"
+H-R9000,8-Track Tape,CAC-037-0,CAC-037,Push Button (REC)
+H-R99,8-Track Tape,CAC-037-0,CAC-037,Push Button (REC)
+H-R9000,8-Track Tape,CAC-061-0,CAC-061,Push Button (POWER)
+H-22,8-Track Tape,CAC-075-0,CAC-075,Program Selector Button
+H-R100,8-Track Tape,CAC-087-A,CAC-087,"BUTTON, DOLBY"
+H-R9000,8-Track Tape,CAG-017-A,CAG-017,Dial Scaie
+H-22,8-Track Tape,CAT-013-0,CAT-013,Cartridge Door
+H-R9000,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R9000,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R99,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R99,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R9000,8-Track Tape,CAW-006-0,CAW-006,Tuning Meter
+H-R100,8-Track Tape,CAW-007-A,CAW-007,COUNTER
+H-R9000,8-Track Tape,CAW-007-0,CAW-007,Counter
+H-R99,8-Track Tape,CAW-007-0,CAW-007,Counter
+H-R100,8-Track Tape,CAW-013-0,CAW-013,Level Meter (Lch.)
+H-R100,8-Track Tape,CAW-013-0,CAW-013,Level Meter (Rch.)
+H-R9000,8-Track Tape,CBE-003-0,CBE-003,Dish Washer
+H-R99,8-Track Tape,CBE-003-0,CBE-003,Dish Washer
+H-R9000,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R9000,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R99,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R99,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R9000,8-Track Tape,CBE-013-0,CBE-013,"Flat Washer, M8"
+H-R9000,8-Track Tape,CBE-013-0,CBE-013,"Flat Washer, M8"
+H-R9000,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R9000,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R99,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R99,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R9000,8-Track Tape,CBE-019-0,CBE-019,Spacer
+H-R99,8-Track Tape,CBE-019-0,CBE-019,Spacer
+H-R9000,8-Track Tape,CBF-021-0,CBF-021,Teflon Washer
+H-R9000,8-Track Tape,CBF-034-0,CBF-034,Teflon Washer
+H-R99,8-Track Tape,CBF-034-0,CBF-034,Teﬂon Washer
+H-R9000,8-Track Tape,CBH-001-0,CBH-001,Spring (Solenoid)
+H-R99,8-Track Tape,CBH-001-0,CBH-001,Spring (Solenoid)
+H-R9000,8-Track Tape,CBH-002-0,CBH-002,Spring (Cam)
+H-R99,8-Track Tape,CBH-002-0,CBH-002,Spring (Cam)
+H-R99,8-Track Tape,CBH-048-0,CBH-048,Spring
+H-R9000,8-Track Tape,CBH-074-A,CBH-074,Spring (Dial Pulley B)
+H-R9000,8-Track Tape,CBH-102-0,CBH-102,Spring (Recording Lock Lever)
+H-R99,8-Track Tape,CBH-102-0,CBH-102,Spring (Recording Lock Lever)
+H-R9000,8-Track Tape,CBH-103-0,CBH-103,Spring (Program Lever Return)
+H-R99,8-Track Tape,CBH-103-0,CBH-103,Spring (Program Lever Return)
+H-22,8-Track Tape,CBH-122-0,CBH-122,Spring - Head Azimuth Adjusting
+H-22,8-Track Tape,CBH-122-0,CBH-122,Spring - Head Base
+H-22,8-Track Tape,CBH-123-0,CBH-123,Spring - Cam Height
+H-22,8-Track Tape,CBH-124-0,CBH-124,Spring - Pressure
+H-R99,8-Track Tape,CBH-131-0,CBH-131,Spring (Recording Lever)
+H-22,8-Track Tape,CBH-177-0,CBH-177,Spring (Cartridge Door Shaft)
+H-R9000,8-Track Tape,CBL-045-0,CBL-045,"Leaf Spring, Button Lock"
+H-22,8-Track Tape,CBL-046-0,CBL-046,Spring - Tension
+H-R9000,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R9000,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R99,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R99,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R9000,8-Track Tape,CBN-004-0,CBN-004,"Hex. Nut, M8"
+H-R9000,8-Track Tape,CBN-004-0,CBN-004,"Hex. Nut, M8"
+H-R9000,8-Track Tape,CBN-005-0,CBN-005,"Hex Nut, M9"
+H-R9000,8-Track Tape,CBN-005-0,CBN-005,"Hex. Nut, M9"
+H-R99,8-Track Tape,CBN-005-0,CBN-005,"Hex. Nut, M9"
+SX-6000,Receiver,CCDSL 030D 50,CCDSL 030D 50,Ceramic 3P 50V
+SA-8100,Integrated Amplifier,CCDSL 101Z 50,CCDSL 101Z 50,Ceramic 100p 50V
+SA-8100,Integrated Amplifier,CCDSL 101Z 50,CCDSL 101Z 50,Ceramic 100p 50V
+SX-6000,Receiver,CCDSL 150K 50,CCDSL 150K 50,Ceramic 15p 50V
+SA-8100,Integrated Amplifier,CCDSL 680K 50,CCDSL 680K 50,Ceramic 68p 50V
+SA-8100,Integrated Amplifier,CCDSL 680k 50,CCDSL 680k 50,Ceramic 68p 50V
+SX-1250,Receiver,CCDSL560K50,CCDSL560K50,Ceramic 56p 50V (HG)
+H-R100,8-Track Tape,CCG-003-0,CCG-003,Capacitor 0.01uF
+H-R99,8-Track Tape,CCG-003-0,CCG-003,Capacitor 0.01 uF  +80/-20% 250V
+H-R9000,8-Track Tape,CCS-038-0,CCS-038,Gain Control
+H-R9000,8-Track Tape,CCS-039-0,CCS-039,Tone Control with Switch Treble and Bass
+H-R100,8-Track Tape,CCS-040-0,CCS-040,Volume (Record Level)
+H-R100,8-Track Tape,CCS-040-0,CCS-040,Volume (Record Level)
+H-R9000,8-Track Tape,CCS-040-0,CCS-040,Volume (REC LEVEL)
+H-R9000,8-Track Tape,CCS-040-0,CCS-040,Volume (REC LEVEL)
+H-R9000,8-Track Tape,CCS-040-0,CCS-040,Volume (REC LEVEL)
+H-R99,8-Track Tape,CCS-040-0,CCS-040,Volume (Rec Level)
+H-R99,8-Track Tape,CCS-040-0,CCS-040,Volume (Rec Level)
+H-R9000,8-Track Tape,CDE-045-0,CDE-045,Connecting Cord
+H-R99,8-Track Tape,CDE-045-0,CDE-045,Connecting Cord
+H-R9000,8-Track Tape,CDE-052-0,CDE-052,Speaker Cord
+H-22,8-Track Tape,CDE-094-0,CDE-094,Patch Cord
+H-R9000,8-Track Tape,CDG-002-0,CDG-002,AC Power Cord
+H-R99,8-Track Tape,CDG-002-0,CDG-002,AC Power Cord
+H-22,8-Track Tape,CDG-012-0,CDG-012,Power Supply Cord
+SX-1080,Receiver,CEA  010P 80,CEA  010P 80,Electrolytic  1  80V
+SA-9800,Integrated Amplifier,CEA 010P 50,CEA 010P 50,Electrolytic 1/50V (KU)
+SA-9800,Integrated Amplifier,CEA 010P 50,CEA 010P 50,"Electrolytic 1/50V (S, S/G)"
+QX-949,Receiver,CEA 100P 50,CEA 100P 50,Electrolytic 10 50V
+QX-646,Receiver,CEA 101 P 16,CEA 101 P 16,Electrolytic 100 16V
+QX-646,Receiver,CEA 101 P 16,CEA 101 P 16,Electrolytic 100 16V
+QX-747A,Receiver,CEA 101 P 16,CEA 101 P 16,Electrolytic 100 16V
+SX-525,Receiver,CEA 101 P 6,CEA 101 P 6,Electrolytic 100  6V
+SX-424,Receiver,CEA 101P 10,CEA 101P 10,Electrolytic  100  10V
+QX-949,Receiver,CEA 101P 16,CEA 101P 16,Electrolytic 100 16V
+SX-525,Receiver,CEA 101P 16,CEA 101P 16,Electrolytic 100  16V
+SX-1250,Receiver,CEA 101P 6,CEA 101P 6,"Electrolytic, 100 uf, 6V"
+SX-636,Receiver,CEA 101P 6,CEA 101P 6,Electrolytic  100  6V
+SPEC-1,Pre-Amplifier,CEA 102P 25,CEA 102P 25,"Electrolytic 1,000 25V"
+SX-727,Receiver,CEA 221M 10,CEA 221M 10,Electrolytic  220  10V
+SX-828,Receiver,CEA 221P 6,CEA 221P 6,Electrolytic  220  6V
+SX-727,Receiver,CEA 331M 16,CEA 331M 16,Electrolytic  330  16V
+SX-535,Receiver,CEA 331P 35,CEA 331P 35,Electrolytic  330  35V
+QT-6600,Reel To Reel Tape,CEB 101P 50,CEB 101P 50,Electrolytic capacitor 100uF  50V
+QT-74,Reel To Reel Tape,CEB 101P 50,CEB 101P 50,Electrolytic capacitor 100uF 50V
+QX-747,Receiver,CEB 102P 25,CEB 102P 25,"Electrolytic 1,000 25V"
+QX-747,Receiver,CEB 102P 50,CEB 102P 50,"Electrolytic 1,000 50V"
+SX-626 (1971),Receiver,CEB 221P 10,CEB 221P 10,Electrolytic 220 10V
+SA-500A,Integrated Amplifier,CEB 471 P35,CEB 471 P35,Electrolytic 470 35V (FV)
+SX-828,Receiver,CEB 471P 16,CEB 471P 16,Electrolytic  470  16V
+SA-500A,Integrated Amplifier,CEB 471P 35,CEB 471P 35,Electrolytic 470 35V (KU/KC)
+SX-6000,Receiver,CEB 4R7P 16,CEB 4R7P 16,Electrolytic 4.7 16V
+H-R9000,8-Track Tape,CEG-004-0,CEG-004,Polyethylene Bag for Set
+H-22,8-Track Tape,CEG-013-0,CEG-013,Polyethylene Bag
+H-R9000,8-Track Tape,CEK-002-0,CEK-002,"Fuse, 2A"
+H-R9000,8-Track Tape,CEK-002-0,CEK-002,"Fuse, 2A"
+H-R9000,8-Track Tape,CEK-002-0,CEK-002,"Fuse, 2A"
+H-R99,8-Track Tape,CEK-008-0,CEK-008,"Fuse, 0.5A"
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Counter)
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Dial Pointer)
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Stereo indicator)
+H-R99,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Counter)
+H-R100,8-Track Tape,CEL-020-B,CEL-020,"Lamp, 60mA 14V (Counter Ind.)"
+H-R100,8-Track Tape,CEL-020-B,CEL-020,"Lamp, 60mA 14V (Dolby Ind.)"
+H-R100,8-Track Tape,CEL-020-B,CEL-020,"Lamp, 60mA 14V (Rec. Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (End Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-024-0,CEL-024,"Lamp, 150mA 8V (Level Meter Ind)"
+H-R100,8-Track Tape,CEL-024-0,CEL-024,"Lamp, 150mA 8V (Level Meter Ind)"
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pilot Lamp 6.3V 50mA - Program
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pilot Lamp 6.3V 50rnA - Program
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pilut Lamp 6.3V 50mA - Program
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pllot Lamp 6.3V 50mA - Program
+SX-9000,Receiver,CETG 100MF 100V,CETG 100MF 100V,Electrolytic 100 100V
+H-R9000,8-Track Tape,CHA-227-0,CHA-227,Carton
+H-R9000,8-Track Tape,CHA-228-0,CHA-228,Styro Foam
+H-R99,8-Track Tape,CHA-255-0,CHA-255,Carton
+H-R99,8-Track Tape,CHA-256-0,CHA-256,Styro Foam
+H-22,8-Track Tape,CHA-415-0,CHA-415,Packing Case
+H-22,8-Track Tape,CHA-416-0,CHA-416,Styrofoam
+H-R9000,8-Track Tape,CKB-002-0,CKB-002,"Pin Jack, 6P (REC., PHONO and AUX)"
+H-R100,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Line Input)
+H-R100,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Line Output)
+H-R99,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Input Jack)
+H-R99,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Output Jack)
+H-R99,8-Track Tape,CKB-003-0,CKB-003,"Pin Jack, 4P"
+H-22,8-Track Tape,CKB-007-0,CKB-007,Pin Jacks (Output Termnals 2-P)
+H-R9000,8-Track Tape,CKC-002-0,CKC-002,Lug Terminal
+H-R9000,8-Track Tape,CKC-003-0,CKC-003,Lug Terminal
+H-R99,8-Track Tape,CKC-003-0,CKC-003,Lug Terminal
+H-22,8-Track Tape,CKC-018-0,CKC-018,Lug Terminal - 3-P
+H-22,8-Track Tape,CKC-019-0,CKC-019,Lug Terminal - 7-F
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-939,Receiver,CKDVF 103Z 50,CKDVF 103Z 50,Ceramic  0.01  50V
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-450,Receiver,CKDYA912J 50,CKDYA912J 50,Ceramic 9100pF 50V (HG)
+QX-949,Receiver,CKDYB 562K 50,CKDYB 562K 50,Ceramic 0.0056 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+CT-F600/605,Cassette Tape,CKDYF 103Z 50,CKDYF 103Z 50,Capacitor C501
+QX-646,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-747,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-747A,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-949,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-949,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SA-7100,Integrated Amplifier,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SA-7100,Integrated Amplifier,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-424,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V (GN)
+SX-525,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01  50V
+SX-535,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-626 (1971),Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-626 (1971),Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-626 (1971),Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-636,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-636,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,"Ceramic  0.01  50V (GN,FV)"
+SX-727,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-727,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-737,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-828,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-828,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-838,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-939,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-939,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+TX-6500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic 0.04 50V (HG)
+TX-6500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,"Ceramic 0.04 50V (KU,KC)"
+TX-6500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic 0.04 50V (S)
+TX-9500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic 0.04 50V
+SA-9500II,Integrated Amplifier,CKDYF 4732 50,CKDYF 4732 50,Ceramic 0.047 50V
+CT-F1000,Cassette Tape,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+CT-F1000,Cassette Tape,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+CT-F1000,Cassette Tape,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+CT-F1000,Cassette Tape,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+RG-1,Dynamic Range Expander,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic capacitor 0.047 50V
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SG-9500,Equalizer,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic capacitor (0.047uF 50V)
+SG-9500,Equalizer,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic capacitor (0.047uF 50V)
+SPEC-1,Pre-Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SPEC-1,Pre-Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SX-D5000,Receiver,CKDYX104M 25,CKDYX104M 25,Ceramic capacitor (0.01 /25V)
+H-R100,8-Track Tape,CKN-013-0,CKN-013,Head phone Jack
+H-R100,8-Track Tape,CKN-014-0,CKN-014,Microphone Jack (Lch .)
+H-R100,8-Track Tape,CKN-014-0,CKN-014,Microphone Jack (Rch.)
+H-R100,8-Track Tape,CKN-014-0,CKN-014,Microphone Jack (Switch)
+H-R100,8-Track Tape,CKN-014-0,CKN-014,Microphone Jack (Switch)
+H-R9000,8-Track Tape,CKP-001-0,CKP-001,Speaker Jack
+H-R9000,8-Track Tape,CKS-006-0,CKS-006,Wire Clip
+H-R9000,8-Track Tape,CLA-028-A,CLA-028,Motor Pulley
+H-R99,8-Track Tape,CLA-028-A,CLA-028,Motor Pulley
+H-R9000,8-Track Tape,CLA-149-A,CLA-149,Dial Shaft
+H-R9000,8-Track Tape,CLA-178-0,CLA-178,Spacer
+H-R99,8-Track Tape,CLA-178-0,CLA-178,Spacer
+H-R9000,8-Track Tape,CLA-187-0,CLA-187,Pulley
+H-R99,8-Track Tape,CLA-187-0,CLA-187,Pulley
+H-22,8-Track Tape,CLA-212-0,CLA-212,Shaft
+H-22,8-Track Tape,CLA-214-0,CLA-214,Mounting Stud
+H-22,8-Track Tape,CLA-298-0,CLA-298,Shaft (Cartridge Door)
+H-R9000,8-Track Tape,CMS-013-0,CMS-013,"Side Board, Left"
+H-R9000,8-Track Tape,CMS-014-0,CMS-014,"Side Board, Right"
+H-R99,8-Track Tape,CMS-015-0,CMS-015,"Side Board, Right"
+H-R99,8-Track Tape,CMS-016-0,CMS-016,"Side Board, Left"
+H-22,8-Track Tape,CMX-084-0,CMX-084,Cabinet Assembly
+H-R9000,8-Track Tape,CNA-053-C,CNA-053,Chassis
+H-R9000,8-Track Tape,CNA-053-C,CNA-053,Chassis
+H-R9000,8-Track Tape,CNA-054-0,CNA-054,Chassis
+H-R99,8-Track Tape,CNA-054-A,CNA-054,Chassis
+H-R99,8-Track Tape,CNA-056-0,CNA-056,Chassis
+H-22,8-Track Tape,CNA-062-0,CNA-062,Chassis
+H-R99,8-Track Tape,CNB-005-0,CNB-005,"Hex, Nut, M9"
+H-R9000,8-Track Tape,CNB-054-0,CNB-054,Door
+H-R99,8-Track Tape,CNB-054-0,CNB-054,Door
+H-R9000,8-Track Tape,CNB-101-A,CNB-101,Cabinet Top
+H-R9000,8-Track Tape,CNB-102-A,CNB-102,Front Grille
+H-R99,8-Track Tape,CNB-120-0,CNB-120,Cabinet Top
+H-R9000,8-Track Tape,CNC-242-0,CNC-242,Head Holder
+H-R99,8-Track Tape,CNC-242-0,CNC-242,Head Holder
+H-R9000,8-Track Tape,CNC-432-0,CNC-432,Counter Holder
+H-R99,8-Track Tape,CNC-432-0,CNC-432,Counter Holder
+H-R9000,8-Track Tape,CNC-433-0,CNC-433,Recording Lever
+H-R99,8-Track Tape,CNC-433-A,CNC-433,Lever Bracket
+H-R99,8-Track Tape,CNC-433-A,CNC-433,Recording Lever
+H-R9000,8-Track Tape,CNC-435-0,CNC-435,"Bracket, Leaf Switch"
+H-R9000,8-Track Tape,CNC-443-0,CNC-443,"Bracket, Push Switch"
+H-R99,8-Track Tape,CNC-443-0,CNC-443,"Bracket, Push Switch"
+H-R9000,8-Track Tape,CNC-444-0,CNC-444,Revolution Lever
+H-R99,8-Track Tape,CNC-444-0,CNC-444,Revolution Lever
+H-R9000,8-Track Tape,CNC-445-0,CNC-445,Program Lever
+H-R99,8-Track Tape,CNC-445-A,CNC-445,Program Lever
+H-R9000,8-Track Tape,CNC-446-0,CNC-446,F.F. Lever
+H-R99,8-Track Tape,CNC-446-0,CNC-446,F. F. Lever
+H-R9000,8-Track Tape,CNC-447-0,CNC-447,Pause Lever
+H-R99,8-Track Tape,CNC-447-0,CNC-447,Pause Lever
+H-R9000,8-Track Tape,CNC-453-0,CNC-453,Supporting Bracket
+H-R99,8-Track Tape,CNC-453-0,CNC-453,Supporting Bracket
+H-R9000,8-Track Tape,CNC-455-0,CNC-455,Lamp Cover
+H-R9000,8-Track Tape,CNC-459-0,CNC-459,Meter Cover
+H-R9000,8-Track Tape,CNC-462-0,CNC-462,Meter Holder
+H-R99,8-Track Tape,CNC-462-0,CNC-462,Meter Holder
+H-R9000,8-Track Tape,CNC-463-0,CNC-463,Meter Holder
+H-R9000,8-Track Tape,CNC-464-0,CNC-464,"Holder, Dial Shaft"
+H-R9000,8-Track Tape,CNC-474-0,CNC-474,Lever Bracket
+H-R9000,8-Track Tape,CNC-475-A,CNC-475,Lamp Cover (Dial lndicator)
+H-R9000,8-Track Tape,CNC-476-A,CNC-476,"Bracket, R/P Ampliﬁer Unit"
+H-R99,8-Track Tape,CNC-476-A,CNC-476,"Bracket, R/P Amplifier"
+H-R9000,8-Track Tape,CNC-535-0,CNC-535,"Bracket, Pulley"
+H-R9000,8-Track Tape,CNC-535-0,CNC-535,"Bracket, Tuner Unit"
+H-R9000,8-Track Tape,CNC-538-A,CNC-538,"Bracket, Push Switch"
+H-R9000,8-Track Tape,CNC-545-0,CNC-545,"Holder, Tuner Unit"
+H-R9000,8-Track Tape,CNC-570-0,CNC-570,Socket Nut
+H-R9000,8-Track Tape,CNC-576-0,CNC-576,Counter Holder
+H-R9000,8-Track Tape,CNC-577-0,CNC-577,Lever Holder
+H-R99,8-Track Tape,CNC-577-0,CNC-577,Lever Holder
+H-R9000,8-Track Tape,CNC-586-0,CNC-586,Shield Case
+H-R9000,8-Track Tape,CNC-587-0,CNC-587,"Bracket, Push Switch"
+H-R99,8-Track Tape,CNC-587-0,CNC-587,"Bracket, Push Switch"
+H-R9000,8-Track Tape,CNC-588-0,CNC-588,"Holder, Power Supply Unit"
+H-R99,8-Track Tape,CNC-588-0,CNC-588,"Holder, Power Supply Unit"
+H-R99,8-Track Tape,CNC-590-0,CNC-590,"Holder, Power Transformer"
+H-R99,8-Track Tape,CNC-592-0,CNC-592,Switch Bracket
+H-R9000,8-Track Tape,CNC-624-0,CNC-624,"Spacer, Headphone"
+H-R99,8-Track Tape,CNC-624-0,CNC-624,"Spacer, Headphone Jack"
+H-R99,8-Track Tape,CNC-645-0,CNC-645,Protector Plate
+H-R9000,8-Track Tape,CNC-647-0,CNC-647,Bottom Shield
+H-R9000,8-Track Tape,CNC-648-0,CNC-648,"Holder, Oscillating Unit"
+H-22,8-Track Tape,CNC-658-0,CNC-658,Spacer - Head Height
+H-22,8-Track Tape,CNC-659-0,CNC-659,Head Locking Bar
+H-22,8-Track Tape,CNC-660-0,CNC-660,Cartridge Guide
+H-22,8-Track Tape,CNC-661-0,CNC-661,Cord Binder
+H-22,8-Track Tape,CNC-663-0,CNC-663,Bracket A - Amplifier P.C. Board Support
+H-22,8-Track Tape,CNC-664-0,CNC-664,Bracket B
+H-22,8-Track Tape,CNC-888-0,CNC-888,Support Bracket A
+H-22,8-Track Tape,CNC-889-0,CNC-889,Support Bracket B
+H-22,8-Track Tape,CNC-890-0,CNC-890,Mounting Bracket (Transformer and Pin Jacks)
+H-R9000,8-Track Tape,CNM-113-0,CNM-113,Dust Protector
+H-R9000,8-Track Tape,CNP-098-0,CNP-098,Lamp P.W.B.
+H-R9000,8-Track Tape,CNR-019-0,CNR-019,Flywheel
+H-R99,8-Track Tape,CNR-019-0,CNR-019,Flywheel
+H-22,8-Track Tape,CNR-029-0,CNR-029,Flywheel Holder
+H-22,8-Track Tape,CNR-032-0,CNR-032,Flywheel
+H-R9000,8-Track Tape,CNS-086-A,CNS-086,Front Panel
+H-R99,8-Track Tape,CNS-092-0,CNS-092,Front Panel
+H-R99,8-Track Tape,CNS-093-0,CNS-093,Front Grille
+H-22,8-Track Tape,CNS-141-0,CNS-141,Backboard
+H-R100,8-Track Tape,CNT-016-0,CNT-016,BELT (DRIVE)
+H-R9000,8-Track Tape,CNT-016-0,CNT-016,Main Belt
+H-R99,8-Track Tape,CNT-016-0,CNT-016,Main Belt
+H-R100,8-Track Tape,CNT-021-0,CNT-021,"BELT, COUNTER"
+H-R9000,8-Track Tape,CNT-021-0,CNT-021,Counter Belt
+H-R99,8-Track Tape,CNT-021-0,CNT-021,Counter Belt
+H-22,8-Track Tape,CNT-035-0,CNT-035,Drive Belt
+H-R9000,8-Track Tape,CNV-038-A,CNV-038,Connecting Lever
+H-R99,8-Track Tape,CNV-038-A,CNV-038,Connecting Lever
+H-R9000,8-Track Tape,CNV-104-0,CNV-104,Lamp Holder
+H-R9000,8-Track Tape,CNV-122-0,CNV-122,"Guide, Power Push Button"
+H-R9000,8-Track Tape,CNV-138-A,CNV-138,Lamp Holder
+H-22,8-Track Tape,CNV-181-0,CNV-181,Cartridge Guide Roller
+H-22,8-Track Tape,CNV-183-0,CNV-183,Channel Selector Cam
+H-22,8-Track Tape,CNV-245-0,CNV-245,Cord Strain Relief
+H-22,8-Track Tape,CNV-247-0,CNV-247,Foot
+H-R100,8-Track Tape,CNV-281-0,CNV-281,LAMP HOLDER (5-POS)
+CT-F7171,Cassette Tape,COMA 103K 50,COMA 103K 50,Mylar 0.01 50V
+SX-828,Receiver,COMA 472K 50,COMA 472K 50,Mylar  0.0047  50V
+SX-636,Receiver,COMA 822J 50,COMA 822J 50,"Mylar  0.0082  50V (KCU,FV)"
+H-R9000,8-Track Tape,COS-039-0,COS-039,Tone Control with Switch Loudness
+H-R9000,8-Track Tape,CPB-007-0,CPB-007,HEAD(RECORD/PLAY)
+H-R99,8-Track Tape,CPB-007-0,CPB-007,Head
+H-22,8-Track Tape,CPB-013-0,CPB-013,Playback Head
+H-R100,8-Track Tape,CPB-019-0,CPB-019,Head
+SX-6000,Receiver,CQMA 102K 50,CQMA 102K 50,Mylar 0.001 50V
+SX-6000,Receiver,CQMA 102K 50,CQMA 102K 50,Mylar 0.001 50V
+TX-9500,Tuner,CQMA 103J 50,CQMA 103J 50,Mylar capacitor 0.01 50V
+TX-9500,Tuner,CQMA 103J 50,CQMA 103J 50,Mylar capacitor 0.01 50V
+SX-434,Receiver,CQMA 103K 50,CQMA 103K 50,"Mylar  0.01  50V (KCU,FV)"
+SX-434,Receiver,CQMA 103K 50,CQMA 103K 50,"Mylar  0.01  50V (KCU,FV)"
+SX-1250,Receiver,CQMA 104K 200,CQMA 104K 200,"Mylar, 0.1 uf, 200V"
+SX-1250,Receiver,CQMA 104K 200,CQMA 104K 200,"Mylar, 0.1 uf, 200V"
+SX-434,Receiver,CQMA 122K 50,CQMA 122K 50,Mylar  0.0012  50V
+SX-424,Receiver,CQMA 152K 50,CQMA 152K 50,Mylar  0.0015  50V
+SX-424,Receiver,CQMA 152K 50,CQMA 152K 50,Mylar  0.0015  50V
+SX-424,Receiver,CQMA 182K 50,CQMA 182K 50,Mylar  0.0018  50V
+SX-525,Receiver,CQMA 182K 50,CQMA 182K 50,Mylar 0.0018  50V
+SX-535,Receiver,CQMA 222K 50,CQMA 222K 50,Mylar  0.0022  50V
+SX-636,Receiver,CQMA 222K 50,CQMA 222K 50,Mylar  0.0022  50V
+SA-530,Integrated Amplifier,CQMA 223K 50,CQMA 223K 50,Ceramic capacitor - HEZ
+SA-930,Integrated Amplifier,CQMA 223K 50,CQMA 223K 50,Capacitor - HEZ
+SX-828,Receiver,CQMA 223K 50,CQMA 223K 50,Mylar  0.022  50V (FVZW)
+SX-828,Receiver,CQMA 223K 50,CQMA 223K 50,Mylar  0.022  50V (FW)
+SX-828,Receiver,CQMA 223K 50,CQMA 223K 50,Mylar  0.022  50V (KUW)
+SA-9500,Integrated Amplifier,CQMA 272k 50,CQMA 272k 50,Mylar 2700p 50V
+QX-646,Receiver,CQMA 332J 50,CQMA 332J 50,Mylar 0.0033 50V
+QX-646,Receiver,CQMA 332J 50,CQMA 332J 50,Mylar 0.0033 50V
+QX-949,Receiver,CQMA 332J 50,CQMA 332J 50,Mylar 0.0033 50V
+QX-949,Receiver,CQMA 332J 50,CQMA 332J 50,Mylar 0.0033 50V
+QX-747,Receiver,CQMA 332K 50,CQMA 332K 50,Mylar 0.0033 50V
+QX-747,Receiver,CQMA 332K 50,CQMA 332K 50,Mylar 0.0033 50V
+SX-525,Receiver,CQMA 332K 50,CQMA 332K 50,Mylar 0.0033 50V (KCW)
+SX-525,Receiver,CQMA 332K 50,CQMA 332K 50,Mylar 0.0033 50V (KCW)
+QX-747,Receiver,CQMA 392K 50,CQMA 392K 50,Mylar 0.0039 50V
+QX-747,Receiver,CQMA 392K 50,CQMA 392K 50,Mylar 0.0039 50V
+QX-949,Receiver,CQMA 392K 50,CQMA 392K 50,Mylar 0.0039 50V
+QX-949,Receiver,CQMA 392K 50,CQMA 392K 50,Mylar 0.0039 50V
+QX-747A,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+QX-747A,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+SX-1010,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+SX-1010,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+SX-838,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar  0.0007  50V
+SX-838,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar  0.0047  50V
+SX-939,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar  0.0047  50V
+SX-939,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar  0.0047  50V
+CT-F7171,Cassette Tape,CQMA 472K 50,CQMA 472K 50,Mylar 0.0047 50V
+SA-9500,Integrated Amplifier,CQMA 472K 50,CQMA 472K 50,Mylar 4700p 50V
+SX-828,Receiver,CQMA 472K 50,CQMA 472K 50,Mylar  0.0047  50V
+SX-6000,Receiver,CQMA 473K 400,CQMA 473K 400,Mylar 0.047 400V
+CT-F7272,Cassette Tape,CQMA 473K 50,CQMA 473K 50,Mylar 0.047 50V
+SX-525,Receiver,CQMA 473K 50,CQMA 473K 50,Mylar 0.047  50V
+TX-9500,Tuner,CQMA 512J 50,CQMA 512J 50,Mylar capacitor 0.0051 50V
+TX-9500,Tuner,CQMA 512J 50,CQMA 512J 50,Mylar capacitor 0.0051 50V
+SX-424,Receiver,CQMA 562K 50,CQMA 562K 50,Mylar  0.0056  50V (KUW)
+SX-424,Receiver,CQMA 562K 50,CQMA 562K 50,Mylar  0.0056  50V (KUW)
+SX-535,Receiver,CQMA 562K 50,CQMA 562K 50,Mylar  0.0056  50V
+SX-636,Receiver,CQMA 562K 50,CQMA 562K 50,Mylar  0.0056  50V
+SX-636,Receiver,CQMA 822 J 50,CQMA 822 J 50,"Mylar  0.0082  50V (KCU,FV)"
+SX-737,Receiver,CQMA 822J 50,CQMA 822J 50,"Mylar  0.0082  50V (KCU,F)"
+SX-737,Receiver,CQMA 822J 50,CQMA 822J 50,"Mylar  0.0082  50V (KCU,F)"
+SX-434,Receiver,CQMA 822K 50,CQMA 822K 50,Mylar  0.0082  50V
+SX-535,Receiver,CQMA 822K 50,CQMA 822K 50,"Mylar  0.0082  50V (KCU,FV)"
+SX-535,Receiver,CQMA 822K 50,CQMA 822K 50,"Mylar  0.0082  50V (KCU,FV)"
+SX-626 (1971),Receiver,CQMA 822K 50,CQMA 822K 50,Mylar 0.0082 50V
+SX-626 (1971),Receiver,CQMA 822K 50,CQMA 822K 50,Mylar 0.0082 50V
+QX-747A,Receiver,CQMA 912J 50,CQMA 912J 50,Mylar 0.0091 50V
+QX-747A,Receiver,CQMA 912J 50,CQMA 912J 50,Mylar 0.0091 50V
+SX-650,Receiver,CQSA 561J 50,CQSA 561J 50,Polystyrene 560p 50V
+SX-650,Receiver,CQSA 561J 50,CQSA 561J 50,Polystyrene 560p 50V (HG)
+SX-1250,Receiver,CQSA511J50,CQSA511J50,Polystyrene 510p 50v (HG)
+SX-1250,Receiver,CQSA511J50,CQSA511J50,Polystyrene 510p 50v (HG)
+SPEC-4,Amplifier,CQSB 330K 50,CQSB 330K 50,Polypropylene 33p 50V
+SPEC-4,Amplifier,CQSB 680K 50,CQSB 680K 50,Polypropylene 68p 50V
+H-R88,8-Track Tape,CRB-005,CRB-005,O/M HR88/K
+H-R9000,8-Track Tape,CRB-046-0,CRB-046,Operating instructions H-R9000
+H-R99,8-Track Tape,CRB-054-0,CRB-054,Operating instructions H-R99
+H-22,8-Track Tape,CRB-086-0,CRB-086,Operating instructions  H-22
+H-R100,8-Track Tape,CRB-109-0,CRB-109,Operating instructions H-R100
+H-R9000,8-Track Tape,CRT-022,CRT-022,Service manual H-R9000/K
+H-R99,8-Track Tape,CRT-025-0,CRT-025,Service manual H-R99
+H-22,8-Track Tape,CRT-038,CRT-038,Service manual  H-22
+H-22,8-Track Tape,CRY-002-A,CRY-002,Registration Card
+H-R9000,8-Track Tape,CRY-002-0,CRY-002,Registration Card
+H-R99,8-Track Tape,CRY-002-0,CRY-002,Registration Card
+H-R100,8-Track Tape,CRY-054-0,CRY-054,Service manual H-R100
+H-R9000,8-Track Tape,CSC-002-0,CSC-002,Rotary Switch (Selector)
+H-R99,8-Track Tape,CSE-002-0,CSE-002,Rotary Switch (Function)
+H-R100,8-Track Tape,CSE-003-0,CSE-003,Rotary Switch (Function)
+H-R9000,8-Track Tape,CSG-020-0,CSG-020,Push Switch (ALC)
+H-R99,8-Track Tape,CSG-020-0,CSG-020,Push Switch (ALC)
+H-R9000,8-Track Tape,CSG-022-0,CSG-022,Push Switch (Pause)
+H-R99,8-Track Tape,CSG-022-0,CSG-022,Push Switch (Pause)
+H-R9000,8-Track Tape,CSG-027-0,CSG-027,Push Switch (Power)
+H-R100,8-Track Tape,CSG-036-0,CSG-036,Push Switch (Dolby)
+H-22,8-Track Tape,CSG-039-0,CSG-039,Push Switch (Program Selector)
+H-R100,8-Track Tape,CSG-040-0,CSG-040,Push Switch (Pause)
+H-R100,8-Track Tape,CSG-041-0,CSG-041,Push Switch (F.F.)
+H-R9000,8-Track Tape,CSH-017-0,CSH-017,"Slide Switch Rec,/Playback Selector"
+H-R9000,8-Track Tape,CSH-017-0,CSH-017,Slide Switch Rec./Playback Selector
+H-R99,8-Track Tape,CSH-017-0,CSH-017,Slide Switch Rec./Playback Selector
+H-R99,8-Track Tape,CSH-017-0,CSH-017,Slide Switch Rec./Playback Selector
+H-R9000,8-Track Tape,CSK-001-0,CSK-001,Lever Switch (Function)
+H-R9000,8-Track Tape,CSN-010-0,CSN-010,Leaf Switch (REC.)
+H-R9000,8-Track Tape,CSN-010-0,CSN-010,Leaf Switch (REC.)
+H-R99,8-Track Tape,CSN-010-0,CSN-010,Leaf Switch (Rec.)
+H-R9000,8-Track Tape,CSN-012-0,CSN-012,Leaf Switch
+H-R99,8-Track Tape,CSN-012-0,CSN-012,Leaf Switch (Program)
+H-R9000,8-Track Tape,CSN-017-0,CSN-017,Leaf Switch
+H-R99,8-Track Tape,CSN-017-0,CSN-017,Leaf Switch (Program)
+H-22,8-Track Tape,CSN-027-0,CSN-027,Leaf Switch - Motor Switch
+H-22,8-Track Tape,CSN-028-0,CSN-028,Leaf Switch - Indicator Lamps & Amplifier Switch
+H-R100,8-Track Tape,CSN-032-0,CSN-032,Leaf Switch (Program)
+H-R100,8-Track Tape,CSN-033-0,CSN-033,Leaf Switch (Program)
+H-R99,8-Track Tape,CSN-435-0,CSN-435,"Bracket, Leaf Switch"
+QX-747,Receiver,CSSA 2R2M 16,CSSA 2R2M 16,Electrolytic 2.2 16V
+QX-949,Receiver,CSSA 2R2M 16,CSSA 2R2M 16,Electrolytic 2.2 16V
+H-R9000,8-Track Tape,CTB-017-0,CTB-017,Bar Antenna
+H-R88,8-Track Tape,CTT-008,CTT-008,PWR XFMR
+H-R9000,8-Track Tape,CTT-019-A,CTT-019,Power Transformer
+H-R99,8-Track Tape,CTT-021-0,CTT-021,Power Transformer
+H-22,8-Track Tape,CTT-028-0,CTT-028,Transformer (Power Supply for USA - KU)
+H-22,8-Track Tape,CTT-030-0,CTT-030,Transformer (Power Supply for Canada - KC)
+H-R100,8-Track Tape,CTT-039-0,CTT-039,Power Transformer
+H-R9000,8-Track Tape,CWE-042-0,CWE-042,Tuner Unit
+H-R9000,8-Track Tape,CWF-013-0,CWF-013,R/P Amplifier Assembly
+H-R99,8-Track Tape,CWF-022-0,CWF-022,R/P Amplifier Assembly
+H-R9000,8-Track Tape,CWH-018-0,CWH-018,Main Amplifier Unit
+H-R9000,8-Track Tape,CWK-034-0,CWK-034,Control Unit
+H-22,8-Track Tape,CWK-069-0,CWK-069,Amplifier Unit
+H-R100,8-Track Tape,CWK-091-0,CWK-091,AMPLIFIER ASSEMBLY
+H-R9000,8-Track Tape,CWR-030-0,CWR-030,Power Supply Unit
+H-R99,8-Track Tape,CWR-033-0,CWR-033,Power Supply Unit
+H-R100,8-Track Tape,CWR-047-0,CWR-047,POWER SUPPLY UNlT
+H-R9000,8-Track Tape,CWX-069-0,CWX-069,Oscillating Unit
+H-R100,8-Track Tape,CWX-147-0,CWX-147,OSCILLATOR UNIT
+H-R9000,8-Track Tape,CXA-264-A,CXA-264,Tape Guide
+H-R99,8-Track Tape,CXA-264-A,CXA-264,Tape Guide
+H-R9000,8-Track Tape,CXA-331-0,CXA-331,Recording Lock Lever A
+H-R99,8-Track Tape,CXA-331-A,CXA-331,Recording Lock Lever A
+H-R9000,8-Track Tape,CXA-332-A,CXA-332,Sub Chassis
+H-R99,8-Track Tape,CXA-332-A,CXA-332,Sub Chassis
+H-R9000,8-Track Tape,CXA-333-A,CXA-333,Head Base
+H-R99,8-Track Tape,CXA-333-A,CXA-333,Head Base
+H-R9000,8-Track Tape,CXA-379-0,CXA-379,Recording Lock Lever B
+H-R99,8-Track Tape,CXA-379-0,CXA-379,Recording Lock Lever B
+H-R9000,8-Track Tape,CXA-381-0,CXA-381,Leaf Spring Unit (Cartridge Pressure)
+H-R99,8-Track Tape,CXA-381-0,CXA-381,Leaf Spring Unit (Cartridge Pressure)
+H-R9000,8-Track Tape,CXA-412-A,CXA-412,Cam Ratchet
+H-R99,8-Track Tape,CXA-412-A,CXA-412,Cam Ratchet
+H-R9000,8-Track Tape,CXA-413-0,CXA-413,Recording Lever
+H-R99,8-Track Tape,CXA-413-0,CXA-413,Recording Lever
+H-R9000,8-Track Tape,CXA-431-0,CXA-431,Dial Pointer
+H-R9000,8-Track Tape,CXA-433-0,CXA-433,Sub Panel
+H-R9000,8-Track Tape,CXA-434-0,CXA-434,Lamp Holder Assembly
+H-R99,8-Track Tape,CXA-434-0,CXA-434,Lamp Holder Assembly
+H-R9000,8-Track Tape,CXA-439-0,CXA-439,Dial Pulley A
+H-R9000,8-Track Tape,CXA-440-0,CXA-440,Dial Pulley B
+H-R9000,8-Track Tape,CXA-441-A,CXA-441,Tuning Shaft Assembly
+H-R9000,8-Track Tape,CXA-447-0,CXA-447,Program Selector Assembly
+H-R99,8-Track Tape,CXA-447-0,CXA-447,Program Selector Assembly
+H-R99,8-Track Tape,CXA-503-0,CXA-503,Sub Panel
+H-R9000,8-Track Tape,CXA-525-0,CXA-525,Bottom Cover
+H-R99,8-Track Tape,CXA-525-0,CXA-525,Bottom Cover
+H-22,8-Track Tape,CXA-526-0,CXA-526,Taoe Guide Assembly
+H-22,8-Track Tape,CXA-528-0,CXA-528,Head Holder Assembly
+H-22,8-Track Tape,CXA-529-0,CXA-529,Cam Assembly - Program Selector
+H-22,8-Track Tape,CXA-531-0,CXA-531,Head Base Assembly
+H-22,8-Track Tape,CXA-532-0,CXA-532,Pressure Roller Assembly
+H-R99,8-Track Tape,CXA-533-A,CXA-533,Switch Lever Assembly
+H-22,8-Track Tape,CXA-717-0,CXA-717,Escutcheon Assembly
+H-22,8-Track Tape,CXA-719-0,CXA-719,Motor Pulley
+H-R100,8-Track Tape,CXA-781-0,CXA-781,LAMP SELECTOR ASSEMBLY
+H-R100,8-Track Tape,CXA-866-0,CXA-866,FRONT GRILLE
+H-R100,8-Track Tape,CXA-868-0,CXA-868,RECORDING LEVER
+H-R9000,8-Track Tape,CXM-013-0,CXM-013,Motor Unit
+H-R99,8-Track Tape,CXM-013-0,CXM-013,Motor Unit
+H-22,8-Track Tape,CXM-019-0,CXM-019,Motor
+H-R100,8-Track Tape,CXM-020-0,CXM-020,Motor
+H-R99,8-Track Tape,CXM-020,CXM-020,MOTOR #112-75 (per pioneerelectronics.com)
+H-R100,8-Track Tape,CXP-009-B,CXP-009,Solenoid
+H-R9000,8-Track Tape,CXP-009-0,CXP-009,Solenoid
+H-R99,8-Track Tape,CXP-009-0,CXP-009,Solenoid
+H-22,8-Track Tape,CXP-010-0,CXP-010,Solenoid Assembly - Channel Selector
+H-22,8-Track Tape,CXP-011-0,CXP-011,Solenoid Unit - Channel Selector
+SX-6000,Receiver,D11 -002 B,D11 -002 B,AC Power Cord
+QA-800,Integrated Amplifier,D11-002-B,D11-002,AC power cord
+QA-800A,Integrated Amplifier,D11-002-B,D11-002,AC power cord (FVW)
+QC-800,Pre-Amplifier,D11-002-B,D11-002,AC power cord
+QC-800A,Pre-Amplifier,D11-002-B,D11-002,AC power cord
+QL-600,Integrated Amplifier,D11-002-B,D11-002,AC Power Cord
+QL-600A,Integrated Amplifier,D11-002-B,D11-002,AC power cord - FVW
+QM-800,Amplifier,D11-002-B,D11-002,AC power cord
+QM-800A,Amplifier,D11-002-B,D11-002,AC power cord
+QX-4000,Receiver,D11-002-B,D11-002,AC power cord
+QX-646,Receiver,D11-002-B,D11-002,AC power cord (FW model)
+SA-1000,Integrated Amplifier,D11-002-B,D11-002,AC cord (FVW model)
+SA-600,Integrated Amplifier,D11-002-B,D11-002,AC cord (FVW)
+SA-800,Integrated Amplifier,D11-002-B,D11-002,AC Power cord
+SX-626 (1973),Receiver,D11-002-B,D11-002,AC power cord    FW
+SX-828,Receiver,D11-002-B,D11-002,AC power cord (FVZW)
+SX-828,Receiver,D11-002-B,D11-002,AC power cord (FW)
+CT-F6161,Cassette Tape,D11-003-E,D11-003,AC power cord  (KCU model)
+CT-F7171,Cassette Tape,D11-003-E,D11-003,AC power cord  (KCU Model)
+CT-F9191,Cassette Tape,D11-003,D11-003,AC power cord (KCU model)
+PL-A25,Turntable,D11-003-C,D11-003,Power cable
+QT-6100,Reel To Reel Tape,D11-003-E,D11-003,AC power cord
+QT-6600,Reel To Reel Tape,D11-003-E,D11-003,Power cord
+QT-74,Reel To Reel Tape,D11-003-E,D11-003,Power cord
+QX-8000,Receiver,D11-003-E,D11-003,AC Power Cord
+RT-1011L,Reel To Reel Tape,D11-003-E,D11-003,Power cord (KU model)
+SA-1000,Integrated Amplifier,D11-003-E,D11-003,AC cord (KUW model)
+SA-500A,Integrated Amplifier,D11-003-E,D11-003,AC Power Cord
+SA-600,Integrated Amplifier,D11-003-E,D11-003,AC cord (with plug)
+SA-800,Integrated Amplifier,D11-003-E,D11-003,AC Power cord (KUW/KCW)
+SD-1000,Other,D11-003-B,D11-003,Power cord W. UL plug
+SX-2500,Receiver,D11-003-E,D11-003,A.C Power Cord
+SX-424,Receiver,D11-003-E,D11-003,AC power cord
+SX-525,Receiver,D11-003-E,D11-003,AC power cord
+SX-626 (1971),Receiver,D11-003-E,D11-003,AC power cord
+SX-626 (1973),Receiver,D11-003-E,D11-003,"AC power cord    KUW, KCW"
+SX-727,Receiver,D11-003-E,D11-003,AC power cord
+SX-828,Receiver,D11-003-E,D11-003,AC power cord (KUW)
+PL-A25,Turntable,D11-604-B,D11-604,Shield wire
+QA-800,Integrated Amplifier,D51-003-B,D51-003,Connection cord (white)
+QC-800,Pre-Amplifier,D51-003-B,D51-003,Connection cord (white)
+QL-600,Integrated Amplifier,D51-003-A,D51-003,Connection Cord (white)
+QM-800,Amplifier,D51-003-B,D51-003,Connection cord (white)
+SA-1000,Integrated Amplifier,D51-003-B,D51-003,Connection cord (White)
+SA-500A,Integrated Amplifier,D51-003-B,D51-003,Connection Cord (white)
+SA-600,Integrated Amplifier,D51-003-B,D51-003,Cord (with pin plug)
+SA-800,Integrated Amplifier,D51-003-B,D51-003,Connection cord (white)
+SD-1000,Other,D51-003-B,D51-003,Cord W. pin plug (White)
+SD-1100,Other,D51-003-B,D51-003,Connection cord (White)
+TX-800,Tuner,D51-003,D51-003,CORD
+QA-800,Integrated Amplifier,D51-004-B,D51-004,Connection cord (red)
+QC-800,Pre-Amplifier,D51-004-B,D51-004,Connection cord (red)
+QL-600,Integrated Amplifier,D51-004-A,D51-004,Connection Cord (red)
+QM-800,Amplifier,D51-004-B,D51-004,Connection cord (red)
+SA-1000,Integrated Amplifier,D51-004-B,D51-004,Connection cord (Red)
+SA-500A,Integrated Amplifier,D51-004-B,D51-004,Connection Cord (red)
+SA-600,Integrated Amplifier,D51-004-B,D51-004,Cord (with pin plug)
+SA-800,Integrated Amplifier,D51-004-B,D51-004,Connection cord (red)
+SD-1000,Other,D51-004-B,D51-004,Cord W. pin plug (Red)
+SD-1100,Other,D51-004-B,D51-004,Connection cord (Red)
+TX-800,Tuner,D51-004,D51-004,CORD
+H-R9000,8-Track Tape,D52-013-0,D52-013,Antenna Cord
+QX-4000,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-646,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-747,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-8000,Receiver,D52-013-0,D52-013,FM T-type Antenna
+QX-8000A,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-949,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-9900,Receiver,D52-013-0,D52-013,FM T-type antenna
+SX-2500,Receiver,D52-013-O,D52-013,FM Indoor Antenna
+SX-424,Receiver,D52-013-0,D52-013,FM T-type antenna
+SX-525,Receiver,D52-013-0,D52-013,FM T-type antenna
+SX-6000,Receiver,D52-013-0,D52-013,FM Indoor Antenna
+SX-626 (1971),Receiver,D52-013-0,D52-013,FM T-type antenna
+SX-727,Receiver,D52-013-0,D52-013,FM T-type antenna
+SX-828,Receiver,D52-013-0,D52-013,FM T-type antenna
+TX-6200,Tuner,D52-013-0,D52-013,FM T-type antenna
+TX-7100,Tuner,D52-013-0,D52-013,FM T-type antenna
+TX-8100,Tuner,D52-013-0,D52-013,FM T-type antenna
+TX-9100,Tuner,D52-013-0,D52-013,FM T-type antenna
+QX-8000,Receiver,D53-002-A,D53-002,AM Lead Antenna
+SX-2500,Receiver,D53-002-A,D53-002,AM Indoor Anlerlna
+QT-6600,Reel To Reel Tape,D53-851-0,D53-851,Connection cord
+RT-1020L,Reel To Reel Tape,D53-851-0,D53-851,Connection cord
+PL-25/F,Turntable,D54-003-C,D54-003,Power cable
+PL-50,Turntable,D54-009-0,D54-009,Power cable
+PL-12E,Turntable,D54-015-0,D54-015,AC cord
+PL-12E,Turntable,D54-015-0,D54-015,Output cord
+PL-12E,Turntable,D54-015-0,D54-015,Output Cord
+PL-12E,Turntable,D54-015-D,D54-015,Metal plate
+PL-A35,Turntable,D54-015-B,D54-015,Output cable
+SX-626 (1973),Receiver,D54-019-0,D54-019,AC power cord    NBW
+PL-25/F,Turntable,D54-613-B,D54-613,Output cable
+PL-50,Turntable,D54-613-B,D54-613,Output cable
+PL-A25,Turntable,D54-613-A,D54-613,Output cable
+QX-646,Receiver,E-21-022-0,E-21-022,Fuse 1A (Protection - FW model)
+A-27,Integrated Amplifier,E11-024,E11-024,Vinyl bag
+C-21,Pre-Amplifier,E11-024,E11-024,Vinyl bag
+PL-12E,Turntable,E11-024-0,E11-024,Vinyl bag
+PL-51,Turntable,E11-024-0,E11-024,Vinyl bag
+PL-51A,Turntable,E11-024-0,E11-024,Vinyl bag
+SA-9500II,Integrated Amplifier,E11-024,E11-024,Vinyl bag
+SX-680/690,Receiver,E11-024,E11-024,Vinyl pouch
+TX-6500II,Tuner,E11-024,E11-024,Vinyl bag
+TX-8500II,Tuner,E11-024,E11-024,Vinyl bag
+A-27,Integrated Amplifier,E11-033,E11-033,Vinyl pouch (for fuses) - S
+A-27,Integrated Amplifier,E11-033,E11-033,Vinyl pouch (for fuses) - S/G
+F-28,Tuner,E11-033,E11-033,Vinyl pouch (for fuse - S/G)
+SA-9500II,Integrated Amplifier,E11-033,E11-033,Vinyl pouch (for fuse) - S
+SX-880/890,Receiver,E11-033,E11-033,Vinyl pouch (for fuses)  SX-880/S
+SX-880/890,Receiver,E11-033,E11-033,Vinyl pouch (for fuses)  SX-880/SG
+TX-6500II,Tuner,E11-033,E11-033,Vinyl pouch (S)
+TX-8500II,Tuner,E11-033,E11-033,Vinyl pouch - S
+QL-600,Integrated Amplifier,E11-034-A,E11-034,Vinyl Bag
+SD-1000,Other,E11-034-A,E11-034,Vinyl bag
+SX-2500,Receiver,E11-060-O,E11-060,Accessory Pans kit (A-5)
+SX-2500,Receiver,E11-075-O,E11-075,Accessory Parts kit (B-9)
+PL-15D,Turntable,E11-125-A,E11-125,Screw driver
+PL-A35,Turntable,E11-125-A,E11-125,Screwdriver
+PL-A45,Turntable,E11-125-A,E11-125,Screwdriver
+PL-A45D,Turntable,E11-125-A,E11-125,Screwdriver
+PL-A505,Turntable,E11-125-0,E11-125,Dirver

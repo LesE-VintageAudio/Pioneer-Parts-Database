@@ -2,7 +2,10 @@
   "source": "../Pioneer_Parts_Database.csv",
   "description": "AI retrieval indexes automatically generated from Pioneer_Parts_Database.csv.",
   "record_count": 23040,
-  "target_records_per_file": 2500,
+  "partition_targets": {
+    "part_number": 1000,
+    "model": 2500
+  },
   "lookup_strategy": {
     "model_to_part": "For a model-based query, use the model index. Locate the model in the appropriate models_XX.csv file and identify the relevant part number.",
     "part_to_model": "For a part-number query, use the part-number index. Search using normalized_part_number and return all models associated with that normalized part number.",
@@ -16,62 +19,146 @@
       "files": [
         {
           "file": "parts_01.csv",
-          "records": 2547,
+          "records": 1002,
           "first": "100-PLX500-2017",
-          "last": "ACG-003"
+          "last": "AAB-204"
         },
         {
           "file": "parts_02.csv",
-          "records": 2512,
-          "first": "ACG-004",
-          "last": "AEL-067"
+          "records": 1000,
+          "first": "AAB-214",
+          "last": "AAV-306"
         },
         {
           "file": "parts_03.csv",
-          "records": 2500,
-          "first": "AEL-068",
-          "last": "ANE-108"
+          "records": 1000,
+          "first": "AAV-307",
+          "last": "ACT-304"
         },
         {
           "file": "parts_04.csv",
-          "records": 2503,
-          "first": "ANE-115",
-          "last": "ATB-015"
+          "records": 1013,
+          "first": "ACT-305",
+          "last": "AEC-101"
         },
         {
           "file": "parts_05.csv",
-          "records": 2505,
-          "first": "ATB-021",
-          "last": "CKDYF 403Z 50"
+          "records": 1001,
+          "first": "AEC-110",
+          "last": "AEL-058"
         },
         {
           "file": "parts_06.csv",
-          "records": 2500,
-          "first": "CKDYF 4732 50",
-          "last": "KLA-226"
+          "records": 1000,
+          "first": "AEL-059",
+          "last": "AKB-025"
         },
         {
           "file": "parts_07.csv",
-          "records": 2501,
-          "first": "KLA-231",
-          "last": "PNW-379"
+          "records": 1000,
+          "first": "AKB-027",
+          "last": "AKR-030"
         },
         {
           "file": "parts_08.csv",
-          "records": 2500,
-          "first": "PNW-384",
-          "last": "RKR-017"
+          "records": 1000,
+          "first": "AKR-031",
+          "last": "ANR-332"
         },
         {
           "file": "parts_09.csv",
-          "records": 2500,
-          "first": "RKR-019",
-          "last": "TLR-113P"
+          "records": 1001,
+          "first": "ANR-333",
+          "last": "ASG-215"
         },
         {
           "file": "parts_10.csv",
-          "records": 472,
-          "first": "VBZ30P060FMC",
+          "records": 1002,
+          "first": "ASG-216",
+          "last": "ASX-153"
+        },
+        {
+          "file": "parts_11.csv",
+          "records": 1000,
+          "first": "ASX-154",
+          "last": "AWR-093"
+        },
+        {
+          "file": "parts_12.csv",
+          "records": 1003,
+          "first": "AWR-094",
+          "last": "B71-403"
+        },
+        {
+          "file": "parts_13.csv",
+          "records": 1004,
+          "first": "B71-602",
+          "last": "E11-125"
+        },
+        {
+          "file": "parts_14.csv",
+          "records": 1000,
+          "first": "E17-401",
+          "last": "GWX-827"
+        },
+        {
+          "file": "parts_15.csv",
+          "records": 1000,
+          "first": "GWX-905",
+          "last": "KKC-021"
+        },
+        {
+          "file": "parts_16.csv",
+          "records": 1000,
+          "first": "KKC-101",
+          "last": "M49-052"
+        },
+        {
+          "file": "parts_17.csv",
+          "records": 1003,
+          "first": "M49-127",
+          "last": "PEA-036"
+        },
+        {
+          "file": "parts_18.csv",
+          "records": 1000,
+          "first": "PEA-052",
+          "last": "PXA-030"
+        },
+        {
+          "file": "parts_19.csv",
+          "records": 1000,
+          "first": "PXA-047",
+          "last": "RBH-583"
+        },
+        {
+          "file": "parts_20.csv",
+          "records": 1000,
+          "first": "RBH-584",
+          "last": "RKP-017"
+        },
+        {
+          "file": "parts_21.csv",
+          "records": 1003,
+          "first": "RKP-030",
+          "last": "RSG-047"
+        },
+        {
+          "file": "parts_22.csv",
+          "records": 1001,
+          "first": "RSG-048",
+          "last": "RXX-234"
+        },
+        {
+          "file": "parts_23.csv",
+          "records": 1000,
+          "first": "RXX-235",
+          "last": "Y20-943"
+        },
+        {
+          "file": "parts_24.csv",
+          "records": 7,
+          "first": "YE15S",
           "last": "ZMR30H120FZK"
         }
       ]

@@ -1,0 +1,1001 @@
+model,category,part_number,normalized_part_number,description
+SX-60,Receiver,GWX-905,GWX-905,Control assembly
+SX-50,Receiver,GWX-909,GWX-909,Control assembly
+SG-90,Equalizer,GWX-918,GWX-918,Equalizer assembly
+RG-60,Dynamic Range Expander,GWX-964,GWX-964,Pin jack asembly
+A-88X,Integrated Amplifier,GWY-106,GWY-106,Pin jack assembly
+A-77X,Integrated Amplifier,GWY-107,GWY-107,Pin jack assembly
+A-88X,Integrated Amplifier,GWY-110,GWY-110,Volume assembly
+A-77X,Integrated Amplifier,GWY-111,GWY-111,Volume assembly
+QL-600,Integrated Amplifier,H11-034-C,H11-034,Protector for Packing
+QL-600A,Integrated Amplifier,H11-034-0,H11-034,Styrotector
+SA-500A,Integrated Amplifier,H11-038-C,H11-038,Styrotector
+SX-2500,Receiver,H11-065-O,H11-065,Pad (Upper)
+SX-2500,Receiver,H11-066-O,H11-066,Pad (Under)
+QA-800,Integrated Amplifier,H11-070-B,H11-070,Protector for packing
+QA-800A,Integrated Amplifier,H11-070-C,H11-070,Styrotector
+QC-800,Pre-Amplifier,H11-070-B,H11-070,Protector for Packing
+QC-800A,Pre-Amplifier,H11-070-C,H11-070,Styrotector
+QM-800,Amplifier,H11-070-B,H11-070,Protector for packing
+QM-800A,Amplifier,H11-070-C,H11-070,Styrotector
+SA-1000,Integrated Amplifier,H11-070-B,H11-070,Styrol
+SA-600,Integrated Amplifier,H11-070-B,H11-070,Styrotector
+SA-7100,Integrated Amplifier,H11-070-D,H11-070,Styrotector
+SA-800,Integrated Amplifier,H11-070-B,H11-070,Protector for packing
+SA-9100,Integrated Amplifier,H11-070-0,H11-070,Styrotector
+SD-1000,Other,H11-070-0,H11-070,STYROL
+SD-1100,Other,H11-070-D,H11-070,Styrotector
+TX-9100,Tuner,H11-070-C,H11-070,Styrotector (lower)
+SA-1000,Integrated Amplifier,H11-078-O,H11-078,Cardboard cushion
+SA-5200,Integrated Amplifier,H12-113-0,H12-113,Soft sheet-C
+SA-500A,Integrated Amplifier,H12-126-A,H12-126,Soft Paper
+SA-500A,Integrated Amplifier,H12-159-0,H12-159,Cardboard Spacer
+SX-2500,Receiver,H14-023-O,H14-023,Packing Cloth Bag
+SA-500A,Integrated Amplifier,H14-044-0,H14-044,Vinyl Bag
+SX-2500,Receiver,H15-114-O,H15-114,Packing Case
+RT-707,Reel To Reel Tape,H46-853,H46-853,Vinyl bag
+RT-909,Reel To Reel Tape,H46-853,H46-853,Vinyl bag B
+CT-F1050,Cassette Tape,H46-854,H46-854,Vinyl bag C (for fuse)
+CT-F700,Cassette Tape,H46-854,H46-854,Vinyl bag (for fuse) (D type)
+CT-F700,Cassette Tape,H46-854,H46-854,Vinyl bag (for fuse) (D/G type)
+RT-1020L,Reel To Reel Tape,H46-856-0,H46-856,Silica gel
+PL-25/F,Turntable,H51-601 -A,H51-601 ,Packing
+PL-25/F,Turntable,H52-623-B,H52-623,Carton (A)
+PL-25/F,Turntable,H52-623-B,H52-623,Carton (B)
+PL-12DII,Turntable,H52-632-0,H52-632,Card board
+PL-12E,Turntable,H52-632-0,H52-632,Cardboard
+PL-15D,Turntable,H52-632-0,H52-632,Cardboard
+PL-51,Turntable,H52-632-0,H52-632,Card board
+PL-51A,Turntable,H52-632-0,H52-632,Card board
+PL-A45,Turntable,H52-632-0,H52-632,Cardboard
+PL-A45D,Turntable,H52-632-0,H52-632,Cardboard
+PL-A25,Turntable,H52-647-A,H52-647,Carton box
+PL-A25,Turntable,H52-647-A,H52-647,Carton box
+PL-A25,Turntable,H52-647-A,H52-647,Case for turntable platter
+PL-A25,Turntable,H52-647-A,H52-647,Corner packing
+PL-A25,Turntable,H52-647-A,H52-647,Tonearm protector
+PL-A25,Turntable,H52-647-A,H52-647,Top packing
+PL-A25,Turntable,H52-647-A,H52-647,Under packing
+PL-25/F,Turntable,H53-627-B,H53-627,Carton
+PL-25/F,Turntable,H53-627-B,H53-627,Packing
+PL-50,Turntable,H55-002-8,H55-002,Top packing
+PL-50,Turntable,H55-002-8,H55-002,Under packing
+PL-50,Turntable,H55-002-B,H55-002,Carton
+PL-50,Turntable,H55-002-B,H55-002,Dust cover Packing
+PL-50,Turntable,H55-002-B,H55-002,Packing
+PL-50,Turntable,H55-002-B,H55-002,Tumtable platter packing
+PL-12DII,Turntable,H56-603-0,H56-603,Vinyl bag
+PL-12E,Turntable,H56-603-0,H56-603,Turntable bag
+PL-15D,Turntable,H56-603-0,H56-603,Vinyl cover
+PL-200/200X,Turntable,H56-603,H56-603,Vinyl bag
+PL-25/F,Turntable,H56-603-0,H56-603,Wooden base cover bag
+PL-500,Turntable,H56-603,H56-603,Vinyl bag
+PL-500X,Turntable,H56-603,H56-603,Vinyl bag
+PL-51,Turntable,H56-603-0,H56-603,Vinyl cover
+PL-510,Turntable,H56-603,H56-603,Vinyl cover
+PL-510S,Turntable,H56-603,H56-603,Vinyl cover
+PL-516,Turntable,H56-603,H56-603,Vinyl cover
+PL-51A,Turntable,H56-603-0,H56-603,Vinyl cover
+PL-520,Turntable,H56-603,H56-603,Cover
+PL-55X,Turntable,H56-603-0,H56-603,Vinyl bag
+PL-71,Turntable,H56-603-0,H56-603,Vinyl bag
+PL-A45,Turntable,H56-603-0,H56-603,Bag for unit
+PL-A45D,Turntable,H56-603-0,H56-603,Bag for unit
+PL-25/F,Turntable,H61-601-0,H61-601,Rubber foot
+TX-710,Tuner,HA1142,HA1142,IC
+RG-60,Dynamic Range Expander,HA12010,HA12010,IC(METER)
+RG-9,Dynamic Range Expander,HA12010,HA12010,IC(METER)
+SA-8100,Integrated Amplifier,HII-070-0,HII-070,Styrotector
+TX-7100,Tuner,HII-070-0,HII-070,STYROTECTOR (LOWER)
+PL-115D,Turntable,HNV-135,HNV-135,45 EP ADAPTER
+PL-200X,Turntable,HNV-135,HNV-135,45 EP ADAPTER
+CT-F1000,Cassette Tape,HWX-176,HWX-176,Indicator assembly
+CT-F1000,Cassette Tape,HWX-181,HWX-181,Volume assembly
+RT-701,Reel To Reel Tape,HXM-033,HXM-033,Capstan motor
+RT-909,Reel To Reel Tape,HXX-268,HXX-268,Front panel assembly
+PL-100/100X,Turntable,IPZ30P100FMC,IPZ30P100FMC,Screw
+CT-F1050,Cassette Tape,JT-216,JT-216,Wired remote-contro!
+SX-2500,Receiver,K11-018-0,K11-018,4P Antenna Terminal
+SX-700T,Receiver,K11-018-0,K11-018,Terminal 4P
+SX-9000,Receiver,K11-018-0,K11-018,4P Antenna Terminal
+SX-990,Receiver,K11-018-0,K11-018,4P Antenna Terminal
+QX-4000,Receiver,K11-043-0,K11-043,Antenna input terminal board
+QX-646,Receiver,K11-043-D,K11-043,Antenna input terminal board
+QX-8000,Receiver,K11-043-C,K11-043,Antenna Terminal
+QX-8000A,Receiver,K11-043-0,K11-043,Antenna terminal board
+QX-9900,Receiver,K11-043-D,K11-043,Antenna input terminal board
+SX-424,Receiver,K11-043-A,K11-043,Antenna Input terminal board
+SX-434,Receiver,K11-043-0,K11-043,Antenna terminal board
+SX-525,Receiver,K11-043-C,K11-043,Antenna terminal board
+SX-6000,Receiver,K11-043-A,K11-043,Antenna Input Terminal Board
+SX-626 (1971),Receiver,K11-043-C,K11-043,Antenna terminal board
+SX-626 (1973),Receiver,K11-043-0,K11-043,Antenna terminal board
+SX-727,Receiver,K11-043-C,K11-043,Antenna terminal board
+SX-828,Receiver,K11-043,K11-043,Antenna input terminal board
+TX-6200,Tuner,K11-043-0,K11-043,Antenna input terminal board
+TX-6200,Tuner,K11-043-D,K11-043,Antenna input terminal board
+TX-710,Tuner,K11-043,K11-043,ANTENNA TERMINAL
+TX-7100,Tuner,K11-043-D,K11-043,Antenna terminal board
+TX-8100,Tuner,K11-043-0,K11-043,Antenna terminal board
+TX-9100,Tuner,K11-043-0,K11-043,Antenna terminal board
+H-R9000,8-Track Tape,K11-626-0,K11-626,Antenna Terminal
+Exclusive M3,Amplifier,K12-002-0,K12-002,Phono jack (4 jacks)
+Exclusive M3,Amplifier,K12-002-0,K12-002,Phono jack (4jacks)
+PL-12E,Turntable,K13-026-A,K13-026,1 L4P lug terminal
+PL-15D,Turntable,K13-026-0,K13-026,Terminal
+SX-626 (1973),Receiver,K13-026-A,K13-026,"Terminal strip (1L4P)    KUW, KCW, FVZW"
+QT-74,Reel To Reel Tape,K13-042-A,K13-042,Terminal strip (4P)
+SX-626 (1973),Receiver,K13-043-A,K13-043,"Terminal strip (2P)    KCW. FVZW, FW, NBW"
+CT-F6161,Cassette Tape,K13-047-0,K13-047,Terminal strip (4P)
+CT-F7171,Cassette Tape,K13-047-0,K13-047,Terminal strip (4P)
+H-R9000,8-Track Tape,K13-047-0,K13-047,Grounding Terminal
+QA-800,Integrated Amplifier,K13-047-0,K13-047,4P ground terminal
+QA-800A,Integrated Amplifier,K13-047-0,K13-047,4P ground terminal
+QC-800,Pre-Amplifier,K13-047-0,K13-047,4P ground terminal
+QC-800A,Pre-Amplifier,K13-047-0,K13-047,4P ground terminal
+QL-600,Integrated Amplifier,K13-047-0,K13-047,4P Ground Terminal
+QL-600A,Integrated Amplifier,K13-047-0,K13-047,4P ground terminal
+QM-800,Amplifier,K13-047-0,K13-047,4P ground terminal
+QM-800A,Amplifier,K13-047-0,K13-047,4P ground terminal
+QX-747,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+QX-8000,Receiver,K13-047-0,K13-047,4P Ground Terminal
+QX-8000A,Receiver,K13-047-0,K13-047,4P ground terminal
+QX-949,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SA-500A,Integrated Amplifier,K13-047-O,K13-047,4P Ground Terminal
+SA-5200,Integrated Amplifier,K13-047-0,K13-047,4P strip lug terminal
+SA-600,Integrated Amplifier,K13-047-0,K13-047,4P terminal for ground
+SA-800,Integrated Amplifier,K13-047-0,K13-047,4P Ground terminal
+SA-8100,Integrated Amplifier,K13-047-0,K13-047,Four-fold ground terminal
+SA-9100,Integrated Amplifier,K13-047-0,K13-047,4P ground terminal
+SA-9900,Integrated Amplifier,K13-047-0,K13-047,Ground terminal 4P
+SX-1010,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-424,Receiver,K13-047-0,K13-047,4P ground terminal
+SX-434,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-434,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-525,Receiver,K13-047-0,K13-047,4P ground terminal
+SX-535,Receiver,K13-047-0,K13-047,Ground terminal Strip (4P)
+SX-6000,Receiver,K13-047-0,K13-047,4P Ground Terminal
+SX-626 (1971),Receiver,K13-047-0,K13-047,4P ground terminal
+SX-636,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-727,Receiver,K13-047-D,K13-047,4p ground terminal
+SX-737,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-828,Receiver,K13-047-0,K13-047,4P ground terminal
+SX-838,Receiver,K13-047-0,K13-047,Ground terminal strip
+SX-939,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+TX-6200,Tuner,K13-047-0,K13-047,4P ground terminal
+TX-6200,Tuner,K13-047-0,K13-047,4P ground terminal
+TX-7100,Tuner,K13-047-0,K13-047,4P terminal strip
+TX-8100,Tuner,K13-047-0,K13-047,4P ground terminal
+TX-9100,Tuner,K13-047-0,K13-047,Ground terminal strip (4P)
+TX-9100,Tuner,K13-047-0,K13-047,Ground terminal strip (4Pl
+TX-9500,Tuner,K13-047-0,K13-047,Ground terminal 4P
+QX-949,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SA-8100,Integrated Amplifier,K13-048-0,K13-048,Two-fold ground terminal
+SA-8100,Integrated Amplifier,K13-048-0,K13-048,Two-lold ground terminal
+SA-9900,Integrated Amplifier,K13-048-0,K13-048,Ground terminal 2P
+SX-1010,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-535,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-626 (1973),Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-626 (1973),Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-626 (1973),Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-626 (1973),Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-636,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-737,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-838,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-939,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+TX-5300,Tuner,K13-048-0,K13-048,Ground terminal srrip (2?)
+TX-7100,Tuner,K13-048-0,K13-048,2P terminal strip
+TX-7100,Tuner,K13-048-0,K13-048,2P terminal strip
+TX-8100,Tuner,K13-048-0,K13-048,2P lug terminal strip
+TX-9500,Tuner,K13-048-0,K13-048,Ground terminal 2P
+SD-1100,Other,K13-049-0,K13-049,6P lug terminal
+SD-1100,Other,K13-049-0,K13-049,6P lug terminal
+PL-25/F,Turntable,K13-761-0,K13-761,Terminal strip lug-type 1 L5P
+PL-A25,Turntable,K13-784-0,K13-784,Terminal strip lug-type 1L6P
+H-R9000,8-Track Tape,k13-806-0,k13-806,Lug Terminal. 2L2
+RT-1020L,Reel To Reel Tape,K15-402-0,K15-402,Molded terminal T-type 3P
+RT-1020L,Reel To Reel Tape,K15-402-0,K15-402,Molded terminal T-type 3P
+PL-A25,Turntable,K16-602-0,K16-602,Cable fixer
+PL-A25,Turntable,K16-602-0,K16-602,Stopper ass'y
+PL-A35,Turntable,K16-602-0,K16-602,Cable cramp
+PL-A45,Turntable,K16-602-0,K16-602,Cable cramp
+PL-A45D,Turntable,K16-602-0,K16-602,Cable cramp
+H-R9000,8-Track Tape,K16-664-0,K16-664,Lug Washer
+SX-6000,Receiver,K21 -005-C,K21 -005,1P Input Terminal Board
+SA-1000,Integrated Amplifier,K21-005-C,K21-005,1P input Jack
+SA-700,Integrated Amplifier,K21-005-C,K21-005,Terminal 1P
+SA-800,Integrated Amplifier,K21-005-C,K21-005,1P lnput terminal board
+SA-900,Integrated Amplifier,K21-005-C,K21-005,Terminal 1p
+SX-2500,Receiver,K21-005-C,K21-005,1P Input Terminal
+SX-770,Receiver,K21-005-C,K21-005,Terminal 1P
+SX-9000,Receiver,K21-005-C,K21-005,1P lnput Terminal
+SX-990,Receiver,K21-005-C,K21-005,1P Input Ternminal
+QL-600,Integrated Amplifier,K21-009-0,K21-009,2P Input Terminal Board
+SA-900,Integrated Amplifier,K21-009-C,K21-009,Terminal 2p
+SD-1000,Other,K21-009-O,K21-009,Pin jack (2P)
+SD-1100,Other,K21-009-D,K21-009,2P pin jack
+SX-1000TA (Later),Receiver,K21-009-0,K21-009,Terminal 2p
+SX-770,Receiver,K21-009-C,K21-009,Terminal 2P
+QA-800,Integrated Amplifier,K21-010-E,K21-010,4P input terminal board
+QC-800,Pre-Amplifier,K21-010-E,K21-010,4P input terminal board
+QM-800,Amplifier,K21-010-E,K21-010,4P input terminal board
+SA-600,Integrated Amplifier,K21-010-E,K21-010,4P inputjacks
+SA-700,Integrated Amplifier,K21-010-0,K21-010,Terminal 4P
+SA-800,Integrated Amplifier,K21-010-E,K21-010,4P Input terminal board
+SR-202W,Reverb,K21-010-C,K21-010,Terminal 4p
+SX-2500,Receiver,K21-010-0,K21-010,4P Input Terminal
+SX-9000,Receiver,K21-010-0,K21-010,4P Input Terminal
+SA-1000,Integrated Amplifier,K21-010E,K21-010E,4P input jack
+SA-500,Integrated Amplifier,K21-013-C,K21-013,Terminal 6P
+QM-800A,Amplifier,K21-026-0,K21-026,Fuse 2A for protection
+QX-8000,Receiver,K22-010-E,K22-010,4P Input Terminal Board
+SA-900,Integrated Amplifier,K22-010-A,K22-010,Terminal 4p
+SX-6000,Receiver,K22-010-E,K22-010,4P Input Terminal Board
+SX-770,Receiver,K22-010-A,K22-010,Terminal 4P
+SX-990,Receiver,K22-010-A,K22-010,4P Input Terminal
+SA-1000,Integrated Amplifier,K22-013-0,K22-013,6P input jack
+SA-600,Integrated Amplifier,K22-013-0,K22-013,6P input jacks
+SA-700,Integrated Amplifier,K22-013-C,K22-013,Terminal 6P
+SA-800,Integrated Amplifier,K22-013-D,K22-013,6P Input terminal board
+SA-900,Integrated Amplifier,K22-013-C,K22-013,Terminal 6p
+SX-1000TA (Later),Receiver,K22-013-0,K22-013,Terminal 6p
+SX-2500,Receiver,K22-013-C,K22-013,6P Input Terminal
+SX-700T,Receiver,K22-013-0,K22-013,Termmal 6P
+SX-770,Receiver,K22-013-C,K22-013,Terminal 6P
+SX-9000,Receiver,K22-013-C,K22-013,6p Input Terminal
+SX-990,Receiver,K22-013-C,K22-013,6P Input Terminal
+QL-600,Integrated Amplifier,K22-G13-D,K22-G13,SP Input Terminal Board
+SX-2500,Receiver,K23-007-O,K23-007,7P Socket for Cds.Unit
+SA-1000,Integrated Amplifier,K24-002-A,K24-002,3P socket
+SA-800,Integrated Amplifier,K24-002-A,K24-002,5P Socket for MC transformer
+SX-2500,Receiver,K24-002-A,K24-002,8P Socket for PP-402
+SX-828,Receiver,K24-002-A,K24-002,8P socket (for MC transformer)
+PL-51A,Turntable,K28-003-0,K28-003,Termmal (L-shaped)
+PL-71,Turntable,K28-003-0,K28-003,Terminal (L-shaped)
+PL-A45,Turntable,K28-003-0,K28-003,Terminal (A)
+PL-A45D,Turntable,K28-003-0,K28-003,Terminal (A)
+PL-51,Turntable,K28-005-A,K28-005,Terminal (I-shaped)
+PL-55/55D,Turntable,K28-005-0,K28-005,Terminal
+PL-A45,Turntable,K28-005-A,K28-005,Terminal (C)
+PL-A45D,Turntable,K28-005-A,K28-005,Terminal (C)
+PL-51,Turntable,K28-008-0,K28-008,Terminal (L-shaped)
+PL-55/55D,Turntable,K28-008-0,K28-008,Terminal
+SX-1000TA (Later),Receiver,K31-011-0,K31-011,Terminal 3p
+TX-5300,Tuner,K31-013-F,K31-013,Antenna terminal board
+SX-1000TD,Receiver,K31-018-0,K31-018,Power Transistor Socket
+SX-1000TW,Receiver,K31-018-0,K31-018,Power Transistor Socket
+SX-1500T,Receiver,K31-018-0,K31-018,Power Transistor Socket
+SA-900,Integrated Amplifier,K32-007-B,K32-007,Spare A.C Outlet
+QD-210,Other,K41-002,K41-002,SOCKET
+QX-8000,Receiver,K41-002-B,K41-002,Pilot Lamp Socket
+QX-8000A,Receiver,K41-002-B,K41-002,Pilot lamp (meter) socket
+SA-500A,Integrated Amplifier,K41-002-B,K41-002,Pilot Lamp Socket
+SD-1000,Other,K41-002-B,K41-002,Socket (pilot lamp)
+SX-1000TA (Later),Receiver,K41-002-0,K41-002,Pilot Lamp Socket
+SX-2500,Receiver,K41-002-B,K41-002,Pilot Lamp (for Meter) Socket
+SX-440,Receiver,K41-002-B,K41-002,Pilot Lamp socket
+SX-6000,Receiver,K41-002-B,K41-002,Pilot Lamp (for meters) Socket
+SX-700T,Receiver,K41-002-0,K41-002,Pilot Lamp Socket
+SX-9000,Receiver,K41-002-B,K41-002,Socket for Pilot Lemp
+QA-800,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+QA-800A,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+QC-800,Pre-Amplifier,K42-003-A,K42-003,Pilot lamp socket
+QC-800A,Pre-Amplifier,K42-003-A,K42-003,Pilot lamp socket
+SA-1000,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+SA-1000,Integrated Amplifier,K42-003-A,K42-003,Swan type pilot lamp socket
+SA-500,Integrated Amplifier,K42-003-O,K42-003,Pilot Lamp socket
+SA-600,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+SA-700,Integrated Amplifier,K42-003-0,K42-003,Pilot Lamp Socket
+SA-800,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+SA-900,Integrated Amplifier,K42-003-0,K42-003,Pilot Lamp Socket
+SR-202W,Reverb,K42-003-A,K42-003,Pilot Lamp Socket
+SX-1000TD,Receiver,K42-003-0,K42-003,Pilot lamp Socket
+SX-1000TW,Receiver,K42-003-0,K42-003,Pilot lamp socket
+SX-1500T,Receiver,K42-003-0,K42-003,Pilot lamp socket
+SX-1500TD,Receiver,K42-003-A,K42-003,Pilot Lamp Socket
+SX-770,Receiver,K42-003-0,K42-003,Pilot Lamp Socket
+SX-990,Receiver,K42-003-0,K42-003,Pilot Lamp Socket
+SX-1000TA (Later),Receiver,K54-003-0,K54-003,Concent for Speaker
+H-R9000,8-Track Tape,K71 -031-0,K71 -031,Insulating Nut
+SX-2500,Receiver,K71-02-O,K71-02,Short Pin Plug
+SX-727,Receiver,K71-026-0,K71-026,Jumper plug
+QA-800,Integrated Amplifier,K71-028-0,K71-028,Short pin plug
+QX-8000,Receiver,K71-028-0,K71-028,Short Fin Plug
+SX-1500TD,Receiver,K71-028-0,K71-028,Short Pin Plug
+SX-6000,Receiver,K71-028-0,K71-028,Short Pin Plug
+SX-9000,Receiver,K71-028-0,K71-028,Short Pin Plug
+SX-2500,Receiver,K71-030-O,K71-030,8P Plug
+SX-828,Receiver,K71-030-0,K71-030,8P plug
+SA-600,Integrated Amplifier,K71-032-O,K71-032,Speaker plugs
+SX-1000TA (Later),Receiver,K72-004-0,K72-004,Head phone jack
+SX-1000TD,Receiver,K72-006-A,K72-006,Head phone jack
+SX-1000TW,Receiver,K72-006-A,K72-006,Head phone jack
+SX-1500T,Receiver,K72-006-A,K72-006,Head phone jack
+SX-700T,Receiver,K72-006-C,K72-006,Headphone Jack
+QA-800,Integrated Amplifier,K72-007-B,K72-007,Speaker plug
+QA-800A,Integrated Amplifier,K72-007-B,K72-007,Speaker plug
+QL-600,Integrated Amplifier,K72-007-3,K72-007,Speaker Plug
+QL-600A,Integrated Amplifier,K72-007-B,K72-007,Speaker plug
+QM-800,Amplifier,K72-007-B,K72-007,Speaker plug
+QM-800A,Amplifier,K72-007-B,K72-007,Speaker plug
+QX-4000,Receiver,K72-007-B,K72-007,Speaker plug
+QX-8000,Receiver,K72-007-B,K72-007,Speaker Plug
+QX-8000A,Receiver,K72-007-B,K72-007,Speaker plug
+QX-9900,Receiver,K72-007-B,K72-007,Speaker plug
+SA-1000,Integrated Amplifier,K72-007-B,K72-007,Speaker plug
+SA-500,Integrated Amplifier,K72-007-B,K72-007,"Plug, for Speaker"
+SA-500A,Integrated Amplifier,K72-007-B,K72-007,Speaker Plug
+SA-800,Integrated Amplifier,K72-007-0,K72-007,Speaker Plug
+SA-900,Integrated Amplifier,K72-007-B,K72-007,Speaker Plug
+SX-1500TD,Receiver,K72-007-8,K72-007,Plug for Speaker
+SX-424,Receiver,K72-007-B,K72-007,Speaker plug
+SX-440,Receiver,K72-007-B,K72-007,Plug for Speaker
+SX-525,Receiver,K72-007-B,K72-007,Speaker plug
+SX-6000,Receiver,K72-007-B,K72-007,Speaker Plug
+SX-626 (1971),Receiver,K72-007-B,K72-007,Speaker plug
+SX-727,Receiver,K72-007-B,K72-007,Speaker plug
+SX-828,Receiver,K72-007-B,K72-007,Speaker plug
+QA-800,Integrated Amplifier,K72-015-A,K72-015,Pin plug
+QA-800A,Integrated Amplifier,K72-015-A,K72-015,Pin plug
+QC-800,Pre-Amplifier,K72-015-A,K72-015,Pin plug
+QC-800A,Pre-Amplifier,K72-015-A,K72-015,Pin plug
+QL-600,Integrated Amplifier,K72-015-A,K72-015,Pin Plug
+QL-600A,Integrated Amplifier,K72-015-A,K72-015,Pin plug
+QM-800,Amplifier,K72-015-A,K72-015,Pin plug
+QM-800A,Amplifier,K72-015-A,K72-015,Pin plug
+QX-4000,Receiver,K72-015-A,K72-015,Pin plug
+QX-8000,Receiver,K72-015-A,K72-015,Pin Plug
+QX-8000A,Receiver,K72-015-A,K72-015,Pin plug
+SA-1000,Integrated Amplifier,K72-015-A,K72-015,Fin plug
+SA-600,Integrated Amplifier,K72-015-A,K72-015,Pin plug
+SX-1500TD,Receiver,K72-015-0,K72-015,Pin Plug
+SX-424,Receiver,K72-015-A,K72-015,Pin plug
+SX-6000,Receiver,K72-015-A,K72-015,Pin plug
+SX-727,Receiver,K72-015-A,K72-015,Pin plug
+SX-828,Receiver,K72-015-A,K72-015,Pin plug
+SA-800,Integrated Amplifier,K72-018-0,K72-018,Pin Plug
+QX-8000A,Receiver,K72-020-0,K72-020,Microphone jack
+SA-600,Integrated Amplifier,K72-020-0,K72-020,Microphone jack
+SA-6500,Integrated Amplifier,K72-020,K72-020,Mic. jack
+SA-7500,Integrated Amplifier,K72-020-0,K72-020,Phone jack (MIC)
+SA-8500,Integrated Amplifier,K72-020-0,K72-020,Phone jack (MIC)
+SA-9500,Integrated Amplifier,K72-020-0,K72-020,Phone jack (MIC)
+SA-9900,Integrated Amplifier,K72-020-0,K72-020,Phono jack (MIC)
+SD-1000,Other,K72-020-O,K72-020,Mic jack
+SD-1100,Other,K72-020-0,K72-020,Microphone jack
+SPEC-1,Pre-Amplifier,K72-020,K72-020,Phone jack (PHONES)
+SX-1500TD,Receiver,K72-020-0,K72-020,Jack for Headphone
+SX-424,Receiver,K72-020-0,K72-020,Microphone jack
+SX-434,Receiver,K72-020-0,K72-020,Phone jack (Microphone)
+SX-525,Receiver,K72-020-0,K72-020,Microphone jack
+SX-535,Receiver,K72-020-0,K72-020,Phone jack (MIC)
+SX-636,Receiver,K72-020-0,K72-020,Phone jack (microphone)
+SX-770,Receiver,K72-020-0,K72-020,Microphone Jack
+SX-990,Receiver,K72-020-0,K72-020,Jack for Microphone
+SA-500,Integrated Amplifier,K72-021-B,K72-021,Headphone jack
+SA-700,Integrated Amplifier,K72-021-C,K72-021,Headphone Jack
+SA-900,Integrated Amplifier,K72-021-0,K72-021,Headphone Jack
+SPEC-1,Pre-Amplifier,K72-021,K72-021,Phone jack (MIC)
+SX-1500TD,Receiver,K72-021-B,K72-021,Jack for Microphone
+SX-440,Receiver,K72-021-B,K72-021,Head phone Jack
+SX-770,Receiver,K72-021-B,K72-021,Headphone Jack
+SX-990,Receiver,K72-021-B,K72-021,Jack for Headphone
+CT-F7171,Cassette Tape,K72-024-0,K72-024,Phone jack (MIC)
+QT-6100,Reel To Reel Tape,K72-024-0,K72-024,Microphone jack
+QT-6600,Reel To Reel Tape,K72-024-0,K72-024,Microphone jack
+QT-74,Reel To Reel Tape,K72-024-0,K72-024,Phonejack (MIC)
+QX-9900,Receiver,K72-024-0,K72-024,Microphone jack
+QX-9900,Receiver,K72-024-0,K72-024,Microphone jack
+RT-1020L,Reel To Reel Tape,K72-024-0,K72-024,MIC jack
+SA-1000,Integrated Amplifier,K72-024-O,K72-024,Microphone jack
+SA-7100,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SA-800,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SA-8100,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SA-900,Integrated Amplifier,K72-024-0,K72-024,Jack for microphone
+SA-9100,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SX-1010,Receiver,K72-024-0,K72-024,Phone jack (Microphone)
+SX-6000,Receiver,K72-024-0,K72-024,Microphone Jack
+SX-626 (1971),Receiver,K72-024-0,K72-024,Microphone jack
+SX-626 (1973),Receiver,K72-024-0,K72-024,Phone jack (Microphone)
+SX-727,Receiver,K72-024-0,K72-024,Microphone jack
+SX-828,Receiver,K72-024-0,K72-024,Microphone jack
+SX-9000,Receiver,K72-024-0,K72-024,Jack lor Microphone
+SX-939,Receiver,K72-024-0,K72-024,Phone jack (Microphone)
+QA-800,Integrated Amplifier,K72-026-0,K72-026,Headphones jack
+QA-800A,Integrated Amplifier,K72-026-0,K72-026,Headphones jack
+QC-800,Pre-Amplifier,K72-026-0,K72-026,Headphones jack
+QC-800A,Pre-Amplifier,K72-026-0,K72-026,Headphones jack
+QT-6100,Reel To Reel Tape,K72-026-0,K72-026,Headphones jack
+QT-6600,Reel To Reel Tape,K72-026-0,K72-026,Headphones jack
+QX-4000,Receiver,K72-026-0,K72-026,Headphones jack
+QX-646,Receiver,K72-026-0,K72-026,Headphone jack
+QX-8000,Receiver,K72-026-0,K72-026,Headphones Jack
+QX-8000A,Receiver,K72-026-0,K72-026,Headphones jack
+SA-1000,Integrated Amplifier,K72-026-O,K72-026,Headphone jack
+SA-500A,Integrated Amplifier,K72-026-O,K72-026,Headphones Jack
+SA-5200,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-600,Integrated Amplifier,K72-026-0,K72-026,Headphones jack
+SA-606,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-6500,Integrated Amplifier,K72-026,K72-026,Phones jack
+SA-6500II,Integrated Amplifier,K72-026,K72-026,Phones jack
+SA-6700,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-706,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-7100,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-7500II,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-7700,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-800,Integrated Amplifier,K72-026-0,K72-026,Headphones jack
+SA-8100,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-9100,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-9500,Integrated Amplifier,K72-026-0,K72-026,Phone jack (MIC)
+SA-9500,Integrated Amplifier,K72-026-0,K72-026,Phone jack (PHONES)
+SA-9900,Integrated Amplifier,K72-026-0,K72-026,Phone jack (PHONES)
+SX-1010,Receiver,K72-026-0,K72-026,Phone jack (Headphone)
+SX-2500,Receiver,K72-026-O,K72-026,Headphone Jack
+SX-424,Receiver,K72-026-0,K72-026,Headphones jack
+SX-434,Receiver,K72-026-0,K72-026,Phone jack (Headphone)
+SX-525,Receiver,K72-026-0,K72-026,Headphones jack
+SX-535,Receiver,K72-026-0,K72-026,Phone jack (Headphone)
+SX-6000,Receiver,K72-026-0,K72-026,Headphones Jack
+SX-626 (1971),Receiver,K72-026-0,K72-026,Headphones jack
+SX-626 (1973),Receiver,K72-026-0,K72-026,Phone jack (Headphones)
+SX-636,Receiver,K72-026-0,K72-026,Phone jack (headphone)
+SX-727,Receiver,K72-026-0,K72-026,Headphones jack
+SX-737,Receiver,K72-026-0,K72-026,Phone jack (headphone)
+SX-828,Receiver,K72-026-0,K72-026,Headphones jack
+SX-838,Receiver,K72-026-0,K72-026,Phone lack (Headphone)
+SX-9000,Receiver,K72-026-0,K72-026,Jack for Headphone
+SX-939,Receiver,K72-026-0,K72-026,Phone jack (Headphone)
+TX-8100,Tuner,K72-026-0,K72-026,Headphone jack
+TX-9100,Tuner,K72-026-0,K72-026,Headphone jack
+QL-600,Integrated Amplifier,K72-028-0,K72-028,Speaker socket
+QM-800,Amplifier,K72-028-0,K72-028,Speaker socket
+QX-4000,Receiver,K72-028-0,K72-028,Speaker socket
+QX-8000,Receiver,K72-028-0,K72-028,Speaker Jack
+QX-8000A,Receiver,K72-028-0,K72-028,Speaker socket
+QX-9900,Receiver,K72-028-0,K72-028,Speaker socket
+QX-9900,Receiver,K72-028-0,K72-028,Speaker socket
+SA-600,Integrated Amplifier,K72-028-0,K72-028,Speaker socket
+SX-6000,Receiver,K72-028-0,K72-028,Speaker Socket
+SX-626 (1971),Receiver,K72-028-0,K72-028,Speaker socket
+SX-626 (1973),Receiver,K72-028-0,K72-028,Speaker output terminal
+SX-727,Receiver,K72-028-0,K72-028,Speaker socket
+SX-828,Receiver,K72-028-0,K72-028,Speaker socket
+QA-800,Integrated Amplifier,K72-031-0,K72-031,Speaker socket
+QA-800A,Integrated Amplifier,K72-031-0,K72-031,Speaker socket (2P)
+QM-800,Amplifier,K72-031-0,K72-031,Speaker socket (dual)
+QM-800A,Amplifier,K72-031-0,K72-031,Speaker socket (2P)
+QX-4000,Receiver,K72-031-0,K72-031,Speaker socket
+SA-1000,Integrated Amplifier,K72-031-O,K72-031,Dual speaker socket
+SA-500A,Integrated Amplifier,K72-031-O,K72-031,Speaker Socket
+SA-800,Integrated Amplifier,K72-031-0,K72-031,Speaker socket
+SX-424,Receiver,K72-031-0,K72-031,Speaker socket
+SX-525,Receiver,K72-031-0,K72-031,Speaker socket
+H-R9000,8-Track Tape,K72-622-0,K72-622,Mic Jack
+H-R9000,8-Track Tape,K72-622-0,K72-622,Mic Jack
+H-R99,8-Track Tape,K72-622-0,K72-622,Mic Jack
+H-R99,8-Track Tape,K72-622-0,K72-622,Mic Jack
+H-R99,8-Track Tape,K72-622-A,K72-622,Mic Jack
+H-R9000,8-Track Tape,K72-627-0,K72-627,Headphone Jack
+H-R99,8-Track Tape,K72-627-0,K72-627,Headphone Jack
+QA-800A,Integrated Amplifier,K73-003-B,K73-003,Speaker socket
+SX-1000TD,Receiver,K73-003-A,K73-003,Outlet for Speaker
+SX-1000TW,Receiver,K73-003-0,K73-003,Outlet for Speaker
+SX-1500T,Receiver,K73-003-A,K73-003,Concent for Speaker
+SX-1500TD,Receiver,K73-003-B,K73-003,Jack tor Speaker
+SX-2500,Receiver,K73-003-B,K73-003,Speaker Socket
+SX-700T,Receiver,K73-003-0,K73-003,Concent for Speaker
+SX-770,Receiver,K73-003-A,K73-003,Jack for Speaker
+SX-990,Receiver,K73-003-A,K73-003,Jack for Speaker
+SX-9000,Receiver,K73-028-0,K73-028,Socket for Speaker
+SA-500,Integrated Amplifier,K82-007-B,K82-007,Spare AC Outlet (FV)
+SA-700,Integrated Amplifier,K82-007-B,K82-007,Spare A.C Outlet
+SX-1000TD,Receiver,K82-007-B,K82-007,A.C. Outlet
+SX-1000TW,Receiver,K82-007-B,K82-007,A. C. Outlet
+SX-1500T,Receiver,K82-007-B,K82-007,A. C. concent
+SX-1500TD,Receiver,K82-007-B,K82-007,Socket for AC OUTLET
+SX-700T,Receiver,K82-007-B,K82-007,AC Concent
+SX-990,Receiver,K82-007-B,K82-007,Socket for AC OUTLET
+SX-1000TA (Later),Receiver,K82-009-0,K82-009,AC Concent
+SX-2500,Receiver,K82-011-O,K82-011,Spare AC Outlet
+SX-525,Receiver,K82-011-0,K82-011,Spare AC outlet
+SX-770,Receiver,K82-011-0,K82-011,Spare AC Outlet
+QM-800,Amplifier,K82-012-A,K82-012,Spare AC outlet
+SA-1000,Integrated Amplifier,K82-012-O,K82-012,AC outlet (FVW model)
+SA-800,Integrated Amplifier,K82-012-A,K82-012,Spare AC outlet
+SX-626 (1971),Receiver,K82-012-A,K82-012,Spare AC outlet
+SX-626 (1973),Receiver,K82-012-A,K82-012,AC socket    FVZW
+SX-9000,Receiver,K82-012-0,K82-012,Spare AC Outlet
+QA-800,Integrated Amplifier,K82-014-0,K82-014,Spare AC outlet
+QC-800,Pre-Amplifier,K82-014-0,K82-014,Spare AC outlet
+QM-800,Amplifier,K82-014-0,K82-014,Spare AC outlet (dual)
+QX-8000,Receiver,K82-014-0,K82-014,Spare AC Outlet
+SA-1000,Integrated Amplifier,K82-014-O,K82-014,Dual AC outlet (FVW model)
+SA-500A,Integrated Amplifier,K82-014-0,K82-014,Spare AC Outlet (FV)
+SA-500A,Integrated Amplifier,K82-014-0,K82-014,Spare AC Outlet (KC)
+SA-600,Integrated Amplifier,K82-014-0,K82-014,Spare AC outlet (FVW)
+SA-600,Integrated Amplifier,K82-014-0,K82-014,Spare AC outlet (KCW)
+SA-800,Integrated Amplifier,K82-014-0,K82-014,Spare AC outlet (2P)
+SD-1000,Other,K82-014-O,K82-014,Ganged AC outlets
+SD-1100,Other,K82-014-0,K82-014,Spare AC outlet
+SR-202W,Reverb,K82-014-0,K82-014,AC Outlet
+SX-6000,Receiver,K82-014-0,K82-014,Spare AC Outlet
+SX-2500,Receiver,K85-020-O,K85-020,4P Connector for REMOTE CONTROL
+H-R9000,8-Track Tape,K91-005-A,K91-005,"Fuse Holder, 1P"
+QL-600,Integrated Amplifier,K91-005-A,K91-005,Fuse Holder
+QM-800,Amplifier,K91-005-0,K91-005,Fuse holder
+QM-800A,Amplifier,K91-005-0,K91-005,Fuse holder (Pilot lamp socket)
+QX-4000,Receiver,K91-005-A,K91-005,1P fuse holder
+QX-646,Receiver,K91-005-A,K91-005,Fuse holder (1P)
+QX-8000,Receiver,K91-005-A,K91-005,Pilot Lamp (for Dial Glass) Socket
+QX-8000A,Receiver,K91-005-A,K91-005,Pilot lamp (dial scale) socket
+SA-700,Integrated Amplifier,K91-005-0,K91-005,Fuse Holder
+SA-900,Integrated Amplifier,K91-005-0,K91-005,Fuse Holder
+SX-1500TD,Receiver,K91-005-A,K91-005,Fuse Holder
+SX-2500,Receiver,K91-005-A,K91-005,Pilot Lamp (for Dial Glass) Socket
+SX-424,Receiver,K91-005-A,K91-005,Pilot lamp (for dial scale) socket
+SX-525,Receiver,K91-005-A,K91-005,Pilot lamp (for signal meter) socket
+SX-6000,Receiver,K91-005-A,K91-005,Pilot Lamp (for dial glass) Socket
+SX-626 (1971),Receiver,K91-005-A,K91-005,Pilot lamp (for signal meter) socket
+SX-626 (1973),Receiver,K91-005-A,K91-005,Pilot lamp socket
+SX-727,Receiver,K91-005-A,K91-005,Pilot lamp (for dial scale) socket
+SX-828,Receiver,K91-005-A,K91-005,Pilot lamp (for meter) socket
+SX-9000,Receiver,K91-005-0,K91-005,Fuse holder (1p)
+SX-990,Receiver,K91-005-0,K91-005,Fuse Holder 1P
+QL-600A,Integrated Amplifier,K91-005A,K91-005A,Pilot lamp (for level meter) socket
+CT-F6161,Cassette Tape,K91-006-0,K91-006,Clip-in type fuse holder
+PL-51A,Turntable,K91-006-0,K91-006,Fuse holder
+PL-55X,Turntable,K91-006-0,K91-006,Fuse holder
+PL-71,Turntable,K91-006-0,K91-006,Fuse holder
+SA-606,Integrated Amplifier,K91-008,K91-008,Fuse holder 1P (HG)
+SA-6700,Integrated Amplifier,K91-008,K91-008,Fuse holder 1P for FU2 (KC)
+SA-706,Integrated Amplifier,K91-008,K91-008,Fuse holder 1P (HG)
+SA-7700,Integrated Amplifier,K91-008,K91-008,Fuse holder for FU3 (KC)
+SX-1980,Receiver,K91-008,K91-008,Fuse holder 1P (HG)
+SX-580/590,Receiver,K91-008,K91-008,Fuse holder 1P (SX-590/HG)
+SX-580/590,Receiver,K91-008,K91-008,Fuse holder 1P (SX-590/HGW4)
+SX-680/690,Receiver,K91-008,K91-008,Fuse holder 1P (SX -680/HG)
+SX-680/690,Receiver,K91-008,K91-008,Fuse holder 1P (SX -680/HGW4)
+SX-737,Receiver,K91-008-0,K91-008,Fuse holder (protection GN)
+SD-1000,Other,K91-009-A,K91-009,Fuse holder
+SX-440,Receiver,K92-006-0,K92-006,Fuse Holder 2p
+CT-F7171,Cassette Tape,K93-003-B,K93-003,DIN type socket
+QL-600,Integrated Amplifier,K93-003-B,K93-003,Tape REC/PB Connector (DIN type)
+QT-6100,Reel To Reel Tape,K93-003-B,K93-003,DlN-type socket
+QT-6600,Reel To Reel Tape,K93-003-B,K93-003,DIN type socket
+QT-74,Reel To Reel Tape,K93-003-B,K93-003,"REC./P.B. connector (DIN type, 5P)"
+QX-4000,Receiver,K93-003-B,K93-003,5P connector socket (DlN)
+QX-646,Receiver,K93-003-B,K93-003,5P connector (DIN type)
+QX-9900,Receiver,K93-003-B,K93-003,5P connector socket (DIN)
+RT-1020L,Reel To Reel Tape,K93-003-B,K93-003,DIN socket
+SA-1000,Integrated Amplifier,K93-003-B,K93-003,5P connecter socket
+SA-500,Integrated Amplifier,K93-003-B,K93-003,Connector 5P(DlN type)
+SA-500A,Integrated Amplifier,K93-003-B,K93-003,5P Connector (DIN)
+SA-5200,Integrated Amplifier,K93-003-B,K93-003,5P connector socket (DIN-type)
+SA-600,Integrated Amplifier,K93-003-B,K93-003,5P connector socket
+SA-6500,Integrated Amplifier,K93-003,K93-003,Connector socket (5p DIN type)
+SA-700,Integrated Amplifier,K93-003-B,K93-003,Connector 5 (DIN Type)
+SA-7100,Integrated Amplifier,K93-003-B,K93-003,5P Connector (DIN type)
+SA-800,Integrated Amplifier,K93-003-B,K93-003,5P Connector (DIN type)
+SA-8100,Integrated Amplifier,K93-003-B,K93-003,5P connector (DIN type)
+SA-900,Integrated Amplifier,K93-003-B,K93-003,Tape REC/P.B Connector
+SA-9100,Integrated Amplifier,K93-003-B,K93-003,5P connector (DIN type)
+SX-1000TA (Later),Receiver,K93-003-0,K93-003,Connector 5P for Tape Recorder
+SX-1000TD,Receiver,K93-003-B,K93-003,Connector 5p for Tape Recorder
+SX-1000TW,Receiver,K93-003-0,K93-003,Connector 5p for Tape Recorder
+SX-1500T,Receiver,K93-003-B,K93-003,Connector 5p for Tape Recorder
+SX-1500TD,Receiver,K93-003-B,K93-003,Connector 5P
+SX-2500,Receiver,K93-003-B,K93-003,Connector 5P
+SX-424,Receiver,K93-003-B,K93-003,5P connector (DIN)
+SX-434,Receiver,K93-003-B,K93-003,Connector (DIN type 5P)
+SX-440,Receiver,K93-003-B,K93-003,Connector 5p
+SX-525,Receiver,K93-003-B,K93-003,5P connector (DIN)
+SX-6000,Receiver,K93-003-B,K93-003,Tape Rec/P.B. Connector (DIN)
+SX-626 (1971),Receiver,K93-003-B,K93-003,5P connector (DlN)
+SX-626 (1973),Receiver,K93-003-B,K93-003,Connector (DIN type 5p)
+SX-700T,Receiver,K93-003-0,K93-003,Connector 5P for Tape Recorder
+SX-727,Receiver,K93-003-B,K93-003,5P connector (DIN)
+SX-770,Receiver,K93-003-B,K93-003,Connector 5P
+SX-828,Receiver,K93-003-B,K93-003,5P connector (DIN)
+SX-9000,Receiver,K93-003-B,K93-003,5P Connector (DIN type)
+SX-990,Receiver,K93-003-B,K93-003,Connector 5P
+QL-600A,Integrated Amplifier,K93-003B,K93-003B,5P connector (DIN)
+QA-800,Integrated Amplifier,K96-006-0,K96-006,Fuse holder
+QX-8000,Receiver,K96-006-C,K96-006,Fuse Holder
+SA-600,Integrated Amplifier,K96-006-C,K96-006,Fuse holder (FVW)
+SX-1000TA (Later),Receiver,K96-006-C,K96-006,Fuse Holder
+SX-1500T,Receiver,K96-006-C,K96-006,Fuse holder
+SX-700T,Receiver,K96-006-0,K96-006,Fuse Holder
+SX-9000,Receiver,K96-006-C,K96-006,Fuse holder for Protection Circuit
+QA-800A,Integrated Amplifier,K96-007-C,K96-007,Fuse holder (protection)
+QD-210,Other,K96-007,K96-007,FUSE HOLDER
+QX-8000A,Receiver,K96-007-C,K96-007,Fuse holder (protection)
+SA-1000,Integrated Amplifier,K96-007-B,K96-007,Fuse holder (KUW model)
+SA-500A,Integrated Amplifier,K96-007-C,K96-007,Fuse Holder
+SA-600,Integrated Amplifier,K96-007-B,K96-007,Fuse holder for UL
+SA-800,Integrated Amplifier,K96-007-B,K96-007,Fuse holder (KUW)
+SX-2500,Receiver,K96-007-O,K96-007,Fuse Holder
+SX-525,Receiver,K96-007-C,K96-007,Fuse (for protection) holder
+SX-525,Receiver,K96-007-C,K96-007,LINE VOLTAGE SELECTOR
+SX-626 (1971),Receiver,K96-007-C,K96-007,Fuse holder
+SX-626 (1973),Receiver,K96-007-C,K96-007,Fuse holder (AC power)    KUW
+SX-626 (1973),Receiver,K96-007-C,K96-007,"Fuse holder (Protection)    KUW, KCW, FVZW, FW"
+SX-770,Receiver,K96-007-0,K96-007,Fuse Holder
+PL-15D,Turntable,KAA-008-B,KAA-008,Anti-skating knob
+PL-55/55D,Turntable,KAA-008-A,KAA-008,Anti-skating knob
+PL-A45,Turntable,KAA-008-A,KAA-008,Anti-skating knob
+PL-55X,Turntable,KAA-013-0,KAA-013,Knob
+PL-A45D,Turntable,KAA-013-0,KAA-013,Antlskating knob
+PL-A45,Turntable,KAH-003-0,KAH-003,Rubber mat ring
+PL-A45D,Turntable,KAH-003-0,KAH-003,Rubber mat ring
+PL-51,Turntable,KAH-007-A,KAH-007,Rubber mat ring
+PL-51,Turntable,KAH-007-A,KAH-007,Rubber mat ring
+PL-510,Turntable,KAH-007,KAH-007,Ring
+PL-510A,Turntable,KAH-007,KAH-007,Ring
+PL-510S,Turntable,KAH-007,KAH-007,Ring
+PL-51A,Turntable,KAH-007-A,KAH-007,Rubber mat ring
+PL-51A,Turntable,KAH-007-A,KAH-007,Rubber mat ring
+PL-530,Turntable,KAH-007,KAH-007,Ring
+PL-55/55D,Turntable,KAH-007-A,KAH-007,Ring
+PL-55X,Turntable,KAH-007-A,KAH-007,Ring
+PL-71,Turntable,KAH-007-A,KAH-007,Ring
+PL-117D,Turntable,KAH-008,KAH-008,Ring
+PL-A35,Turntable,KAK-003-0,KAK-003,Function lever template
+PL-A505,Turntable,KAK-013-C,KAK-013,Name plate C
+PL-A505,Turntable,KAK-017-B,KAK-017,Name plate A
+PL-15D,Turntable,KAK-023-C,KAK-023,Name plate
+PL-A505,Turntable,KAK-037-0,KAK-037,Name plate B
+PL-15D,Turntable,KAK-038-A,KAK-038,Name plate
+PL-15D,Turntable,KAK-039-A,KAK-039,Name plate
+PL-51A,Turntable,KAK-046-0,KAK-046,Lamp cover
+PL-12E,Turntable,KAM-020-0,KAM-020,Name plate
+PL-A505,Turntable,KAM-034-0,KAM-034,Name plate
+PL-55/55D,Turntable,KAM-042-0,KAM-042,Name plate
+PL-71,Turntable,KAM-042-0,KAM-042,Name plate A
+PL-A505,Turntable,KAM-051-0,KAM-051,Name plate
+PL-51,Turntable,KAM-052-0,KAM-052,Plate
+PL-55/55D,Turntable,KAM-056-0,KAM-056,Name plate PL-55D
+PL-55/55D,Turntable,KAM-058-0,KAM-058,Name plate PL-55
+PL-51A,Turntable,KAM-090-0,KAM-090,Plate
+PL-71,Turntable,KAM-092-0,KAM-092,Name plate E
+PL-12E,Turntable,KBA-022-0,KBA-022,Screw
+PL-A45,Turntable,KBA-022-0,KBA-022,Screw
+PL-A45D,Turntable,KBA-022-0,KBA-022,Screw
+PL-12DII,Turntable,KBA-025-A,KBA-025,Motor mounting screw
+PL-12E,Turntable,KBA-025-0,KBA-025,Screw
+PL-A45,Turntable,KBA-025-0,KBA-025,Motor set screw
+PL-A45D,Turntable,KBA-025-A,KBA-025,Motor set screw
+PL-71,Turntable,KBA-040-A,KBA-040,Lateral crooked bar-held screw
+PL-71,Turntable,KBA-043-0,KBA-043,Cartridge mounting screw 8mm
+PL-A45D,Turntable,KBA-043-0,KBA-043,Screw
+PL-A505,Turntable,KBA-043-0,KBA-043,Screw
+PL-510,Turntable,KBA-044,KBA-044,Screw
+PL-510S,Turntable,KBA-044,KBA-044,Screw
+PL-71,Turntable,KBA-044-0,KBA-044,Cartridge mounting screw 5mm
+PL-A45D,Turntable,KBA-044-0,KBA-044,Screw
+PL-A505,Turntable,KBA-044-0,KBA-044,Screw
+PL-200/200X,Turntable,KBA-045,KBA-045,Cartridge mounting screw (PL-200X)
+PL-510,Turntable,KBA-045,KBA-045,Screw
+PL-510A,Turntable,KBA-045,KBA-045,Cartridge mounting screw
+PL-510S,Turntable,KBA-045,KBA-045,Screw
+PL-71,Turntable,KBA-045-0,KBA-045,Cartridge mounting screw 15mm
+PL-A45D,Turntable,KBA-045-0,KBA-045,Screw
+PL-A505,Turntable,KBA-045-0,KBA-045,Screw
+PL-12DII,Turntable,KBC-001-0,KBC-001,Transit screw
+PL-71,Turntable,KBE-002-A,KBE-002,Claw washer
+PL-51,Turntable,KBE-008-0,KBE-008,Washer
+PL-51A,Turntable,KBE-008-0,KBE-008,Washer
+PL-A505,Turntable,KBE-014-0,KBE-014,Washer
+PL-15D,Turntable,KBE-015-0,KBE-015,Washer
+PL-55/55D,Turntable,KBF-006-0,KBF-006,Fiber washer
+PL-55/55D,Turntable,KBF-007-0,KBF-007,Teflon washer
+PL-A505,Turntable,KBF-017-0,KBF-017,Teflon washer 4.2ɸx10ɸx0.5t
+PL-55/55D,Turntable,KBH -099-0,KBH -099,Spring
+PL-A45D,Turntable,KBH-002-0,KBH-002,Spring
+PL-12E,Turntable,KBH-022-A,KBH-022,Elevation Spring
+PL-51,Turntable,KBH-022-A,KBH-022,Spring
+PL-51A,Turntable,KBH-022-A,KBH-022,Spring
+PL-520,Turntable,KBH-027,KBH-027,Spring
+PL-A35,Turntable,KBH-027-B,KBH-027,Spring
+PL-A45,Turntable,KBH-027-B,KBH-027,Spring
+PL-A45D,Turntable,KBH-027-B,KBH-027,Spﬂng
+PL-51,Turntable,KBH-029-0,KBH-029,Spring
+PL-51A,Turntable,KBH-029-E,KBH-029,Spring
+PL-55/55D,Turntable,KBH-029-E,KBH-029,Spring
+PL-71,Turntable,KBH-029-0,KBH-029,Spring
+PL-A35,Turntable,KBH-040-0,KBH-040,Spring
+PL-A45,Turntable,KBH-040-0,KBH-040,Spring
+PL-A45D,Turntable,KBH-040-0,KBH-040,Spring
+PL-55/55D,Turntable,KBH-041-0,KBH-041,Spring
+PL-55/55D,Turntable,KBH-042-0,KBH-042,Lock lever spring
+PL-55/55D,Turntable,KBH-044-0,KBH-044,Spring (Return lever spring)
+PL-55/55D,Turntable,KBH-044-0,KBH-044,Spring (Return lever spring)
+PL-A505,Turntable,KBH-048-B,KBH-048,Spring
+PL-55/55D,Turntable,KBH-049-0,KBH-049,Spring (B)
+PL-55/55D,Turntable,KBH-050-0,KBH-050,Spring (Return spring)
+PL-A505,Turntable,KBH-052-0,KBH-052,Spring
+PL-A505,Turntable,KBH-053-B,KBH-053,Button spring
+PL-A505,Turntable,KBH-054-0,KBH-054,Spring
+PL-A505,Turntable,KBH-055-B,KBH-055,Spring
+PL-A505,Turntable,KBH-061-A,KBH-061,Spring
+PL-A505,Turntable,KBH-064-0,KBH-064,S pring
+PL-A505,Turntable,KBH-065-0,KBH-065,Disk B spring
+PL-12DII,Turntable,KBH-066-A,KBH-066,Spring
+PL-12E,Turntable,KBH-066-A,KBH-066,Spring
+PL-51,Turntable,KBH-066-A,KBH-066,Spring
+PL-51A,Turntable,KBH-066-A,KBH-066,Spring
+PL-15D,Turntable,KBH-078-E,KBH-078,Panel spring (C)
+PL-15D,Turntable,KBH-078-E,KBH-078,Panel spring(C)
+PL-15D,Turntable,KBH-079-E,KBH-079,Panel spring (D)
+PL-15D,Turntable,KBH-079-E,KBH-079,Panel spring(D)
+PL-15D,Turntable,KBH-080-0,KBH-080,Spring
+PL-15D,Turntable,KBH-081-0,KBH-081,Cut lever spring
+PL-15D,Turntable,KBH-082-E,KBH-082,Lever spring
+PL-15D,Turntable,KBH-084-A,KBH-084,Spring
+PL-A505,Turntable,KBH-087-A,KBH-087,Spring
+PL-15D,Turntable,KBH-090-A,KBH-090,Spring
+PL-A505,Turntable,KBH-091-0,KBH-091,Spring
+PL-A505,Turntable,KBH-092-A,KBH-092,Spring
+PL-A505,Turntable,KBH-094-A,KBH-094,Spring
+PL-51,Turntable,KBH-099-0,KBH-099,Spring
+PL-51A,Turntable,KBH-099-0,KBH-099,Spring
+PL-55X,Turntable,KBH-099-0,KBH-099,Spring
+PL-71,Turntable,KBH-099-0,KBH-099,Spring
+PL-A505,Turntable,KBH-124-0,KBH-124,Spring
+PL-55/55D,Turntable,KBH-125-0,KBH-125,Arm clamp spring
+PL-55X,Turntable,KBH-125-0,KBH-125,Arm clamp spring
+PL-15D,Turntable,KBH-130-A,KBH-130,Spﬁng
+PL-15D,Turntable,KBH-131-B,KBH-131,Spring
+PL-15D,Turntable,KBH-132-0,KBH-132,Spring rod
+PL-A505,Turntable,KBH-133-0,KBH-133,Spring
+PL-15D,Turntable,KBH-135-0,KBH-135,Spring
+PL-12DII,Turntable,KBH-149-0,KBH-149,Panel flat spring
+SPEC-2,Amplifier,KBH-2504,KBH-2504,Diode
+PL-A505,Turntable,KBK-008-A,KBK-008,Spring
+PL-A505,Turntable,KBK-015-0,KBK-015,Spring
+PL-12E,Turntable,KBK-016-0,KBK-016,Plate spring
+PL-12E,Turntable,KBK-016-0,KBK-016,Plate spring
+PL-12E,Turntable,KBK-016-0,KBK-016,Plate spring
+PL-51,Turntable,KBK-016-A,KBK-016,Leaf spring
+PL-51,Turntable,KBK-016-A,KBK-016,Leaf spring
+PL-51A,Turntable,KBK-016-A,KBK-016,Leaf spring
+PL-51A,Turntable,KBK-016-A,KBK-016,Leaf spring
+PL-A505,Turntable,KBK-019-A,KBK-019,Plate spring A
+PL-A505,Turntable,KBK-020-A,KBK-020,Plate spring B
+PL-112D,Turntable,KCE-005,KCE-005,Capacitor
+PL-117D,Turntable,KCE-005,KCE-005,Capacitor
+PL-12DII,Turntable,KCE-005-0,KCE-005,Capacitor
+PL-51,Turntable,KCE-009-0,KCE-009,Capacitor 0.033 uF
+PL-51A,Turntable,KCE-009-0,KCE-009,Capacitor 0.033uF
+PL-55/55D,Turntable,KCE-009-0,KCE-009,Ceramic capacitor 0.033uF
+PL-71,Turntable,KCE-009-0,KCE-009,Capacitor 0.033uF
+PL-51,Turntable,KCS-006-A,KCS-006,Potentiometer (Fine speed adjustment)
+PL-55/55D,Turntable,KCS-006-A,KCS-006,Potention meter
+PL-55X,Turntable,KCS-006-A,KCS-006,Variable resistor (SPEED CONTROL)
+PL-51A,Turntable,KCS-006 A,KCS-006 A,Potentiometer (Fine speed adjustment)
+PL-71,Turntable,KCS-007-0,KCS-007,Variable resistor
+PL-A35,Turntable,KDA-006-0,KDA-006,Cable
+PL-A45,Turntable,KDA-006-0,KDA-006,Cable
+PL-A45D,Turntable,KDA-006-0,KDA-006,Cable
+PL-51,Turntable,KDE-003-0,KDE-003,Power cord
+PL-15D,Turntable,KDE-022-C,KDE-022,Connection cord
+PL-A45,Turntable,KDE-022-B,KDE-022,Output cord
+PL-A45,Turntable,KDE-022-B,KDE-022,Output cord
+PL-A45D,Turntable,KDE-022-0,KDE-022,Output cord
+PL-A45D,Turntable,KDE-022-D,KDE-022,Output cord
+PL-51,Turntable,KDE-037-C,KDE-037,Connection cable
+PL-51A,Turntable,KDE-037-C,KDE-037,Connection cable
+PL-55/55D,Turntable,KDE-037-C,KDE-037,Output cord
+PL-A505,Turntable,KDE-037-C,KDE-037,Output cord
+PL-A505,Turntable,KDE-039-0,KDE-039,Lead wire
+PL-51,Turntable,KDE-040-B,KDE-040,Cable
+PL-51,Turntable,KDE-066-0,KDE-066,Socket (2P) with cord
+PL-51,Turntable,KDE-067-0,KDE-067,Plug (2P) with cord
+PL-51,Turntable,KDE-068-0,KDE-068,Socket (2P) with cord
+PL-51,Turntable,KDE-069-0,KDE-069,Plug (2P) with cord
+PL-55/55D,Turntable,KDG-003-0,KDG-003,Power cord PL-55D
+PL-A35,Turntable,KDG-003-0,KDG-003,Power cable unit
+PL-12E,Turntable,KDG-007-0,KDG-007,AC cord
+PL-15D,Turntable,KDG-007-0,KDG-007,Power cord
+PL-55/55D,Turntable,KDG-007-0,KDG-007,Power cord PL-55
+PL-A45,Turntable,KDG-007-0,KDG-007,AC cord
+PL-A45,Turntable,KDG-007-0,KDG-007,Power cord
+PL-A45D,Turntable,KDG-007-0,KDG-007,"AC cord (P,PV,PVT model)"
+PL-A45D,Turntable,KDG-007-0,KDG-007,"AC cord (P,PV,PVT model)"
+PL-A505,Turntable,KDG-007-0,KDG-007,Power cord
+PL-112D,Turntable,KDG-011,KDG-011,AC power cord
+PL-117D,Turntable,KDG-011,KDG-011,"AC power cord (KCT, KUT model)"
+PL-12DII,Turntable,KDG-011-0,KDG-011,Power cord
+PL-510,Turntable,KDG-011,KDG-011,AC power cord
+PL-510A,Turntable,KDG-011,KDG-011,AC power cord
+PL-510S,Turntable,KDG-011,KDG-011,AC Power cord
+PL-516,Turntable,KDG-011,KDG-011,Power cord
+PL-518,Turntable,KDG-011,KDG-011,Power cord
+PL-51A,Turntable,KDG-011-0,KDG-011,Power cord
+PL-520,Turntable,KDG-011,KDG-011,AC cord
+PL-530,Turntable,KDG-011,KDG-011,AC power cord (K type)
+PL-550,Turntable,KDG-011,KDG-011,AC power cord
+PL-55X,Turntable,KDG-011-0,KDG-011,Power cord
+PL-570,Turntable,KDG-011,KDG-011,Power cord
+PL-71,Turntable,KDG-011 -0,KDG-011 ,AC cord
+PL-A45D,Turntable,KDG-011-0,KDG-011,AC cord (KT model)
+PL-A45D,Turntable,KDG-011-0,KDG-011,AC cord (KT model)
+PLC-590,Turntable,KDG-011,KDG-011,AC power cord
+PL-51A,Turntable,KDX-006-A,KDX-006,cord
+PL-71,Turntable,KDX-006-A,KDX-006,Grand cord assembly
+PL-12E,Turntable,KDX-008-B,KDX-008,Lead wire
+PL-55/55D,Turntable,KEA-008-A,KEA-008,Accessory assembly
+PL-51,Turntable,KEA-019-0,KEA-019,Rubber mat assembly
+PL-51A,Turntable,KEA-019-0,KEA-019,Rubber mat assembly
+PL-55X,Turntable,KEA-019-0,KEA-019,Rubber mat assembly
+PL-71,Turntable,KEA-019-0,KEA-019,Rubber mat assembly
+PL-71,Turntable,KEA-019-0,KEA-019,Rubber mat assembly
+PL-15D,Turntable,KEA-022-0,KEA-022,Rubber mat assembly
+PL-100/100X,Turntable,KEB-004,KEB-004,Belt
+PL-117D,Turntable,KEB-004,KEB-004,Belt
+PL-12DII,Turntable,KEB-004-0,KEB-004,Belt
+PL-15D,Turntable,KEB-004-0,KEB-004,Belt
+PL-516,Turntable,KEB-004,KEB-004,Belt
+PL-A35,Turntable,KEB-004-0,KEB-004,Belt
+PL-A45D,Turntable,KEB-004-0,KEB-004,Belt
+PL-12E,Turntable,KEB-006-0,KEB-006,Belt
+PL-12E,Turntable,KEB-006-0,KEB-006,Belt
+PL-A45,Turntable,KEB-006-0,KEB-006,Belt
+PL-A505,Turntable,KEB-006-0,KEB-006,Belt
+PL-A45,Turntable,KEB-034-A,KEB-034,Rubber mat
+PL-A45D,Turntable,KEB-034-A,KEB-034,Rubber mat
+PL-55/55D,Turntable,KEB-035-0,KEB-035,Packing (Rubber)
+PL-51,Turntable,KEB-058-0,KEB-058,Rubber mat
+PL-51,Turntable,KEB-058-A,KEB-058,Rubber mat
+PL-51A,Turntable,KEB-058-0,KEB-058,Rubber mat
+PL-51A,Turntable,KEB-058-A,KEB-058,Rubber mat
+PL-55/55D,Turntable,KEB-058-A,KEB-058,Rubber mat
+PL-55X,Turntable,KEB-058-A,KEB-058,Rubber mat
+PL-71,Turntable,KEB-058-A,KEB-058,Rubber mat
+PL-15D,Turntable,KEB-059-0,KEB-059,Buffer (A)
+PL-51,Turntable,KEB-063-0,KEB-063,Transformer base rubber A
+PL-51A,Turntable,KEB-063-0,KEB-063,Transformer base rubber A
+PL-71,Turntable,KEB-063-0,KEB-063,Transformer base rubber (A)
+PL-55/55D,Turntable,KEB-065-A,KEB-065,Transformer rubber
+PL-55X,Turntable,KEB-065-A,KEB-065,Cushion rubber
+PL-55X,Turntable,KEC-004-C,KEC-004,Strobe lamp
+PL-A45,Turntable,KEC-004-0,KEC-004,Capacitor 0.1uF AC 250V UL
+PL-A45D,Turntable,KEC-004-0,KEC-004,Capacitor 0.1;1F AC 250V UL
+PL-15D,Turntable,KEC-010-0,KEC-010,Dust cover
+PL-15D,Turntable,KEC-010-0,KEC-010,Dust cover
+PL-12E,Turntable,KEC-037-0,KEC-037,Cord stopper (A)
+PL-A35,Turntable,KEC-037-0,KEC-037,Cable cramp
+PL-55X,Turntable,KEC-045-A,KEC-045,Arm rest
+PL-12E,Turntable,KEC-060-0,KEC-060,Dust cover
+PL-12E,Turntable,KEC-060-A,KEC-060,Dust cover
+PL-A45,Turntable,KEC-062-B,KEC-062,Dust cover
+PL-A505,Turntable,KED-009-B,KED-009,Felt
+PL-55/55D,Turntable,KED-023-0,KED-023,Brlnd sheet
+PL-12E,Turntable,KEE-010-0,KEE-010,Insulator plate
+PL-A35,Turntable,KEK-002-0,KEK-002,Fuse (0.25A)
+PL-A45,Turntable,KEK-002-0,KEK-002,Fuse (0.25A)
+PL-51,Turntable,KEK-005-0,KEK-005,Fuse 0.3A (Wired in type)
+PL-55/55D,Turntable,KEK-005-0,KEK-005,Fuse 0.3A
+PL-A45D,Turntable,KEK-008-0,KEK-008,Fuse (315 mA)
+PL-51A,Turntable,KEL-004-C,KEL-004,Strobo lamp
+PL-12DII,Turntable,KEM-001-A,KEM-001,Lubricator
+PL-12E,Turntable,KEM-001-A,KEM-001,Lubricator
+PL-15D,Turntable,KEM-001-A,KEM-001,Lubricator
+PL-A45,Turntable,KEM-001-A,KEM-001,Lubricator
+PL-A45D,Turntable,KEM-001-A,KEM-001,Lubricator
+PL-A505,Turntable,KEM-001-0,KEM-001,Oil
+PL-112D,Turntable,KEX-002,KEX-002,Screw driver
+PL-117D,Turntable,KEX-002,KEX-002,Screwdriver
+PL-12DII,Turntable,KEX-002-A,KEX-002,Screwdriver
+PL-12E,Turntable,KEX-002-A,KEX-002,Screwdriver
+PL-15D,Turntable,KEX-002-A,KEX-002,Screw driver
+PL-500,Turntable,KEX-002,KEX-002,Driver
+PL-500X,Turntable,KEX-002,KEX-002,Driver
+PL-51,Turntable,KEX-002-A,KEX-002,Screwdriver
+PL-510,Turntable,KEX-002,KEX-002,Screwdriver
+PL-510A,Turntable,KEX-002,KEX-002,Screw driver
+PL-510S,Turntable,KEX-002,KEX-002,Screwdriver
+PL-516,Turntable,KEX-002,KEX-002,Screw Driver
+PL-518,Turntable,KEX-002,KEX-002,Screwdriver
+PL-51A,Turntable,KEX-002-A,KEX-002,Screwdriver
+PL-520,Turntable,KEX-002,KEX-002,Screwdriver
+PL-530,Turntable,KEX-002,KEX-002,Screwdriver
+PL-540,Turntable,KEX-002,KEX-002,Screw driver
+PL-55/55D,Turntable,KEX-002-A,KEX-002,Screw driver
+PL-550,Turntable,KEX-002,KEX-002,Screwdriver
+PL-55X,Turntable,KEX-002-A,KEX-002,Screwdriver
+PL-560,Turntable,KEX-002,KEX-002,Screwdriver
+PL-570,Turntable,KEX-002,KEX-002,Screwdriver
+PL-600/600X,Turntable,KEX-002,KEX-002,Driver
+PL-630,Turntable,KEX-002,KEX-002,Screwdriver
+PL-71,Turntable,KEX-002-A,KEX-002,Screw driver
+PL-A45,Turntable,KEX-002-A,KEX-002,Screwdriver
+PL-A45D,Turntable,KEX-002-A,KEX-002,Screwdriver
+PL-A505,Turntable,KEX-002-0,KEX-002,Screw driver
+PL-L1000,Turntable,KEX-002,KEX-002,Screwdriver
+PL-15D,Turntable,KEX-004-0,KEX-004,Cord clamp
+PL-51A,Turntable,KEX-004-0,KEX-004,Cord ﬁxer
+PL-55/55D,Turntable,KEX-004-0,KEX-004,Cord clamp
+PL-55/55D,Turntable,KEX-004-0,KEX-004,Cord clamp
+PL-55X,Turntable,KEX-004-0,KEX-004,Cord fixer
+PL-71,Turntable,KEX-004-A,KEX-004,Cord fixer
+PL-55/55D,Turntable,KHA-125-0,KHA-125,Dust cover pad PL-55D only
+PL-12DII,Turntable,KHA-126-C,KHA-126,Styrotector
+PL-12DII,Turntable,KHA-127-B,KHA-127,Styrotector
+PL-51,Turntable,KHA-146-B,KHA-146,Styrotector
+PL-51A,Turntable,KHA-146-B,KHA-146,Styrotector
+PL-A505,Turntable,KHA-205-0,KHA-205,Corner pad
+PL-55/55D,Turntable,KHA-226-0,KHA-226,Styrotector
+PL-55X,Turntable,KHA-226-B,KHA-226,Styrotector
+PL-71,Turntable,KHA-226-B,KHA-226,Styrotector A
+PL-55/55D,Turntable,KHA-227-0,KHA-227,Styrutector
+PL-55X,Turntable,KHA-227-A,KHA-227,Styrotector
+PL-71,Turntable,KHA-227-A,KHA-227,Styrotectcr B
+PL-71,Turntable,KHA-233-A,KHA-233,Tonearm packing
+PL-A505,Turntable,KHA-280-0,KHA-280,Side pad
+PL-55X,Turntable,KHC-059-0,KHC-059,Upper board
+PL-71,Turntable,KHC-059-0,KHC-059,Top cardboard
+PL-A45D,Turntable,KHC-059-0,KHC-059,Top cardboard
+PL-12DII,Turntable,KHC-069-0,KHC-069,Upper board
+PL-A45D,Turntable,KHG-225-0,KHG-225,Packing case (P model)
+PL-A45D,Turntable,KHG-235-0,KHG-235,Packing case (KT model)
+PL-12E,Turntable,KHK-022-0,KHK-022,Cover
+PL-A35,Turntable,KHK-072-A,KHK-072,Carton
+PL-15D,Turntable,KHK-113-0,KHK-113,Stopper
+PL-12E,Turntable,KHK-137-0,KHK-137,Packing case
+PL-12E,Turntable,KHK-164-E,KHK-164,Styrotector (R)
+PL-12E,Turntable,KHK-165-C,KHK-165,Styrotector (L)
+PL-A45D,Turntable,KHK-204-0,KHK-204,Packing case (PV model)
+PL-51,Turntable,KHK-229-0,KHK-229,Packing case
+PL-55/55D,Turntable,KHK-238-A,KHK-238,Packing case PL-55D/FV
+PL-15D,Turntable,KHK-239-0,KHK-239,Packing case
+PL-A505,Turntable,KHK-240-0,KHK-240,Packing case
+PL-A505,Turntable,KHK-240-0,KHK-240,Top card board
+PL-55/55D,Turntable,KHK-243-A,KHK-243,Packing case PL-55/FV
+PL-A45D,Turntable,KHK-252-0,KHK-252,Packing case (PVT model)
+PL-55/55D,Turntable,KHK-265-0,KHK-265,Packing case PL-55/FVT
+PL-51A,Turntable,KHK-403-0,KHK-403,Packing stopper
+PL-A45D,Turntable,KHK-403-0,KHK-403,Packing ﬂap stopper
+PL-50,Turntable,KHX-001-0,KHX-001,Miscellaneous parts box
+PL-50,Turntable,KHX-001-0,KHX-001,Miscellaneous parts box
+PL-50,Turntable,KHX-001-0,KHX-001,Miscellaneous parts box
+PL-A35,Turntable,KHX-001-D,KHX-001,Miscellaneous parts box
+PL-15D,Turntable,KHX-002-A,KHX-002,Cover
+PL-71,Turntable,KHX-002-0,KHX-002,Parts box cover
+PL-A35,Turntable,KHX-002-0,KHX-002,Miscellaneous box cover
+PL-A45,Turntable,KHX-002-0,KHX-002,Parts box cover
+PL-15D,Turntable,KHX-017-A,KHX-017,Accessories case
+PL-15D,Turntable,KHX-017-A,KHX-017,Case
+PL-A45,Turntable,KHX-017-A,KHX-017,Miscellaneous parts box
+PL-A45D,Turntable,KHX-017-0,KHX-017,Miscellaneous parts box
+PL-51,Turntable,KHX-026-A,KHX-026,Furnished parts box
+PL-51A,Turntable,KHX-026-A,KHX-026,Furnished parts box
+PL-55/55D,Turntable,KHX-026-0,KHX-026,Accessory box
+PL-55/55D,Turntable,KHX-026-0,KHX-026,Case
+PL-55X,Turntable,KHX-026-B,KHX-026,Accessory case
+PL-A505,Turntable,KHX-026-0,KHX-026,Case
+PL-A505,Turntable,KHX-026-A,KHX-026,Accessory box
+PL-51,Turntable,KHX-027-0,KHX-027,Parts box cover
+PL-51A,Turntable,KHX-027-0,KHX-027,Parts box cover
+PL-55/55D,Turntable,KHX-027-0,KHX-027,Box cover
+PL-55/55D,Turntable,KHX-027-0,KHX-027,Box cover
+PL-A505,Turntable,KHX-027-0,KHX-027,Box cover
+PL-A505,Turntable,KHX-027-0,KHX-027,Plastic board
+PL-71,Turntable,KHX-030-0,KHX-030,Parts box
+PL-51,Turntable,KKC-001-0,KKC-001,Terminal strip (2L3P)
+PL-51,Turntable,KKC-008-0,KKC-008,Terminal strip (1 L4P)
+PL-55/55D,Turntable,KKC-008-0,KKC-008,Terminal
+PL-A35,Turntable,KKC-008-0,KKC-008,Terminal strip lug-type
+PL-A45,Turntable,KKC-008-0,KKC-008,Terminal strip (1 L4P)
+PL-A45D,Turntable,KKC-008-0,KKC-008,Terminal strip (1L4P)
+PL-112D,Turntable,KKC-011,KKC-011,Terminal
+PL-12E,Turntable,KKC-011-0,KKC-011,1L lug terminal
+PL-15D,Turntable,KKC-011-0,KKC-011,Terminal
+PL-510,Turntable,KKC-011,KKC-011,Terminal
+PL-510S,Turntable,KKC-011,KKC-011,Terminal
+PL-A45D,Turntable,KKC-011-A,KKC-011,Lug terminal
+PL-12DII,Turntable,KKC-021-0,KKC-021,Terminal
+PL-510,Turntable,KKC-021,KKC-021,Terminal
+PL-510S,Turntable,KKC-021,KKC-021,Terminal
+PL-51A,Turntable,KKC-021-0,KKC-021,Terrnmai strip (1L4P)
+PL-55X,Turntable,KKC-021-0,KKC-021,Lug terminal (without assembly)
+PL-71,Turntable,KKC-021-0,KKC-021,1L-4P terminal

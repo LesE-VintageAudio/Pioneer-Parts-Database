@@ -1,0 +1,1004 @@
+model,category,part_number,normalized_part_number,description
+RT-707,Reel To Reel Tape,RKP-030,RKP-030,DIN connector
+CT-F950,Cassette Tape,RKP-044,RKP-044,Connector (13p)
+DT-400,Timer,RKP-050,RKP-050,AC OUTLET SOCKET DT400
+CT-F1250,Cassette Tape,RKP-064,RKP-064,Connector assembly (16P)
+CT-F850,Cassette Tape,RKP-066,RKP-066,Connector (11p)
+CT-F1250,Cassette Tape,RKP-111,RKP-111,Connector ass'y
+CT-F1250,Cassette Tape,RKP-114,RKP-114,AC socket
+CT-F750,Cassette Tape,RKP-117,RKP-117,Connector assembly (B)
+RT-909,Reel To Reel Tape,RKP-121,RKP-121,Connector assembly (5p)
+RT-909,Reel To Reel Tape,RKP-126,RKP-126,Connector assembly (4p)
+RT-909,Reel To Reel Tape,RKP-128,RKP-128,Connector assembly (9p)
+RT-909,Reel To Reel Tape,RKP-130,RKP-130,Connector assembly (19p)
+CT-F750,Cassette Tape,RKP-138,RKP-138,Connector assembly 7P
+CT-F750,Cassette Tape,RKP-139,RKP-139,Connector assembly 10P
+CT-F750,Cassette Tape,RKP-144,RKP-144,Connector assembly (E)
+CT-F1050,Cassette Tape,RKP-213,RKP-213,2P connector assembly (B)
+CT-F1050,Cassette Tape,RKP-217,RKP-217,6P connector socket assembly A
+CT-F1050,Cassette Tape,RKP-218,RKP-218,6P connector assembly B
+CT-F1050,Cassette Tape,RKP-219,RKP-219,3P connector assembly A
+CT-F1050,Cassette Tape,RKP-220,RKP-220,3P connector assembly- B
+CT-F1050,Cassette Tape,RKP-222,RKP-222,Remote-control socket
+CT-F1050,Cassette Tape,RKP-225,RKP-225,Connector assembly (3)
+CT-F1050,Cassette Tape,RKP-226,RKP-226,Connector assembly (4)
+CT-F1050,Cassette Tape,RKP-228,RKP-228,Connector assembly (6)
+CT-F1050,Cassette Tape,RKP-229,RKP-229,Connector assembly (7)
+CT-F1050,Cassette Tape,RKP-229,RKP-229,Connector assembly (7)
+CT-F1050,Cassette Tape,RKP-230,RKP-230,Connector assembly (8)
+CT-F1050,Cassette Tape,RKP-231,RKP-231,Connector assembly (9)
+CT-F1050,Cassette Tape,RKP-232,RKP-232,Connector assembly (10)
+CT-F1050,Cassette Tape,RKP-232,RKP-232,Connector assembly (10)
+CT-F1050,Cassette Tape,RKP-233,RKP-233,Connector assembly (11)
+CT-F1050,Cassette Tape,RKP-234,RKP-234,Connector assembly (12)
+CT-F1050,Cassette Tape,RKP-235,RKP-235,Connector assembly (13)
+CT-F1050,Cassette Tape,RKP-236,RKP-236,Connector assembly (14)
+CT-F1050,Cassette Tape,RKP-237,RKP-237,Connector assembly (15)
+CT-F1050,Cassette Tape,RKP-238,RKP-238,Connector assembly (16)
+CT-F1050,Cassette Tape,RKP-239,RKP-239,Connector assembly - Dolby (17)
+CT-F9191,Cassette Tape,RKR-016,RKR-016,Fuse holder (KCU)
+RT-701,Reel To Reel Tape,RKR-017,RKR-017,Fuse Clip
+CT-F700,Cassette Tape,RKR-019,RKR-019,Line voltage selector (Switchable 2 position)  (HG type)
+CT-F1050,Cassette Tape,RKR-020,RKR-020,"Line voltage selector (switchable 3 positions: 110V, 220V and 240V)"
+CT-F700,Cassette Tape,RKR-020,RKR-020,Line voltage selector (Switchable 3 positions)  (D type)
+CT-F700,Cassette Tape,RKR-020,RKR-020,Line voltage selector (Switchable 3 positions)  (D/G type)
+RT-909,Reel To Reel Tape,RKR-020,RKR-020,Line voltage selector - Switchable 3-positions (D/G)
+RT-707,Reel To Reel Tape,RLA 667,RLA 667,Shut off arm pin
+QT-6100,Reel To Reel Tape,RLA-032-0,RLA-032,Fastforward cam collar
+QT-6600,Reel To Reel Tape,RLA-032-0,RLA-032,Fast-forward cam collar
+QT-6600,Reel To Reel Tape,RLA-035-0,RLA-035,E. head spacer
+QT-74,Reel To Reel Tape,RLA-035-0,RLA-035,Erase head spacer
+QT-6100,Reel To Reel Tape,RLA-036-0,RLA-036,Tape guide 8M
+QT-6100,Reel To Reel Tape,RLA-036-0,RLA-036,Tape guide SM
+QT-6600,Reel To Reel Tape,RLA-036-0,RLA-036,Tape guide 8lVl .
+QT-74,Reel To Reel Tape,RLA-036-0,RLA-036,Tape guide 8M
+QT-6100,Reel To Reel Tape,RLA-037-0,RLA-037,Tape guide 6M
+QT-6100,Reel To Reel Tape,RLA-037-0,RLA-037,Tape guide BM
+QT-6600,Reel To Reel Tape,RLA-037-0,RLA-037,Tape guide 6M
+QT-74,Reel To Reel Tape,RLA-037-0,RLA-037,Tape guide 6M
+QT-6600,Reel To Reel Tape,RLA-038-0,RLA-038,Recording lever shaft
+QT-74,Reel To Reel Tape,RLA-038-0,RLA-038,Recording lever shaft
+QT-6600,Reel To Reel Tape,RLA-040-0,RLA-040,Slide pole
+QT-74,Reel To Reel Tape,RLA-040-0,RLA-040,Slide pole
+QT-6100,Reel To Reel Tape,RLA-070-0,RLA-070,Recording lever shaft
+QT-74,Reel To Reel Tape,RLA-077-B,RLA-077,Reel mount shaft
+QT-74,Reel To Reel Tape,RLA-077-B,RLA-077,Reel mount shaft
+QT-6100,Reel To Reel Tape,RLA-102-0,RLA-102,Reel mount shaft
+QT-6100,Reel To Reel Tape,RLA-102-0,RLA-102,Reel mount shaft
+QT-6600,Reel To Reel Tape,RLA-102-0,RLA-102,Reel mount shaft
+QT-6600,Reel To Reel Tape,RLA-102-0,RLA-102,Reel mount shaft
+QT-6100,Reel To Reel Tape,RLA-197-0,RLA-197,Take-up pulley spacer
+QT-6100,Reel To Reel Tape,RLA-197-0,RLA-197,Take-up pulley spacer
+QT-6600,Reel To Reel Tape,RLA-197-0,RLA-197,Take-up pulley spacer
+QT-6600,Reel To Reel Tape,RLA-197-0,RLA-197,Take-up pulley spacer
+QT-74,Reel To Reel Tape,RLA-197-0,RLA-197,Take-up pulley spacer
+RT-1020L,Reel To Reel Tape,RLA-294-A,RLA-294,Flywheel shaft (A)
+RT-1020L,Reel To Reel Tape,RLA-295-A,RLA-295,Flywheel shaft (B)
+RT-1020L,Reel To Reel Tape,RLA-296-A,RLA-296,Hex. pole (motor)
+RT-1011L,Reel To Reel Tape,RLA-297-0,RLA-297,Shifter arm shaft
+RT-1020L,Reel To Reel Tape,RLA-297-0,RLA-297,Shifter arm shaft
+RT-1020L,Reel To Reel Tape,RLA-298-0,RLA-298,Shifter pole
+RT-1011L,Reel To Reel Tape,RLA-300-B,RLA-300,Tape guide (A)
+RT-1011L,Reel To Reel Tape,RLA-300-B,RLA-300,Tape guide (A)
+RT-1020L,Reel To Reel Tape,RLA-300-A,RLA-300,Tape guide (A)
+RT-1020L,Reel To Reel Tape,RLA-300A,RLA-300A,Tape guide (A)
+RT-1011L,Reel To Reel Tape,RLA-301-A,RLA-301,Tape guide (B)
+RT-1020L,Reel To Reel Tape,RLA-301-0,RLA-301,Tape guide (B)
+RT-1020L,Reel To Reel Tape,RLA-302-0,RLA-302,Roller arm shaft
+RT-1020L,Reel To Reel Tape,RLA-304-A,RLA-304,Stepped washer
+RT-1020L,Reel To Reel Tape,RLA-304-A,RLA-304,Steppedwasher
+RT-1020L,Reel To Reel Tape,RLA-305-B,RLA-305,Solenoid shaft
+RT-1011L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1011L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1020L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1020L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1011L,Reel To Reel Tape,RLA-308-0,RLA-308,Tension arm shaft
+RT-1020L,Reel To Reel Tape,RLA-308-0,RLA-308,Tension arm shaft
+RT-1011L,Reel To Reel Tape,RLA-309-A,RLA-309,Tape guide (C)
+RT-1020L,Reel To Reel Tape,RLA-309-A,RLA-309,Tape guide (C)
+RT-1011L,Reel To Reel Tape,RLA-310-A,RLA-310,Function button shaft
+RT-1020L,Reel To Reel Tape,RLA-310-A,RLA-310,Function button shaft
+RT-1011L,Reel To Reel Tape,RLA-311-B,RLA-311,Pole
+RT-1020L,Reel To Reel Tape,RLA-311-0,RLA-311,Hex. pole (head assembly)
+RT-1020L,Reel To Reel Tape,RLA-317-0,RLA-317,Roller arm guide
+RT-1011L,Reel To Reel Tape,RLA-321-0,RLA-321,Reel base screw
+RT-1020L,Reel To Reel Tape,RLA-321-0,RLA-321,Reel base screw
+RT-701,Reel To Reel Tape,RLA-321,RLA-321,Reel base screw
+QT-74,Reel To Reel Tape,RLA-328-0,RLA-328,Fast-forward cam collar
+CT-F6161,Cassette Tape,RLA-342-0,RLA-342,Button shaft
+CT-F7171,Cassette Tape,RLA-342-0,RLA-342,Button shaft
+CT-F6161,Cassette Tape,RLA-343-0,RLA-343,Collar
+CT-F7171,Cassette Tape,RLA-343-0,RLA-343,Collar
+CT-F6161,Cassette Tape,RLA-344-0,RLA-344,Motor pulley
+CT-F7171,Cassette Tape,RLA-344-0,RLA-344,Motor pulley
+RT-1020L,Reel To Reel Tape,RLA-345-0,RLA-345,Drive pulley (slightly small drive pulley in diam)
+RT-1011L,Reel To Reel Tape,RLA-346-0,RLA-346,Drive pulley (2)
+RT-1020L,Reel To Reel Tape,RLA-346-0,RLA-346,Drive pulley (standard-size drive pulley in diam. - standard speeds)
+RT-1020L,Reel To Reel Tape,RLA-347-0,RLA-347,Drive pulley (slightly large drive pulley in diam.)
+RT-1011L,Reel To Reel Tape,RLA-356-A,RLA-356,Shifter pole
+CT-F6161,Cassette Tape,RLA-359-0,RLA-359,Spacer
+CT-F7171,Cassette Tape,RLA-359-0,RLA-359,Spacer
+CT-F6161,Cassette Tape,RLA-366-0,RLA-366,Shaft A
+CT-F7171,Cassette Tape,RLA-366-0,RLA-366,Shaft A
+CT-F6161,Cassette Tape,RLA-367-0,RLA-367,Shaft B
+CT-F7171,Cassette Tape,RLA-367-0,RLA-367,Shaft B
+CT-F7171,Cassette Tape,RLA-369-0,RLA-369,Shaft
+CT-F6161,Cassette Tape,RLA-389-0,RLA-389,Shaft (head base)
+CT-F7171,Cassette Tape,RLA-389-0,RLA-389,Shaft (head base)
+RT-1011L,Reel To Reel Tape,RLA-415-0,RLA-415,Flywheel prop (L)
+RT-1011L,Reel To Reel Tape,RLA-415-0,RLA-415,Flywheel prop (R)
+RT-1011L,Reel To Reel Tape,RLA-417-0,RLA-417,Pole
+CT-F6161,Cassette Tape,RLA-423-0,RLA-423,Shaft
+RT-1011L,Reel To Reel Tape,RLA-428-0,RLA-428,Roller arm shaft
+RT-1011L,Reel To Reel Tape,RLA-429-0,RLA-429,Roller arm guide
+RT-1011L,Reel To Reel Tape,RLA-433-0,RLA-433,Stepped washer
+RT-1011L,Reel To Reel Tape,RLA-433-0,RLA-433,Stepped washer
+RT-1011L,Reel To Reel Tape,RLA-435-0,RLA-435,Solenoid shaft
+CT-F9191,Cassette Tape,RLA-466,RLA-466,Pulley
+CT-F6262,Cassette Tape,RLA-499,RLA-499,Collar
+CT-F8282,Cassette Tape,RLA-549,RLA-549,Shaft
+CT-F6262,Cassette Tape,RLA-601,RLA-601,Motor pulley
+CT-F7272,Cassette Tape,RLA-601,RLA-601,Pulley
+CT-F6262,Cassette Tape,RLA-602,RLA-602,Operating lever shaft
+CT-F7272,Cassette Tape,RLA-602,RLA-602,Shaft
+RT-707,Reel To Reel Tape,RLA-647,RLA-647,Pinch arm shaft
+RT-707,Reel To Reel Tape,RLA-652,RLA-652,Spring retainer B
+RT-701,Reel To Reel Tape,RLA-653,RLA-653,Housing Stud
+RT-707,Reel To Reel Tape,RLA-655,RLA-655,Tape guide B
+RT-701,Reel To Reel Tape,RLA-656,RLA-656,Tape guide C
+RT-707,Reel To Reel Tape,RLA-657,RLA-657,Spring hook
+RT-707,Reel To Reel Tape,RLA-658,RLA-658,Pin
+RT-707,Reel To Reel Tape,RLA-659,RLA-659,Arm pin A
+RT-707,Reel To Reel Tape,RLA-668,RLA-668,Oil cap B
+RT-707,Reel To Reel Tape,RLA-669,RLA-669,Oil cap A
+CT-F700,Cassette Tape,RLA-724,RLA-724,Pulley
+RT-701,Reel To Reel Tape,RLA-736,RLA-736,Tape guide A
+RT-707,Reel To Reel Tape,RLA-740,RLA-740,Stopper boss
+RT-707,Reel To Reel Tape,RLA-741,RLA-741,Tape guide A
+RT-701,Reel To Reel Tape,RLA-789,RLA-789,Pinch arm shaft
+RT-701,Reel To Reel Tape,RLA-790,RLA-790,Tape guide B
+CT-F600/605,Cassette Tape,RLA-915,RLA-915,Arm bush
+CT-F600/605,Cassette Tape,RLA-989,RLA-989,Collar
+CT-F950,Cassette Tape,RLA-993,RLA-993,Pinch-roller arm shaft (R)
+CT-F950,Cassette Tape,RLA-994,RLA-994,Pinch-roller arm shaft (L)
+CT-F600/605,Cassette Tape,RLB-001,RLB-001,Collar
+RT-909,Reel To Reel Tape,RLB-105,RLB-105,Finch roller collar
+RT-909,Reel To Reel Tape,RLB-108,RLB-108,Shalt
+RT-909,Reel To Reel Tape,RLB-111,RLB-111,Tape guide
+RT-909,Reel To Reel Tape,RLB-112,RLB-112,Tape guide R
+RT-909,Reel To Reel Tape,RLB-116,RLB-116,Reel base shaft
+RT-909,Reel To Reel Tape,RLB-129,RLB-129,Sliding key
+CT-F750,Cassette Tape,RLB-152,RLB-152,Roller (C)
+CT-F750,Cassette Tape,RLB-162,RLB-162,Roller
+CT-F750,Cassette Tape,RLB-165,RLB-165,Pulley
+CT-F750,Cassette Tape,RLB-166,RLB-166,Hight adjuster
+CT-F750,Cassette Tape,RLB-217,RLB-217,Gear roller
+CT-F1050,Cassette Tape,RLB-374,RLB-374,Shaft
+CT-F1050,Cassette Tape,RLB-374,RLB-374,Shaft
+RT-1011L,Reel To Reel Tape,RLP-002-0,RLP-002,Button spacer (A)
+RT-1020L,Reel To Reel Tape,RLP-002-0,RLP-002,Button spacer (A)
+RT-1011L,Reel To Reel Tape,RLP-003-A,RLP-003,Button spacer (B)
+RT-1020L,Reel To Reel Tape,RLP-003-A,RLP-003,Button spacer (B)
+RT-1011L,Reel To Reel Tape,RLP-004-0,RLP-004,Shifter roller
+RT-1020L,Reel To Reel Tape,RLP-004-0,RLP-004,Shifter roller
+RT-707,Reel To Reel Tape,RLP-004,RLP-004,Shifter roller
+CT-F6262,Cassette Tape,RLP-009,RLP-009,Roller
+CT-F7272,Cassette Tape,RLP-009,RLP-009,Roller
+CT-F6262,Cassette Tape,RLP-010,RLP-010,Roller
+CT-F7272,Cassette Tape,RLP-010,RLP-010,Roller
+CT-F600/605,Cassette Tape,RLP-019,RLP-019,Collar
+RT-1020L,Reel To Reel Tape,Rl\IE-404-B,Rl\IE-404,Release plate
+SX-424,Receiver,RM2P 151 K,RM2P 151 K,Wire wound  150  2W
+SX-424,Receiver,RM2P 151K,RM2P 151K,Wire wound  150  2W
+SX-424,Receiver,RM2P 151K,RM2P 151K,Wire wound  150  2W
+SX-424,Receiver,RM2P 151K,RM2P 151K,Wire wound  150  2W
+SX-525,Receiver,RM2P 151K,RM2P 151K,Wire wound 150  2W
+SX-525,Receiver,RM2P 151K,RM2P 151K,Wire wound 150  2W
+QT-6100,Reel To Reel Tape,RMM-015-0,RMM-015,Wooden cabinet ass'y
+QT-6600,Reel To Reel Tape,RMM-022-0,RMM-022,Wooden cabient assembly
+QT-74,Reel To Reel Tape,RMM-022-0,RMM-022,Wooden cabinet assembly
+CT-F7171,Cassette Tape,RMM-029-0,RMM-029,Wooden case
+CT-F6161,Cassette Tape,RMM-031-A,RMM-031,Wooden case
+CT-F7272,Cassette Tape,RMM-032,RMM-032,Wooden case
+CT-F8282,Cassette Tape,RMM-033,RMM-033,Top board assembly
+CT-F6262,Cassette Tape,RMM-034,RMM-034,Wooden cabinet
+RT-1020L,Reel To Reel Tape,RMS-021-0,RMS-021,Side board
+RT-1020L,Reel To Reel Tape,RMS-021-0,RMS-021,Slde board
+RT-1011L,Reel To Reel Tape,RMS-036-0,RMS-036,Side Board
+RT-1011L,Reel To Reel Tape,RMS-036-0,RMS-036,Sideboard
+CT-F9191,Cassette Tape,RMS-044,RMS-044,Side board (R)
+CT-F9191,Cassette Tape,RMS-045,RMS-045,Side board (L)
+CT-F9191,Cassette Tape,RMS-052,RMS-052,Top board
+CT-F6262,Cassette Tape,RMS-060,RMS-060,Hardboard protector
+CT-F8282,Cassette Tape,RMS-064,RMS-064,Bottom plate
+RT-1011L,Reel To Reel Tape,RNA-095-A,RNA-095,Shield case (A)
+RT-1020L,Reel To Reel Tape,RNA-095-A,RNA-095,Shield case (A)
+RT-1020L,Reel To Reel Tape,RNA-096-A,RNA-096,Shield case (B)
+RT-1020L,Reel To Reel Tape,RNA-098-C,RNA-098,Rear panel
+CT-F7171,Cassette Tape,RNA-155-B,RNA-155,Rear pane!
+RT-1011L,Reel To Reel Tape,RNA-164-0,RNA-164,Back cover (B)
+CT-F6161,Cassette Tape,RNA-166-A,RNA-166,Rear panel  (KCU model)
+RT-1011L,Reel To Reel Tape,RNA-167-0,RNA-167,Rear panel
+CT-F6161,Cassette Tape,RNA-212-0,RNA-212,Rear panel  (FV model)
+CT-F9191,Cassette Tape,RNA-227,RNA-227,Top panel
+RT-707,Reel To Reel Tape,RNA-296,RNA-296,Bonnet
+RT-701,Reel To Reel Tape,RNA-298,RNA-298,Shield case
+RT-707,Reel To Reel Tape,RNA-298,RNA-298,Shield case P
+CT-F1000,Cassette Tape,RNA-310,RNA-310,Bonnet
+CT-F700,Cassette Tape,RNA-321,RNA-321,Bonnet
+CT-F500/505,Cassette Tape,RNA-359,RNA-359,Bonnet case
+CT-F900,Cassette Tape,RNA-364,RNA-364,Bonnet
+CT-F950,Cassette Tape,RNA-364,RNA-364,Bonnet
+CT-F850,Cassette Tape,RNA-377,RNA-377,Bonnet case
+CT-F600/605,Cassette Tape,RNA-390,RNA-390,Bonnet case
+CT-F1250,Cassette Tape,RNA-411,RNA-411,Bonnet
+CT-F750,Cassette Tape,RNA-419,RNA-419,Bonnet
+RT-909,Reel To Reel Tape,RNA-424,RNA-424,Bonnet
+RT-909,Reel To Reel Tape,RNA-428,RNA-428,Blank panel
+CT-F1050,Cassette Tape,RNA-528,RNA-528,Bonnet
+QT-6600,Reel To Reel Tape,RNB-007-G,RNB-007,AMP. chassis
+QT-74,Reel To Reel Tape,RNB-007-G,RNB-007,Amplifier chassis
+QT-6600,Reel To Reel Tape,RNB-008-C,RNB-008,Front chassis
+QT-6100,Reel To Reel Tape,RNB-015-B,RNB-015,Amplifier chassis
+QT-74,Reel To Reel Tape,RNB-023-0,RNB-023,From chassis
+RT-1011L,Reel To Reel Tape,RNB-030-F,RNB-030,Mechanism chassis
+RT-1020L,Reel To Reel Tape,RNB-030-F,RNB-030,Mechanism chassis
+RT-1020L,Reel To Reel Tape,RNB-032-C,RNB-032,Control chassis
+RT-1020L,Reel To Reel Tape,RNB-042-0,RNB-042,Reel chassis
+RT-1020L,Reel To Reel Tape,RNB-043-0,RNB-043,Amp chassis
+CT-F7171,Cassette Tape,RNB-052-0,RNB-052,Chassis
+RT-1011L,Reel To Reel Tape,RNB-053-0,RNB-053,Reel chassis
+RT-1011L,Reel To Reel Tape,RNB-057-0,RNB-057,AMP chassis
+CT-F6161,Cassette Tape,RNB-058-B,RNB-058,Chassis
+RT-1011L,Reel To Reel Tape,RNB-060-0,RNB-060,Control chassis
+QT-6600,Reel To Reel Tape,RNC-020-A,RNC-020,Side chassis (Left side)
+QT-74,Reel To Reel Tape,RNC-020-A,RNC-020,Side chassis
+QT-6100,Reel To Reel Tape,RNC-025-B,RNC-025,Side chassis (E) ass'y
+QT-6100,Reel To Reel Tape,RNC-038-0,RNC-038,Amp holder
+RT-1011L,Reel To Reel Tape,RNC-068-0,RNC-068,Stiffen angle
+RT-1020L,Reel To Reel Tape,RNC-068-0,RNC-068,Stiffen angle
+RT-1011L,Reel To Reel Tape,RNC-072-0,RNC-072,Motor fan
+RT-1020L,Reel To Reel Tape,RNC-072-0,RNC-072,Motor fan (A)
+RT-1020L,Reel To Reel Tape,RNC-073-0,RNC-073,Meter clamper
+CT-F7171,Cassette Tape,RNC-086-E,RNC-086,Bottom cover
+CT-F6161,Cassette Tape,RNC-089-A,RNC-089,Actuating lever A
+CT-F7171,Cassette Tape,RNC-089-0,RNC-089,Actuating laver A
+CT-F6161,Cassette Tape,RNC-091-A,RNC-091,Bottom cover
+QT-6100,Reel To Reel Tape,RNE -074-0,RNE -074,Spring lever
+RT-1011L,Reel To Reel Tape,RNE 513-0,RNE 513,Cord fixer
+QT-6100,Reel To Reel Tape,RNE-034-0,RNE-034,Counter mounting plate
+QT-6600,Reel To Reel Tape,RNE-034-0,RNE-034,Counter mounting plate
+QT-74,Reel To Reel Tape,RNE-034-0,RNE-034,Counter mounting plate
+QT-6100,Reel To Reel Tape,RNE-064-0,RNE-064,P.C.B. stay
+QT-6600,Reel To Reel Tape,RNE-064-0,RNE-064,P.C.B. stay
+QT-74,Reel To Reel Tape,RNE-064-0,RNE-064,P.C. board stay
+QT-6100,Reel To Reel Tape,RNE-065-0,RNE-065,Switch mounting plate
+QT-6600,Reel To Reel Tape,RNE-065-0,RNE-065,Switch mounting plate
+QT-74,Reel To Reel Tape,RNE-065-0,RNE-065,Switch mounting plate
+QT-6100,Reel To Reel Tape,RNE-069-0,RNE-069,Pinch roller holder
+QT-6600,Reel To Reel Tape,RNE-069-0,RNE-069,Pinch roller holder
+QT-74,Reel To Reel Tape,RNE-069-0,RNE-069,Pinch roller holder
+QT-74,Reel To Reel Tape,RNE-081-0,RNE-081,Shield case
+QT-74,Reel To Reel Tape,RNE-081-0,RNE-081,Shield case
+QT-74,Reel To Reel Tape,RNE-082-0,RNE-082,Spacer
+QT-74,Reel To Reel Tape,RNE-082-0,RNE-082,Spacer
+QT-6100,Reel To Reel Tape,RNE-083-0,RNE-083,Rotary switch holder
+QT-6600,Reel To Reel Tape,RNE-083-0,RNE-083,Rotary switch holder
+QT-74,Reel To Reel Tape,RNE-083-0,RNE-083,Rotary switch holder
+QT-6600,Reel To Reel Tape,RNE-088-A,RNE-088,Recording lever
+QT-74,Reel To Reel Tape,RNE-088-A,RNE-088,Recording lever
+QT-6600,Reel To Reel Tape,RNE-089-0,RNE-089,Washer (t = 2)
+QT-74,Reel To Reel Tape,RNE-089-0,RNE-089,Washer
+QT-6600,Reel To Reel Tape,RNE-091-0,RNE-091,Bracket
+QT-74,Reel To Reel Tape,RNE-091-0,RNE-091,Bracket
+QT-6600,Reel To Reel Tape,RNE-092-0,RNE-092,Slide metal
+QT-74,Reel To Reel Tape,RNE-092-0,RNE-092,Slide metal
+QT-6600,Reel To Reel Tape,RNE-093-A,RNE-093,P.C.B. protector
+QT-74,Reel To Reel Tape,RNE-093-A,RNE-093,P.C. board protector
+QT-74,Reel To Reel Tape,RNE-098-0,RNE-098,MS plate
+QT-6600,Reel To Reel Tape,RNE-119-0,RNE-119,Mounting plate
+QT-74,Reel To Reel Tape,RNE-119-0,RNE-119,Mounting plate
+QT-6100,Reel To Reel Tape,RNE-131-0,RNE-131,Rotary switch holder (A)
+QT-6600,Reel To Reel Tape,RNE-131-0,RNE-131,Rotary switch holder (A)
+QT-74,Reel To Reel Tape,RNE-131-0,RNE-131,Rotary switch holder (A)
+QT-6600,Reel To Reel Tape,RNE-142-0,RNE-142,Unit holder (Left sidel
+QT-74,Reel To Reel Tape,RNE-142-0,RNE-142,P.C. board holder (L)
+QT-6600,Reel To Reel Tape,RNE-143-0,RNE-143,Unit holder (Right side)
+QT-74,Reel To Reel Tape,RNE-143-0,RNE-143,P.C. board holder (Rl
+QT-6100,Reel To Reel Tape,RNE-148-A,RNE-148,Recording lever
+QT-74,Reel To Reel Tape,RNE-151-0,RNE-151,Head base plate (A)
+QT-74,Reel To Reel Tape,RNE-158-0,RNE-158,Head spacer A
+QT-6100,Reel To Reel Tape,RNE-167-0,RNE-167,Speed selector stopper
+QT-6600,Reel To Reel Tape,RNE-167-0,RNE-167,Speed selector Stopper
+QT-6100,Reel To Reel Tape,RNE-209-0,RNE-209,Pinch arm bearing
+QT-6600,Reel To Reel Tape,RNE-209-0,RNE-209,Pinch arm bearing
+QT-74,Reel To Reel Tape,RNE-209-0,RNE-209,Pinch arm bearing
+QT-6600,Reel To Reel Tape,RNE-213-A,RNE-213,Plate
+QT-74,Reel To Reel Tape,RNE-213-A,RNE-213,Plate
+QT-6600,Reel To Reel Tape,RNE-214-A,RNE-214,Spring lever mounting plate
+QT-74,Reel To Reel Tape,RNE-214-A,RNE-214,Spring lever mounting plate
+QT-6600,Reel To Reel Tape,RNE-215-0,RNE-215,Slide metal (B)
+QT-74,Reel To Reel Tape,RNE-215-0,RNE-215,Slide metal (B)
+QT-6100,Reel To Reel Tape,RNE-223-0,RNE-223,P.C.B. stay
+QT-6100,Reel To Reel Tape,RNE-226-0,RNE-226,Amp stay
+QT-6100,Reel To Reel Tape,RNE-230-0,RNE-230,Jack shield plate
+QT-6600,Reel To Reel Tape,RNE-240-0,RNE-240,E head mounting metal (Right side)
+QT-74,Reel To Reel Tape,RNE-240-0,RNE-240,Erase head mounting metal (R)
+QT-6100,Reel To Reel Tape,RNE-241-0,RNE-241,E head mounting metal (left side)
+QT-6600,Reel To Reel Tape,RNE-241 -0,RNE-241 ,E. head mounting metal (Left side)
+QT-74,Reel To Reel Tape,RNE-241-0,RNE-241,Erase head mounting metal (L)
+QT-74,Reel To Reel Tape,RNE-308-0,RNE-308,Speed selector stopper
+CT-F6161,Cassette Tape,RNE-327-0,RNE-327,Cassette protector
+CT-F7171,Cassette Tape,RNE-327-0,RNE-327,Cassette protector
+QT-6100,Reel To Reel Tape,RNE-356-0,RNE-356,Slide metal lever (A)
+QT-6600,Reel To Reel Tape,RNE-356-0,RNE-356,Slide metal lever (A)
+QT-74,Reel To Reel Tape,RNE-356-0,RNE-356,Slide metal lever (A)
+QT-74,Reel To Reel Tape,RNE-356-0,RNE-356,Slide metal lever (A)
+RT-1011L,Reel To Reel Tape,RNE-386-B,RNE-386,Solenoid bracket
+RT-1020L,Reel To Reel Tape,RNE-386-B,RNE-386,Solenoid bracket
+RT-1020L,Reel To Reel Tape,RNE-389-B,RNE-389,Roller bracket
+RT-1020L,Reel To Reel Tape,RNE-392-0,RNE-392,Rubber washer
+RT-1011L,Reel To Reel Tape,RNE-393-0,RNE-393,Switch mounting plate
+RT-1020L,Reel To Reel Tape,RNE-393-0,RNE-393,Switch mounting plate
+RT-1011L,Reel To Reel Tape,RNE-394-0,RNE-394,Counter bracket
+RT-1020L,Reel To Reel Tape,RNE-394-0,RNE-394,Counter bracket
+RT-1020L,Reel To Reel Tape,RNE-399-B,RNE-399,Brake arm (L)
+RT-1020L,Reel To Reel Tape,RNE-400-B,RNE-400,Brake arm (R)
+RT-1011L,Reel To Reel Tape,RNE-401-A,RNE-401,Brake adjustment plate
+RT-1020L,Reel To Reel Tape,RNE-401-0,RNE-401,Plate
+RT-1020L,Reel To Reel Tape,RNE-403-C,RNE-403,Shield plate
+RT-1011L,Reel To Reel Tape,RNE-404-B,RNE-404,Release plate
+RT-1011L,Reel To Reel Tape,RNE-406-0,RNE-406,Spring hook
+RT-1020L,Reel To Reel Tape,RNE-406-0,RNE-406,Spring hook
+RT-1020L,Reel To Reel Tape,RNE-407-E,RNE-407,Heat sink
+RT-1011L,Reel To Reel Tape,RNE-409-A,RNE-409,Button frame
+RT-1020L,Reel To Reel Tape,RNE-409-A,RNE-409,Button frame
+RT-1011L,Reel To Reel Tape,RNE-412-A,RNE-412,Function switch bracket
+RT-1020L,Reel To Reel Tape,RNE-412-A,RNE-412,Function switch bracket
+RT-1020L,Reel To Reel Tape,RNE-413- B,RNE-413- B,Pin jack mounting bracket
+RT-1020L,Reel To Reel Tape,RNE-415-D,RNE-415,Head base
+RT-1020L,Reel To Reel Tape,RNE-474-B,RNE-474,Motor chassis
+RT-1011L,Reel To Reel Tape,RNE-475-A,RNE-475,Flywheel bracket
+RT-1020L,Reel To Reel Tape,RNE-475-0,RNE-475,Flywheel bracket
+RT-1011L,Reel To Reel Tape,RNE-478-0,RNE-478,Terminal mounting plate
+RT-1020L,Reel To Reel Tape,RNE-478-0,RNE-478,Terminal mounting plate
+RT-1020L,Reel To Reel Tape,RNE-479-0,RNE-479,Terminal strip mounting metal
+CT-F6161,Cassette Tape,RNE-513-0,RNE-513,Cord clamper B
+CT-F7171,Cassette Tape,RNE-513-0,RNE-513,Cord clamper B
+RT-1011L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1011L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1011L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B) (FV model)
+RT-1020L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1020L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1020L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1011L,Reel To Reel Tape,RNE-537-A,RNE-537,P.C. board holder
+RT-1020L,Reel To Reel Tape,RNE-537-A,RNE-537,P. C. board holder
+RT-1020L,Reel To Reel Tape,RNE-543-0,RNE-543,Shield Cover
+RT-1020L,Reel To Reel Tape,RNE-554-0,RNE-554,Switch mounting plate
+QT-74,Reel To Reel Tape,RNE-562-A,RNE-562,Plate
+CT-F6161,Cassette Tape,RNE-578-0,RNE-578,Syl-lock prevention cam
+CT-F7171,Cassette Tape,RNE-578-0,RNE-578,Syl-lock prevention cam
+CT-F6161,Cassette Tape,RNE-579-0,RNE-579,Brake lever
+CT-F6161,Cassette Tape,RNE-580-0,RNE-580,Brake lever
+CT-F7171,Cassette Tape,RNE-580-0,RNE-580,Brake lever
+CT-F6161,Cassette Tape,RNE-583-0,RNE-583,Thrust holder
+CT-F7171,Cassette Tape,RNE-583-0,RNE-583,Thrust holder
+CT-F6161,Cassette Tape,RNE-605-0,RNE-605,Cord clamper D
+CT-F6161,Cassette Tape,RNE-605-0,RNE-605,Cord clamper D
+CT-F7171,Cassette Tape,RNE-605-0,RNE-605,Cord clamper D
+CT-F7171,Cassette Tape,RNE-605-0,RNE-605,Cord clamper D
+RT-1011L,Reel To Reel Tape,RNE-605-0,RNE-605,Cord fixer (B)
+RT-909,Reel To Reel Tape,RNE-605,RNE-605,UL cord clamper D
+RT-1011L,Reel To Reel Tape,RNE-652-A,RNE-652,Terminal strip mounting metal
+CT-F6161,Cassette Tape,RNE-659-B,RNE-659,Sub panel
+CT-F7171,Cassette Tape,RNE-659-B,RNE-659,Sub panel
+CT-F7171,Cassette Tape,RNE-659-,RNE-659-,Sub panel
+CT-F6161,Cassette Tape,RNE-660-A,RNE-660,Angle
+CT-F7171,Cassette Tape,RNE-660-A,RNE-660,Angle
+CT-F6161,Cassette Tape,RNE-669-D,RNE-669,Bracket
+CT-F7171,Cassette Tape,RNE-669-C,RNE-669,Bracket
+CT-F6161,Cassette Tape,RNE-670-0,RNE-670,Plate
+CT-F7171,Cassette Tape,RNE-670-0,RNE-670,Plate
+CT-F6161,Cassette Tape,RNE-671-A,RNE-671,Terminal board holder
+CT-F7171,Cassette Tape,RNE-671-A,RNE-671,Terminal board holder
+CT-F7171,Cassette Tape,RNE-673-A,RNE-673,Adjustment plate
+CT-F6161,Cassette Tape,RNE-674-B,RNE-674,Sliding bar (REC)
+CT-F7171,Cassette Tape,RNE-674-B,RNE-674,Sliding bar (REC)
+CT-F6161,Cassette Tape,RNE-675-0,RNE-675,Angle (door spring)
+CT-F7171,Cassette Tape,RNE-675-0,RNE-675,Angle (door spring)
+CT-F6161,Cassette Tape,RNE-676-A,RNE-676,Lamp box
+CT-F7171,Cassette Tape,RNE-676-0,RNE-676,Lamp box
+CT-F7171,Cassette Tape,RNE-677-0,RNE-677,Sliding plate
+CT-F6161,Cassette Tape,RNE-678-A,RNE-678,Door lock bar
+CT-F7171,Cassette Tape,RNE-678-A,RNE-678,Door lock bar
+RT-1011L,Reel To Reel Tape,RNE-680-0,RNE-680,Motor Fuse P.C. Board holder
+CT-F6161,Cassette Tape,RNE-684-0,RNE-684,Button lever A
+CT-F7171,Cassette Tape,RNE-684-0,RNE-684,Button lever A
+CT-F6161,Cassette Tape,RNE-685-0,RNE-685,Button lever P
+CT-F7171,Cassette Tape,RNE-685-0,RNE-685,Button lever P
+CT-F7171,Cassette Tape,RNE-686-A,RNE-686,Bracket
+CT-F6161,Cassette Tape,RNE-690-0,RNE-690,Spacer
+CT-F7171,Cassette Tape,RNE-690-0,RNE-690,Spacer
+CT-F6161,Cassette Tape,RNE-691-0,RNE-691,REC lever B
+CT-F7171,Cassette Tape,RNE-691-0,RNE-691,REC lever B
+RT-1011L,Reel To Reel Tape,RNE-700-0,RNE-700,Safety angle (A)
+RT-1011L,Reel To Reel Tape,RNE-702-0,RNE-702,Motor chassis
+CT-F6161,Cassette Tape,RNE-712-0,RNE-712,Lever (EJECT)
+CT-F7171,Cassette Tape,RNE-712-0,RNE-712,Lever (EJECT)
+CT-F6161,Cassette Tape,RNE-713-0,RNE-713,Pause lock plate
+CT-F7171,Cassette Tape,RNE-713-0,RNE-713,Pause lock plate
+CT-F6161,Cassette Tape,RNE-714-0,RNE-714,REW lever B
+CT-F7171,Cassette Tape,RNE-714-0,RNE-714,REW lever B
+CT-F6161,Cassette Tape,RNE-715-0,RNE-715,Shield plate
+CT-F7171,Cassette Tape,RNE-715-0,RNE-715,Shield plate
+CT-F6161,Cassette Tape,RNE-717-0,RNE-717,FF lever
+CT-F7171,Cassette Tape,RNE-717-0,RNE-717,FF lever
+RT-1011L,Reel To Reel Tape,RNE-723-0,RNE-723,Brake arm (L)
+RT-1011L,Reel To Reel Tape,RNE-724-0,RNE-724,Brake arm (R)
+CT-F6161,Cassette Tape,RNE-727-B,RNE-727,Panel stay
+RT-1011L,Reel To Reel Tape,RNE-730-0,RNE-730,Heat sink
+CT-F6161,Cassette Tape,RNE-731-A,RNE-731,Actuating lever B
+CT-F7171,Cassette Tape,RNE-731-0,RNE-731,Actuating lever B
+CT-F6161,Cassette Tape,RNE-732-A,RNE-732,Adjustment plate
+RT-1011L,Reel To Reel Tape,RNE-735-0,RNE-735,Roller bracket
+RT-1011L,Reel To Reel Tape,RNE-736-0,RNE-736,Pin jack mounting bracket
+RT-1011L,Reel To Reel Tape,RNE-737-0,RNE-737,Shield plate
+RT-1011L,Reel To Reel Tape,RNE-738-0,RNE-738,Head mounting metal
+RT-1011L,Reel To Reel Tape,RNE-739-0,RNE-739,Head base
+RT-1011L,Reel To Reel Tape,RNE-740-0,RNE-740,Switch mounting plate (FV model)
+CT-F6161,Cassette Tape,RNE-741-0,RNE-741,Cord clamper
+CT-F7171,Cassette Tape,RNE-741-0,RNE-741,Cord clamper
+CT-F6161,Cassette Tape,RNE-746-A,RNE-746,Angly
+CT-F6161,Cassette Tape,RNE-766-0,RNE-766,Protection bar
+CT-F6161,Cassette Tape,RNE-767-0,RNE-767,Sliding plate
+CT-F8282,Cassette Tape,RNE-773,RNE-773,Lever
+CT-F7171,Cassette Tape,RNE-792-A,RNE-792,Protection bar
+CT-F8282,Cassette Tape,RNE-951,RNE-951,Fixed plate
+CT-F6262,Cassette Tape,RNE-974,RNE-974,Pause ratchet
+CT-F7272,Cassette Tape,RNE-974,RNE-974,Plate
+CT-F6262,Cassette Tape,RNE-976,RNE-976,SW bracket
+CT-F700,Cassette Tape,RNE-976,RNE-976,Switch bracket
+CT-F7272,Cassette Tape,RNE-976,RNE-976,Bracket
+CT-F6262,Cassette Tape,RNE-978,RNE-978,Detector bracket
+CT-F7272,Cassette Tape,RNE-978,RNE-978,Angle
+CT-F6262,Cassette Tape,RNE-983,RNE-983,Pause arm
+CT-F700,Cassette Tape,RNE-983,RNE-983,Pause arm
+CT-F7272,Cassette Tape,RNE-983,RNE-983,Arm
+CT-F6262,Cassette Tape,RNE-987,RNE-987,Lock plate
+CT-F7272,Cassette Tape,RNE-987,RNE-987,Plate
+CT-F6262,Cassette Tape,RNE-991,RNE-991,Switch holder
+CT-F7272,Cassette Tape,RNE-991,RNE-991,Plate
+CT-F6262,Cassette Tape,RNE-992,RNE-992,Switch holder
+CT-F7272,Cassette Tape,RNE-992,RNE-992,Angle
+CT-F6262,Cassette Tape,RNF-009,RNF-009,Step washer
+CT-F6262,Cassette Tape,RNF-010,RNF-010,Brake arm
+CT-F6262,Cassette Tape,RNF-023,RNF-023,Switch holder
+CT-F7272,Cassette Tape,RNF-023,RNF-023,Plate
+CT-F6262,Cassette Tape,RNF-024,RNF-024,Cord guide
+CT-F7272,Cassette Tape,RNF-024,RNF-024,Cord clamper
+CT-F6262,Cassette Tape,RNF-034,RNF-034,Brake operating plate
+RT-701,Reel To Reel Tape,RNF-067,RNF-067,Head mount A
+RT-707,Reel To Reel Tape,RNF-067,RNF-067,Head mount A
+RT-701,Reel To Reel Tape,RNF-068,RNF-068,Head mount B
+RT-707,Reel To Reel Tape,RNF-068,RNF-068,Head mount B
+RT-701,Reel To Reel Tape,RNF-069,RNF-069,R head mount
+RT-707,Reel To Reel Tape,RNF-069,RNF-069,R Head Mount
+RT-701,Reel To Reel Tape,RNF-074,RNF-074,Brake adjustment plate
+RT-707,Reel To Reel Tape,RNF-074,RNF-074,Brake adjustment plate
+RT-701,Reel To Reel Tape,RNF-077,RNF-077,E head spacer A (for E head height adjustment)
+RT-707,Reel To Reel Tape,RNF-077,RNF-077,E head spacer A
+RT-701,Reel To Reel Tape,RNF-078,RNF-078,E head spacer B (for E head height adjustment)
+RT-707,Reel To Reel Tape,RNF-078,RNF-078,E head spacer B
+RT-701,Reel To Reel Tape,RNF-079,RNF-079,Mount plate
+RT-707,Reel To Reel Tape,RNF-079,RNF-079,Mount plate
+RT-701,Reel To Reel Tape,RNF-082,RNF-082,Reel plate
+RT-701,Reel To Reel Tape,RNF-085,RNF-085,Shield case spacer
+RT-707,Reel To Reel Tape,RNF-085,RNF-085,Shield case spacer
+RT-707,Reel To Reel Tape,RNF-094,RNF-094,Head spacer
+RT-701,Reel To Reel Tape,RNF-104,RNF-104,Pause adjuster
+RT-707,Reel To Reel Tape,RNF-104,RNF-104,Pause adjuster
+CT-F700,Cassette Tape,RNF-117,RNF-117,Pause ratchet
+CT-F700,Cassette Tape,RNF-144,RNF-144,Lock plate
+RT-707,Reel To Reel Tape,RNF-146,RNF-146,Tension-R
+RT-707,Reel To Reel Tape,RNF-147,RNF-147,Tension holder L
+RT-707,Reel To Reel Tape,RNF-165,RNF-165,Boss collar
+RT-701,Reel To Reel Tape,RNF-202,RNF-202,Tension holder R
+RT-701,Reel To Reel Tape,RNF-203,RNF-203,Tension holder L
+CT-F600/605,Cassette Tape,RNF-499,RNF-499,Meter holder
+CT-F850,Cassette Tape,RNF-527,RNF-527,Spacer
+CT-F950,Cassette Tape,RNF-527,RNF-527,Spacer
+CT-F750,Cassette Tape,RNF-601,RNF-601,Lever
+CT-F1050,Cassette Tape,RNF-974,RNF-974,Head cord clamper
+RT-1011L,Reel To Reel Tape,RNG-031-A,RNG-031,Pinch arm (B)
+RT-1020L,Reel To Reel Tape,RNG-031-A,RNG-031,Pinch arm (B)
+RT-1011L,Reel To Reel Tape,RNG-036-0,RNG-036,Chassis frame
+RT-1020L,Reel To Reel Tape,RNG-036-C,RNG-036,Chassis frame
+RT-1011L,Reel To Reel Tape,RNG-051-A,RNG-051,Reel feather shaft
+RT-1020L,Reel To Reel Tape,RNG-051-0,RNG-051,Reel feather shaft
+RT-1011L,Reel To Reel Tape,RNG-053-A,RNG-053,Shifter arm
+RT-1020L,Reel To Reel Tape,RNG-053-0,RNG-053,Shifter arm
+RT-1020L,Reel To Reel Tape,RNG-055-0,RNG-055,Reel base
+RT-1011L,Reel To Reel Tape,RNG-055A,RNG-055A,Reel base
+RT-707,Reel To Reel Tape,RNG-112,RNG-112,Reel base
+RT-701,Reel To Reel Tape,RNG-123,RNG-123,Reel base
+RT-701,Reel To Reel Tape,RNG-125,RNG-125,Reel stopper
+RT-909,Reel To Reel Tape,RNG-209,RNG-209,Reel base
+RT-909,Reel To Reel Tape,RNG-227,RNG-227,Heel base blade
+RT-909,Reel To Reel Tape,RNG-230,RNG-230,Head base
+RT-909,Reel To Reel Tape,RNG-230,RNG-230,Head base
+T-3300,Cassette Tape,RNK-013,RNK-013,BUTTON(EJECT/FF/REW/PAUSE)
+T-3300,Cassette Tape,RNK-014,RNK-014,BUTTON(RECORD)
+T-3300,Cassette Tape,RNK-015,RNK-015,BUTTON(STOP)
+T-3300,Cassette Tape,RNK-018,RNK-018,BUTTON(PLAY)T3300
+QT-74,Reel To Reel Tape,RNK-039-0,RNK-039,Thrust pulley
+RT-1011L,Reel To Reel Tape,RNK-111-B,RNK-111,Brake guide
+RT-1020L,Reel To Reel Tape,RNK-111-B,RNK-111,Brake guide
+CT-F6161,Cassette Tape,RNK-153-0,RNK-153,Shaft cap
+CT-F7171,Cassette Tape,RNK-153-0,RNK-153,Shaft cap
+CT-F6161,Cassette Tape,RNK-154-0,RNK-154,Thrust adjusting screw
+CT-F7171,Cassette Tape,RNK-154-0,RNK-154,Thrust adjusting screw
+CT-F6161,Cassette Tape,RNK-167-A,RNK-167,Cassette positioner
+CT-F7171,Cassette Tape,RNK-167-A,RNK-167,Cassette positioner
+CT-F6161,Cassette Tape,RNK-168-B,RNK-168,Cam (Eject)
+CT-F7171,Cassette Tape,RNK-168-A,RNK-168,Cam (Eject)
+CT-F6161,Cassette Tape,RNK-170-A,RNK-170,Compartment
+CT-F6161,Cassette Tape,RNK-171-C,RNK-171,Door
+CT-F7171,Cassette Tape,RNK-171-C,RNK-171,Door
+CT-F6161,Cassette Tape,RNK-173-A,RNK-173,Lamp lens
+CT-F7171,Cassette Tape,RNK-173-,RNK-173-,Lamp lens
+CT-F6161,Cassette Tape,RNK-179-A,RNK-179,Lamp lens
+CT-F7171,Cassette Tape,RNK-179-0,RNK-179,Lamp lens
+CT-F7171,Cassette Tape,RNK-181-0,RNK-181,Compartment
+CT-F9191,Cassette Tape,RNK-198,RNK-198,ON indicator
+CT-F9191,Cassette Tape,RNK-199,RNK-199,CrO2 indicator
+CT-F6262,Cassette Tape,RNK-202,RNK-202,Illuminating plate
+CT-F700,Cassette Tape,RNK-202,RNK-202,Lens
+CT-F7272,Cassette Tape,RNK-202,RNK-202,Lens
+CT-F9191,Cassette Tape,RNK-203,RNK-203,Counter cover
+CT-F9191,Cassette Tape,RNK-206,RNK-206,Memory marker
+CT-F6262,Cassette Tape,RNK-208,RNK-208,Joint
+CT-F9191,Cassette Tape,RNK-211,RNK-211,Door
+CT-F8282,Cassette Tape,RNK-235,RNK-235,Knob guide
+CT-F6262,Cassette Tape,RNK-236,RNK-236,Tape counter lens
+CT-F8282,Cassette Tape,RNK-236,RNK-236,Tape counter indicator
+CT-F8282,Cassette Tape,RNK-237,RNK-237,Door
+CT-F8282,Cassette Tape,RNK-238,RNK-238,Indicator (ON)
+CT-F8282,Cassette Tape,RNK-239,RNK-239,CrO2 indicator
+CT-F6262,Cassette Tape,RNK-240,RNK-240,Cassette guide (L)
+CT-F7272,Cassette Tape,RNK-240,RNK-240,Cassette guide (L)
+CT-F6262,Cassette Tape,RNK-241,RNK-241,Cassette guide (R)
+CT-F7272,Cassette Tape,RNK-241,RNK-241,Cassette guide (R)
+CT-F6262,Cassette Tape,RNK-244,RNK-244,Door
+CT-F7272,Cassette Tape,RNK-244,RNK-244,Door
+CT-F6262,Cassette Tape,RNK-245,RNK-245,Cassette frame
+CT-F7272,Cassette Tape,RNK-258,RNK-258,Holder
+CT-F6262,Cassette Tape,RNK-259,RNK-259,Cassette retaining arm
+CT-F700,Cassette Tape,RNK-259,RNK-259,Arm
+CT-F7272,Cassette Tape,RNK-259,RNK-259,Arm
+CT-F6262,Cassette Tape,RNK-260,RNK-260,CrO2 detector lever
+CT-F7272,Cassette Tape,RNK-260,RNK-260,Lever
+CT-F6262,Cassette Tape,RNK-261,RNK-261,Thrust screw
+CT-F6262,Cassette Tape,RNK-268,RNK-268,Indicator lens
+CT-F6262,Cassette Tape,RNK-275,RNK-275,Meter frame
+CT-F6262,Cassette Tape,RNK-279,RNK-279,Cassette retainer
+CT-F7272,Cassette Tape,RNK-279,RNK-279,Cassette cover
+CT-F6262,Cassette Tape,RNK-280,RNK-280,Knob (FF)
+CT-F6262,Cassette Tape,RNK-280,RNK-280,Knob (PAUSE)
+CT-F6262,Cassette Tape,RNK-280,RNK-280,Knob (REW)
+CT-F7272,Cassette Tape,RNK-280,RNK-280,Knob (A - FF)
+CT-F7272,Cassette Tape,RNK-280,RNK-280,Knob (A - PAUSE)
+CT-F7272,Cassette Tape,RNK-280,RNK-280,Knob (A - REW)
+CT-F6262,Cassette Tape,RNK-281,RNK-281,Knob (PLAY)
+CT-F7272,Cassette Tape,RNK-281,RNK-281,Knob (B - PLAY)
+CT-F6262,Cassette Tape,RNK-282,RNK-282,Knob (STOP)
+CT-F7272,Cassette Tape,RNK-282,RNK-282,Knob (C - STOP)
+CT-F6262,Cassette Tape,RNK-283,RNK-283,Knob (REC)
+CT-F7272,Cassette Tape,RNK-283,RNK-283,Knob (D - REC)
+CT-F600/605,Cassette Tape,RNK-290,RNK-290,Guide
+CT-F6262,Cassette Tape,RNK-290,RNK-290,Ball guide
+CT-F700,Cassette Tape,RNK-292,RNK-292,Pulley
+CT-F750,Cassette Tape,RNK-292,RNK-292,ElT pulley
+CT-F8282,Cassette Tape,RNK-294,RNK-294,Meter escutcheon
+RT-701,Reel To Reel Tape,RNK-296,RNK-296,Brake guide
+RT-707,Reel To Reel Tape,RNK-296,RNK-296,Brake guide
+RT-707,Reel To Reel Tape,RNK-297,RNK-297,Spring retainer A
+CT-F700,Cassette Tape,RNK-300,RNK-300,Cassette guide L
+RT-701,Reel To Reel Tape,RNK-303,RNK-303,Brake drum
+RT-707,Reel To Reel Tape,RNK-303,RNK-303,Brake drum
+CT-F750,Cassette Tape,RNK-308,RNK-308,Roller
+CT-F600/605,Cassette Tape,RNK-319,RNK-319,Screw
+CT-F700,Cassette Tape,RNK-328,RNK-328,Shaft stopper
+CT-F700,Cassette Tape,RNK-332,RNK-332,"Button A (FFW, PAUSE)"
+CT-F700,Cassette Tape,RNK-333,RNK-333,Button B (PLAY)
+CT-F700,Cassette Tape,RNK-334,RNK-334,Button C (STOP)
+CT-F700,Cassette Tape,RNK-335,RNK-335,Button D (REC)
+CT-F1250,Cassette Tape,RNK-348,RNK-348,Tape guide
+CT-F850,Cassette Tape,RNK-348,RNK-348,Tape guide
+CT-F900,Cassette Tape,RNK-348,RNK-348,Tape guide
+CT-F950,Cassette Tape,RNK-348,RNK-348,Tape guide
+CT-F700,Cassette Tape,RNK-382,RNK-382,Guide collar
+CT-F700,Cassette Tape,RNK-385,RNK-385,Joint-bar guide
+CT-F700,Cassette Tape,RNK-386,RNK-386,Damper gear
+CT-F700,Cassette Tape,RNK-388,RNK-388,Meter cover L
+CT-F700,Cassette Tape,RNK-389,RNK-389,Meter cover S
+CT-F700,Cassette Tape,RNK-391,RNK-391,Cassette guide R
+RT-1020L,Reel To Reel Tape,RNK-391-0,RNK-391,Head mounting metal
+CT-F700,Cassette Tape,RNK-393,RNK-393,Door
+CT-F700,Cassette Tape,RNK-395,RNK-395,Door cam arm
+CT-F700,Cassette Tape,RNK-432,RNK-432,Lens
+CT-F600/605,Cassette Tape,RNK-447,RNK-447,Cap
+CT-F600/605,Cassette Tape,RNK-447,RNK-447,Cap
+CT-F900,Cassette Tape,RNK-447,RNK-447,Reel cap
+CT-F500/505,Cassette Tape,RNK-451,RNK-451,Drive arm
+CT-F600/605,Cassette Tape,RNK-451,RNK-451,Drive Arm (B)
+CT-F600/605,Cassette Tape,RNK-454,RNK-454,TU idler
+CT-F600/605,Cassette Tape,RNK-455,RNK-455,TU arm
+CT-F600/605,Cassette Tape,RNK-457,RNK-457,FF idler
+CT-F600/605,Cassette Tape,RNK-461,RNK-461,Arm
+CT-F600/605,Cassette Tape,RNK-463,RNK-463,Pinch return lever
+CT-F600/605,Cassette Tape,RNK-464,RNK-464,Switch arm (A)
+CT-F600/605,Cassette Tape,RNK-466,RNK-466,Lever
+CT-F600/605,Cassette Tape,RNK-472,RNK-472,Cassette guide L
+CT-F600/605,Cassette Tape,RNK-473,RNK-473,Cassette guide R
+CT-F600/605,Cassette Tape,RNK-477,RNK-477,Erase preventing lever
+CT-F600/605,Cassette Tape,RNK-478,RNK-478,Lever
+CT-F500/505,Cassette Tape,RNK-480,RNK-480,Pinch return lever
+CT-F600/605,Cassette Tape,RNK-480,RNK-480,Return lever
+CT-F600/605,Cassette Tape,RNK-483,RNK-483,Lever
+CT-F600/605,Cassette Tape,RNK-484,RNK-484,Lever
+CT-F600/605,Cassette Tape,RNK-485,RNK-485,Shaft
+CT-F500/505,Cassette Tape,RNK-486,RNK-486,Arm L
+CT-F600/605,Cassette Tape,RNK-486,RNK-486,Arm L
+CT-F500/505,Cassette Tape,RNK-487,RNK-487,Arm R
+CT-F600/605,Cassette Tape,RNK-487,RNK-487,Arm R
+CT-F600/605,Cassette Tape,RNK-489,RNK-489,Shaft L
+CT-F500/505,Cassette Tape,RNK-493,RNK-493,"Operation button (REW,FF,REC,PLAY,STOP/EJECT,PAUSE)"
+CT-F600/605,Cassette Tape,RNK-493,RNK-493,Operation button
+CT-F600/605,Cassette Tape,RNK-495,RNK-495,Shaft R
+CT-F500/505,Cassette Tape,RNK-523,RNK-523,Front cover
+CT-F500/505,Cassette Tape,RNK-524,RNK-524,Escutcheon (RECORD/DOLBY INDICATOR)
+CT-F1250,Cassette Tape,RNK-533,RNK-533,Detector arm
+CT-F950,Cassette Tape,RNK-533,RNK-533,Detector arm
+CT-F1250,Cassette Tape,RNK-534,RNK-534,Half holder arm
+CT-F1250,Cassette Tape,RNK-534,RNK-534,Half holder bracket (R) assembly
+CT-F850,Cassette Tape,RNK-534,RNK-534,Arm
+CT-F900,Cassette Tape,RNK-534,RNK-534,Arm
+CT-F950,Cassette Tape,RNK-534,RNK-534,Half holder arm
+CT-F1250,Cassette Tape,RNK-535,RNK-535,Hight adjuster
+CT-F850,Cassette Tape,RNK-535,RNK-535,Height adjuster
+CT-F900,Cassette Tape,RNK-535,RNK-535,Adjuster
+CT-F950,Cassette Tape,RNK-535,RNK-535,Adjuster
+CT-F1250,Cassette Tape,RNK-556,RNK-556,Half holder
+CT-F850,Cassette Tape,RNK-556,RNK-556,Half holder
+CT-F900,Cassette Tape,RNK-556,RNK-556,Half holder
+CT-F950,Cassette Tape,RNK-556,RNK-556,Half holder
+CT-F600/605,Cassette Tape,RNK-558,RNK-558,REC joint
+CT-F600/605,Cassette Tape,RNK-559,RNK-559,REC pivot
+CT-F1250,Cassette Tape,RNK-561,RNK-561,Idler
+CT-F850,Cassette Tape,RNK-561,RNK-561,Idler
+CT-F900,Cassette Tape,RNK-561,RNK-561,Idler
+CT-F950,Cassette Tape,RNK-561,RNK-561,Idler
+CT-F1250,Cassette Tape,RNK-562,RNK-562,Spring can
+CT-F850,Cassette Tape,RNK-562,RNK-562,Spring holder
+CT-F950,Cassette Tape,RNK-562,RNK-562,Spring holder
+CT-F1250,Cassette Tape,RNK-566,RNK-566,Guide (L)
+CT-F850,Cassette Tape,RNK-566,RNK-566,Guide (L)
+CT-F900,Cassette Tape,RNK-566,RNK-566,Guide L
+CT-F950,Cassette Tape,RNK-566,RNK-566,Guide L
+CT-F900,Cassette Tape,RNK-567,RNK-567,Half cover
+CT-F900,Cassette Tape,RNK-583,RNK-583,Escutcheon
+CT-F900,Cassette Tape,RNK-584,RNK-584,Head cover
+CT-F900,Cassette Tape,RNK-587,RNK-587,Function panel
+CT-F500/505,Cassette Tape,RNK-588,RNK-588,"Cap (REW,FF,REC,PLAY,STOP/EJECT,PAUSE)"
+CT-F600/605,Cassette Tape,RNK-588,RNK-588,Cap
+CT-F600/605,Cassette Tape,RNK-588,RNK-588,Cap
+CT-F1250,Cassette Tape,RNK-608,RNK-608,Guide (R)
+CT-F850,Cassette Tape,RNK-608,RNK-608,Guide (R)
+CT-F900,Cassette Tape,RNK-608,RNK-608,Guide R
+CT-F950,Cassette Tape,RNK-608,RNK-608,Guide R
+CT-F600/605,Cassette Tape,RNK-613,RNK-613,REC lever
+CT-F600/605,Cassette Tape,RNK-616,RNK-616,Lock plate
+CT-F850,Cassette Tape,RNK-632,RNK-632,Switch joint bar (B)
+CT-F850,Cassette Tape,RNK-633,RNK-633,Power switch joint bar
+CT-F850,Cassette Tape,RNK-640,RNK-640,Pulley
+CT-F600/605,Cassette Tape,RNK-665,RNK-665,REC hook
+CT-F600/605,Cassette Tape,RNK-666,RNK-666,Front cover
+CT-F600/605,Cassette Tape,RNK-670,RNK-670,Knob escutcheon
+CT-F1250,Cassette Tape,RNK-703,RNK-703,Head cord cover
+CT-F950,Cassette Tape,RNK-703,RNK-703,Head cord cover
+CT-F1250,Cassette Tape,RNK-707,RNK-707,lndicator lens
+CT-F1250,Cassette Tape,RNK-708,RNK-708,Half cover
+CT-F1250,Cassette Tape,RNK-729,RNK-729,Escutcheon
+CT-F950,Cassette Tape,RNK-731,RNK-731,Escutcheon lens
+CT-F600/605,Cassette Tape,RNK-746,RNK-746,Meter lens
+CT-F750,Cassette Tape,RNK-749,RNK-749,Gear B
+CT-F750,Cassette Tape,RNK-750,RNK-750,Switch arm A
+CT-F750,Cassette Tape,RNK-751,RNK-751,Switch arm B
+CT-F750,Cassette Tape,RNK-761,RNK-761,Screw
+CT-F750,Cassette Tape,RNK-762,RNK-762,"Cap (REW, FF, STOP, PLAY, REC, PAUSE)"
+CT-F750,Cassette Tape,RNK-764,RNK-764,Button stopper
+CT-F950,Cassette Tape,RNK-777,RNK-777,Half cover (M)
+CT-F950,Cassette Tape,RNK-780,RNK-780,Escutcheon (M)
+CT-F850,Cassette Tape,RNK-786,RNK-786,Control escutcheon
+CT-F850,Cassette Tape,RNK-787,RNK-787,Indicator escutcheon
+CT-F850,Cassette Tape,RNK-788,RNK-788,Display window
+CT-F750,Cassette Tape,RNK-794,RNK-794,Cassette guide ( L)
+CT-F750,Cassette Tape,RNK-795,RNK-795,Cassette guide (R)
+CT-F750,Cassette Tape,RNK-802,RNK-802,Half holder arm
+CT-F750,Cassette Tape,RNK-804,RNK-804,Lever
+CT-F750,Cassette Tape,RNK-808,RNK-808,Roller (B)
+CT-F750,Cassette Tape,RNK-810,RNK-810,Head cord cover
+RT-909,Reel To Reel Tape,RNK-811,RNK-811,Power switch joint
+RT-909,Reel To Reel Tape,RNK-812,RNK-812,Switch joint
+CT-F1050,Cassette Tape,RNK-815,RNK-815,Cap
+CT-F1250,Cassette Tape,RNK-815,RNK-815,Reel cap
+CT-F1250,Cassette Tape,RNK-815,RNK-815,Reel cap
+CT-F750,Cassette Tape,RNK-815,RNK-815,Reel cap (Bl
+CT-F850,Cassette Tape,RNK-815,RNK-815,Reel cap (B)
+CT-F950,Cassette Tape,RNK-815,RNK-815,Reel cap (B)
+RT-909,Reel To Reel Tape,RNK-827,RNK-827,Sensor slit
+RT-909,Reel To Reel Tape,RNK-829,RNK-829,Counter lens
+RT-909,Reel To Reel Tape,RNK-831,RNK-831,Meter lens
+RT-909,Reel To Reel Tape,RNK-832,RNK-832,Handle L
+RT-909,Reel To Reel Tape,RNK-833,RNK-833,Brake drum
+RT-909,Reel To Reel Tape,RNK-834,RNK-834,Handle R
+RT-909,Reel To Reel Tape,RNK-835,RNK-835,Head housing A
+CT-F750,Cassette Tape,RNK-837,RNK-837,Illuminating plate
+CT-F750,Cassette Tape,RNK-838,RNK-838,FR indicator
+CT-F750,Cassette Tape,RNK-840,RNK-840,Lamp holder L
+CT-F750,Cassette Tape,RNK-841,RNK-841,Lamp holder R
+RT-909,Reel To Reel Tape,RNK-842,RNK-842,Head housing B
+CT-F750,Cassette Tape,RNK-843,RNK-843,Knob
+CT-F750,Cassette Tape,RNK-845,RNK-845,Meter cover
+CT-F750,Cassette Tape,RNK-846,RNK-846,Meter lens
+CT-F750,Cassette Tape,RNK-847,RNK-847,Meter panel
+CT-F750,Cassette Tape,RNK-848,RNK-848,Push knob
+CT-F750,Cassette Tape,RNK-849,RNK-849,Head cover
+CT-F850,Cassette Tape,RNK-854,RNK-854,Lens
+CT-F600/605,Cassette Tape,RNK-855,RNK-855,Escutcheon
+CT-F600/605,Cassette Tape,RNK-856,RNK-856,Lens
+CT-F1050,Cassette Tape,RNL-010,RNL-010,Cylinder
+CT-F1050,Cassette Tape,RNL-118,RNL-118,Reference pole
+CT-F1050,Cassette Tape,RNL-123,RNL-123,ldler (17)
+CT-F1050,Cassette Tape,RNL-126,RNL-126,ldler cam
+CT-F1050,Cassette Tape,RNL-127,RNL-127,Spring cup
+CT-F1050,Cassette Tape,RNL-135,RNL-135,Eject arm
+CT-F1050,Cassette Tape,RNL-136,RNL-136,Arm fulcrum
+CT-F1050,Cassette Tape,RNL-137,RNL-137,Arm
+CT-F1050,Cassette Tape,RNL-138,RNL-138,Lock arm
+CT-F1050,Cassette Tape,RNL-147,RNL-147,Knob (EJECT)
+CT-F1050,Cassette Tape,RNL-148,RNL-148,Knob (POWER)
+CT-F1050,Cassette Tape,RNL-149,RNL-149,Knob A
+CT-F1050,Cassette Tape,RNL-150,RNL-150,Knob B
+CT-F1050,Cassette Tape,RNL-151,RNL-151,Knob (DIRECTION)
+CT-F1050,Cassette Tape,RNL-152,RNL-152,Knob (FUNCTION)
+CT-F1050,Cassette Tape,RNL-155,RNL-155,lndicator lens
+CT-F1050,Cassette Tape,RNL-158,RNL-158,Push knob
+CT-F1050,Cassette Tape,RNL-174,RNL-174,Button holder
+CT-F1050,Cassette Tape,RNL-206,RNL-206,Detector arm R
+CT-F1050,Cassette Tape,RNL-207,RNL-207,Detector arm L
+CT-F1050,Cassette Tape,RNL-208,RNL-208,Piston
+RT-1011L,Reel To Reel Tape,RNP-153-0,RNP-153,Transistor board
+RT-1011L,Reel To Reel Tape,RNX-003-0,RNX-003,Ball bearing
+RT-1020L,Reel To Reel Tape,RNX-003-0,RNX-003,Ball bearing
+PL-100/100X,Turntable,RNX-060,RNX-060,PU plate (A)
+QT-6600,Reel To Reel Tape,RPB-003-0,RPB-003,REC/P.B. head (4 channel)
+QT-74,Reel To Reel Tape,RPB-003-0,RPB-003,REC./P.B. head (4ch)
+QT-6600,Reel To Reel Tape,RPB-004-0,RPB-004,REC/P.B. head (2 channel)
+QT-74,Reel To Reel Tape,RPB-004-0,RPB-004,REC./P.B. head (2ch)
+QT-6100,Reel To Reel Tape,RPB-005-A,RPB-005,E head
+QT-6600,Reel To Reel Tape,RPB-005-A,RPB-005,E. head
+QT-6600,Reel To Reel Tape,RPB-005-A,RPB-005,E. head
+QT-74,Reel To Reel Tape,RPB-005-A,RPB-005,Erase head
+QT-74,Reel To Reel Tape,RPB-005-A,RPB-005,Erase head
+QT-2100,8-Track Tape,RPB-006,RPB-006,HEAD (PBH8-4)
+T-3500,Cassette Tape,RPB-007,RPB-007,HEAD
+T-3500,Cassette Tape,RPB-008,RPB-008,HEAD (ERASE)
+CT-F6161,Cassette Tape,RPB-013-E,RPB-013,REC/P.B. head
+CT-F6262,Cassette Tape,RPB-013,RPB-013,REC/PB head
+CT-F500/505,Cassette Tape,RPB-014,RPB-014,Erase Head
+CT-F600/605,Cassette Tape,RPB-014,RPB-014,Erase head
+CT-F600/605,Cassette Tape,RPB-014,RPB-014,Erase head
+CT-F6161,Cassette Tape,RPB-014-0,RPB-014,Erasing head
+CT-F700,Cassette Tape,RPB-014,RPB-014,Erasing head
+CT-F7171,Cassette Tape,RPB-014-0,RPB-014,Erasing head
+CT-F7272,Cassette Tape,RPB-014,RPB-014,Erase head
+CT-F8282,Cassette Tape,RPB-014,RPB-014,Erase head
+CT-F9191,Cassette Tape,RPB-014,RPB-014,Erasing head
+RT-1011L,Reel To Reel Tape,RPB-020-0,RPB-020,Erase head
+RT-1020L,Reel To Reel Tape,RPB-020-0,RPB-020,Erase head
+RT-1011L,Reel To Reel Tape,RPB-021-B,RPB-021,Recording head
+RT-1020L,Reel To Reel Tape,RPB-021-A,RPB-021,Recording head
+RT-1020L,Reel To Reel Tape,RPB-022-0,RPB-022,Playback head
+T-3300,Cassette Tape,RPB-023,RPB-023,HEAD (REC/P.B.)
+CT-F7171,Cassette Tape,RPB-027-A,RPB-027,REC/P.B. head
+CT-F8282,Cassette Tape,RPB-027,RPB-027,REC/PB head
+RT-1011L,Reel To Reel Tape,RPB-031-0,RPB-031,Playback head
+CT-F700,Cassette Tape,RPB-032,RPB-032,PB/REC head
+CT-F9191,Cassette Tape,RPB-034,RPB-034,REC/ PB Head
+CT-F7272,Cassette Tape,RPB-037,RPB-037,REC/PB head
+CT-F6262,Cassette Tape,RPB-038,RPB-038,Erase head
+RT-707,Reel To Reel Tape,RPB-039 or RPB-047,RPB-039 or RPB-047,Erase head (4T2C)
+RT-701,Reel To Reel Tape,RPB-040,RPB-040,Recording head (4T2C)
+RT-707,Reel To Reel Tape,RPB-040,RPB-040,Recording head (4T2C)
+RT-701,Reel To Reel Tape,RPB-041,RPB-041,Playback head (4T2C)
+RT-707,Reel To Reel Tape,RPB-041,RPB-041,Playback head (4T2C)
+RT-701,Reel To Reel Tape,RPB-047,RPB-047,Erase head (4T2C)
+RT-909,Reel To Reel Tape,RPB-047,RPB-047,Erase head (4T 2C EH)
+CT-F500/505,Cassette Tape,RPB-052,RPB-052,REC/RB. Head
+CT-F600/605,Cassette Tape,RPB-052,RPB-052,REC/PB head
+RT-909,Reel To Reel Tape,RPB-064,RPB-064,REC head (4T 2C RH)
+RT-909,Reel To Reel Tape,RPB-065,RPB-065,P.B head (4T 2C PBH)
+CT-F1050,Cassette Tape,RPB-090,RPB-090,REC/PB head (4ch)
+QT-6600,Reel To Reel Tape,RRB-005,RRB-005,Operating instructions QT-6600
+QT-2100,8-Track Tape,RRB-007,RRB-007,O/M QT-2100
+T-3500,Cassette Tape,RRB-010,RRB-010,O/M T-3500
+RT-1020L,Reel To Reel Tape,RRB-021-0,RRB-021,Operating instructions RT-1020L
+QT-74,Reel To Reel Tape,RRB-022,RRB-022,Operating instructions QT-74
+CT-F7171,Cassette Tape,RRB-040-0,RRB-040,Operating instructions KCU model
+RT-1011L,Reel To Reel Tape,RRB-041-A,RRB-041,Operating instructions (KU model)
+CT-F7171,Cassette Tape,RRB-042-0,RRB-042,Operating instructions FV model
+RT-1011L,Reel To Reel Tape,RRB-046-0,RRB-046,Operating instructions (FV model)
+CT-F6161,Cassette Tape,RRB-050-0,RRB-050,Operating instructions (KCU model)
+CT-F6161,Cassette Tape,RRB-051-0,RRB-051,Operating instructions (FV model)
+CT-F9191,Cassette Tape,RRB-054,RRB-054,Operating instruction CT-F9191 (KCU model)
+CT-F9191,Cassette Tape,RRB-056,RRB-056,Operating instruction CT-F9191 (FV model)
+CT-F8282,Cassette Tape,RRB-063,RRB-063,Operating instructions  CT-F8282
+CT-F6262,Cassette Tape,RRB-070,RRB-070,Operating instructions
+CT-F7272,Cassette Tape,RRB-072,RRB-072,Operating instructions
+RT-707,Reel To Reel Tape,RRB-078,RRB-078,Operating instructions  RT-707
+CT-F1000,Cassette Tape,RRB-083-0,RRB-083,"Operating Instructions CT-F1000 (D, D/G, HG)"
+CT-F700,Cassette Tape,RRB-085,RRB-085,Operating instructions (D type)
+CT-F700,Cassette Tape,RRB-085,RRB-085,Operating instructions (English) (D type)
+CT-F700,Cassette Tape,RRB-087,RRB-087,Operating instructions (English) (KC type)
+CT-F700,Cassette Tape,RRB-087,RRB-087,Operating instructions (English) (KU type)
+CT-F700,Cassette Tape,RRB-088,RRB-088,Operating instructions (D/G type)
+CT-F700,Cassette Tape,RRB-088,RRB-088,Operating instructions (English) (D/G type)
+CT-F700,Cassette Tape,RRB-088,RRB-088,Operating instructions (English) (HG type)
+CT-F500/505,Cassette Tape,RRB-090,RRB-090,Operating instruction (CT-F500)
+CT-F900,Cassette Tape,RRB-092,RRB-092,Operating instructions
+CT-F500/505,Cassette Tape,RRB-093,RRB-093,Operating instruction (CT-F505)
+CT-F600/605,Cassette Tape,RRB-103,RRB-103,Operating instruction (CT-F605/KU)
+CT-F1250,Cassette Tape,RRB-104,RRB-104,Operating instructions  CT-F1250
+CT-F950,Cassette Tape,RRB-106,RRB-106,Operating instructions
+CT-F750,Cassette Tape,RRB-108,RRB-108,Operating instruction
+CT-F850,Cassette Tape,RRB-109,RRB-109,Operating instruction
+DT-400,Timer,RRB-119,RRB-119,Operating Instructions DT400
+CT-F1050,Cassette Tape,RRB-143,RRB-143,Operating instructions  CT-F1050
+CT-F7171,Cassette Tape,RRD-007-0,RRD-007,German operating instructions
+RT-1011L,Reel To Reel Tape,RRD-008-0,RRD-008,Operating instructions (German/French - FV model)
+CT-F6161,Cassette Tape,RRD-012-0,RRD-012,Operating instructions (German/France)
+CT-F9191,Cassette Tape,RRD-014,RRD-014,Operating instruction CT-F9191 (German/French)
+CT-F700,Cassette Tape,RRD-027,RRD-027,Operating instructions (German/French) (HG type)
+RT-707,Reel To Reel Tape,RRF-040,RRF-040,Reel pad instructions
+CT-F1050,Cassette Tape,RRG-020,RRG-020,Operating guide
+RT-1020L,Reel To Reel Tape,RRH-001-0,RRH-001,Label (mechanism adj.)
+RT-1020L,Reel To Reel Tape,RRH-002-0,RRH-002,Label (amp. adj.)
+CT-F7272,Cassette Tape,RRW-001,RRW-001,Head label
+CT-F8282,Cassette Tape,RRW-001,RRW-001,Label
+CT-F6262,Cassette Tape,RRW-007,RRW-007,Head label
+RT-1020L,Reel To Reel Tape,RRW-016-0,RRW-016,Label (voltage selector)
+CT-F900,Cassette Tape,RRW-026,RRW-026,Caution label (English) (for KC type)
+CT-F900,Cassette Tape,RRW-076,RRW-076,Caution label (French) (for KC type)
+CT-F900,Cassette Tape,RRW-078,RRW-078,Caution label (for KC type)
+CT-F600/605,Cassette Tape,RRW-081,RRW-081,Erase label
+CT-F700,Cassette Tape,RRW-081,RRW-081,E head label
+CT-F600/605,Cassette Tape,RRW-082,RRW-082,REC/PB label
+CT-F750,Cassette Tape,RRW-082,RRW-082,R/P head label
+CT-F700,Cassette Tape,RRW-096,RRW-096,PB/REC head label
+CT-F1250,Cassette Tape,RRW-112,RRW-112,UL caution label
+CT-F600/605,Cassette Tape,RRW-112,RRW-112,UL Label (A)
+CT-F600/605,Cassette Tape,RRW-112,RRW-112,UL Label (A) - CT-F605/KU Model
+CT-F850,Cassette Tape,RRW-112,RRW-112,Label
+CT-F950,Cassette Tape,RRW-112,RRW-112,UL Caution label (A)
+RT-909,Reel To Reel Tape,RRW-112,RRW-112,UL caution label A
+CT-F750,Cassette Tape,RRW-118,RRW-118,E head label
+SX-1080,Receiver,RS 2P 122J,RS 2P 122J,Metal dxide 1.2k 2W
+SX-1080,Receiver,RS 2P 122J,RS 2P 122J,Metal oxide 1.2k 2W
+PL-51A,Turntable,RS2P 103J,RS2P 103J,Metal oxide 10k 2W
+SX-939,Receiver,RS2P 272J,RS2P 272J,Metal oxide  2.7k  2W
+SX-939,Receiver,RS2P 272J,RS2P 272J,Metal oxide  2.7k  2W
+SX-950,Receiver,RS2P 272J,RS2P 272J,Metal oxide 2.7k 2W
+SX-950,Receiver,RS2P 272J,RS2P 272J,Metal oxide 2.7k 2W
+QX-747,Receiver,RS2P 332J,RS2P 332J,Metal oxide 3.3k 2W
+QX-747,Receiver,RS2P 332J,RS2P 332J,Metal oxide 3.3k 2W
+SX-1010,Receiver,RS2P 332J,RS2P 332J,Metal oxide 3.3k 2W
+SA-9500,Integrated Amplifier,RS2P 472J,RS2P 472J,Metal oxide 4.7k 2W
+SA-9500,Integrated Amplifier,RS2P 472J,RS2P 472J,Metal oxide 4.7k 2W
+SX-850,Receiver,RS2P 472J,RS2P 472J,Metal oxide 4.7k 2W
+SX-850,Receiver,RS2P 472J,RS2P 472J,Metal oxide 4.7k 2W
+SX-535,Receiver,RS2P 561K,RS2P 561K,Metal oxide  560  2W
+SX-535,Receiver,RS2P 561K,RS2P 561K,Metal oxide  560  2W
+SX-980,Receiver,RS2P 911J,RS2P 911J,Metal oxide 910 2W
+SX-980,Receiver,RS2P 911J,RS2P 911J,Metal oxide 910 2W
+QX-747A,Receiver,RS3P 332J,RS3P 332J,Metal oxide 3.3k  3W
+QX-747A,Receiver,RS3P 332J,RS3P 332J,Metal oxide 3.3k  3W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+PL-71,Turntable,RS3P 392J,RS3P 392J,Metal oxide 3.9k 3W
+SPEC-2,Amplifier,RS3P 472K,RS3P 472K,Metal oxide 4.7k 3W
+SPEC-2,Amplifier,RS3P 472K,RS3P 472K,Metal oxide 4.7k 3W
+CT-F1050,Cassette Tape,RS8-027,RS8-027,Rotary slide switch
+QT-74,Reel To Reel Tape,RSA-009-0,RSA-009,Push switch (POWER)
+CT-F6161,Cassette Tape,RSA-010-A,RSA-010,"Push switch (S5, POWER)    (KCU model)"
+CT-F6262,Cassette Tape,RSA-010,RSA-010,Push switch (POWER)
+CT-F7171,Cassette Tape,RSA-010-A,RSA-010,"Push switch (S11, POWER)    (KCU Model)"
+CT-F7272,Cassette Tape,RSA-010,RSA-010,Power switch
+CT-F8282,Cassette Tape,RSA-010,RSA-010,Power switch
+CT-F6161,Cassette Tape,RSA-011-0,RSA-011,"Push switch (S5, POWER)   (FV model)"
+CT-F7171,Cassette Tape,RSA-011-0,RSA-011,"Push switch (S11, POWER)  (FV model)"
+CT-F1000,Cassette Tape,RSA-016,RSA-016,Power switch
+CT-F7272,Cassette Tape,RSA-016,RSA-016,Power switch
+CT-F9191,Cassette Tape,RSA-016,RSA-016,Lever switch (POWER - KCU)
+CT-F9191,Cassette Tape,RSA-017,RSA-017,Lever switch (POWER -FV)
+CT-F700,Cassette Tape,RSA-020,RSA-020,Power switch (D type)
+CT-F700,Cassette Tape,RSA-020,RSA-020,Power switch (D/G type)
+RT-909,Reel To Reel Tape,RSA-020,RSA-020,Power switch (D/G)
+CT-F500/505,Cassette Tape,RSA-021,RSA-021,Power switch
+CT-F700,Cassette Tape,RSA-021,RSA-021,Power switch (KC type)
+CT-F700,Cassette Tape,RSA-021,RSA-021,Power switch (KU type)
+CT-F850,Cassette Tape,RSA-021,RSA-021,Power switch
+CT-F900,Cassette Tape,RSA-021,RSA-021,Power switch
+CT-F950,Cassette Tape,RSA-021,RSA-021,"Power switch (CT-F950/KC, KU)"
+RT-909,Reel To Reel Tape,RSA-021,RSA-021,"Power switch (KC, KU)"
+CT-F700,Cassette Tape,RSA-022,RSA-022,Power switch (HG type)
+CT-F600/605,Cassette Tape,RSA-028,RSA-028,Power switch
+CT-F750,Cassette Tape,RSA-028,RSA-028,Power switch
+CT-F1250,Cassette Tape,RSA-032,RSA-032,"Power switch (KU, KC)"
+CT-F1050,Cassette Tape,RSA-034,RSA-034,Power switch
+T-6100,Reel To Reel Tape,RSB-001,RSB-001,SWITCH(SPEED SELECTOR)
+QT-6100,Reel To Reel Tape,RSB-003-0,RSB-003,MODE switch
+QT-6100,Reel To Reel Tape,RSB-004-0,RSB-004,Rotary switch (EQ SELECTOR SW)
+QT-6600,Reel To Reel Tape,RSB-004,RSB-004,SWITCH(EQ SELECTOR)
+QT-74,Reel To Reel Tape,RSB-004-0,RSB-004,Rotary switch - Equalizer selector
+RT-1020L,Reel To Reel Tape,RSB-008-0,RSB-008,BIAS switch
+RT-1020L,Reel To Reel Tape,RSB-009-0,RSB-009,EQ switch
+CT-F700,Cassette Tape,RSB-017,RSB-017,Rotary switch (EQ)
+CT-F700,Cassette Tape,RSB-017,RSB-017,Rotary switch (INPUT)
+CT-F700,Cassette Tape,RSB-017,RSB-017,"Rotary switch (METER, EQ, INPUT)"
+CT-F700,Cassette Tape,RSB-018,RSB-018,Rotary switch (DOLBY NR)
+DT-400,Timer,RSB-019,RSB-019,ROTARY SWITCH
+CT-F950,Cassette Tape,RSB-020,RSB-020,Rotary Switch (TAPE SELECT)
+CT-F850,Cassette Tape,RSB-021,RSB-021,Rotary switch (TAPE SELECTOR)
+CT-F1250,Cassette Tape,RSB-022,RSB-022,Switch (A - TAPE CAL MODE SEL)
+CT-F1250,Cassette Tape,RSB-023,RSB-023,Switch (B - TAPE SELECTOR)
+CT-F1050,Cassette Tape,RSB-027,RSB-027,Rotary slide-switch (MODE SELECTOR)
+T-3500,Cassette Tape,RSF-002,RSF-002,SWITCH(SENSING/MOTOR)
+RT-1020L,Reel To Reel Tape,RSF-007-0,RSF-007,Microswitch (shut-off switch)
+RT-701,Reel To Reel Tape,RSF-007,RSF-007,Micro switch
+RT-707,Reel To Reel Tape,RSF-007,RSF-007,Micro switch (SHUT-OFF)
+RT-1011L,Reel To Reel Tape,RSF-013-0,RSF-013,Microswitch (shut-off switch)
+RT-1011L,Reel To Reel Tape,RSF-013-0,RSF-013,Microswitch (Shut-Off)
+CT-F8282,Cassette Tape,RSF-017,RSF-017,Micro switch (PAUSE)
+CT-F9191,Cassette Tape,RSF-017,RSF-017,Microswitch
+CT-F8282,Cassette Tape,RSF-019,RSF-019,Micro switch
+CT-F1250,Cassette Tape,RSF-022,RSF-022,Microswltch
+CT-F750,Cassette Tape,RSF-022,RSF-022,Microswitch
+CT-F850,Cassette Tape,RSF-022,RSF-022,Microswitch S6
+CT-F900,Cassette Tape,RSF-022,RSF-022,"Micro switch (CrO, TAPE DETECTOR)"
+CT-F900,Cassette Tape,RSF-022,RSF-022,Micro switch (ERASE PREVENT DETECTOR)
+CT-F950,Cassette Tape,RSF-022,RSF-022,Microswitch (ERASE PREVENT DETECTOR)
+RT-909,Reel To Reel Tape,RSF-022,RSF-022,Micro switch
+CT-F1050,Cassette Tape,RSF-024,RSF-024,Micro switch A (REC SENSOR A)
+CT-F1050,Cassette Tape,RSF-024,RSF-024,Micro switch B
+CT-F1250,Cassette Tape,RSF-024,RSF-024,Microswitch (B)
+CT-F750,Cassette Tape,RSF-024,RSF-024,Microswitch (B)
+CT-F850,Cassette Tape,RSF-024,RSF-024,Microswitch (B) S7
+CT-F900,Cassette Tape,RSF-024,RSF-024,Micro switch (CASSETTE HALF DETECTOR)
+CT-F950,Cassette Tape,RSF-024,RSF-024,Microswitch B (CASSETTE HALF DETECTOR)
+CT-F750,Cassette Tape,RSF-025,RSF-025,Microswitch
+CT-F750,Cassette Tape,RSF-026,RSF-026,Micro switch
+CT-F6161,Cassette Tape,RSG-022-0,RSG-022,"Push switch (S8, SKIP)"
+CT-F7171,Cassette Tape,RSG-022-0,RSG-022,"Push switch (S8, SKIP)"
+CT-F7171,Cassette Tape,RSG-023-0,RSG-023,"Push switch (Dolby, Bias, EQ, Limiter)"
+CT-F6161,Cassette Tape,RSG-024-0,RSG-024,"Push switch (Dolby, Bias, EQ)"
+CT-F9191,Cassette Tape,RSG-029,RSG-029,"Push switch assembly (EQ,BIAS,LIMITER,DOLBY,MPX FILTER,MEMORY)"
+CT-F8282,Cassette Tape,RSG-045,RSG-045,"Push Switch (EQ, BIAS, DOLBY, MEMORY)"
+CT-F8282,Cassette Tape,RSG-046,RSG-046,"Function switch (REW, FF, PLAY, REC)"
+RT-701,Reel To Reel Tape,RSG-046,RSG-046,Pause switch
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (FF)
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (PLAY)
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (REC)
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (REW)

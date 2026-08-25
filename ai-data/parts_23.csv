@@ -1,0 +1,1001 @@
+model,category,part_number,normalized_part_number,description
+CT-F900,Cassette Tape,RXX-235,RXX-235,Front panel assembly
+CT-F900,Cassette Tape,RXX-236,RXX-236,Indicator lens assembly
+CT-F950,Cassette Tape,RXX-251,RXX-251,Front panel assembly
+CT-F950,Cassette Tape,RXX-252,RXX-252,Indicator lens assembly
+CT-F850,Cassette Tape,RXX-253,RXX-253,Escutcheon assembly
+CT-F1250,Cassette Tape,RXX-259,RXX-259,Front panel assembly
+CT-F1250,Cassette Tape,RXX-260,RXX-260,Head cover assernbly
+CT-F1250,Cassette Tape,RXX-261,RXX-261,Escutcheon assembly
+CT-F1250,Cassette Tape,RXX-262,RXX-262,Escutcheon panel assembly
+CT-F1250,Cassette Tape,RXX-263,RXX-263,Indicator assembly
+RT-909,Reel To Reel Tape,RXX-265,RXX-265,Tension roller assembly L
+RT-909,Reel To Reel Tape,RXX-266,RXX-266,Tension roller assembly R
+RT-909,Reel To Reel Tape,RXX-267,RXX-267,Control A assembly
+RT-909,Reel To Reel Tape,RXX-268,RXX-268,Front panel assembly
+CT-F750,Cassette Tape,RXX-269,RXX-269,Front panel assembly
+CT-F1050,Cassette Tape,RXX-302,RXX-302,Capstan motor assembly
+CT-F1050,Cassette Tape,RXX-303,RXX-303,Reel motor assembly
+CT-F1050,Cassette Tape,RXX-304,RXX-304,Cassette plate assembly
+CT-F1050,Cassette Tape,RXX-305,RXX-305,Front panel assembly
+CT-F1050,Cassette Tape,RXX-308,RXX-308,PLAY button assembly
+CT-F1050,Cassette Tape,RXX-309,RXX-309,PAUSE button assembly
+CT-F1050,Cassette Tape,RXX-310,RXX-310,REC button assembly
+CT-F1050,Cassette Tape,RXX-311,RXX-311,MUTE button assembly
+CT-F1050,Cassette Tape,RXX-312,RXX-312,STOP button assembly
+CT-F1050,Cassette Tape,RXX-313,RXX-313,FAST button assembly
+CT-F950,Cassette Tape,RYM-073,RYM-073,Mechanism assembly
+CT-F7272,Cassette Tape,RYY-003,RYY-003,Dolby module
+SX-6000,Receiver,S11 -016-A,S11 -016,Power Switch
+SX-1000TA (Later),Receiver,S11-014,S11-014,Power Switch
+SX-700T,Receiver,S11-014-A,S11-014,Power Switch
+TX-500,Tuner,S11-014,S11-014,SWITCH(MPX FILTER/NOISE SLO)
+QX-4000,Receiver,S11-016-A,S11-016,Power switch FW model
+QX-646,Receiver,S11-016-B,S11-016,Power switch (FW model)
+SA-500,Integrated Amplifier,S11-016-A,S11-016,Power Switch (FV)
+SR-202W,Reverb,S11-016-A,S11-016,Power Switch
+SX-440,Receiver,S11-016-A,S11-016,Power Switch
+TX-500,Tuner,S11-016,S11-016,SWITCH(POWER)
+TX-700,Tuner,S11-016,S11-016,SWITCH(POWER)
+SA-500,Integrated Amplifier,S11-018-O,S11-018,Line Voitage Selector
+SA-700,Integrated Amplifier,S11-018-0,S11-018,Line Voltage Selector
+SA-900,Integrated Amplifier,S11-018-0,S11-018,LINE VOLTAGE Selector
+SD-1000,Other,S11-018-O,S11-018,Line voltage selector
+SR-202W,Reverb,S11-018-0,S11-018,Line Voltage Selector
+SX-1000TD,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR
+SX-1000TW,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR
+SX-1500T,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR (F)
+SX-1500TD,Receiver,S11-018-0,S11-018,LINE VOLTAGE Selector
+SX-2500,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR
+SX-440,Receiver,S11-018-0,S11-018,Line Voltage Selector
+SX-9000,Receiver,S11-018-0,S11-018,Line Voltage Selector
+SX-990,Receiver,S11-018-O,S11-018,LINE VOLTAGE Selector
+SX-1500T,Receiver,S11-019-0,S11-019,Output Selector
+SX-1000TD,Receiver,S11-020-0,S11-020,Output Selector
+SX-1000TW,Receiver,S11-020-0,S11-020,Output Selector
+SX-1500T,Receiver,S11-020-0,S11-020,Output Selector (F)
+SA-1000,Integrated Amplifier,S11-022-A,S11-022,Speaker selector with AC switch (FVW model)
+SA-700,Integrated Amplifier,S11-022-A,S11-022,Output Selector
+SX-2500,Receiver,S11-022-A,S11-022,OUTPUT SELECTOR & POWER Switch
+SX-770,Receiver,S11-022-A,S11-022,Output Selector
+SX-9000,Receiver,S11-022-A,S11-022,Slide Switch
+SX-990,Receiver,S11-022-A,S11-022,SPEAKERS Switch
+SA-600,Integrated Amplifier,S11-023-B,S11-023,Power switch (KCW)
+SA-800,Integrated Amplifier,S11-023-B,S11-023,POWER Switch (KCW)
+SA-600,Integrated Amplifier,S11-024-B,S11-024,Power switch (FVW)
+SA-800,Integrated Amplifier,S11-024-B,S11-024,POWER Switch (FVW)
+SA-900,Integrated Amplifier,S11-024-0,S11-024,POWER Switch
+SX-727,Receiver,S11-029-0,S11-029,"Output selector (FVZW,FW)"
+SX-1500TD,Receiver,S11-029A,S11-029A,SPEAKERS Switch
+SX-9000,Receiver,S11-030-A,S11-030,Power Switch
+QT-2100,8-Track Tape,S11-404,S11-404,SWITCH(PROGRAM REPEAT)
+PL-A25,Turntable,S11-602-0,S11-602,Slotted plug
+SA-800,Integrated Amplifier,S12-011-B,S12-011,OUTPUT SELECTOR
+SA-900,Integrated Amplifier,S12-011-0,S12-011,SPEAKER Selector
+SX-440,Receiver,S13-021 B,S13-021 B,Input Selector
+SA-600,Integrated Amplifier,S13-024-B,S13-024,Input selector switch
+SA-700,Integrated Amplifier,S13-024-0,S13-024,Input Selector
+SA-900,Integrated Amplifier,S13-025-0,S13-025,INPUT Selector
+TX-600,Tuner,S13-026,S13-026,SWITCH(FUNCTION-AM/FM/AUTO)
+TX-900,Tuner,S13-026,S13-026,SWITCH(FUNCTION-AM/FM/AUTO)
+TX-500,Tuner,S13-027,S13-027,SWITCH(FUNCTION/SELECTOR)
+TX-500A,Tuner,S13-027,S13-027,SWITCH(FUNCTION/SELECTOR)
+SA-500,Integrated Amplifier,S13-028-A,S13-028,lnput Selector
+SX-1500TD,Receiver,S13-029-0,S13-029,SELECTOR Switch
+SX-990,Receiver,S13-029-O,S13-029,SELECTOR Switch
+SX-770,Receiver,S13-030-0,S13-030,Input Selector
+TX-700,Tuner,S13-036,S13-036,SWITCH(FUNCT-FM AUTO/MONO/AM)
+SX-9000,Receiver,S13-038-A,S13-038,Input Selector
+SX-2500,Receiver,S13-039-A,S13-039,INPUT SELECTOR Switch
+TX-1000,Tuner,S13-044,S13-044,SWITCH(FUNCTION-FM/AM/MONO/AUTO
+TX-800,Tuner,S13-044,S13-044,SWITCH(FUNCTION-FM/AM/MONO/AUTO
+SA-1000,Integrated Amplifier,S13-045-0,S13-045,Input selector switch
+SA-800,Integrated Amplifier,S13-045-0,S13-045,SELECTOR Switch
+SA-700,Integrated Amplifier,S14-025-0,S14-025,Slide Switch
+SA-700,Integrated Amplifier,S14-035-0,S14-035,Mode Switch
+SA-800,Integrated Amplifier,S14-035-0,S14-035,MODE Switch
+SA-900,Integrated Amplifier,S14-035-1,S14-035,MODE Selector
+SX-1500TD,Receiver,S14-035-0,S14-035,MODE Switch
+SX-2500,Receiver,S14-035-0,S14-035,MODE SELECTOR Switch
+SX-6000,Receiver,S14-035-0,S14-035,Mode Switch
+SX-828,Receiver,S14-035-0,S14-035,Mode switch
+SX-9000,Receiver,S14-035-0,S14-035,Mode Selector
+SX-990,Receiver,S14-035-O,S14-035,MODE Switch
+SA-1000,Integrated Amplifier,S14-038-0,S14-038,Selector switch (PHONO IMP SELECTOR)
+T-6100,Reel To Reel Tape,S14-401,S14-401,SWITCH(SPEED SELECTOR)
+T-6100,Reel To Reel Tape,S14-402,S14-402,SWITCH(MODE/REC)
+T-8800,Reel To Reel Tape,S14-403,S14-403,SWITCH(CYCLE)
+T-8800,Reel To Reel Tape,S14-404,S14-404,SWITCH(SENSING/BIAS SELECTOR)
+H-R88,8-Track Tape,S14-612,S14-612,WAFER SW(FUNCTION)HR88
+SA-900,Integrated Amplifier,S15-033-A,S15-033,BASS Control Switch (L)
+SA-900,Integrated Amplifier,S15-033-A,S15-033,BASS Control Switch (R)
+SA-1000,Integrated Amplifier,S15-034-A,S15-034,Tone switch (TREBLE)
+SA-1000,Integrated Amplifier,S15-034-A,S15-034,Tone switch (TREBLE)
+SA-900,Integrated Amplifier,S15-034-A,S15-034,TREBLE Control Switch (L)
+SA-900,Integrated Amplifier,S15-034-A,S15-034,TREBLE Control Switch (R)
+SX-9000,Receiver,S15-035-A,S15-035,Selector Switch
+SA-1000,Integrated Amplifier,S15-037-0,S15-037,Tone switch (BASS)
+SA-1000,Integrated Amplifier,S15-037-0,S15-037,Tone switch (BASS)
+T-6600,Reel To Reel Tape,S15-402,S15-402,SWITCH(REC MODE)
+SX-1000TA (Later),Receiver,S16-037-C,S16-037,Selector Switch
+SX-1000TD,Receiver,S16-037-C,S16-037,Input Setector
+SX-1000TW,Receiver,S16-037-C,S16-037,lnput Selector
+SX-1500T,Receiver,S16-037-C,S16-037,Input Selector
+SX-700T,Receiver,S16-037-C,S16-037,Input Selector
+SX-1000TA (Later),Receiver,S16-038,S16-038,Mode Selector Switch
+SX-1000TD,Receiver,S16-038-B,S16-038,Mode/Tape Mon Selector
+SX-1000TW,Receiver,S16-038-B,S16-038,Mode Selector
+SX-1500T,Receiver,S16-038-B,S16-038,Mode Selector
+SX-700T,Receiver,S16-038-B,S16-038,Mode Selector Switch
+SA-500,Integrated Amplifier,S16-038 C,S16-038 C,Mode Selector
+SX-700T,Receiver,S16-041-0,S16-041,Output Selector
+QC-800,Pre-Amplifier,S16-046-A,S16-046,TREBLE switch
+QC-800,Pre-Amplifier,S16-046-A,S16-046,TREBLE switch
+QC-800A,Pre-Amplifier,S16-046-A,S16-046,Treble switch
+QC-800A,Pre-Amplifier,S16-046-A,S16-046,Treble switch
+SA-700,Integrated Amplifier,S16-046-0,S16-046,Tone Control Switch
+SA-800,Integrated Amplifier,S16-046-A,S16-046,TREBLE Switch
+SX-2500,Receiver,S16-046-0,S16-046,BASS CONTROL Switch
+SA-700,Integrated Amplifier,S16-047-0,S16-047,Tone Control Switch
+SX-2500,Receiver,S16-047-0,S16-047,TREBLE CONTROL Swltch
+QC-800,Pre-Amplifier,S16-054-A,S16-054,BASS switch
+QC-800,Pre-Amplifier,S16-054-A,S16-054,BASS switch
+QC-800A,Pre-Amplifier,S16-054-A,S16-054,Bass switch
+QC-800A,Pre-Amplifier,S16-054-A,S16-054,Bass switch
+SA-800,Integrated Amplifier,S16-054-A,S16-054,BASS Switch
+T-8800,Reel To Reel Tape,S16-401,S16-401,SWITCH(MODE)
+TX-700,Tuner,S21-004,S21-004,SWITCH(ILLUMINATION)
+QT-2100,8-Track Tape,S21-404,S21-404,SWITCH(POWER/SHUT-OFF)
+QT-74,Reel To Reel Tape,S21-411-0,S21-411,Microswitch
+T-8800,Reel To Reel Tape,S21-411,S21-411,SWITCH(MOTOR/TENSION)
+T-3300,Cassette Tape,S21-416,S21-416,SWITCH(PAUSE)
+T-3500,Cassette Tape,S21-416,S21-416,SWITCH(PAUSE)
+QT-6100,Reel To Reel Tape,S21-418-0,S21-418,Microswitch
+QT-6600,Reel To Reel Tape,S21-418-0,S21-418,Microswitch
+QT-74,Reel To Reel Tape,S21-418-0,S21-418,Microswitch
+PL-25/F,Turntable,S21-610-0,S21-610,Microswitch
+H-R100,8-Track Tape,S21-625-0,S21-625,Micro Switch (Power)
+H-R99,8-Track Tape,S21-625-0,S21-625,Switch (Power)
+QT-6100,Reel To Reel Tape,S21-851-0,S21-851,Shuboff swltch
+QT-6100,Reel To Reel Tape,S21-851-0,S21-851,Shut-0ff switch
+QT-6600,Reel To Reel Tape,S21-851-0,S21-851,Shut-0ff switch
+QT-6600,Reel To Reel Tape,S21-851-0,S21-851,Shut-0ff switch
+QT-74,Reel To Reel Tape,S21-851-0,S21-851,Microswitch
+T-6100,Reel To Reel Tape,S21-851,S21-851,SWITCH(SHUT-OFF/MOTOR)
+SX-9000,Receiver,S31-016-A,S31-016,Demi Switch (W26-002)
+SA-500,Integrated Amplifier,S31-018-O,S31-018,Push switch
+SA-500,Integrated Amplifier,S31-018-O,S31-018,Speakers switch
+SA-700,Integrated Amplifier,S31-018-0,S31-018,Push Switch
+SX-770,Receiver,S31-022-0,S31-022,AFC Switch (Push type)
+SX-770,Receiver,S31-022-0,S31-022,High Cut Filter Switch (Push type)
+SX-770,Receiver,S31-022-0,S31-022,Loudness Swnch (Push type)
+SX-770,Receiver,S31-022-0,S31-022,Mode Switch (Push type)
+SX-770,Receiver,S31-022-0,S31-022,Muting Switch (Push type)
+SX-770,Receiver,S31-022-0,S31-022,TAPE Montor Switch (Push type)
+TX-700,Tuner,S31-022,S31-022,SWITCH(MUTING/NOISE FILTER)
+SX-1500TD,Receiver,S31-023-0,S31-023,FM MUTlNG Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,HIGH CUT RLTER Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,LOUDNESS Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,LOW CUT FlLTER Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,TAPE MONITOR Switch
+QX-747,Receiver,S31-028-0,S31-028,Push switch (level indicator sensitivity)
+QX-8000,Receiver,S31-028-0,S31-028,Mini switch (SPEAKER)
+QX-8000A,Receiver,S31-028,S31-028,SWITCH(SPEAKER)
+QX-8000A,Receiver,S31-028-0,S31-028,Mini switch (SPEAKERS)
+SX-9000,Receiver,S31-029,S31-029,Demi Switch (W26-001)
+SX-9000,Receiver,S31-030,S31-030,Demi swltch (W26-003)
+T-3300,Cassette Tape,S31-406,S31-406,SWITCH(POWER)
+T-3500,Cassette Tape,S31-406,S31-406,SWITCH(POWER)
+H-R9000,8-Track Tape,S31-614-A,S31-614,Push Switch
+H-R99,8-Track Tape,S31-614-A,S31-614,Push Switch (F. F.)
+QT-6100,Reel To Reel Tape,S31-851-0,S31-851,Power switch
+QT-6600,Reel To Reel Tape,S31-851-0,S31-851,Power switch
+T-6100,Reel To Reel Tape,S31-851,S31-851,SWITCH(POWER/SHUT-OFF)
+T-6600,Reel To Reel Tape,S31-851,S31-851,SWITCH(POWER/SHUT-OFF)
+T-6600,Reel To Reel Tape,S32-401,S32-401,SWITCH(PRESET)
+PL-25/F,Turntable,S41 -609-A,S41 -609,Slide switch
+QX-4000,Receiver,S41-022-A,S41-022,De-emphasis switch FW model
+QX-646,Receiver,S41-022-A,S41-022,De-emphasis switch (FW model only)
+QX-8000A,Receiver,S41-022-A,S41-022,De-emphasis switch (FW)
+SA-600,Integrated Amplifier,S41-022-A,S41-022,Slide switch (Pre & Main)
+SX-1000TA (Later),Receiver,S41-022-A,S41-022,Slide Switch
+SX-1500TD,Receiver,S41-022-A,S41-022,PRE & MAIN Switch
+SX-6000,Receiver,S41-022-A,S41-022,Pre & Main Switch
+SX-828,Receiver,S41-022-A,S41-022,De-emphasis switch
+TX-6200,Tuner,S41-022-A,S41-022,Slide switch (De-emphasis) F model only
+TX-7100,Tuner,S41-022-A,S41-022,De-emphasis (slide type - FW model)
+TX-8100,Tuner,S41-022-A,S41-022,De-emphasis (slide type - FW model)
+QX-8000,Receiver,S41-025-0,S41-025,PRE & MAIN Switch
+QX-8000A,Receiver,S41-025-0,S41-025,Slide switch (MAIN/PRE)
+QX-9900,Receiver,S41-025-0,S41-025,Pre & main switch
+SA-1000,Integrated Amplifier,S41-025-0,S41-025,Slide switch (PRE/MAIN)
+SA-800,Integrated Amplifier,S41-025-0,S41-025,PRE & MAIN Switch
+SA-900,Integrated Amplifier,S41-025-0,S41-025,SLIDE Switch
+SA-900,Integrated Amplifier,S41-025-0,S41-025,SLlDE Switch
+SX-2500,Receiver,S41-025-0,S41-025,PRE & MAIN Switch
+T-8800,Reel To Reel Tape,S41-407,S41-407,SWITCH(LINE OUT)
+T-8800,Reel To Reel Tape,S41-409,S41-409,SWITCH(RECORD/PLAY)
+T-3500,Cassette Tape,S41-410,S41-410,SWITCH(REC/PLAY)
+PL-A25,Turntable,S41-605-0,S41-605,Slide switch
+PL-50,Turntable,S41-609-A,S41-609,Slide switch
+QT-6100,Reel To Reel Tape,S41-852-A,S41-852,Slide switch (FOR-REV SELECTOR SWITCH)
+QT-6100,Reel To Reel Tape,S41-852-A,S41-852,Slide switch (REC-PB SELECTOR SWITCH)
+QT-74,Reel To Reel Tape,S41-852-A,S41-852,Slide switch (FWD/REW)
+QT-74,Reel To Reel Tape,S41-852-A,S41-852,Slide switch (REC/PB)
+QT-74,Reel To Reel Tape,S41-854-0,S41-854,Slide switch
+QT-74,Reel To Reel Tape,S41-856-B,S41-856,Slide switch (FWD/REV)
+T-6600,Reel To Reel Tape,S41-856,S41-856,SWITCH(FF/REW)
+SX-1000TA (Later),Receiver,S42-001,S42-001,"Toggle Switches (SPEAKER, FILTER LOW, FILTER HIGH, MUTING, AFC, LOUDNESS, PHONO)"
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (AFC)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (HIGH RLTER)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (LOUDNESS)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (LOW RLTER)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (MUTING)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (PHONO)
+SX-1000TW,Receiver,S42-001-C,S42-001,"Toggle Switch (LOUDNESS, LOW FILTER, HIGH FILTER, MUTING, AFC, PHONO)"
+SX-1500T,Receiver,S42-001-C,S42-001,"Toggle Switch (LOUDNESS, Low Filter, High Filter, Muting, AFC, PHONO)"
+SX-700T,Receiver,S42-001-C,S42-001,Toggle Switch (AFC)
+SX-700T,Receiver,S42-001-C,S42-001,Toggle Switch (HIGH RLTER)
+SX-700T,Receiver,S42-001-C,S42-001,Toggle Switch (LOUDNESS)
+SX-700T,Receiver,S42-001-C,S42-001,Toggle Switch (PHONO)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (LOUDNESS)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (MODE)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (SPEAKER ON/OFF)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (SPEAKER)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (TAPE MONITOR)
+SA-1000,Integrated Amplifier,S42-004-A,S42-004,Lever switch (HIGH FILTER)
+SA-1000,Integrated Amplifier,S42-005-B,S42-005,Lever switch (LOW FILTER)
+SA-900,Integrated Amplifier,S42-006-A,S42-006,MUTING Switch
+SA-900,Integrated Amplifier,S42-006-A,S42-006,TAPE MONITOR Swltch
+QL-600,Integrated Amplifier,S42-011-A,S42-011,2 CH. TAPE MONITOR Switch
+QL-600A,Integrated Amplifier,S42-011-A,S42-011,Lever switch (2 ch. tape mon.)
+SA-600,Integrated Amplifier,S42-011-A,S42-011,Lever switch (Speaker A)
+SA-600,Integrated Amplifier,S42-011-A,S42-011,Lever switch (Speaker B)
+SA-800,Integrated Amplifier,S42-011-A,S42-011,TAPE MONITOR 1 Switch
+SA-800,Integrated Amplifier,S42-011-A,S42-011,TAPE MONITOR 2 Switch
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (High cut filter)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Loudness)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Low cut filter)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Mode)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Tape monitor 1)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Tape monitor 2)
+SA-800,Integrated Amplifier,S42-012-A,S42-012,LOUDNESS Switch
+SA-800,Integrated Amplifier,S42-012-A,S42-012,LOW FILTER
+SA-800,Integrated Amplifier,S42-012-A,S42-012,MUTING Switch
+TX-800,Tuner,S42-012,S42-012,SWITCH(HIGH/LOW FILTER)
+SA-1000,Integrated Amplifier,S42-013-A,S42-013,Lever switch (PHONO 2 SELECTOR)
+SA-1000,Integrated Amplifier,S42-014-0,S42-014,Lever switch (LOUDNESS)
+SA-1000,Integrated Amplifier,S42-014-0,S42-014,Lever switch (MUTING)
+SA-1000,Integrated Amplifier,S42-015-0,S42-015,Lever switch (DUPLICATE)
+SA-800,Integrated Amplifier,S42-016-A,S42-016,HIGH FlLTER
+SA-800,Integrated Amplifier,S42-016-A,S42-016,PHONO 2 SELECTOR
+QT-6100,Reel To Reel Tape,S42-403-A,S42-403,Switch
+QT-6600,Reel To Reel Tape,S42-403-A,S42-403,Switch
+QT-74,Reel To Reel Tape,S42-403-A,S42-403,Switch (Contact point off)
+T-6100,Reel To Reel Tape,S42-403,S42-403,SWITCH(CONTACT PT-OFF/REV CANCE
+T-6600,Reel To Reel Tape,S42-403,S42-403,SWITCH(CONTACT PT-OFF/REV CANCE
+T-8800,Reel To Reel Tape,S42-405,S42-405,SWITCH(MONITOR)
+T-8800,Reel To Reel Tape,S42-406,S42-406,SWITCH(INPUT SELECTOR)
+T-8800,Reel To Reel Tape,S42-407,S42-407,SWITCH(POWER)
+T-8800,Reel To Reel Tape,S43-401,S43-401,SWITCH(FREQ SELECTOR)
+SX-2500,Receiver,S48-002-A,S48-002,Spring Switch
+SX-2500,Receiver,S48-003-A,S48-003,AUTO TUNING REVERSE Switch
+T-8800,Reel To Reel Tape,S48-401,S48-401,SWITCH(MUTING)
+PL-A25,Turntable,S48-623-0,S48-623,Switch (A)
+PL-A25,Turntable,S48-624-0,S48-624,Switch (B)
+PL-50,Turntable,S48-625-B,S48-625,Switch (c)
+PL-A25,Turntable,S48-625-A,S48-625,Switch (C)
+H-R9000,8-Track Tape,S48-645-B,S48-645,Leaf Switch
+QT-6100,Reel To Reel Tape,S48-855-0,S48-855,Spring switch No. 5
+QT-6600,Reel To Reel Tape,S48-855-0,S48-855,Spring switch No. 5
+QT-74,Reel To Reel Tape,S48-855-0,S48-855,Spring switch
+T-6100,Reel To Reel Tape,S48-856,S48-856,SWITCH(MUTING)
+T-6600,Reel To Reel Tape,S48-856,S48-856,SWITCH(MUTING)
+SA-1000,Integrated Amplifier,S61-006-0,S61-006,Relay
+SA-800,Integrated Amplifier,S61-006-0,S61-006,ReIay
+QM-800,Amplifier,S61-007-0,S61-007,Relay
+QM-800A,Amplifier,S61-007-0,S61-007,Relay
+T-8800,Reel To Reel Tape,S61-414,S61-414,RELAY SWITCH
+T-8800,Reel To Reel Tape,S61-416,S61-416,RELAY SWITCH
+T-3300,Cassette Tape,S61-417,S61-417,RELAY
+T-3500,Cassette Tape,S61-417,S61-417,RELAY
+QT-6100,Reel To Reel Tape,S61-853-0,S61-853,Relay (12V)
+QT-6600,Reel To Reel Tape,S61-853,S61-853,SWITCH(FF/REW/RELAY CONTACT/FF)
+A-70,Integrated Amplifier,SEA5V044L,SEA5V044L,Push switch (TAPE COPY)
+A-77X,Integrated Amplifier,SEA5V2B2S,SEA5V2B2S,"Push switch (SP-A,SP-B)"
+SX-50,Receiver,SEA5V2BB3S,SEA5V2BB3S,Push switch (LOUDNESS/MONO)
+A-70,Integrated Amplifier,SEA5V4B3B2S,SEA5V4B3B2S,"Push switch (SUBSONIC, LINE STRAIGHT, RANGE)"
+A-90,Integrated Amplifier,SEA5V4B4S,SEA5V4B4S,"Push switch (LINE, STRAIGHT, SUBSONIC)"
+A-90,Integrated Amplifier,SEA5V4B4S,SEA5V4B4S,SWITCH A90
+SX-50,Receiver,SEA6V441S,SEA6V441S,"Push switch (TAFE1, TAPE2/ADAPTOR, SIMULATED STEREO)"
+A-90,Integrated Amplifier,SEA6V4B4B4L,SEA6V4B4B4L,Push switch (TAPE MONITOR)
+SX-60,Receiver,SEA6V4B4S,SEA6V4B4S,"Push switch (MONO, LOUDNESS)"
+SA-970,Integrated Amplifier,SEA7VB2B4S,SEA7VB2B4S,Push switch (ADAPTOR/TAPE2 LOUDNESS)
+SA-970,Integrated Amplifier,SEA7VB2B4S,SEA7VB2B4S,Push switch (ADAPTOR/TAPE2/LOUDNESS)
+SA-970,Integrated Amplifier,SEA7VB2B4S,SEA7VB2B4S,Variable resistor 1M (BALANCE)
+A-90,Integrated Amplifier,SEA8V222L,SEA8V222L,Push switch (TAPE COPY)
+F-90,Tuner,SEA8V222S,SEA8V222S,Push switch
+SA-1040,Integrated Amplifier,SEA8V2B1B4S,SEA8V2B1B4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2, SUBSONIC)"
+SA-1050,Integrated Amplifier,SEA8V2B1B4S,SEA8V2B1B4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2, SUBSONIC)"
+A-40,Integrated Amplifier,SEA8V2BBB4S,SEA8V2BBB4S,SWITCH(LOUDNESS/ADAPTOR/TAPE 2)
+SA-940,Integrated Amplifier,SEA8V2BBB4S,SEA8V2BBB4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2)"
+SA-950,Integrated Amplifier,SEA8V2BBB4S,SEA8V2BBB4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2)"
+A-66X,Integrated Amplifier,SEA8V440L,SEA8V440L,(TAPE)
+SX-60,Receiver,SEAV1S,SEAV1S,Push switch (SIMULATED STEREO)
+A-66X,Integrated Amplifier,SEAV2S,SEAV2S,"(LOUDNESS, MM-MC)"
+A-66X,Integrated Amplifier,SEAV2S,SEAV2S,(SUBSONIC)
+A-717,Integrated Amplifier,SEAV2S,SEAV2S,SWITCH(RANGE/SUBSONIC/SIMULATED
+A-80,Integrated Amplifier,SEAV2S,SEAV2S,Push switch (RANGE)
+A-88X,Integrated Amplifier,SEAV2S,SEAV2S,Push switch (SUBSONIC)
+A-90,Integrated Amplifier,SEAV2S,SEAV2S,Push swltch (RANGE)
+A-60,Integrated Amplifier,SEAV3S,SEAV3S,Push switch (LINE STRAIGHT)
+A-60,Integrated Amplifier,SEAV3S,SEAV3S,Push switch (LOUDNESS)
+A-66X,Integrated Amplifier,SEAV3S,SEAV3S,(LINE STRAIGHT)
+A-77X,Integrated Amplifier,SEAV3S,SEAV3S,Push switch (LINE STRAIGHT)
+SX-50,Receiver,SEAV3S,SEAV3S,Push switch (SUBSONIC)
+SX-60,Receiver,SEAV3S,SEAV3S,Push switch (SUBSONIC)
+A-40,Integrated Amplifier,SEAV4S,SEAV4S,SWITCH(FUNCTION-AUX#1/#2...ETC.
+A-70,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (MUTlNG)
+A-717,Integrated Amplifier,SEAV4S,SEAV4S,SWITCH(FUNCTION-AUX#1/#2...ETC.
+A-77X,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (MUTING)
+A-77X,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (SUBSONIC)
+A-77X,Integrated Amplifier,SEAV4S,SEAV4S,SWITCH(FUNCTION-AUX#1/#2...ETC.
+A-80,Integrated Amplifier,SEAV4S,SEAV4S,"Push switch (LINE STRAIGHT, SUBSONIC)"
+A-80,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (MUTING)
+A-88X,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (LINE STRAIGHT)
+A-88X,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (MUTING)
+A-90,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (MUTING)
+SA-1040,Integrated Amplifier,SEAV4S,SEAV4S,"Push selector switch (CD/AUX1,2)"
+SA-1050,Integrated Amplifier,SEAV4S,SEAV4S,"Push selector switch (CD/AUX1,2)"
+SA-940,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (AUX 1/2)
+SA-950,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (AUX 1/2)
+SX-727,Receiver,SIB01-01,SIB01-01,Diode
+SX-828,Receiver,SIB01-01,SIB01-01,Diode
+CT-F8282,Cassette Tape,SIB01-01 or W03B,SIB01-01 or W03B,Diode
+M-22,Amplifier,SIB01-04,SIB01-04,Diode
+M-22,Amplifier,SIB01-04,SIB01-04,Diode
+M-22,Amplifier,SIB01-04,SIB01-04,Diode (KL-type only)
+SPEC-1,Pre-Amplifier,SIB01-04,SIB01-04,Diode
+SPEC-1,Pre-Amplifier,SIB01-04,SIB01-04,Diode
+SPEC-2,Amplifier,SIBO1-02,SIBO1-02,Diode
+QX-646,Receiver,SII-016-B,SII-016,POWER switch (FW model)
+CT-F1050,Cassette Tape,SLC-26GG5,SLC-26GG5,Dolby LED
+CT-F1050,Cassette Tape,SLC-26GG5,SLC-26GG5,LED
+SX-650,Receiver,SP-40W,SP-40W,Transistor
+SX-650,Receiver,SP-40W,SP-40W,Transistor
+SX-580/590,Receiver,STK-0029,STK-0029,Hybrid IC
+SX-580/590,Receiver,STK-0029,STK-0029,IC
+SX-580/590,Receiver,STK-0029,STK-0029,IC
+SX-680/690,Receiver,STK-0039,STK-0039,IC
+SX-680/690,Receiver,STK-0039,STK-0039,IC
+SX-780,Receiver,STK-0050/A,STK-0050/A,Hybrid lC
+A-7,Integrated Amplifier,STV2H-0,STV2H,Varistor
+SX-939,Receiver,STV4H,STV4H,Varistor
+TX-111Z,Tuner,SUJ8L2BBB4LF,SUJ8L2BBB4LF,SWITCH(FUNCTION-MW/LW/FM)
+SX-202,Receiver,SUJSLYXSF,SUJSLYXSF,Push switch (SPEAKERS)
+A-90,Integrated Amplifier,SUL5L4B4B4B4LFC,SUL5L4B4B4B4LFC,Push switch (FUNCTION)
+A-90,Integrated Amplifier,SUL5L4B4B4B4LFC,SUL5L4B4B4B4LFC,"Push switch (PHONO, TUNER, CD/AUX 1, AUX 2)"
+A-70,Integrated Amplifier,SUL5L4B4B4LFC,SUL5L4B4B4LFC,"Push switch (PHONO, TUNER, AUX)"
+A-70,Integrated Amplifier,SUL5LYBYSFC,SUL5LYBYSFC,Push switch (SPEAKERS)
+A-80,Integrated Amplifier,SUL6L4B4B4B4LFC,SUL6L4B4B4B4LFC,Push switch (FUNCTION)
+GR-551,Equalizer,SUL6L6B6S,SUL6L6B6S,"Push switch (EQUALIZER, TAPE MONITOR)"
+GR-555,Equalizer,SUL6L6B6S,SUL6L6B6S,"Push switch (EQUALIZER, TAPE MONITOR)"
+A-40,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,"SWITCH(SPEAKER ""A""/""B"")"
+SA-1040,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+SA-1050,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+SA-940,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+SA-950,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+M-91,Amplifier,SUL8LXXXS,SUL8LXXXS,SWITCH(SPKR A&B)
+SX-50,Receiver,SUL8LYZSF,SUL8LYZSF,Push switch (SPEAKERS)
+SX-60,Receiver,SUL8LZYSF,SUL8LZYSF,"Push switch (SPEAKERS A, B)"
+SA-970,Integrated Amplifier,SUL8MYXSC,SUL8MYXSC,Switch (SPEAKERS)
+GR-551,Equalizer,SULLYS,SULLYS,Push switch (POWER)
+GR-555,Equalizer,SULLYS,SULLYS,Push switch (POWER)
+SG-90,Equalizer,SUN6L4444LF,SUN6L4444LF,Push switch (LINE OUT SELECTOR)
+SG-90,Equalizer,SUN6L54SF,SUN6L54SF,"Push switch (EQ CHARACTER, EQ LEVEL)"
+SG-90,Equalizer,SUN6L66SF,SUN6L66SF,Push switch (EQUALIZER)
+RG-60,Dynamic Range Expander,SUN6LB4BS,SUN6LB4BS,Push switch (TAPE MONITOR)
+A-60,Integrated Amplifier,SUN6MXBXSFC,SUN6MXBXSFC,Push switch (SPEAKERS)
+RG-60,Dynamic Range Expander,SUNLYS,SUNLYS,"Push switch (POWER) - S,S/G"
+SR-60,Reverb,SUNLYSF,SUNLYSF,SWITCH(POWER)SR60
+SX-650,Receiver,T22-022,T22-022,Ferrite Balun
+QX-4000,Receiver,T22-025-A,T22-025,Balun
+QX-646,Receiver,T22-025-A,T22-025,Balun
+QX-747,Receiver,T22-025-A,T22-025,Balun
+QX-747A,Receiver,T22-025,T22-025,Ferrite balun
+QX-949,Receiver,T22-025-A,T22-025,Balun
+QX-949A,Receiver,T22-025,T22-025,Ferrite balun
+QX-9900,Receiver,T22-025-A,T22-025,Balun
+SX-1050,Receiver,T22-025,T22-025,Ferrite balun (S)
+SX-1080,Receiver,T22-025,T22-025,Balun transformer
+SX-1250,Receiver,T22-025,T22-025,Ferrite balun
+SX-1280,Receiver,T22-025,T22-025,Balun
+SX-1980,Receiver,T22-025,T22-025,Balun
+SX-434,Receiver,T22-025-A,T22-025,Balun
+SX-535,Receiver,T22-025-A,T22-025,Balun
+SX-626 (1971),Receiver,T22-025-A,T22-025,Balun transformer
+SX-636,Receiver,T22-025-A,T22-025,Balun
+SX-727,Receiver,T22-025-A,T22-025,Balun transformer
+SX-737,Receiver,T22-025-A,T22-025,Balun
+SX-750,Receiver,T22-025,T22-025,Ferrite balun
+SX-828,Receiver,T22-025-A,T22-025,Balun transformer
+SX-850,Receiver,T22-025,T22-025,Ferrite balun
+SX-939,Receiver,T22-025-A,T22-025,Balun
+SX-950,Receiver,T22-025,T22-025,Ferrite balun
+SX-950,Receiver,T22-025,T22-025,Ferrite balun
+SX-980,Receiver,T22-025,T22-025,Balun
+TX-6200,Tuner,T22-025-A,T22-025,Balun
+TX-7100,Tuner,T22-025-A,T22-025,Balun
+TX-8100,Tuner,T22-025-A,T22-025,Balun
+TX-8500II,Tuner,T22-025,T22-025,Ferrite balun (T3)
+TX-9100,Tuner,T22-025-B,T22-025,Balun
+TX-9500,Tuner,T22-025-A,T22-025,Ferrite balun
+TX-9500II,Tuner,T22-025,T22-025,Ferrite balun
+SX-700T,Receiver,T24-025-0,T24-025,Choke Coil
+SX-700T,Receiver,T24-025-0,T24-025,Choke Coil
+SX-828,Receiver,T24-025-B,T24-025,Heater choke coil
+SX-9000,Receiver,T24-025-B,T24-025,Choke Coil
+SX-1500TD,Receiver,T24-026-0,T24-026,Heater Choke Coil
+SX-2500,Receiver,T24-026-0,T24-026,Heater Choke Coil
+SX-6000,Receiver,T24-026-0,T24-026,Choke Coil
+SX-990,Receiver,T24-026-O,T24-026,Heater Choke Coil
+QX-747,Receiver,T24-028-A,T24-028,RF choke coil
+QX-949,Receiver,T24-028-A,T24-028,RF choke coil
+SX-1980,Receiver,T24-028,T24-028,RF choke coil
+TX-6200,Tuner,T24-028-A,T24-028,RF choke coil
+TX-7100,Tuner,T24-028-A,T24-028,RF choke Coil
+TX-8100,Tuner,T24-028-A,T24-028,RF choke coil
+QX-4000,Receiver,T24-030-0,T24-030,Choke coil
+QX-646,Receiver,T24-030-0,T24-030,Choke coil
+QX-8000,Receiver,T24-030-0,T24-030,Choke Coil
+QX-8000A,Receiver,T24-030-0,T24-030,Choke coil
+QX-9900,Receiver,T24-030-0,T24-030,Choke coil
+SX-1080,Receiver,T24-030,T24-030,Ferry inductor
+SX-1280,Receiver,T24-030,T24-030,Choke coil
+SX-1500T,Receiver,T24-030-0,T24-030,Choke coil (100uH)
+SX-1500TD,Receiver,T24-030-0,T24-030,Choke Coil
+SX-2500,Receiver,T24-030-0,T24-030,Choke Coil
+SX-424,Receiver,T24-030-0,T24-030,Choke coil
+SX-450,Receiver,T24-030,T24-030,Ferry inductor
+SX-525,Receiver,T24-030-0,T24-030,Choke coil
+SX-550,Receiver,T24-030,T24-030,RF chokecoil 101k (HG)
+SX-6000,Receiver,T24-030-0,T24-030,Choke Coil 100uH
+SX-650,Receiver,T24-030,T24-030,RF choke coil
+SX-727,Receiver,T24-030-0,T24-030,Choke coil
+SX-750,Receiver,T24-030,T24-030,Choke coil
+SX-770,Receiver,T24-030-0,T24-030,Choke Coil
+SX-780,Receiver,T24-030,T24-030,Choke coil
+SX-828,Receiver,T24-030-0,T24-030,Choke coil
+SX-880/890,Receiver,T24-030,T24-030,Choke coil 100uH
+SX-9000,Receiver,T24-030-0,T24-030,Choke Coil
+SX-980,Receiver,T24-030,T24-030,Ferry inductor
+SX-990,Receiver,T24-030-O,T24-030,Choke Coil
+TX-8500II,Tuner,T24-030,T24-030,RF choke coil (L1)
+TX-9500II,Tuner,T24-030,T24-030,RF choke coil
+SX-626 (1971),Receiver,T24-0300,T24-0300,Choke coil
+SX-1000TA (Later),Receiver,T42-014,T42-014,AM Ferrite Loopstick antenna coil
+SX-1000TD,Receiver,T42-014-A,T42-014,AM Ferrite loopstick Antenna coil
+SX-1000TW,Receiver,T42-014-A,T42-014,AM Ferrite loopstick Antenna coil
+SX-1500T,Receiver,T42-014-A,T42-014,AM Ferrite loopstick Antenna coil
+SX-700T,Receiver,T42-014-0,T42-014,AM Ferite Loopstick Antenna Coil
+QX-8000,Receiver,T42-022-C,T42-022,Ferrite Loopstick Antenna
+QX-8000A,Receiver,T42-022-C,T42-022,"Ferrite loopstick antenna (FW,FSAW)"
+SX-440,Receiver,T42-022-B,T42-022,AM Ferrite Loopstick Antenna
+SX-525,Receiver,T42-022-C,T42-022,"Ferrite loopstick antenna (KCW,FVZW,NBW)"
+TX-500,Tuner,T42-022,T42-022,BAR ANTENNA
+TX-600,Tuner,T42-022,T42-022,BAR ANTENNA
+SX-1500TD,Receiver,T42-024-A,T42-024,AM Ferrite Loopstick Antenna
+SX-2500,Receiver,T42-024,T42-024,AM Ferrite Loopstick Antanna
+SX-6000,Receiver,T42-024-A,T42-024,AM Ferrite Loopstick Antenna
+SX-828,Receiver,T42-024-A,T42-024,AM ferrite loopstick antenna (FVZW)
+SX-828,Receiver,T42-024-A,T42-024,AM ferrite loopstick antenna (FW)
+SX-9000,Receiver,T42-024-A,T42-024,AM-Ferrile Loopstick Antenna
+SX-990,Receiver,T42-024-A,T42-024,AM Fernte Loopstick Antenna
+TX-900,Tuner,T42-024,T42-024,COIL
+QX-9900,Receiver,T42-025,T42-025,BAR ANTENNA COIL
+QX-9900,Receiver,T42-025-0,T42-025,AM ferrite loopstick antenna
+SX-1000TD,Receiver,T42-025-A,T42-025,Heater choke CON
+SX-1000TD,Receiver,T42-025-A,T42-025,Heater choke CON
+SX-1000TW,Receiver,T42-025-A,T42-025,Heater chock coil
+SX-1000TW,Receiver,T42-025-A,T42-025,Heater chock coil
+SX-1500T,Receiver,T42-025-A,T42-025,Heater choke coil
+SX-1500T,Receiver,T42-025-A,T42-025,Heater choke coil
+SX-626 (1971),Receiver,T42-025-0,T42-025,Ferrite loopstick antenna
+SX-727,Receiver,T42-025-0,T42-025,"Ferrite loopstick antenna (FVZW,FW)"
+SX-770,Receiver,T42-025-0,T42-025,AM Ferrite Loopstick Antenna
+TX-800,Tuner,T42-025,T42-025,BAR ANTENNA COIL
+SX-1000TA (Later),Receiver,T52-063,T52-063,Power transformer
+SX-700T,Receiver,T52-109-C,T52-109,Power Transformer
+SX-1500T,Receiver,T52-114-0,T52-114,Power transformer
+SX-1500T,Receiver,T52-115-0,T52-115,Power transformer (F)
+SX-1000TD,Receiver,T52-131-A,T52-131,Power transformer
+SX-1000TW,Receiver,T52-131-A,T52-131,Power transformer
+SR-202W,Reverb,T52-135-0,T52-135,Power Transformer
+SA-500,Integrated Amplifier,T52-141-O,T52-141,Power Transformer (FV)
+SA-900,Integrated Amplifier,T52-148-B,T52-148,Power Transformer
+TX-900,Tuner,T52-149,T52-149,PWR XFMR TX-900/K
+SA-700,Integrated Amplifier,T52-150-C,T52-150,Power Transformer
+TX-500,Tuner,T52-152,T52-152,PWR XFMR TX-500/F
+SX-440,Receiver,T52-157-0,T52-157,Power Transformer
+SX-990,Receiver,T52-158-O,T52-158,Power Transformer
+SX-770,Receiver,T52-160-C,T52-160,POWER Transformer
+TX-700,Tuner,T52-174,T52-174,PWR XFMR TX-700/F
+SX-1500TD,Receiver,T52-176-0,T52-176,Power Transformer
+SX-6000,Receiver,T52-176-A,T52-176,Power Transformer
+SX-9000,Receiver,T52-182-0,T52-182,Power Transformer
+SX-2500,Receiver,T52-186-B,T52-186,Power Transformer
+TX-1000,Tuner,T52-209,T52-209,PWR XFMR TX-1000/K
+SA-1000,Integrated Amplifier,T52-211-C,T52-211,Power transformer (KUW model)
+PL-A25,Turntable,T52-619-0,T52-619,Transformer
+SX-440,Receiver,T61-041-0,T61-041,Matching Transformer
+SX-440,Receiver,T61-041-0,T61-041,Matching Transformer
+SX-990,Receiver,T61-041-B,T61-041,Matching Transformer
+CT-F1250,Cassette Tape,TLG 206,TLG 206,Diode
+CT-F6262,Cassette Tape,TLG-113,TLG-113,Light emitting diode (green)
+DT-32,Timer,TLG205,TLG205,LED CTF650
+CT-F6262,Cassette Tape,TLR-113P,TLR-113P,Light emitting diode (red)
+SX-6,Receiver,VBZ30P060FMC,VBZ30P060FMC,Screw (3X6)
+SX-6,Receiver,VBZ30P060FMC,VBZ30P060FMC,Screw (3X6)
+PL-100/100X,Turntable,VBZ30P080FMC,VBZ30P080FMC,Screw
+PL-100/100X,Turntable,VBZ30P100FMC,VBZ30P100FMC,Screw
+A-66X,Integrated Amplifier,VMZ30P060FMC,VMZ30P060FMC,Screw (3 x 6)
+SX-6,Receiver,VMZ30P060FMC,VMZ30P060FMC,Screw (3X6)
+A-66X,Integrated Amplifier,VTZ40P080FMC,VTZ40P080FMC,Screw (4 x 8)
+SX-6,Receiver,VTZ40P100FMC,VTZ40P100FMC,Screw (4X 10)
+CT-F1250,Cassette Tape,W035,W035,Diode
+CT-F1050,Cassette Tape,W03B,W03B,Diode
+CT-F950,Cassette Tape,W03B,W03B,Diode
+RT-1011L,Reel To Reel Tape,W063,W063,Diode
+RT-1020L,Reel To Reel Tape,W06B,W06B,Diode
+RT-1020L,Reel To Reel Tape,W06B,W06B,Diode
+RT-1020L,Reel To Reel Tape,W06B,W06B,Diode
+RT-701,Reel To Reel Tape,W06B,W06B,Diode
+RT-701,Reel To Reel Tape,W06B,W06B,Diode
+RT-707,Reel To Reel Tape,W06B,W06B,Diode
+RT-707,Reel To Reel Tape,W06B,W06B,Diode
+SX-1000TA (Later),Receiver,W11-013-B,W11-013,FM Frontend
+SX-700T,Receiver,W11-021-A,W11-021,FM Front end
+SX-1000TD,Receiver,W11-028-0,W11-028,FM Front end
+SX-1000TW,Receiver,W11-028-0,W11-028,FM Front end
+SX-1500T,Receiver,W11-028-0,W11-028,FM Front end
+SX-1500TD,Receiver,W11-028-C,W11-028,FM Front End
+SX-6000,Receiver,W11-028-E,W11-028,FM Front end
+SX-9000,Receiver,W11-028-0,W11-028,FM Front-end Unit
+SX-990,Receiver,W11-028-C,W11-028,FM FRONT END
+SX-770,Receiver,W11-035-0,W11-035,FM FRONT END
+SX-2500,Receiver,W11-041-0,W11-041,FM Front end
+SX-828,Receiver,W11-043-A,W11-043,FM front end (FW)
+SX-828,Receiver,W11-043-A,W11-043,FM front end (KUW)
+QX-9900,Receiver,W11-045-0,W11-045,FM front end
+SX-727,Receiver,W11-045-0,W11-045,"FM front end (KUW, FW)"
+SX-1000TA (Later),Receiver,W12-006-D,W12-006,FM IF unit
+SX-700T,Receiver,W12-009-C,W12-009,FM IF Unit
+SX-1000TD,Receiver,W12-020-0,W12-020,FM IF unit
+SX-1000TW,Receiver,W12-020-0,W12-020,FM IF unit
+SX-1500T,Receiver,W12-020-0,W12-020,FM IF unit
+SX-1500TD,Receiver,W12-025-A,W12-025,FM lF Unit
+SX-990,Receiver,W12-025-A,W12-025,FM IF Unit
+SX-9000,Receiver,W12-028-0,W12-028,FM IF Unit
+SX-2500,Receiver,W12-030-0,W12-030,FM IF Unit
+SX-1500TD,Receiver,W12-032,W12-032,FM IF UNIT
+SX-6000,Receiver,W12-032-A,W12-032,FM IF Unit
+SX-1000TA (Later),Receiver,W13-019-0,W13-019,MPX Unit
+SX-1000TD,Receiver,W13-021-C,W13-021,MPX unit
+SX-1000TW,Receiver,W13-021-F,W13-021,MPX unit
+SX-1500T,Receiver,W13-021-D,W13-021,MPX unit
+SX-700T,Receiver,W13-021-D,W13-021,MPX Unit
+SX-1500TD,Receiver,W13-024-A,W13-024,FM MPX Unit
+SX-770,Receiver,W13-024-D,W13-024,MPX Unit
+SX-990,Receiver,W13-024-0,W13-024,MPX Unit
+SX-1500TD,Receiver,W13-026,W13-026,MPX UNIT
+SX-2500,Receiver,W13-026-0,W13-026,MPX Unit
+SX-6000,Receiver,W13-026-C,W13-026,MPX Unit
+SX-770,Receiver,W13-026-B,W13-026,MPX Unit (Later)
+SX-9000,Receiver,W13-026-0,W13-026,FM MPX Unit
+SX-1000TA (Later),Receiver,W14-004-C,W14-004,AM Unit
+SX-1000TD,Receiver,W14-004-0,W14-004,AM Tuner unit
+SX-1000TW,Receiver,W14-004-0,W14-004,AM Tuner unit
+SX-1500T,Receiver,W14-004-C,W14-004,AM Tuner unit
+SX-700T,Receiver,W14-004-C,W14-004,AM Unit
+SX-1500TD,Receiver,W14-008-0,W14-008,AM Tuner Unit
+SX-990,Receiver,W14-008-0,W14-008,AM TUNER Unit
+SX-6000,Receiver,W14-015-A,W14-015,AM Tuner Unit
+SX-9000,Receiver,W14-015-0,W14-015,AM Tuner Unit
+SX-2500,Receiver,W14-016-0,W14-016,AM Unit
+SA-500,Integrated Amplifier,W15-004-O,W15-004,MAIN AMP Unit (NB)
+SX-1000TA (Later),Receiver,W15-005-D,W15-005,Pre amp Unit
+SX-1000TD,Receiver,W15-005-D,W15-005,Head amp unit
+SX-700T,Receiver,W15-005-D,W15-005,Pre Amp Unit
+SX-1000TA (Later),Receiver,W15-006-D,W15-006,Control amp Unit
+SX-1000TA (Later),Receiver,W15-007-D,W15-007,Main amp Unit
+SX-700T,Receiver,W15-009-E,W15-009,Main Amp Unit
+SX-1000TA (Later),Receiver,W15-010-0,W15-010,P.T.F Unit
+SX-1000TD,Receiver,W15-027-A,W15-027,Main amp unit
+QA-800,Integrated Amplifier,W15-032-0,W15-032,Head amp unit
+QA-800A,Integrated Amplifier,W15-032-C,W15-032,Head amp unit
+SA-500,Integrated Amplifier,W15-032-O,W15-032,HEAD AMP unit
+SA-500A,Integrated Amplifier,W15-032-C,W15-032,Head Amp Unit
+SA-600,Integrated Amplifier,W15-032-B,W15-032,Head amp unit
+SX-770,Receiver,W15-032-B,W15-032,HEAD AMP Unit
+SA-500,Integrated Amplifier,W15-033-O,W15-033,CONTROL AMP Unit
+SX-770,Receiver,W15-033-0,W15-033,CONTROL AMP Unit
+SR-202W,Reverb,W15-045-A,W15-045,Drive Amp Unit
+SX-1000TD,Receiver,W15-047-B,W15-047,Control amp unit
+SX-700T,Receiver,W15-047-B,W15-047,Control Amp Unit
+SA-700,Integrated Amplifier,W15-049-0,W15-049,Head Amp Unit
+SX-990,Receiver,W15-049-A,W15-049,HEAD Amp um
+SA-1000,Integrated Amplifier,W15-050-C,W15-050,Control amplifier unit
+SA-700,Integrated Amplifier,W15-050-A,W15-050,Control Amp Unit
+SA-800,Integrated Amplifier,W15-050-C,W15-050,Control amp unit
+SA-900,Integrated Amplifier,W15-050-0,W15-050,CONTROL AMP Unit
+SX-2500,Receiver,W15-050-A,W15-050,CONTROL AMP Unit
+SA-900,Integrated Amplifier,W15-052-A,W15-052,MAIN AMP Unit
+SA-500,Integrated Amplifier,W15-055-O,W15-055,MAIN AMP Unit
+SA-900,Integrated Amplifier,W15-056-A,W15-056,HEAD AMP Unit
+SA-900,Integrated Amplifier,W15-058-0,W15-058,MC AMP Unit
+SA-900,Integrated Amplifier,W15-059-0,W15-059,FILTER Unit
+SX-990,Receiver,W15-060-A,W15-060,MAIN Amp Unit
+SA-700,Integrated Amplifier,W15-060C,W15-060C,Main Amp Unit
+SA-700,Integrated Amplifier,W15-068-0,W15-068,MC Amp Unit
+SA-900,Integrated Amplifier,W15-069-0,W15-069,DE-EMPHASIS SWITCH Unit
+SA-700,Integrated Amplifier,W15-070-0,W15-070,Push Switch Unit
+SX-440,Receiver,W15-073-A,W15-073,"AF Unit (KCLW, FVW, FVZW)"
+SA-500,Integrated Amplifier,W15-075-O,W15-075,PUSH SWITCH Unit
+SX-1500TD,Receiver,W15-079-0,W15-079,Control Amp Unit
+SX-6000,Receiver,W15-079-0,W15-079,Control Amp Unit
+SX-990,Receiver,W15-079-0,W15-079,CONTROL Amp Umt
+SX-1500TD,Receiver,W15-080-0,W15-080,Control Unit
+SX-990,Receiver,W15-080-0,W15-080,CONTROL Unit
+SX-1500TD,Receiver,W15-081-0,W15-081,Push Switch Unit
+SX-990,Receiver,W15-081-A,W15-081,PUSH Switch Unit (A)
+SX-1500TD,Receiver,W15-082-A,W15-082,Push Switch Unit
+SX-990,Receiver,W15-082-0,W15-082,PUSH Switch Unit (B)
+SX-770,Receiver,W15-085-0,W15-085,MAIN AMP Unit
+SX-770,Receiver,W15-086-0,W15-086,PUSH SWITCH Unit (A)
+SX-770,Receiver,W15-087-0,W15-087,PUSH SWITCH Unit (B)
+SX-1000TW,Receiver,W15-089-0,W15-089,Head amp unit
+SX-1500T,Receiver,W15-089-0,W15-089,Pre amp unit
+SX-1000TW,Receiver,W15-090-0,W15-090,Control amp umit
+SX-1500T,Receiver,W15-090-0,W15-090,Control amp unit
+SX-1000TW,Receiver,W15-091-0,W15-091,Main amp unit
+SX-1500T,Receiver,W15-091-0,W15-091,Main amp unit
+SX-2500,Receiver,W15-101-0,W15-101,MUTING Unit
+SX-1500TD,Receiver,W15-106-0,W15-106,MIC Amp Unit
+SX-1000TA (Later),Receiver,W16-006-A,W16-006,Power Supply Unit
+SX-700T,Receiver,W16-008-A,W16-008,Power Supply Unlt
+SX-1000TD,Receiver,W16-010-0,W16-010,Power Supply unit
+SX-1000TW,Receiver,W16-010-0,W16-010,Power Supply umt
+SX-1500T,Receiver,W16-010-0,W16-010,Power Supply unit
+SA-900,Integrated Amplifier,W16-017-0,W16-017,POWER SUPPLY Unit
+SA-700,Integrated Amplifier,W16-018-0,W16-018,Power Supply Unit
+SX-440,Receiver,W16-021-0,W16-021,"Power Supply Unit (KCLW, FVW, FVZW)"
+SX-990,Receiver,W16-022-0,W16-022,POWER SUPPLY Unit
+SX-770,Receiver,W16-024-0,W16-024,POWER SUPPLY Unit
+SX-1500TD,Receiver,W16-026-A,W16-026,Power Supply Unit
+SX-6000,Receiver,W16-026-C,W16-026,Power Supply Unit
+SX-2500,Receiver,W16-027-0,W16-027,POWER SUPPLY Unlt
+SX-9000,Receiver,W16-028-0,W16-028,Power Supply Unit
+SX-9000,Receiver,W16-029-0,W16-029,Power Supply Unit
+SA-800,Integrated Amplifier,W16-033-A,W16-033,Power supply unit
+SA-1000,Integrated Amplifier,W16-035-A,W16-035,Power supply unit
+SA-600,Integrated Amplifier,W16-036-0,W16-036,Power supply unit
+SD-1000,Other,W16-037-O,W16-037,Power supply unit
+SX-440,Receiver,W16-063,W16-063,Power Supply Unit (NBW)
+SX-1500TD,Receiver,W18-012-0,W18-012,Indicator Unit
+SX-990,Receiver,W18-012-0,W18-012,INDICATOR Unit
+SX-2500,Receiver,W18-015-0,W18-015,AUTO TUNING Unit
+SX-2500,Receiver,W18-016-0,W18-016,INDICATOR Unit
+SX-1500TD,Receiver,W18-026-0,W18-026,Muting Unit
+SX-6000,Receiver,W18-026-B,W18-026,Muting Unit
+SX-770,Receiver,W18-026-0,W18-026,MUTING Unit
+SX-990,Receiver,W18-026-C,W18-026,MUTING Unit
+SX-9000,Receiver,W18-028-B,W18-028,Muting Unit
+SX-2500,Receiver,W18-029-0,W18-029,PROTECTOR Unit (FVW)
+SD-1000,Other,W18-037-O,W18-037,V & H amplifier unit
+SD-1000,Other,W18-038-A,W18-038,Meter & Mic amplifier unit
+SD-1000,Other,W18-039-0,W18-039,Audio sweep unit
+SD-1000,Other,W18-040-O,W18-040,Switch unit
+SD-1100,Other,W18-040-0,W18-040,Switch unit
+QT-6100,Reel To Reel Tape,W18-442-0,W18-442,REC switch unit
+SX-1500TD,Receiver,W21-001-0,W21-001,Head Amp Unit
+QX-9900,Receiver,W21-002-B,W21-002,Head amp unit
+SX-2500,Receiver,W21-002-0,W21-002,HEAD AMP Unit
+SX-727,Receiver,W21-002-A,W21-002,Head amp unit
+SX-828,Receiver,W21-002-A,W21-002,Head amp unit
+SX-9000,Receiver,W21-002-0,W21-002,Head Amp Unit
+QX-9900,Receiver,W21-003-A,W21-003,Mic amp unit
+SX-9000,Receiver,W21-003-A,W21-003,MIC Amp Unit
+SX-6000,Receiver,W21-004-0,W21-004,Head Amp Unit
+SX-626 (1971),Receiver,W21-004-B,W21-004,Head amp unit
+SX-626 (1973),Receiver,W21-004-B,W21-004,Equalizer amplifier assembly
+SA-1000,Integrated Amplifier,W21-007-0,W21-007,Head amplifier unit
+SA-800,Integrated Amplifier,W21-007-A,W21-007,Head amp unit
+SX-2500,Receiver,W21-371-C,W21-371,Front Panel Ass'y
+SX-9000,Receiver,W22-002-0,W22-002,Control Amp Unit
+SA-600,Integrated Amplifier,W22-007-B,W22-007,Control amp unit
+SX-1500TD,Receiver,W23-002-0,W23-002,Main Amp Unit
+SX-6000,Receiver,W23-002-0,W23-002,Main Amp Unit
+SX-2500,Receiver,W23-004-C,W23-004,MAIN AMP Unit
+QX-8000,Receiver,W23-007-0,W23-007,Main Amp Unit
+QX-8000A,Receiver,W23-007-0,W23-007,Main amp unit
+SA-600,Integrated Amplifier,W23-007-A,W23-007,Main amp unit
+SA-1000,Integrated Amplifier,W23-008-0,W23-008,Main amplifier unit
+QM-800,Amplifier,W23-009-A,W23-009,Main amp unit
+SA-800,Integrated Amplifier,W23-009-A,W23-009,Main amp unit
+SX-9000,Receiver,W23-010-0,W23-010,Main Amp Unit
+SX-9000,Receiver,W26-001-A,W26-001,Demi Switch Unit
+SX-9000,Receiver,W26-002-A,W26-002,Derni Switch Unit
+SX-9000,Receiver,W26-003-0,W26-003,Push Switch Unit
+SX-2500,Receiver,W26-004-A,W26-004,SWITCH Unit
+SX-2500,Receiver,W26-005-0,W26-005,SWITCH Unit
+SX-2500,Receiver,W26-006-0,W26-006,SWITCH Unlt
+SX-2500,Receiver,W26-007-0,W26-007,SWITCH Unit
+SX-9000,Receiver,W28-001-0,W28-001,Tone Color Unit
+SX-9000,Receiver,W28-002-0,W28-002,Reverb Amp Unit
+SA-1000,Integrated Amplifier,W28-004-0,W28-004,Filter unit
+SA-800,Integrated Amplifier,W28-006-A,W28-006,Filter unit
+SA-800,Integrated Amplifier,W28-007-A,W28-007,Protector unit
+SA-1000,Integrated Amplifier,W28-008-A,W28-008,Protector unit
+SX-828,Receiver,W28-008-A,W28-008,Protection unit
+SX-440,Receiver,W35-007-0,W35-007,Tuner Unit (F-W)
+SX-770,Receiver,W35-012-B,W35-012,TUNER Unit
+SX-440,Receiver,W35-022,W35-022,Tuner Unit (NBW)
+SX-440,Receiver,W35-027,W35-027,"Tuner unit (KCLW, FVW)"
+SR-202W,Reverb,W36-004-0,W36-004,A.F. Amp-unit
+SX-440,Receiver,W36-011,W36-011,AF Unit (NBW)
+SR-202W,Reverb,W38-001-0,W38-001,Reverb Unit
+SX-9000,Receiver,W38-004-0,W38-004,Reverberation Unit
+SX-2500,Receiver,W42-009-B,W42-009,Dial Pulley
+QL-600,Integrated Amplifier,W52-004-0,W52-004,Compound Part for Rec Terminal
+QL-600A,Integrated Amplifier,W52-004-0,W52-004,Compound part for REC terminal
+QX-4000,Receiver,W52-004-0,W52-004,Compound part for REC jack
+QX-646,Receiver,W52-004-0,W52-004,Compound part (for REC terminal)
+QX-9900,Receiver,W52-004-0,W52-004,Compound part for REC jack
+SA-1000,Integrated Amplifier,W52-004-0,W52-004,Compound part for REC
+SA-500A,Integrated Amplifier,W52-004-O,W52-004,Compound Part for Rec Terminal
+SA-600,Integrated Amplifier,W52-004-O,W52-004,Compound part for REC terminal
+SA-800,Integrated Amplifier,W52-004-0,W52-004,Compound part for REC terminal
+SX-1000TD,Receiver,W52-004-0,W52-004,TAPE REC terminal
+SX-1000TW,Receiver,W52-004-0,W52-004,TAPE REC terminal
+SX-1500T,Receiver,W52-004-0,W52-004,TAPE REC Terminal
+SX-2500,Receiver,W52-004-O,W52-004,Compound Part for REC Terminal
+SX-424,Receiver,W52-004-0,W52-004,Compound part for REC jack
+SX-434,Receiver,W52-004-A,W52-004,Compound part for REC terminal
+SX-525,Receiver,W52-004-0,W52-004,Compound part for REC Jack
+SX-6000,Receiver,W52-004-0,W52-004,Conpound Part for REC Terminal
+SX-626 (1971),Receiver,W52-004-0,W52-004,Compound part for REC jack
+SX-727,Receiver,W52-004-0,W52-004,Compound part for REC terminal
+SX-828,Receiver,W52-004-0,W52-004,Compound part for REC jack
+SX-9000,Receiver,W52-004-0,W52-004,TAPE REC Terminal
+QT-6100,Reel To Reel Tape,W53-045-0,W53-045,Spark killer
+QT-6100,Reel To Reel Tape,W53-045-0,W53-045,Spark killer
+QT-6600,Reel To Reel Tape,W53-045-0,W53-045,Spark killer
+QT-6600,Reel To Reel Tape,W53-045-0,W53-045,Spark killer
+PL-12DII,Turntable,W71-004-0,W71-004,Center shaft assembly
+PL-12E,Turntable,W71-004-C,W71-004,Center shaft assembly
+PL-A35,Turntable,W71-004-B,W71-004,CENTER SHAFT BEARING ASSEMBLY
+PL-A45,Turntable,W71-004-B,W71-004,CENTER SHAFT BEARING ASSEMBLY
+PL-A45D,Turntable,W71-004-B,W71-004,CENTER SHAFT BEARING ASSEMBLY
+PL-50,Turntable,W71-011-0,W71-011,Stopper
+PL-A25,Turntable,W71-018-0,W71-018,Function lever guide plate
+PL-A35,Turntable,W71-033-C,W71-033,Turntable platter
+PL-A45,Turntable,W71-033-0,W71-033,Turntable platter
+PL-A45D,Turntable,W71-033-0,W71-033,Turntable platter
+PL-50,Turntable,W71-082-0,W71-082,Crank lever
+T-3300,Cassette Tape,W71-436,W71-436,FLYWHEEL ASSY
+PL-50,Turntable,W71-602-0,W71-602,Aluminium plate
+PL-55/55D,Turntable,W71-602-0,W71-602,Aluminum plate
+PL-50,Turntable,W71-603-A,W71-603,Return guide plate unit
+PL-55/55D,Turntable,W71-603-B,W71-603,Return guide plate unit
+PL-55X,Turntable,W71-603-B,W71-603,Return guide plate
+PL-25/F,Turntable,W71-606-0,W71-606,Gear (B) ass‘y
+PL-25/F,Turntable,W71-607-F,W71-607,PU linking plate ass’y
+PL-25/F,Turntable,W71-617-A,W71-617,Cu! lever (A) unit
+PL-25/F,Turntable,W71-618-0,W71-618,Lever ass‘y
+PL-50,Turntable,W71-692-A,W71-692,Turntable platter.
+PL-50,Turntable,W71-693-0,W71-693,CENTER SHAFT ASSEMBLY
+PL-25/F,Turntable,W71-735-A,W71-735,Gear ass'y
+PL-25/F,Turntable,W71-741-B,W71-741,Elevator ass’y
+PL-A25,Turntable,W71-751-D,W71-751,Cam plate
+PL-A25,Turntable,W71-752-D,W71-752,Starting lever ass'y
+PL-A25,Turntable,W71-753-C,W71-753,Starting lever
+PL-A25,Turntable,W71-754-C,W71-754,Aluminium plate
+PL-A25,Turntable,W71-755-B,W71-755,Stopper ass'y
+PL-A35,Turntable,W71-755-0,W71-755,Stopper unit
+PL-A45,Turntable,W71-755-0,W71-755,Stopper unit
+PL-A45D,Turntable,W71-755-0,W71-755,Stopper unit
+PL-A25,Turntable,W71-756-B,W71-756,Selector lever
+PL-A35,Turntable,W71-757-0,W71-757,Start lever plate
+PL-A45,Turntable,W71-757-0,W71-757,Start lever plate
+PL-A45D,Turntable,W71-757-0,W71-757,Start lever plate
+PL-A25,Turntable,W71-758-C,W71-758,Belt shifter
+PL-A25,Turntable,W71-759-C,W71-759,Speed selector cam
+PL-A25,Turntable,W71-760-B,W71-760,Speed selector lever
+PL-A25,Turntable,W71-761-C,W71-761,PU linking plate
+PL-A25,Turntable,W71-762-A,W71-762,Elevator nut unit
+PL-A25,Turntable,W71-763-B,W71-763,Lifter ass'y
+PL-A35,Turntable,W71-763-B,W71-763,Lifter unit
+PL-A45,Turntable,W71-763-B,W71-763,Lifter unit
+PL-A45D,Turntable,W71-763-B,W71-763,Lifter unit
+PL-A25,Turntable,W71-764-C,W71-764,Elevator arm
+PL-A25,Turntable,W71-767-A,W71-767,Turntable platter ass'y
+PL-A25,Turntable,W71-768-A,W71-768,Return lever ass'y
+PL-A25,Turntable,W71-773-H,W71-773,Cam plate ass'y
+PL-A25,Turntable,W71-774-A,W71-774,PU linking plate ass'y
+PL-A25,Turntable,W71-788-0,W71-788,Lock lever
+QT-6100,Reel To Reel Tape,W71-852-A,W71-852,Capstan bearing
+QT-6600,Reel To Reel Tape,W71-852-A,W71-852,Capstan bearing
+H-R9000,8-Track Tape,W72-002-B,W72-002,Antenna Holder
+SX-2500,Receiver,W72-002-B,W72-002,AM Ferrite Loopstick Antenna Holder
+SX-9000,Receiver,W72-002-B,W72-002,AM Ferrite Lopstick Antenna Ass'y
+TX-500A,Tuner,W72-002,W72-002,ANTENNA ASSY
+PL-A25,Turntable,W72-014-A,W72-014,Auto-return mechanism ass'y
+PL-A25,Turntable,W72-015-A,W72-015,Auto-return mechanism ass'y
+PL-A25,Turntable,W72-016-A,W72-016,Function lever ass'y
+PL-A25,Turntable,W72-016-A,W72-016,Function lever base ass'y
+PL-A45,Turntable,W72-040-E,W72-040,ELEVATION ASSEMBLY
+PL-A45D,Turntable,W72-040-E,W72-040,ELEVATION MECHANISM ASSEMBLY
+PL-A35,Turntable,W72-041-0,W72-041,Elevator plate unit
+PL-A45,Turntable,W72-041-0,W72-041,Elevator plate assembly
+PL-A45D,Turntable,W72-041-0,W72-041,Elevator plate assembly
+PL-A35,Turntable,W72-049-A,W72-049,Speed selector panel unit
+PL-A45,Turntable,W72-049-A,W72-049,Speed selector panel unit
+PL-A45D,Turntable,W72-049-A,W72-049,Speed selector panel unit
+PL-A35,Turntable,W72-050-A,W72-050,Speed selector plate unit
+PL-A45,Turntable,W72-050-A,W72-050,Speed selector plate unit
+PL-A45D,Turntable,W72-050-A,W72-050,Speed selector plate unit
+PL-A35,Turntable,W72-051-C,W72-051,Belt shifter
+PL-A45,Turntable,W72-051-C,W72-051,Belt shifter
+PL-A45D,Turntable,W72-051-C,W72-051,Belt shifter
+PL-A35,Turntable,W72-052-A,W72-052,Cam unit
+PL-A45,Turntable,W72-052-A,W72-052,Cam unit
+PL-A45D,Turntable,W72-052-A,W72-052,Cam unit
+PL-A35,Turntable,W72-055-C,W72-055,Selector lever unit
+PL-A45,Turntable,W72-055-C,W72-055,Selector lever unit
+PL-A45D,Turntable,W72-055-C,W72-055,Selector lever unit
+PL-A35,Turntable,W72-056-L,W72-056,PU-LINKING PLATE ASSEMBLY
+PL-50,Turntable,W72-061-E,W72-061,FUNCTION LEVER ASSEMBLY
+PL-50,Turntable,W72-062-D,W72-062,Function Ieverbase unit
+PL-50,Turntable,W72-063-0,W72-063,Return arm unit
+PL-50,Turntable,W72-066-C,W72-066,SPEED SELECTOR SWITCH ASSEMBLY
+PL-50,Turntable,W72-067-0,W72-067,Speed selector base unit
+PL-50,Turntable,W72-068-B,W72-068,Auto-return mechanism unit
+PL-50,Turntable,W72-069-G,W72-069,AUTO-RETURN MECHANISM ASSEMBLY
+PL-12E,Turntable,W72-070-A,W72-070,Hinge (A)
+PL-50,Turntable,W72-071-C,W72-071,Return lever (B) unit
+PL-50,Turntable,W72-072-0,W72-072,Return lever unit
+PL-15D,Turntable,W72-079-B,W72-079,Hinge
+PL-A45,Turntable,W72-079-B,W72-079,Spring hinge
+PL-50,Turntable,W72-080-0,W72-080,Spring hinge
+PL-A35,Turntable,W72-080-0,W72-080,Spring hinge unit
+PL-A35,Turntable,W72-081-G,W72-081,Pu-linking plate unit
+PL-50,Turntable,W72-083-0,W72-083,Function lever unit
+PL-50,Turntable,W72-085-A,W72-085,PU linking plate assembly
+QX-949,Receiver,W72-092-C,W72-092,Ferrite loopstick antenna holder assembly
+QX-9900,Receiver,W72-092-B,W72-092,AM ferrite loopstick antenna holder ass'y
+SX-1010,Receiver,W72-092-0,W72-092,Ferrite antenna holder assembly
+SX-1050,Receiver,W72-092,W72-092,Bar-antenna holder
+SX-1250,Receiver,W72-092,W72-092,Bar antenna holder
+SX-828,Receiver,W72-092-B,W72-092,AM ferrite loopstick antenna holder
+SX-950,Receiver,W72-092,W72-092,Bar-antenna holder
+TX-8100,Tuner,W72-092-C,W72-092,Ferrite antenna holder assembly
+TX-9100,Tuner,W72-092-C,W72-092,Ferrite antenna holder assembly
+TX-9500,Tuner,W72-092-0,W72-092,Antenna holder assembly
+PL-A35,Turntable,W72-140-E,W72-140,ELEVATION ASSEMBLY
+QT-6100,Reel To Reel Tape,W72-474-0,W72-474,Stepper carn assembly
+QT-6600,Reel To Reel Tape,W72-474-0,W72-474,Stepper cam assembly
+QT-74,Reel To Reel Tape,W72-474-0,W72-474,Stepper cam assembly
+QT-6100,Reel To Reel Tape,W72-477-B,W72-477,Fast-forward cam
+QT-6600,Reel To Reel Tape,W72-477-B,W72-477,Fast-fon/vard cam
+QT-74,Reel To Reel Tape,W72-477-B,W72-477,Fast-forward cam
+QT-6100,Reel To Reel Tape,W72-479-A,W72-479,Speed selector cam (B) assembly
+QT-6600,Reel To Reel Tape,W72-479-A,W72-479,Speed selector cam (B) assembly
+PL-50,Turntable,W72-602-0,W72-602,Rotator plate unit (A)
+PL-50,Turntable,W72-603-0,W72-603,Rotator plate (C)
+PL-55/55D,Turntable,W72-603-A,W72-603,Rotator plate unit (C)
+PL-55X,Turntable,W72-603-A,W72-603,Rotator plate
+PL-50,Turntable,W72-604-0,W72-604,Coupling plate
+PL-55/55D,Turntable,W72-604-0,W72-604,Coupling plate
+PL-55X,Turntable,W72-604-0,W72-604,Coupling plate
+PL-25/F,Turntable,W72-610-0,W72-610,Cam plate ass'y
+PL-50,Turntable,W72-681-A,W72-681,Motor panel unit
+PL-50,Turntable,W72-697-0,W72-697,Adjust lever unit
+PL-55/55D,Turntable,W72-697-A,W72-697,Adjust lever unit
+PL-55X,Turntable,W72-697-A,W72-697,Adjust lever
+PL-A25,Turntable,W72-701-D,W72-701,Motor panel ass'y
+PL-A25,Turntable,W72-729-B,W72-729,Tonearm elevator ass'y
+PL-A25,Turntable,W72-772-D,W72-772,Contact plate
+PL-25/F,Turntable,W72-783-0,W72-783,Auto-return rnechanism ass'y
+PL-25/F,Turntable,W72-788-0,W72-788,ldler plate (A)
+PL-25/F,Turntable,W72-789-A,W72-789,Idler plate (B)
+QT-6100,Reel To Reel Tape,W72-851-0,W72-851,Contact lever arm (B)
+QT-6600,Reel To Reel Tape,W72-851-0,W72-851,Contact lever arm (B)
+QT-74,Reel To Reel Tape,W72-851-0,W72-851,Contact lever arm (B)
+QT-6100,Reel To Reel Tape,W72-855-0,W72-855,Contact lever arm lA)
+QT-6600,Reel To Reel Tape,W72-855-0,W72-855,Contact lever arm (A)
+QT-74,Reel To Reel Tape,W72-855-0,W72-855,Contact lever arrn (Al
+QT-6100,Reel To Reel Tape,W72-862-0,W72-862,Pinch roller stopper ass'y
+QT-6600,Reel To Reel Tape,W72-862-0,W72-862,Pinch roller stopper assembly
+QT-74,Reel To Reel Tape,W72-862-0,W72-862,Pinch roller stopper assembly
+QT-6100,Reel To Reel Tape,W72-864-A,W72-864,Pinch cover ass'y
+QT-6600,Reel To Reel Tape,W72-864-A,W72-864,Pinch cover assembly
+QT-74,Reel To Reel Tape,W72-864-A,W72-864,Pinch cover assembly
+QT-6100,Reel To Reel Tape,W72-869-A,W72-869,Stepper arm assembly
+QT-6600,Reel To Reel Tape,W72-869-A,W72-869,Stepper arm assembly
+QT-74,Reel To Reel Tape,W72-869-A,W72-869,Stepper arm assembly
+QT-6100,Reel To Reel Tape,W72-871-B,W72-871,Tension adjusting assembly
+QT-6100,Reel To Reel Tape,W72-871-B,W72-871,Tension adjusting assembly
+QT-6600,Reel To Reel Tape,W72-871-B,W72-871,Tension adjusting assembly
+QT-6600,Reel To Reel Tape,W72-871-B,W72-871,Tension adjusting assembly
+QT-6100,Reel To Reel Tape,W72-883-0,W72-883,Tension adjusting plate holder assembly
+QT-6100,Reel To Reel Tape,W72-883-0,W72-883,Tension adjusting plate holder assembly
+QT-6600,Reel To Reel Tape,W72-883-0,W72-883,Tension adjusting plate holder assembly
+QT-6600,Reel To Reel Tape,W72-883-0,W72-883,Tension adjusting plate holder assembly
+QT-74,Reel To Reel Tape,W72-883-0,W72-883,Adjusting plate holder assembly
+QT-6100,Reel To Reel Tape,W72-886-A,W72-886,Auxiliary brake (A) assembly
+QT-6600,Reel To Reel Tape,W72-886-A,W72-886,Auxiliary brake (A) assembly
+QT-6100,Reel To Reel Tape,W72-887-A,W72-887,Auxiliary brake (B) assembly
+QT-6600,Reel To Reel Tape,W72-887-A,W72-887,Auxiliary brake (B) assembly
+QT-6100,Reel To Reel Tape,W72-888-B,W72-888,Motor shield cover ass'y
+QT-6600,Reel To Reel Tape,W72-888-B,W72-888,Motor shield cover
+QT-74,Reel To Reel Tape,W72-888-B,W72-888,Motor shield assembly
+PL-50,Turntable,W73-020-C,W73-020,Selector plate unit
+PL-50,Turntable,W73-022-0,W73-022,Shift guide unit
+PL-50,Turntable,W73-023-A,W73-023,Shift lever unit
+QT-2100,8-Track Tape,W73-408,W73-408,FLYWHEEL ASSY
+QT-6100,Reel To Reel Tape,W73-409-B,W73-409,Contact lever pole ass'y
+QT-6600,Reel To Reel Tape,W73-409-B,W73-409,Contact lever pole assembly
+QT-74,Reel To Reel Tape,W73-409-B,W73-409,Contact lever pole assembly
+T-3300,Cassette Tape,W73-414,W73-414,SWITCH(SENSING)
+PL-A25,Turntable,W73-639-B,W73-639,Rotator nylon special
+PL-A25,Turntable,W73-640-0,W73-640,Pin for turntable platter
+PL-A45D,Turntable,W73-640-0,W73-640,Kick pin
+PL-A505,Turntable,W73-640-0,W73-640,Pin B
+PL-A25,Turntable,W73-641-C,W73-641,Pin stopper ass'y
+PL-A25,Turntable,W73-660-0,W73-660,Spacer
+PL-A35,Turntable,W73-660-0,W73-660,Spacer
+PL-A45,Turntable,W73-660-0,W73-660,Spacer
+PL-A45D,Turntable,W73-660-0,W73-660,Spacer
+PL-50,Turntable,W73-666-0,W73-666,Lateral balance weight assembly
+PL-50,Turntable,W73-667-A,W73-667,Main counter weight
+PL-50,Turntable,W73-667-A,W73-667,Main counterweight
+PL-25/F,Turntable,W73-677-0,W73-677,Speed selector stand
+PL-A25,Turntable,W73-679-0,W73-679,Tonearm rest
+H-R9000,8-Track Tape,W73-686-0,W73-686,Rubber Foot
+H-R99,8-Track Tape,W73-686-0,W73-686,Rubber Foot
+H-R100,8-Track Tape,W74-776-A,W74-776,FLYWHEEL HOLDER
+H-R9000,8-Track Tape,W74-776-A,W74-776,Flywheel Holder
+H-R99,8-Track Tape,W74-776-A,W74-776,Flywheel Holder
+H-R9000,8-Track Tape,W74-842-0,W74-842,Lock Plate Assembly
+H-R99,8-Track Tape,W74-842-0,W74-842,Lock Plate Assembly
+A-66X,Integrated Amplifier,WA35F100N080,WA35F100N080,Washer
+SX-6,Receiver,WA35F100N080,WA35F100N080,Washer
+PL-500,Turntable,XWM-032,XWM-032,"Circuit board (KUT,KCT)"
+PL-500X,Turntable,XWM-033,XWM-033,Circuit board
+PL-500,Turntable,XWM-036,XWM-036,Circuit board  (S)
+PL-L800,Turntable,XWM-053,XWM-053,Control assembly
+PL-L800,Turntable,XWM-058,XWM-058,Control unit
+PL-L800,Turntable,XWR-010,XWR-010,Power supply assembly
+PL-640/S40,Turntable,XWR-050,XWR-050,Power supply unit
+PL-640/S40,Turntable,XWS-021,XWS-021,Speed selector unit
+PL-630,Turntable,XWX-007,XWX-007,Control (B) assembly
+PL-630,Turntable,XWX-008,XWX-008,Switch assembly
+PL-630,Turntable,XWX-009,XWX-009,Lamp assembly
+PL-500,Turntable,XWX-013,XWX-013,Switch assembly
+PL-500X,Turntable,XWX-013,XWX-013,Switch assembly
+PL-L1000,Turntable,XWX-040,XWX-040,LAMP Assembly
+PL-L1000,Turntable,XWX-041,XWX-041,CdS Assembly
+PL-L1000,Turntable,XWX-042,XWX-042,LED Assembly
+PL-L1000,Turntable,XWX-043,XWX-043,PHOTO Tr. Assembly
+PL-L1000,Turntable,XWX-044,XWX-044,CONTROL (A) Assembly
+PL-L1000,Turntable,XWX-045,XWX-045,CONTROL (B) Assembly
+PL-L800,Turntable,XWX-062,XWX-062,Photo transistor assembly
+PL-L800,Turntable,XWX-063,XWX-063,LED assembly
+PL-L800,Turntable,XWX-064,XWX-064,Lamp assembly
+PL-L800,Turntable,XWX-065,XWX-065,CdS assembly
+PL-L800,Turntable,XWX-066,XWX-066,Elevation assembly
+PL-L800,Turntable,XWX-067,XWX-067,Connection assembly
+H-R100,8-Track Tape,Y03-343-J,Y03-343,"Resistor, RD¼PS823J 82kΩ ±5% ¼W"
+H-R100,8-Track Tape,Y05-241-J,Y05-241,"Resistor, RD¼VS330J 33Ω ±5% ¼W"
+H-R99,8-Track Tape,Y05-249-J,Y05-249,"Resistor, RD¼VS560J 56Ω ±5% ¼W"
+H-R100,8-Track Tape,Y20-943-J,Y20-943,"Resistor, RS2P823J 82kΩ ±5% 2W"

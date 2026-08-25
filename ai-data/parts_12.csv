@@ -1,0 +1,1004 @@
+model,category,part_number,normalized_part_number,description
+SPEC-1,Pre-Amplifier,AWR-094,AWR-094,Power supply circuit assembly
+SG-9500,Equalizer,AWR-095,AWR-095,Power supply assembly
+TX-6500II,Tuner,AWR-097,AWR-097,Power supply assembly (KU)
+SX-750,Receiver,AWR-099,AWR-099,Power supply & Protection assembly
+SX-750,Receiver,AWR-100,AWR-100,Power supply assembly
+SX-850,Receiver,AWR-101,AWR-101,Power supply assembly (KC/KU/S)
+SX-950,Receiver,AWR-101,AWR-101,Power supply assembly
+SX-850,Receiver,AWR-102,AWR-102,Power supply assembly (HG)
+SX-1050,Receiver,AWR-103,AWR-103,Power supply assembly-A
+SX-1050,Receiver,AWR-104,AWR-104,Power supply assembly-B
+SX-1250,Receiver,AWR-106,AWR-106,STABILIZER ASSEMBLY
+SX-1250,Receiver,AWR-107,AWR-107,Power supply assembly (KCU/S)
+SX-1250,Receiver,AWR-108,AWR-108,Power supply assembly (HG)
+SX-650,Receiver,AWR-117,AWR-117,Power supply assembly (KCU/S)
+SX-650,Receiver,AWR-118,AWR-118,Power supply assembly (HG)
+TX-8500II,Tuner,AWR-119,AWR-119,Power supply assembly (KU)
+TX-6500II,Tuner,AWR-124,AWR-124,Power supply assembly (HG)
+TX-9500II,Tuner,AWR-128,AWR-128,Power supply assembly (KU)
+TX-9500II,Tuner,AWR-129,AWR-129,Power supply assembly (KC)
+TX-9500II,Tuner,AWR-130,AWR-130,Power supply assembly (HG)
+TX-9500II,Tuner,AWR-131,AWR-131,Power supply assembly (S)
+TX-8500II,Tuner,AWR-132,AWR-132,Power supply assembly (S)
+TX-8500II,Tuner,AWR-133,AWR-133,Power supply assembly (HG)
+TX-6500II,Tuner,AWR-134,AWR-134,Power supply assembly (S)
+TX-8500II,Tuner,AWR-135,AWR-135,Power supply assembly (KC)
+TX-6500II,Tuner,AWR-137,AWR-137,Power supply assembly (KC)
+SPEC-4,Amplifier,AWR-139,AWR-139,Power supply assembly
+SPEC-4,Amplifier,AWR-140,AWR-140,Power supply assembly
+SPEC-4,Amplifier,AWR-143,AWR-143,Fuse assembly
+SX-1080,Receiver,AWR-152,AWR-152,Power supply assernbly
+SX-1980,Receiver,AWR-154,AWR-154,Power supply assembly (KU/S/SG)
+SX-1980,Receiver,AWR-155,AWR-155,Power supply assembly (HG)
+SX-980,Receiver,AWR-156,AWR-156,Power supply assembly
+SX-1280,Receiver,AWR-157,AWR-157,Power supply assembly
+SX-780,Receiver,AWR-169,AWR-169,Fuse assembly
+SX-880/890,Receiver,AWR-171,AWR-171,Fuse assembly (SX-880/KU)
+SX-880/890,Receiver,AWR-174,AWR-174,Fuse assembly (SX-880/KC)
+SX-780,Receiver,AWR-175,AWR-175,Fuse assembly (S/G)
+SX-880/890,Receiver,AWR-175,AWR-175,Fuse assembly (SX-880/SG)
+A-27,Integrated Amplifier,AWR-176,AWR-176,Power supply assemby
+F-28,Tuner,AWR-177,AWR-177,Power supply assembly (KU type)
+F-28,Tuner,AWR-178,AWR-178,Power supply assembly (S/G type)
+SA-3000,Integrated Amplifier,AWR-181,AWR-181,"Fuse Assembly (HE, HB)"
+SA-8800,Integrated Amplifier,AWR-182,AWR-182,Power supply assembly (KU)
+TX-7800,Tuner,AWR-185,AWR-185,Power supply assembly (HG)
+TX-7800,Tuner,AWR-186,AWR-186,Power supply assembly (S/SG)
+SA-9800,Integrated Amplifier,AWR-192,AWR-192,Rectifier assembly
+SA-8800,Integrated Amplifier,AWR-193,AWR-193,Power supply assembly (S)
+SA-8800,Integrated Amplifier,AWR-193,AWR-193,Power supply assembly (S/G)
+SA-8800,Integrated Amplifier,AWR-198,AWR-198,Power supply assembly (KC)
+TX-6800/608,Tuner,AWR-200,AWR-200,Fuse assembly
+SA-3000,Integrated Amplifier,AWR-201,AWR-201,Terminal assembly (KU)
+SX-3900,Receiver,AWR-210,AWR-210,Power supply assembly
+SX-3900,Receiver,AWR-211,AWR-211,Rectifier assembly (KU)
+SX-D7000,Receiver,AWR-211,AWR-211,RECTIFIER Ass'y
+SX-3900,Receiver,AWR-214,AWR-214,Rectifier assembly (S/G)
+SX-D7000,Receiver,AWR-216,AWR-216,POWER SUPPLY Ass'y
+SX-D7000,Receiver,AWR-217,AWR-217,FUSE Ass’y
+F-7,Tuner,AWR-218,AWR-218,"Terminal assembly (KU, KC)"
+A-9,Integrated Amplifier,AWR-226,AWR-226,Regulator assembly
+F-7,Tuner,AWR-227,AWR-227,Fuse assembly (KC)
+SX-8,Receiver,AWR-236,AWR-236,Rectifier assembly
+A-90,Integrated Amplifier,AWR-243,AWR-243,Output msembly
+A-90,Integrated Amplifier,AWR-244,AWR-244,Power supply assembly
+QC-800,Pre-Amplifier,AWS-001-0,AWS-001,"Lever switch unit (OUTPUT,FILTERS)"
+QC-800A,Pre-Amplifier,AWS-001-0,AWS-001,"Lever switch unit (OUTPUT,FILTERS)"
+QA-800,Integrated Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,QUADRALIZER,MUTING)"
+QA-800A,Integrated Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,MATRIX,MUTING)"
+QC-800,Pre-Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,QUADRALIZER,MUTING)"
+QC-800A,Pre-Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,MATRIX,MUTING)"
+QA-800,Integrated Amplifier,AWS-003-0,AWS-003,"Lever switch unit (LOUDNESS,FILTERS)"
+QA-800A,Integrated Amplifier,AWS-003-0,AWS-003,"Lever switch unit (LOUDNESS,FILTERS)"
+QX-8000,Receiver,AWS-004-B,AWS-004,"Switch Unit (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000A,Receiver,AWS-004-B,AWS-004,"Switch Unit (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000,Receiver,AWS-005-0,AWS-005,Switch Unit (Speakers)
+QX-8000A,Receiver,AWS-005-0,AWS-005,Switch Unit (Speakers)
+QX-8000,Receiver,AWS-006-0,AWS-006,Switch Unit (QUADRILIZER)
+SX-6000,Receiver,AWS-007-A,AWS-007,Switch Unit
+SA-500A,Integrated Amplifier,AWS-009-O,AWS-009,Switch Unit
+SX-626 (1971),Receiver,AWS-013-0,AWS-013,Switch unit
+SX-626 (1973),Receiver,AWS-013-A,AWS-013,Switch circuit assembly
+SX-626 (1971),Receiver,AWS-014-0,AWS-014,Switch unit
+SX-626 (1973),Receiver,AWS-014-0,AWS-014,Switch circuit assembly
+SX-525,Receiver,AWS-015-0,AWS-015,Switch unit
+SD-1100,Other,AWS-016-0,AWS-016,Switch unit
+SX-828,Receiver,AWS-017-0,AWS-017,Switch unit
+QX-4000,Receiver,AWS-023-0,AWS-023,Switch unit
+QX-646,Receiver,AWS-023-0,AWS-023,Switch circuit assembly
+QX-4000,Receiver,AWS-024-0,AWS-024,SP switch unit
+QX-646,Receiver,AWS-024-0,AWS-024,Speaker switch circuit assembly
+QX-9900,Receiver,AWS-025-0,AWS-025,Mini-switch unit
+QX-9900,Receiver,AWS-026-0,AWS-026,Speaker switch unit (A)
+QX-9900,Receiver,AWS-027-0,AWS-027,Speaker switch unit (B)
+QX-9900,Receiver,AWS-028-0,AWS-028,Level meter switch unit
+SA-7100,Integrated Amplifier,AWS-029-0,AWS-029,Lever switch unit
+SA-7100,Integrated Amplifier,AWS-030-0,AWS-030,Push switch unit
+TX-7100,Tuner,AWS-031-0,AWS-031,Switch circuit assembly
+TX-9100,Tuner,AWS-032-0,AWS-032,Lever switch circuit assembly
+SA-8100,Integrated Amplifier,AWS-035-0,AWS-035,Switch unit - A
+SA-8100,Integrated Amplifier,AWS-036-0,AWS-036,Switch unit - B
+SA-8100,Integrated Amplifier,AWS-037-0,AWS-037,Push switch unit
+SA-9100,Integrated Amplifier,AWS-038-0,AWS-038,Switch-A ass'y
+SA-9100,Integrated Amplifier,AWS-039-0,AWS-039,Switch-B ass’y
+SA-9100,Integrated Amplifier,AWS-040-0,AWS-040,Switch-C ass'y
+SA-5200,Integrated Amplifier,AWS-046-0,AWS-046,Switch circuit-A assembly
+SA-5200,Integrated Amplifier,AWS-047-0,AWS-047,Switch circuit-B assembly
+QX-949,Receiver,AWS-048-A,AWS-048,Switch circuit assembly
+QX-747,Receiver,AWS-049-A,AWS-049,Switch circuit assembly
+Exclusive M3,Amplifier,AWS-062-0,AWS-062,Switch circuit-A assembly
+SX-1010,Receiver,AWS-064-0,AWS-064,Switch circuit assembly (speaker)
+SX-939,Receiver,AWS-064-0,AWS-064,Switch circuit assembly (speakers)
+SX-838,Receiver,AWS-065-0,AWS-065,"Switch circuit assembly (mode, loudness)"
+SX-939,Receiver,AWS-065-0,AWS-065,"Switch circuit assembly (mode, loudness)"
+SX-838,Receiver,AWS-066-0,AWS-066,"Switch circuit assembly (filter,AF muting)"
+SX-939,Receiver,AWS-066-0,AWS-066,"Switch circuit assembly (filters,AF muting)"
+SX-939,Receiver,AWS-067-0,AWS-067,Switch circuit assembly (tape monitor)
+SX-1010,Receiver,AWS-068-0,AWS-068,Switch circuit assembly (dirnmer)
+SX-939,Receiver,AWS-068-0,AWS-068,Switch circuit assembly (dimmer)
+SX-1010,Receiver,AWS-069-A,AWS-069,Switch circuit assembly (function)
+SX-939,Receiver,AWS-069-0,AWS-069,Switch circuit assembly (function)
+SX-1010,Receiver,AWS-070-A,AWS-070,"Switch circuit assembly (mode, loudness)"
+SX-1010,Receiver,AWS-071-0,AWS-071,"Switch circuit assembly (filter, -20dB)"
+SX-1010,Receiver,AWS-072-0,AWS-072,Switch circuit assembly
+SX-838,Receiver,AWS-073-0,AWS-073,Switch circuit assembly (function)
+SX-838,Receiver,AWS-074-0,AWS-074,Switch circuit assembly (speakers)
+SX-838,Receiver,AWS-075-0,AWS-075,Switch circuit assembly (FM muting]
+SX-737,Receiver,AWS-076-0,AWS-076,Speaker switch circuit assembly
+SX-737,Receiver,AWS-077-0,AWS-077,Push switch circuit assembly
+SA-9900,Integrated Amplifier,AWS-079-0,AWS-079,Tone switch circuit assembly
+SA-9900,Integrated Amplifier,AWS-080-0,AWS-080,Switch circuit assembly
+Exclusive M3,Amplifier,AWS-081-0,AWS-081,Switch circuit-B assembly
+SA-9500,Integrated Amplifier,AWS-082-0,AWS-082,Switch circuit assembly
+SA-8500,Integrated Amplifier,AWS-083-D,AWS-083,Switch circuit assembly (KCU/FV)
+SA-8500,Integrated Amplifier,AWS-085-B,AWS-085,Switch circuit assembly (GN)
+RG-1,Dynamic Range Expander,AWS-089,AWS-089,Switch assembly A
+RG-1,Dynamic Range Expander,AWS-090,AWS-090,Switch assembly B
+SG-9500,Equalizer,AWS-091,AWS-091,SW assembly (EQUALIZER)
+SG-9500,Equalizer,AWS-092,AWS-092,SW assembly (TAPE MONITOR)
+SX-850,Receiver,AWS-093,AWS-093,FM Muting Switch assembly
+SX-950,Receiver,AWS-093,AWS-093,Switch assembly
+SX-1050,Receiver,AWS-094,AWS-094,Function switch assembly
+SX-1250,Receiver,AWS-094,AWS-094,FUNCTION SWITCH ASSEMBLY
+SX-850,Receiver,AWS-094,AWS-094,Function Switch assembly
+SX-950,Receiver,AWS-094,AWS-094,Switch assembly
+SX-1050,Receiver,AWS-095,AWS-095,Speaker switch assembly
+SX-1250,Receiver,AWS-095,AWS-095,Speakers switch assembly (KCU/S)
+SX-950,Receiver,AWS-095,AWS-095,Switch assembly
+SX-1250,Receiver,AWS-098,AWS-098,Speakers switch assembly (HG)
+SX-850,Receiver,AWS-099,AWS-099,Speaker Switch assembly
+SA-8500II,Integrated Amplifier,AWS-108,AWS-108,Switch assembly-KU
+SA-9500II,Integrated Amplifier,AWS-109,AWS-109,Switch assembly
+SA-9500II,Integrated Amplifier,AWS-109,AWS-109,Switch assembly (KU)
+SA-8500II,Integrated Amplifier,AWS-110,AWS-110,Switch assembly-KC
+SA-9500II,Integrated Amplifier,AWS-111,AWS-111,Switch assembly (KC)
+SA-8500II,Integrated Amplifier,AWS-112,AWS-112,Switch assembly-HG
+SA-8500II,Integrated Amplifier,AWS-113,AWS-113,Switch assembly-S
+SA-9500II,Integrated Amplifier,AWS-114,AWS-114,Switch assembly (HG)
+SA-9500II,Integrated Amplifier,AWS-115,AWS-115,Switch assembly (S)
+SX-1980,Receiver,AWS-125,AWS-125,Slide switch assembly
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (KC)
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (S)
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (S/G)
+SX-3800,Receiver,AWS-146,AWS-146,Switch assembly (DE-EMPHASIS KU)
+SX-3900,Receiver,AWS-147,AWS-147,De-emphasis assembly (S/G)
+SX-3800,Receiver,AWS-148,AWS-148,"Switch assembly (DE-EMPHASIS S/G,S)"
+SX-3700,Receiver,AWS-149,AWS-149,Function switch assembly
+SX-820,Receiver,AWS-149,AWS-149,Function switch assembly
+A-7,Integrated Amplifier,AWS-154,AWS-154,Switch assembly
+A-7,Integrated Amplifier,AWS-154,AWS-154,Switch assembly
+A-7,Integrated Amplifier,AWS-154,AWS-154,Switch assembly (HE)
+A-8,Integrated Amplifier,AWS-154,AWS-154,Switch assembly A
+A-7,Integrated Amplifier,AWS-159,AWS-159,Switch assembly (HEZ)
+A-90,Integrated Amplifier,AWS-160,AWS-160,Switch assembly
+TX-950,Tuner,AWS-163,AWS-163,Switch assembly
+SX-1080,Receiver,AWT-001,AWT-001,Filter assembly
+SX-980,Receiver,AWT-002,AWT-002,Filter assembly
+SA-7800,Integrated Amplifier,AWV-001,AWV-001,Indicator assembly
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (KU)
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (S)
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (S/G)
+SA-9800,Integrated Amplifier,AWV-002,AWV-002,Indicator assembly
+SA-8800,Integrated Amplifier,AWV-003,AWV-003,lndlcator assembly (KC)
+SA-5800/508,Integrated Amplifier,AWV-004,AWV-004,Indicator assembly
+SA-6800/608,Integrated Amplifier,AWV-004,AWV-004,Indicator assembly
+SA-708,Integrated Amplifier,AWV-004,AWV-004,lndicator assembly
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (HB Type)
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (HE Type)
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (KU Type)
+SX-3900,Receiver,AWV-008,AWV-008,Indicator assembly
+SX-3800,Receiver,AWV-009,AWV-009,FL Indicator assembly
+SX-3500,Receiver,AWV-010,AWV-010,FL assembly
+SX-3600/720,Receiver,AWV-010,AWV-010,FL assembly (SX-3600 KU)
+SX-3700,Receiver,AWV-011,AWV-011,Lead out assembly
+SX-820,Receiver,AWV-011,AWV-011,Lead out assembly
+SX-3700,Receiver,AWV-012,AWV-012,FL assembly
+SX-820,Receiver,AWV-013,AWV-013,FL asssmbly
+SX-3600/720,Receiver,AWV-014,AWV-014,FL assembly (SX-3600 KU)
+SX-D5000,Receiver,AWV-015,AWV-015,Counter FL assembly
+SX-D7000,Receiver,AWV-015,AWV-015,COUNTER FL Ass‘y
+SX-D5000,Receiver,AWV-017,AWV-017,Power FL assembly
+SA-5200,Integrated Amplifier,AWW-004-0,AWW-004,Compound part for REC jack
+SA-7100,Integrated Amplifier,AWW-004-0,AWW-004,Compound part for REC terminal
+QX-949,Receiver,AWX -052-0,AWX -052,Lamp holder assembly
+SA-5500II,Integrated Amplifier,AWX- 110,AWX- 110,Earth assembly
+QA-800,Integrated Amplifier,AWX-001-0,AWX-001,Volume unit
+QA-800A,Integrated Amplifier,AWX-001-0,AWX-001,Volume unit
+QX-8000,Receiver,AWX-002-0,AWX-002,VR Unit
+QX-8000A,Receiver,AWX-002-0,AWX-002,VR unit
+QX-8000,Receiver,AWX-003-0,AWX-003,CR Unit
+QX-8000A,Receiver,AWX-003-A,AWX-003,CR unit
+QX-4000,Receiver,AWX-004-C,AWX-004,CR unit FW model
+QX-8000,Receiver,AWX-004-B,AWX-004,CR Unit
+QX-8000A,Receiver,AWX-004-C,AWX-004,"CR unit (FW,FSAW)"
+QA-800,Integrated Amplifier,AWX-005-0,AWX-005,R unit
+QA-800A,Integrated Amplifier,AWX-005-0,AWX-005,R unit
+SX-626 (1971),Receiver,AWX-007-0,AWX-007,R unit - resistor network
+SX-828,Receiver,AWX-009-0,AWX-009,MPX filter unit
+SX-525,Receiver,AWX-010-A,AWX-010,Lamp unit
+SX-626 (1971),Receiver,AWX-010-A,AWX-010,Lamp unit
+SX-626 (1973),Receiver,AWX-010-A,AWX-010,Lamp board assembly
+QX-4000,Receiver,AWX-012-A,AWX-012,CR unit KLUW model
+QX-8000A,Receiver,AWX-012-A,AWX-012,CR unit (KUW)
+SX-525,Receiver,AWX-012-0,AWX-012,CR unit
+SX-727,Receiver,AWX-014-A,AWX-014,"CR unit (KUW,FVZW)"
+SX-727,Receiver,AWX-016-0,AWX-016,Lamp box unit
+SX-828,Receiver,AWX-016-0,AWX-016,Lamp box unit
+SX-727,Receiver,AWX-017-0,AWX-017,CR unit (FW)
+QX-8000A,Receiver,AWX-022-A,AWX-022,Lug unit
+QX-4000,Receiver,AWX-028-0,AWX-028,Volume unit
+QX-646,Receiver,AWX-028-0,AWX-028,Balance volume assembly
+QX-4000,Receiver,AWX-029-0,AWX-029,Lamp unit
+QX-646,Receiver,AWX-029-0,AWX-029,Lamp board assembly
+SD-1100,Other,AWX-030-0,AWX-030,Volume unit
+SD-1100,Other,AWX-032-0,AWX-032,V. H. amp. unit
+SD-1100,Other,AWX-033-0,AWX-033,AF OSC unit
+QX-9900,Receiver,AWX-034-0,AWX-034,Level control unit
+QX-9900,Receiver,AWX-035-0,AWX-035,Balance volume unit
+QX-9900,Receiver,AWX-036-0,AWX-036,Headphone unit
+QX-9900,Receiver,AWX-037-0,AWX-037,CR unit
+QX-9900,Receiver,AWX-038-0,AWX-038,Lamp holder unit (A)
+QX-9900,Receiver,AWX-039-0,AWX-039,Lamp holder unit (B)
+QX-9900,Receiver,AWX-040-0,AWX-040,Lamp holder unit (C)
+SD-1100,Other,AWX-041-0,AWX-041,AF sweep unit
+TX-7100,Tuner,AWX-042-0,AWX-042,Lamp board assembly
+TX-8100,Tuner,AWX-042-0,AWX-042,Lamp board assembly
+TX-9100,Tuner,AWX-042-0,AWX-042,Lamp board assembly (A)
+SA-8100,Integrated Amplifier,AWX-044-0,AWX-044,Volume unit
+TX-6200,Tuner,AWX-046-A,AWX-046,Lamp board assembly
+SA-9100,Integrated Amplifier,AWX-048-0,AWX-048,Volume ass'y
+QX-646,Receiver,AWX-051-A,AWX-051,Sub channel circuit assembly
+QX-747,Receiver,AWX-051-B,AWX-051,Sub-channel circuit assembly
+QX-949,Receiver,AWX-051-B,AWX-051,Sub-channel circuit assembly
+QX-747,Receiver,AWX-052-0,AWX-052,Lamp assembly
+QX-949,Receiver,AWX-052-0,AWX-052,Lamp board assembly
+QX-949,Receiver,AWX-053-0,AWX-053,Fuse holder assembly
+QX-747,Receiver,AWX-054-0,AWX-054,Headphone jack assembly
+QX-747A,Receiver,AWX-054,AWX-054,Headphone jack assembly
+QX-949,Receiver,AWX-054-0,AWX-054,Headphone jack assembly
+QX-949A,Receiver,AWX-054,AWX-054,Head phone jack assembly
+SA-8500II,Integrated Amplifier,AWX-062,AWX-062,5P connector assembly-HG
+SA-8500II,Integrated Amplifier,AWX-062,AWX-062,5P connector assembly-S
+SX-1010,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-1250,Receiver,AWX-062,AWX-062,SP CONNECTOR ASSEMBLY
+SX-1280,Receiver,AWX-062,AWX-062,5P connector assembly (S/SG)
+SX-1980,Receiver,AWX-062,AWX-062,5P connector assembly (HG/S/SG)
+SX-535,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-636,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-737,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-838,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-850,Receiver,AWX-062,AWX-062,5P Connector Assembly
+SX-880/890,Receiver,AWX-062,AWX-062,SP connector assembly (SX-880/S)
+SX-880/890,Receiver,AWX-062,AWX-062,SP connector assembly (SX-880/SG)
+SX-939,Receiver,AWX-062-0,AWX-062,5P connector assembly
+Exclusive M3,Amplifier,AWX-063-0,AWX-063,Lamp board assembly
+SX-1010,Receiver,AWX-069-0,AWX-069,Lamp board assembly
+SX-838,Receiver,AWX-069-0,AWX-069,Lamp board assembly
+SX-939,Receiver,AWX-069-0,AWX-069,Lamp board assembly
+SX-838,Receiver,AWX-070-0,AWX-070,Switch & volume circuit assembly
+SX-737,Receiver,AWX-071-0,AWX-071,Switch & volume circuit assembly
+SX-535,Receiver,AWX-072-0,AWX-072,Lamp board assembly
+SX-636,Receiver,AWX-072-0,AWX-072,Lamp board assembly
+SX-737,Receiver,AWX-072-0,AWX-072,Lamp board assembly
+SA-9500,Integrated Amplifier,AWX-073-A,AWX-073,Volume assembly
+SA-9900,Integrated Amplifier,AWX-073-A,AWX-073,Volume circuit assembly
+TX-9500,Tuner,AWX-081-0,AWX-081,Lamp board assembly
+SA-9900,Integrated Amplifier,AWX-083-0,AWX-083,Fuse board assembly
+SA-9500,Integrated Amplifier,AWX-085-0,AWX-085,Fuse assembly (GN)
+SA-9500,Integrated Amplifier,AWX-086-0,AWX-086,Fuse assembly (KCU)
+SA-9900,Integrated Amplifier,AWX-087-0,AWX-087,Fuse board assembly - D
+SA-9500,Integrated Amplifier,AWX-088-0,AWX-088,Fuse assembly (D)
+SA-9900,Integrated Amplifier,AWX-089-0,AWX-089,Fuse board assembly - GN
+SPEC-1,Pre-Amplifier,AWX-091,AWX-091,Fuse board assembly
+SG-9500,Equalizer,AWX-092,AWX-092,VR assembly
+SX-650,Receiver,AWX-095,AWX-095,De-emphasis switch assembly (KCU)
+SX-850,Receiver,AWX-095,AWX-095,De-Emphasis Switch Assembly (KC/KU)
+SX-850,Receiver,AWX-096,AWX-096,Lamp board assembly
+SX-950,Receiver,AWX-096,AWX-096,Lamp board assembly
+SX-1250,Receiver,AWX-097,AWX-097,MICROPHONE JACK ASSEMBLY
+SX-1050,Receiver,AWX-098,AWX-098,Surge current suppressor assembly
+SX-1050,Receiver,AWX-099,AWX-099,De-emphasis SW Assembly (KCU model)
+SX-1250,Receiver,AWX-099,AWX-099,De-emphasis switch assembly 2-position (25us/75us) (KCU)
+SX-650,Receiver,AWX-100,AWX-100,De-emphasis switch assembly (S)
+SX-1050,Receiver,AWX-101,AWX-101,De-emphasis SW Assembly (S model)
+SX-1250,Receiver,AWX-101,AWX-101,De-emphasis switch assembly 3-position (25us/50us/75us) (S)
+SX-850,Receiver,AWX-101,AWX-101,De-Emphasis Assembly (S)
+TX-8500II,Tuner,AWX-104,AWX-104,Lamp board assembly
+TX-9500II,Tuner,AWX-104,AWX-104,Lamp board assembly
+SX-650,Receiver,AWX-106,AWX-106,Phone jack assembly
+TX-7800,Tuner,AWX-113,AWX-113,Switch assembly (De-emphasis) S/SG
+TX-8500II,Tuner,AWX-113,AWX-113,Switch assembly (S)
+TX-6500II,Tuner,AWX-114,AWX-114,Switch assembly (S)
+SX-1980,Receiver,AWX-124,AWX-124,AFC assembly
+SX-1080,Receiver,AWX-125,AWX-125,Power transistor connector assembly
+SX-1280,Receiver,AWX-126,AWX-126,Fuse assembly (For KU type)
+SX-1280,Receiver,AWX-127,AWX-127,Resistor assembly
+F-28,Tuner,AWX-132,AWX-132,Lamp assembly (KU type)
+F-28,Tuner,AWX-132,AWX-132,Lamp assembly (S/G type)
+SX-1280,Receiver,AWX-134,AWX-134,Fuse assembly (S/SG)
+SA-606,Integrated Amplifier,AWX-135,AWX-135,"Tone and indicator assembly (S,S/G,HG)"
+SA-6700,Integrated Amplifier,AWX-136,AWX-136,Tone and indicator assembly
+SA-606,Integrated Amplifier,AWX-137,AWX-137,DIN connector assembly (HG)
+SA-706,Integrated Amplifier,AWX-137,AWX-137,DIN connector assembly (HG)
+SX-1280,Receiver,AWX-139,AWX-139,Fuse assembly (For KC type)
+A-27,Integrated Amplifier,AWX-145,AWX-145,Surge killer assembly - KU
+F-28,Tuner,AWX-146,AWX-146,Synthesizer assembly (KU type)
+F-28,Tuner,AWX-146,AWX-146,Synthesizer assembly (S/G type)
+F-28,Tuner,AWX-147,AWX-147,Switch assembly (S/G type)
+TX-7800,Tuner,AWX-159,AWX-159,VR assembly
+SR-303,Reverb,AWX-164,AWX-164,Lamp assembly
+SX-600,Receiver,AWX-200,AWX-200,AM IF assembly - KU
+SX-700,Receiver,AWX-200,AWX-200,AM IF assembly
+A-9,Integrated Amplifier,AWX-205,AWX-205,Capacitors assembly
+A-6,Integrated Amplifier,AWX-212,AWX-212,Composition assembly (Function switch ass’y + Tone control assembly)
+SX-6,Receiver,AWX-220,AWX-220,Control assembly
+SX-7,Receiver,AWX-223,AWX-223,Control assembly
+SA-970,Integrated Amplifier,AWZ1002,AWZ1002,AF assembly
+GR-551,Equalizer,AWZ1087,AWZ1087,AF assembly
+GR-555,Equalizer,AWZ1087,AWZ1087,AF assembly
+GR-551,Equalizer,AWZ1091,AWZ1091,BAND PASS assembly
+GR-555,Equalizer,AWZ1091,AWZ1091,BAND PASS assembly
+GR-777,Equalizer,AWZ1856,AWZ1856,FL (L) assembly
+GR-777,Equalizer,AWZ1857,AWZ1857,FL (R) assembly
+GR-777,Equalizer,AWZ2006,AWZ2006,Main assembly
+A-858,Integrated Amplifier,AWZ2324,AWZ2324,Power amp assembly
+A-858,Integrated Amplifier,AWZ2325,AWZ2325,Power supply assembly
+A-858,Integrated Amplifier,AWZ2326,AWZ2326,Speaker term. assembly
+A-858,Integrated Amplifier,AWZ2327,AWZ2327,Phono amp assembly
+A-858,Integrated Amplifier,AWZ2328,AWZ2328,Headphone assembly
+A-858,Integrated Amplifier,AWZ2340,AWZ2340,Speaker switch assembly
+A-858,Integrated Amplifier,AWZ2341,AWZ2341,Tone amp assembly
+A-858,Integrated Amplifier,AWZ2342,AWZ2342,Rec out assembly
+A-858,Integrated Amplifier,AWZ2343,AWZ2343,Input selector assembly
+C-72,Pre-Amplifier,AWZ2898,AWZ2898,Control assembly
+C-72,Pre-Amplifier,AWZ2900,AWZ2900,Video assembly
+QX-4000,Receiver,AXA-003-B,AXA-003,Tuning pulley ass'y
+QX-646,Receiver,AXA-003-B,AXA-003,Dial pulley assembly
+QX-8000,Receiver,AXA-003-A,AXA-003,Dial Pulley Ass'y
+QX-8000A,Receiver,AXA-003-C,AXA-003,Dial pulley ass’y
+SX-450,Receiver,AXA-006,AXA-006,Tuning drum assembly
+SX-6000,Receiver,AXA-007-A,AXA-007,Dial Shaft Ass'y
+SX-727,Receiver,AXA-013-0,AXA-013,Dial shaft ass'y
+SX-828,Receiver,AXA-013-0,AXA-013,Dial shaft ass'y
+QX-747,Receiver,AXA-015-A,AXA-015,Tuning pulley
+QX-747A,Receiver,AXA-015,AXA-015,Tuning drum assembly
+QX-949,Receiver,AXA-015-A,AXA-015,Tuning pulley
+QX-949A,Receiver,AXA-015,AXA-015,Tuning drum assembly
+QX-9900,Receiver,AXA-015-0,AXA-015,Tuning pulley
+SX-1010,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-434,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-535,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-626 (1973),Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-636,Receiver,AXA-015-A,AXA-015,Tuning pulley
+SX-838,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-939,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+TX-6200,Tuner,AXA-015-A,AXA-015,Dial pulley assembly
+TX-7100,Tuner,AXA-015-A,AXA-015,Tuning pulley assembly
+TX-8100,Tuner,AXA-015-A,AXA-015,Tuning pulley assembly
+TX-9100,Tuner,AXA-015-A,AXA-015,Tuning pulley assembly
+QX-9900,Receiver,AXA-016-0,AXA-016,Tuning shaft ass'y
+SX-434,Receiver,AXA-021-0,AXA-021,Tuning shaft assembly
+TX-7100,Tuner,AXA-021-0,AXA-021,Tuning shaft assembly
+TX-8100,Tuner,AXA-021-0,AXA-021,Tuning shaft assembly
+SX-535,Receiver,AXA-025-0,AXA-025,Tuning shaft assembly
+SX-636,Receiver,AXA-025-0,AXA-025,Tuning shaft assembly
+TX-6200,Tuner,AXA-025-0,AXA-025,Dial shaft assembly
+TX-6200,Tuner,AXA-025-0,AXA-025,Tuning shaft assembly
+TX-9100,Tuner,AXA-027-A,AXA-027,Tuning shaft assembly
+SX-626 (1973),Receiver,AXA-032-0,AXA-032,Tuning shaft assembly
+QX-747,Receiver,AXA-039-0,AXA-039,Tuning shaft assembly
+QX-747A,Receiver,AXA-039,AXA-039,Tuning shaft assembly
+QX-949,Receiver,AXA-039-0,AXA-039,Tuning shaft assembly
+QX-949A,Receiver,AXA-039,AXA-039,DIAL SHAFT ASSY
+QX-949A,Receiver,AXA-039,AXA-039,Tuning shaft assembly
+SX-1010,Receiver,AXA-056-0,AXA-056,Tuning shaft assembly
+SX-838,Receiver,AXA-056-0,AXA-056,Tuning shaft assembly
+SX-939,Receiver,AXA-056-0,AXA-056,Tuning shaft assembly
+SX-737,Receiver,AXA-057-0,AXA-057,Tuning shaft assembly
+SX-737,Receiver,AXA-058-A,AXA-058,Tuning pulley assembly
+TX-5300,Tuner,AXA-061-C,AXA-061,Tuning drum assembly
+SX-550,Receiver,AXA-066,AXA-066,Dial pulley assembly
+TX-5300,Tuner,AXA-066-0,AXA-066,Tuning shaft assembly
+SX-650,Receiver,AXA-070,AXA-070,Tuning drum assembly
+SX-750,Receiver,AXA-070,AXA-070,Tuning drum assembly
+TX-8500II,Tuner,AXA-070,AXA-070,Dial drum assembly
+TX-9500,Tuner,AXA-070-C,AXA-070,Dial drum assembly
+TX-9500II,Tuner,AXA-070,AXA-070,Dial drum assembly
+TX-9500,Tuner,AXA-071-A,AXA-071,Tuning shaft assembly
+TX-6500II,Tuner,AXA-105,AXA-105,Dial shaft assembly
+TX-6500II,Tuner,AXA-106,AXA-106,Tuning drum assembly
+SX-1050,Receiver,AXA-111,AXA-111,Tuning shaft assembly
+SX-850,Receiver,AXA-111,AXA-111,Tuning shaft assembly
+SX-950,Receiver,AXA-111,AXA-111,Tuning shaft assembly
+SX-1050,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-1980,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-3400,Receiver,AXA-113,AXA-113,Dial pulley assembly
+SX-580/590,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-680/690,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-780,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-850,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-880/890,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-950,Receiver,AXA-113,AXA-113,Tuning drum assembly
+TX-8500II,Tuner,AXA-114,AXA-114,Dial shaft assembly
+TX-9500II,Tuner,AXA-114,AXA-114,Dial shaft assembly
+SX-450,Receiver,AXA-117,AXA-117,Tuning shaft assembly
+SX-550,Receiver,AXA-117,AXA-117,Tuning shaft assembly
+SX-650,Receiver,AXA-124,AXA-124,Tuning shaft assembly
+SX-750,Receiver,AXA-124,AXA-124,Tuning shaft assembly
+SX-1080,Receiver,AXA-180,AXA-180,Dial shaft assembly
+SX-1980,Receiver,AXA-184,AXA-184,Tuning shaft assembly
+SX-1280,Receiver,AXA-188,AXA-188,Tuning shaft assembly
+F-28,Tuner,AXA-191,AXA-191,Tuning drum assembly
+SX-580/590,Receiver,AXA-208,AXA-208,Dial shaft assembly
+SX-680/690,Receiver,AXA-208,AXA-208,Tuning shaft assembly
+SX-780,Receiver,AXA-211,AXA-211,Tuning shaft assembly
+SX-880/890,Receiver,AXA-211,AXA-211,Tuning Shaft
+F-28,Tuner,AXA-215,AXA-215,Tuning shaft assembly
+TX-6800/608,Tuner,AXA-228,AXA-228,Tuning shaft assembly
+SX-3400,Receiver,AXA-240,AXA-240,Dial shaft assembly
+SX-3900,Receiver,AXA-260,AXA-260,Tuning shaft assembly
+SX-3800,Receiver,AXA-264,AXA-264,Dial shaft assembly
+SX-600,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-600L,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-700,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-700L,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-3500,Receiver,AXA-290,AXA-290,Tuning shaft assembly
+SX-3600/720,Receiver,AXA-290 (AXA-270),AXA-290 (AXA-270),Dial shaft assembly
+TX-130L,Tuner,AXA-350,AXA-350,Tuning shaft assembly
+TX-530L,Tuner,AXA-350,AXA-350,Tuning shaft assembly
+SX-202,Receiver,AXA-373,AXA-373,Tuning shaft
+QX-4000,Receiver,AXB-001-0,AXB-001,AM ferrite loopstick antenna holder ass'y
+QX-646,Receiver,AXB-001-0,AXB-001,AM antenna holder assembly
+QX-747,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder assembly
+QX-747A,Receiver,AXB-001,AXB-001,Antenna holder assembly
+QX-8000,Receiver,AXB-001-0,AXB-001,AM Antenna Holder Ass'y
+QX-8000A,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder
+QX-949A,Receiver,AXB-001,AXB-001,Antenna holder assembly
+SX-424,Receiver,AXB-001-0,AXB-001,AM ferrite loopstick antenna holder ass'y
+SX-434,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-525,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder ass'y
+SX-535,Receiver,AXB-001-0,AXB-001,Antenna holder assembly
+SX-6000,Receiver,AXB-001-0,AXB-001,AM Antenna Holder Ass'y
+SX-626 (1971),Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder ass'y
+SX-626 (1973),Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder assembly
+SX-636,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-727,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder ass'y
+SX-737,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-838,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-939,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+TX-5300,Tuner,AXB-001-0,AXB-001,Antenna holder assembly
+TX-6200,Tuner,AXB-001-0,AXB-001,AM antenna holder assembly
+TX-7100,Tuner,AXB-001-0,AXB-001,Bar antenna holder assembly
+TX-7500,Tuner,AXB-001,AXB-001,ANTENNA HOLDER
+TX-900,Tuner,AXB-001,AXB-001,ANTENNA HOLDER
+SX-650,Receiver,AXB-004,AXB-004,Ferrite bar-antenna
+SX-750,Receiver,AXB-004,AXB-004,Ferrite bar antenna
+SX-450,Receiver,AXB-006,AXB-006,"Ferrite bar antenna (KU,KC)"
+SX-550,Receiver,AXB-006,AXB-006,Bar-antenna assembly (KC)
+SX-550,Receiver,AXB-006,AXB-006,Ferrite bar-antenna
+SX-850,Receiver,AXB-009,AXB-009,Bar-antenna assembly
+SX-450,Receiver,AXB-010,AXB-010,Ferrite Bar antenna (HG)
+SX-550,Receiver,AXB-010,AXB-010,Bar-antenna Assembly (HG)
+TX-6500II,Tuner,AXB-011,AXB-011,Antenna hoIder
+TX-8500II,Tuner,AXB-011,AXB-011,Antenna holder
+TX-9500II,Tuner,AXB-011,AXB-011,Antenna holder
+SX-1080,Receiver,AXB-012,AXB-012,Bar antenna holder
+SX-1980,Receiver,AXB-012,AXB-012,Antenna holder
+SX-680/690,Receiver,AXB-012,AXB-012,Antenna holder
+SX-780,Receiver,AXB-012,AXB-012,Bar antenna holder
+SX-880/890,Receiver,AXB-012,AXB-012,Antenna holder
+SX-980,Receiver,AXB-012,AXB-012,Bar antenna holder
+TX-6700,Tuner,AXB-012,AXB-012,BRACKET F/ANTENNA SX750
+TX-6800/608,Tuner,AXB-012,AXB-012,Antenna holder
+TX-7800,Tuner,AXB-012,AXB-012,BRACKET F/ANTENNA SX750
+TX-9800,Tuner,AXB-012,AXB-012,BRACKET F/ANTENNA SX750
+A-7,Integrated Amplifier,AXC-001,AXC-001,Door mechanical assembly
+A-9,Integrated Amplifier,AXC-003,AXC-003,Door mechanism assembly
+A-8,Integrated Amplifier,AXC-008,AXC-008,DOOR
+SA-530,Integrated Amplifier,AXC-012,AXC-012,Slide knob assembly
+SX-4,Receiver,AXC-013,AXC-013,Battery case
+SX-5,Receiver,AXC-013,AXC-013,Battery case
+SX-6,Receiver,AXC-013,AXC-013,Battery case assembly
+SX-50,Receiver,AXC-019,AXC-019,Battery case
+SX-60,Receiver,AXC-019,AXC-019,Battery case
+GR-777,Equalizer,AXD1049,AXD1049,Remote control unit
+C-72,Pre-Amplifier,AXD1171,AXD1171,Remote control unit
+C-90,Pre-Amplifier,AXX1003,AXX1003,REMOTE SENSOR SDP40
+GR-777,Equalizer,AXX1005,AXX1005,Remote control sensor unit
+GR-777,Equalizer,AZN1744,AZN1744,Bonnet
+QX-646,Receiver,B-21-011-0,B-21-011,External tooth lock washer
+H-R99,8-Track Tape,B01-263-A,B01-263,"Screw, M3x 6"
+H-R9000,8-Track Tape,B01-267-A,B01-267,"Screw, M3 x 14"
+H-R99,8-Track Tape,B01-267-A,B01-267,"Screw, M3 x 14"
+H-R9000,8-Track Tape,B01-862-A,B01-862,"Screw, M3 X 5"
+H-R9000,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R99,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R99,8-Track Tape,B01-863-A,B01-863,"Screw, M3x 6"
+H-R9000,8-Track Tape,B01-864-A,B01-864,"Screw, M3 x 8"
+H-R99,8-Track Tape,B01-864-A,B01-864,"Screw, M3 x 8"
+H-R9000,8-Track Tape,B01-875-A,B01-875,"Screw, M4 x6"
+H-R99,8-Track Tape,B01-875-A,B01-875,"Screw, M4 x 6"
+H-R99,8-Track Tape,B02-013-A,B02-013,"Screw, M3.1 X 10"
+H-R9000,8-Track Tape,B03-008-A,B03-008,"Screw, M215 X 4"
+H-R9000,8-Track Tape,B06-109-A,B06-109,"Screw, M25 x 4"
+H-R99,8-Track Tape,B06-109-A,B06-109,"Screw, M2.6 x 4"
+H-R9000,8-Track Tape,B06-111-A,B06-111,"Screw, M2.6 x 6"
+H-R99,8-Track Tape,B06-111-A,B06-111,"Screw, M2.6 X 6"
+H-R9000,8-Track Tape,B06-162-A,B06-162,"Screw, M3 x 5"
+H-R99,8-Track Tape,B06-162-A,B06-162,"Screw, M3 x 5"
+H-R99,8-Track Tape,B06-168-A,B06-168,"Screw, M3 X 6"
+H-R9000,8-Track Tape,B08-219-A,B08-219,"Screw, M2.6 X 6"
+H-R99,8-Track Tape,B08-219-A,B08-219,"Screw, M2.6 x 6"
+H-R9000,8-Track Tape,B08-220-A,B08-220,"Screw, M2.6 x 8"
+H-R9000,8-Track Tape,B09-382-E,B09-382,"Screw, M4 x 20"
+H-R99,8-Track Tape,B09-382-E,B09-382,"Screw, M4 x 20"
+QX-8000,Receiver,B1 l-012-A,B1 l-012,Screw for Grounding
+H-R9000,8-Track Tape,B10-203-A,B10-203,"Screw, M2 x 5"
+H-R99,8-Track Tape,B10-203-A,B10-203,"Screw, M2 X 5"
+H-R9000,8-Track Tape,B10-204-A,B10-204,"Screw, M2 X 6"
+H-R99,8-Track Tape,B10-205-A,B10-205,"Screw, M2 x 8"
+H-R9000,8-Track Tape,B10-264-A,B10-264,"Screw, M3 x 8"
+H-R99,8-Track Tape,B10-802-A,B10-802,"Screw, M2 x 4"
+H-R9000,8-Track Tape,B10-863-A,B10-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B10-863-A,B10-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B10-863-A,B10-863,"Screw, M3 x6"
+H-R99,8-Track Tape,B10-863-A,B10-863,"Screw, M3 X 6"
+H-R9000,8-Track Tape,B10-864-A,B10-864,"Screw, M3 x 8"
+H-R99,8-Track Tape,B10-864-A,B10-864,"Screw, M3 x 8"
+SA-500,Integrated Amplifier,B11-005-A,B11-005,"Screw, to fix Metal Cover"
+SA-700,Integrated Amplifier,B11-005-A,B11-005,"Screw, to Fix Metal Cover"
+SA-900,Integrated Amplifier,B11-005-A,B11-005,"Screw, to fix Metal case"
+CT-F6161,Cassette Tape,B11-012-A,B11-012,Binding post (for ground)
+CT-F7171,Cassette Tape,B11-012-A,B11-012,Binding post (for ground)
+CT-F7272,Cassette Tape,B11-012,B11-012,Binding post
+CT-F8282,Cassette Tape,B11-012,B11-012,Binding post
+CT-F9191,Cassette Tape,B11-012,B11-012,Binding post
+H-R9000,8-Track Tape,B11-012-A,B11-012,"Screw, Grounding"
+H-R99,8-Track Tape,B11-012-A,B11-012,"Screw, Grounding"
+QA-800,Integrated Amplifier,B11-012-A,B11-012,Screw for grounding
+QA-800A,Integrated Amplifier,B11-012-A,B11-012,Screw for grounding
+QC-800,Pre-Amplifier,B11-012-A,B11-012,Screw for grounding
+QC-800A,Pre-Amplifier,B11-012-A,B11-012,Screw for grounding
+QL-600,Integrated Amplifier,B11-012-A,B11-012,Screw for Grounding Washer (Square)
+QL-600A,Integrated Amplifier,B11-012-A,B11-012,Screw for grounding
+QM-800A,Amplifier,B11-012-A,B11-012,Screw for grounding
+QT-6100,Reel To Reel Tape,B11-012-A,B11-012,Screw for grouding
+QT-6600,Reel To Reel Tape,B11-012-A,B11-012,Screw for ground termianl
+QT-74,Reel To Reel Tape,B11-012-A,B11-012,Screw for grounding
+QX-4000,Receiver,B11-012-A,B11-012,Screw for grounding
+QX-8000A,Receiver,B11-012-A,B11-012,Screw for grounding
+QX-9900,Receiver,B11-012-A,B11-012,Screw for grounding
+RT-1011L,Reel To Reel Tape,B11-012-A,B11-012,Binding post
+RT-1020L,Reel To Reel Tape,B11-012-A,B11-012,Screw (GND)
+SA-1000,Integrated Amplifier,B11-012-A,B11-012,Screw for ground
+SA-500A,Integrated Amplifier,B11-012-A,B11-012,Screw for Grounding
+SA-600,Integrated Amplifier,B11-012-A,B11-012,Screw for GND
+SX-1500TD,Receiver,B11-012-A,B11-012,Screw for GND Terminal
+SX-2500,Receiver,B11-012-A,B11-012,Screw for GND Termmal
+SX-424,Receiver,B11-012-A,B11-012,Screw for ground
+SX-525,Receiver,B11-012-A,B11-012,Screw for grounding
+SX-6000,Receiver,B11-012-A,B11-012,Screw for Grounding
+SX-626 (1971),Receiver,B11-012-A,B11-012,Screw for grounding
+SX-727,Receiver,B11-012-A,B11-012,Screw for grounding
+SX-828,Receiver,B11-012-A,B11-012,Screw for grounding
+QC-800,Pre-Amplifier,B11-015-B,B11-015,Screw to fix wooden case
+SA-1000,Integrated Amplifier,B11-015-B,B11-015,Screw
+SA-500A,Integrated Amplifier,B11-015-B,B11-015,Screw to fix Metal Cover
+SA-800,Integrated Amplifier,B11-015-B,B11-015,"Screw, to fix wooden case"
+SX-1500TD,Receiver,B11-015-0,B11-015,"Screw, to fix Wooden Case"
+SX-626 (1971),Receiver,B11-016-B,B11-016,Screw to fix wooden case
+SX-727,Receiver,B11-016-B,B11-016,Screw to ﬁx wooden case
+SX-828,Receiver,B11-016-B,B11-016,Screw to fix wooden case
+SX-2500,Receiver,B11-017-A,B11-017,Screw to fix Wooden Case
+SX-1500T,Receiver,B11-021-A,B11-021,"Screw, to fix metal case"
+SX-700T,Receiver,B11-021-B,B11-021,Screw to Fix Metal Cover
+SX-1000TA (Later),Receiver,B11-022-B,B11-022,"Screw, to fix metal cover"
+SX-1000TD,Receiver,B11-022-B,B11-022,Screw to fix metal case
+SX-1000TW,Receiver,B11-022-E,B11-022,Screw. to fix metal case
+SX-440,Receiver,B11-022-B,B11-022,Screw to fix Wooden Case
+SA-5200,Integrated Amplifier,B11-034-0,B11-034,Metal cover fixing screw
+SD-1100,Other,B11-034-A,B11-034,Screw to fix bottom plate
+PL-50,Turntable,B11-037-0,B11-037,Screw
+TX-9500,Tuner,B11-037-0,B11-037,Pan head screw M3x6 (pit-shaped)
+QA-800,Integrated Amplifier,B11-041-A,B11-041,Screw to fix wooden case
+QM-800,Amplifier,B11-041-A,B11-041,Screw to fix wooden case
+SA-600,Integrated Amplifier,B11-041-A,B11-041,Set screws for wooden case
+SX-424,Receiver,B11-041-A,B11-041,Screw to fix wooden case
+SX-525,Receiver,B11-041-A,B11-041,Screw to fix wooden case
+PL-A25,Turntable,B11-043-0,B11-043,Adjusting screw
+PL-51,Turntable,B11-044-C,B11-044,Screw
+PL-51A,Turntable,B11-044-C,B11-044,Screw
+PL-71,Turntable,B11-044-C,B11-044,Cartridge mounting screw 13mm
+PL-A45D,Turntable,B11-044-C,B11-044,Screw
+PL-15D,Turntable,B11-054-0,B11-054,Screw
+PL-A45,Turntable,B11-054-C,B11-054,Screw
+PL-A35,Turntable,B11-055-0,B11-055,Screw
+PL-A45D,Turntable,B11-055-C,B11-055,Screw
+PL-A505,Turntable,B11-055-C,B11-055,Screw
+PL-25/F,Turntable,B11-603-0,B11-603,Screw
+H-R99,8-Track Tape,B11-607-0,B11-607,"Screw, M2.6 x 5"
+PL-25/F,Turntable,B11-646-0,B11-646,Screw
+PL-50,Turntable,B11-657-0,B11-657,Screw
+PL-50,Turntable,B11-657-A,B11-657,Screw
+PL-510,Turntable,B11-657,B11-657,Screw
+PL-510S,Turntable,B11-657,B11-657,Screw
+PL-71,Turntable,B11-657-C,B11-657,Cartridge mounting screw 11.5mm
+PL-A35,Turntable,B11-657-C,B11-657,Screw
+PL-A45D,Turntable,B11-657-C,B11-657,Screw
+PL-A505,Turntable,B11-657-0,B11-657,Screw
+PL-A505,Turntable,B11-657-C,B11-657,Screw
+H-R9000,8-Track Tape,B11-678-0,B11-678,"Screw, M2.6 x 14"
+H-R99,8-Track Tape,B11-678-0,B11-678,"Screw, M2.6 x 14"
+PL-50,Turntable,B13-601-0,B13-601,Screw
+H-R9000,8-Track Tape,B20-002-A,B20-002,"Flat Washer, M25"
+H-R99,8-Track Tape,B20-002-A,B20-002,"Flat Washer, M2.6"
+H-R99,8-Track Tape,B20-003-A,B20-003,"Flat Washer, M3"
+H-R9000,8-Track Tape,B20-010-A,B20-010,"Spring Washer, M2"
+H-R99,8-Track Tape,B20-010-A,B20-010,"Spring Washer, M2"
+H-22,8-Track Tape,B20-012-B,B20-012,Spring Lock Washer M3
+H-R9000,8-Track Tape,B20-013-A,B20-013,"Screw, M3.1 x 10"
+H-R9000,8-Track Tape,B20-013-A,B20-013,"Spring Washer, M4"
+H-R99,8-Track Tape,B20-013-A,B20-013,"Spring Washer, M4"
+H-R9000,8-Track Tape,B20-074-L,B20-074,"Fiber Washer, M3"
+H-R99,8-Track Tape,B20-074-L,B20-074,"Fiber Washer, M3"
+H-R9000,8-Track Tape,B20-103-B,B20-103,"E Ring, 2.5mm"
+H-R99,8-Track Tape,B20-103-B,B20-103,"E Fling, 2.5mm"
+H-R9000,8-Track Tape,B20-105-B,B20-105,"E Ring, 3.2mm"
+H-R99,8-Track Tape,B20-105-B,B20-105,"E Ring, 3.2rnm"
+H-R9000,8-Track Tape,B20-111-B,B20-111,"E Ring, 1.5mm"
+H-R99,8-Track Tape,B20-111-B,B20-111,"E Ring, 1.5mm"
+H-R9000,8-Track Tape,B20-126-A,B20-126,"E Ring, 8mm"
+H-R9000,8-Track Tape,B20-508-E,B20-508,Stop Pin
+H-R99,8-Track Tape,B20-508-E,B20-508,Stop Pin
+QM-800A,Amplifier,B21-001-0,B21-001,Special washer
+PL-A35,Turntable,B21-008-A,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-A,B21-008,Boss
+QX-4000,Receiver,B21-008-A,B21-008,Boss
+QX-747,Receiver,B21-008-A,B21-008,Boss
+QX-747,Receiver,B21-008-A,B21-008,P.C. board holder
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+SD-1100,Other,B21-008-A,B21-008,Boss
+SD-1100,Other,B21-008-A,B21-008,Boss
+SX-2500,Receiver,B21-008-0,B21-008,Boss for Printed Clrcuit Board
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NNW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW. NBW"
+QA-800A,Integrated Amplifier,B21-011-A,B21-011,Special washer (square)
+QC-800A,Pre-Amplifier,B21-011-0,B21-011,Washer (square)
+QX-747,Receiver,B21-011-0,B21-011,Washer
+QX-949,Receiver,B21-011-0,B21-011,Washer
+SA-1000,Integrated Amplifier,B21-011-O,B21-011,Tooth washer
+SA-5200,Integrated Amplifier,B21-011-0,B21-011,Washer
+SX-1010,Receiver,B21-011-0,B21-011,Washer
+SX-434,Receiver,B21-011-A,B21-011,Washer
+SX-535,Receiver,B21-011-0,B21-011,Claw washer
+SX-626 (1973),Receiver,B21-011-0,B21-011,Washer
+SX-636,Receiver,B21-011-0,B21-011,Washer
+SX-737,Receiver,B21-011-0,B21-011,Washer
+SX-838,Receiver,B21-011-0,B21-011,Washer
+SX-939,Receiver,B21-011-0,B21-011,Washer
+TX-5300,Tuner,B21-011-0,B21-011,Claw washer
+PL-25/F,Turntable,B21-601-0,B21-601,Washer
+PL-A25,Turntable,B21-659-0,B21-659,Spacer
+PL-A35,Turntable,B21-659-0,B21-659,Spacer
+PL-A45,Turntable,B21-659-0,B21-659,Spacer
+PL-A45D,Turntable,B21-659-0,B21-659,Spacer
+PL-A25,Turntable,B21-660-A,B21-660,Tray type washer
+PL-A25,Turntable,B21-661-0,B21-661,Washer special
+PL-A35,Turntable,B21-661-0,B21-661,Washer
+PL-A45,Turntable,B21-661-0,B21-661,Washer
+PL-A45D,Turntable,B21-661-0,B21-661,Washer
+PL-A25,Turntable,B21-667-0,B21-667,Hinge plate
+SA-5200,Integrated Amplifier,B22-009-0,B22-009,Washer (11ø)
+TX-5300,Tuner,B22-012 -0,B22-012 ,Flat washer
+TX-6800/608,Tuner,B22-013,B22-013,Flat washer
+SA-5200,Integrated Amplifier,B22-016-0,B22-016,Washer
+SA-5200,Integrated Amplifier,B22-016-0,B22-016,Washer
+SX-535,Receiver,B22-016-0,B22-016,Washer (0.5t)
+TX-9500,Tuner,B22-016-0,B22-016,Flat washer 9ɸ
+TX-9500,Tuner,B22-017-0,B22-017,Flat washer 11ɸ
+PL-15D,Turntable,B22-026-0,B22-026,Washer
+PL-500,Turntable,B22-026,B22-026,Washer
+PL-500X,Turntable,B22-026,B22-026,Washer
+PL-A35,Turntable,B22-026-0,B22-026,Washer
+PL-A45,Turntable,B22-026-0,B22-026,Washer
+PL-A45D,Turntable,B22-026-0,B22-026,Washer
+PL-A505,Turntable,B22-026-0,B22-026,Washer
+PL-L1000,Turntable,B22-026,B22-026,Washer
+QX-4000,Receiver,B22-032-0,B22-032,Pilot lamp
+QT-74,Reel To Reel Tape,B22-420-0,B22-420,Washer (3ɸ) BN 1
+RT-1011L,Reel To Reel Tape,B22-420-0,B22-420,Washer 3ɸ BN1
+CT-F6161,Cassette Tape,B22-422-0,B22-422,Nylon washer 4.2øx80x0.5t mm
+CT-F6161,Cassette Tape,B22-422-0,B22-422,Nylon washer 4.2øx8øx 0.5t mm
+RT-1011L,Reel To Reel Tape,B22-422-0,B22-422,Washer 4ɸ BN1
+QT-74,Reel To Reel Tape,B22-423-0,B22-423,Washer (5ɸ) BN 2
+QT-74,Reel To Reel Tape,B22-423-0,B22-423,Washer (5ɸ) BN2
+QT-6600,Reel To Reel Tape,B22-424-0,B22-424,Nylon washer
+QT-6600,Reel To Reel Tape,B22-424-0,B22-424,Nylon washer
+QT-74,Reel To Reel Tape,B22-424-0,B22-424,Washer (54)) BN 1
+QT-74,Reel To Reel Tape,B22-424-0,B22-424,Washer (5ɸ) BN 1
+QT-74,Reel To Reel Tape,B22-424-0,B22-424,Washer (5ɸ) BN1
+RT-909,Reel To Reel Tape,B22-424,B22-424,Washer 5o
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN 2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer BN2
+RT-1020L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN 2
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer ɸ6 BN 1
+PL-50,Turntable,B22-602-0,B22-602,Washer (A)
+PL-55/55D,Turntable,B22-602-0,B22-602,Washer (A)
+PL-50,Turntable,B22-603-0,B22-603,Washer (B)
+PL-55/55D,Turntable,B22-603-0,B22-603,Washer (B)
+PL-25/F,Turntable,B22-604-0,B22-604,Washer (A)
+PL-25/F,Turntable,B22-605-0,B22-605,Washer (B)
+PL-25/F,Turntable,B22-606-0,B22-606,Washer (C)
+PL-25/F,Turntable,B22-607-0,B22-607,Washer (G)
+PL-25/F,Turntable,B22-607-0,B22-607,Washer (P)
+PL-25/F,Turntable,B22-610-0,B22-610,Washer (H)
+PL-25/F,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A25,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A35,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A35,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A45,Turntable,B22-612-0,B22-612,Retaining washer E-type
+PL-A45,Turntable,B22-612-0,B22-612,Washer (M)
+PL-25/F,Turntable,B22-614-0,B22-614,Washer (F)
+PL-50,Turntable,B22-632-0,B22-632,Washer
+PL-55/55D,Turntable,B22-632-0,B22-632,Nut
+PL-A25,Turntable,B22-640-0,B22-640,Washer
+PL-A25,Turntable,B22-641-0,B22-641,Washer special
+PL-A25,Turntable,B22-642-0,B22-642,Washer
+PL-A35,Turntable,B22-642-0,B22-642,Washer
+PL-A45,Turntable,B22-642-0,B22-642,Washer
+PL-A45D,Turntable,B22-642-0,B22-642,Washer
+PL-A25,Turntable,B22-643-0,B22-643,Washer
+PL-A35,Turntable,B22-643-0,B22-643,Washer
+PL-A45,Turntable,B22-643-0,B22-643,Washer
+PL-A45D,Turntable,B22-643-0,B22-643,Washer
+PL-50,Turntable,B22-646-0,B22-646,Washer
+PL-71,Turntable,B22-646-0,B22-646,Washer ring
+PL-12E,Turntable,B22-650-0,B22-650,Washer
+PL-15D,Turntable,B22-650-0,B22-650,Washer
+PL-A25,Turntable,B22-650-0,B22-650,Flat washer for center shaft
+PL-A35,Turntable,B22-650-0,B22-650,Washer
+PL-A45,Turntable,B22-650-0,B22-650,Washer
+PL-A45D,Turntable,B22-650-0,B22-650,Washer
+RT-1020L,Reel To Reel Tape,B23-405-A,B23-405,Bushing
+PL-50,Turntable,B23-601-0,B23-601,Washer (C)
+PL-55/55D,Turntable,B23-601-0,B23-601,Washer (C)
+PL-50,Turntable,B23-602-0,B23-602,Washer (D)
+PL-55/55D,Turntable,B23-602-0,B23-602,Washer (D)
+PL-25/F,Turntable,B23-613-0,B23-613,Washer (N)
+PL-50,Turntable,B23-614-0,B23-614,Washer (SPEED SELECTOR SWITCH)
+PL-50,Turntable,B23-615-0,B23-615,Washer (SPEED SELECTOR SWITCH)
+PL-A25,Turntable,B23-629-0,B23-629,Washer teflon
+PL-A35,Turntable,B23-629-0,B23-629,Teflon washer
+PL-A45,Turntable,B23-629-0,B23-629,Teflon washer
+PL-A45D,Turntable,B23-629-0,B23-629,Teflon washer
+PL-55/55D,Turntable,B23-635-0,B23-635,Teflon washer
+PL-12E,Turntable,B23-642-0,B23-642,Washer
+PL-200/200X,Turntable,B23-642,B23-642,Cartridge mounting washer (PL-200X)
+PL-50,Turntable,B23-642-0,B23-642,Washer
+PL-50,Turntable,B23-642-A,B23-642,Washer
+PL-51,Turntable,B23-642-0,B23-642,Washer
+PL-510,Turntable,B23-642,B23-642,Washer
+PL-510S,Turntable,B23-642,B23-642,Washer
+PL-51A,Turntable,B23-642-0,B23-642,Washer
+PL-71,Turntable,B23-642-0,B23-642,Washer
+PL-A35,Turntable,B23-642-0,B23-642,Washer
+PL-A45,Turntable,B23-642-0,B23-642,Washer
+PL-A45,Turntable,B23-642-0,B23-642,Washer
+PL-A45D,Turntable,B23-642-0,B23-642,Washer
+PL-A45D,Turntable,B23-642-0,B23-642,Washer
+PL-A505,Turntable,B23-642-0,B23-642,Washer
+PL-L800,Turntable,B23-642,B23-642,Washer
+H-R9000,8-Track Tape,B23-644-0,B23-644,Insulating Washer
+H-R99,8-Track Tape,B23-644-0,B23-644,Insulating Washer
+H-R9000,8-Track Tape,B23-657-0,B23-657,Nylon Washer
+H-R99,8-Track Tape,B23-657-0,B23-657,Nylon Washer
+QT-74,Reel To Reel Tape,B23-854-0,B23-854,Teflon washer 6.5x4.2x0.3(t)mm
+QT-74,Reel To Reel Tape,B23-854-0,B23-854,Teflon washer 6.5x4.2x0.3(t)mm
+QT-6100,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer
+QT-6100,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer
+QT-6600,Reel To Reel Tape,B23-865-0,B23-865,Teflon wahser
+QT-6600,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer
+QT-74,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer 7x5.2x0.8(t)mm
+QT-6100,Reel To Reel Tape,B23-866-0,B23-866,Teflon washer
+QT-6100,Reel To Reel Tape,B23-866-0,B23-866,Teflon Washer
+QT-6600,Reel To Reel Tape,B23-866-0,B23-866,Teflon washer
+QT-6600,Reel To Reel Tape,B23-866-0,B23-866,Teflon washer
+SX-9000,Receiver,B28-002-0,B28-002,Shaft
+QT-6100,Reel To Reel Tape,B28-851-0,B28-851,Slot pin
+QT-6600,Reel To Reel Tape,B28-851-0,B28-851,Slot pin
+QT-74,Reel To Reel Tape,B28-851-0,B28-851,Slot pin
+QT-6600,Reel To Reel Tape,B31 -858-A,B31 -858,Pinch roller return spring
+QT-6100,Reel To Reel Tape,B31 -865-0,B31 -865,Tension adjusting spring
+SX-9000,Receiver,B31-0160,B31-0160,Spring for Front Cover
+PL-A35,Turntable,B31-026-8,B31-026,Spring
+PL-A45,Turntable,B31-026-B,B31-026,Spring
+PL-A45D,Turntable,B31-026-B,B31-026,Spring
+PL-A35,Turntable,B31-028-B,B31-028,Spring
+PL-A45,Turntable,B31-028-B,B31-028,Spﬂng
+PL-A45D,Turntable,B31-028-B,B31-028,Spring
+PL-A35,Turntable,B31-029-A,B31-029,Spring
+PL-A45,Turntable,B31-029-B,B31-029,Spring
+PL-A45D,Turntable,B31-029-B,B31-029,Spﬂng
+PL-A35,Turntable,B31-030-A,B31-030,Spring (A)
+PL-A35,Turntable,B31-031-A,B31-031,Spring (B)
+PL-A35,Turntable,B31-032-A,B31-032,Spring (C)
+PL-A35,Turntable,B31-033-A,B31-033,Spring (D)
+PL-50,Turntable,B31-034-A,B31-034,Return lever spring
+PL-50,Turntable,B31-035-0,B31-035,Spring (SPEED SELECTOR SWITCH)
+PL-50,Turntable,B31-036-A,B31-036,Spring
+PL-50,Turntable,B31-036-A,B31-036,Spring
+PL-50,Turntable,B31-036-A,B31-036,Spring
+PL-50,Turntable,B31-042-0,B31-042,Spring
+QT-6100,Reel To Reel Tape,B31-443-A,B31-443,Pause lever spring
+QT-6600,Reel To Reel Tape,B31-443-A,B31-443,Pause lever spring
+QT-74,Reel To Reel Tape,B31-443-A,B31-443,Pause lever spring
+QT-6100,Reel To Reel Tape,B31-444-0,B31-444,Pause cam spring
+QT-6600,Reel To Reel Tape,B31-444-0,B31-444,Pause cam spring
+QT-74,Reel To Reel Tape,B31-444-0,B31-444,Pause cam spring
+PL-50,Turntable,B31-607-A,B31-607,Spring
+PL-50,Turntable,B31-612-0,B31-612,Lever spring
+PL-55/55D,Turntable,B31-612-A,B31-612,Spring (Lever spring)
+PL-50,Turntable,B31-613-A,B31-613,Spring (Return spring)
+PL-25/F,Turntable,B31-616-0,B31-616,Spring
+PL-25/F,Turntable,B31-617-0,B31-617,Spring
+PL-25/F,Turntable,B31-617-0,B31-617,Spring
+PL-25/F,Turntable,B31-621-0,B31-621,Spring
+PL-25/F,Turntable,B31-622-0,B31-622,Spring
+PL-25/F,Turntable,B31-623-0,B31-623,Spring
+PL-25/F,Turntable,B31-645-A,B31-645,Spring
+PL-A25,Turntable,B31-645-A,B31-645,Spring
+PL-A35,Turntable,B31-645-A,B31-645,Spring
+PL-A45,Turntable,B31-645-A,B31-645,Spring
+PL-50,Turntable,B31-696-0,B31-696,Spring
+PL-55/55D,Turntable,B31-696-0,B31-696,Spring
+PL-50,Turntable,B31-698-0,B31-698,Ring
+PL-50,Turntable,B31-700-0,B31-700,Spring
+PL-50,Turntable,B31-701-0,B31-701,Spring
+PL-A25,Turntable,B31-744-0,B31-744,Lever spring
+PL-A25,Turntable,B31-744-0,B31-744,Spring for reset lever
+PL-15D,Turntable,B31-745-B,B31-745,Spring
+PL-A25,Turntable,B31-745-A,B31-745,Fixed spring
+PL-A35,Turntable,B31-745-B,B31-745,Spring
+PL-A45,Turntable,B31-745-B,B31-745,Spring
+PL-A45D,Turntable,B31-745-B,B31-745,Spring
+PL-A505,Turntable,B31-745-B,B31-745,Spring
+PL-A505,Turntable,B31-745-B,B31-745,Spring
+PL-A25,Turntable,B31-746-0,B31-746,Function lever spring
+PL-A35,Turntable,B31-746-0,B31-746,Spring
+PL-A45,Turntable,B31-746-0,B31-746,Spring
+PL-A45D,Turntable,B31-746-0,B31-746,Spring
+PL-A25,Turntable,B31-747-C,B31-747,Spring helical
+PL-A25,Turntable,B31-748-0,B31-748,Spring
+PL-A35,Turntable,B31-748-0,B31-748,Spring
+PL-A45,Turntable,B31-748-0,B31-748,Spring
+PL-A45D,Turntable,B31-748-0,B31-748,Spring
+PL-A25,Turntable,B31-749-0,B31-749,Spring
+PL-A35,Turntable,B31-749-B,B31-749,Spring
+PL-A45,Turntable,B31-749-B,B31-749,Sprng
+PL-A505,Turntable,B31-749-B,B31-749,Spring
+PL-A25,Turntable,B31-778-0,B31-778,Cancel spring
+QT-6100,Reel To Reel Tape,B31-854-0,B31-854,Contact lever spring
+QT-6600,Reel To Reel Tape,B31-854-0,B31-854,Contact lever spring
+QT-74,Reel To Reel Tape,B31-854-0,B31-854,Contact lever spring
+QT-6100,Reel To Reel Tape,B31-858-A,B31-858,Pinch roller return spring
+QT-74,Reel To Reel Tape,B31-858-A,B31-858,Pinch roller return spring
+QT-6100,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6100,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6600,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6600,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6100,Reel To Reel Tape,B31-864-0,B31-864,Slide metal spring
+QT-6600,Reel To Reel Tape,B31-864-0,B31-864,Slide metal spring
+QT-74,Reel To Reel Tape,B31-864-0,B31-864,Slide metal spring
+QT-6100,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+QT-6600,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+QT-6600,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+QT-74,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+PL-50,Turntable,B32-010-C,B32-010,Spring (plate) ‘
+PL-50,Turntable,B32-044-0,B32-044,Arm rest spring
+PL-510,Turntable,B32-056,B32-056,Strain relief
+PL-510S,Turntable,B32-056,B32-056,Strain relief
+QT-6600,Reel To Reel Tape,B32-419-0,B32-419,Slide metal lever (B)
+PL-50,Turntable,B32-605-0,B32-605,Return guide plate holder
+PL-A25,Turntable,B32-650-A,B32-650,Plate spring (C)
+PL-25/F,Turntable,B32-667-0,B32-667,Microswitch spring
+PL-A25,Turntable,B32-678-0,B32-678,Locking lever
+QT-6100,Reel To Reel Tape,B32-853-0,B32-853,Slide stepper spring
+QT-6600,Reel To Reel Tape,B32-853-0,B32-853,Slide stepper spring
+QT-74,Reel To Reel Tape,B32-853-0,B32-853,Slide stopper spring
+PL-A25,Turntable,B33-603-A,B33-603,Linking wire
+PL-A35,Turntable,B33-603-0,B33-603,Shaft
+PL-A45,Turntable,B33-603-0,B33-603,Shaft
+PL-A45D,Turntable,B33-603-0,B33-603,Shaft
+PL-A25,Turntable,B33-604-A,B33-604,Return lever spring
+PL-A25,Turntable,B33-606-0,B33-606,Spring
+PL-A25,Turntable,B33-607-0,B33-607,Wire spring
+PL-A25,Turntable,B33-608-A,B33-608,Wire spring
+PL-A35,Turntable,B33-608-8,B33-608,Spring
+PL-A45,Turntable,B33-608-B,B33-608,Spring
+PL-A45D,Turntable,B33-608-B,B33-608,Spring
+PL-A25,Turntable,B33-609-A,B33-609,Return lever spring
+PL-A35,Turntable,B33-609-A,B33-609,Spring
+PL-A45,Turntable,B33-609-A,B33-609,Spring
+PL-A45D,Turntable,B33-609-A,B33-609,Spring
+H-R9000,8-Track Tape,B33-613-A,B33-613,Door Shaft
+H-R99,8-Track Tape,B33-613-A,B33-613,Door Shaft
+PL-A25,Turntable,B33-616-0,B33-616,Wire spring
+PL-A25,Turntable,B33-635-A,B33-635,Lock lever spring
+PL-A35,Turntable,B33-635-A,B33-635,Spring
+PL-A45,Turntable,B33-635-A,B33-635,Spring
+PL-A45D,Turntable,B33-635-C,B33-635,Spring
+H-R9000,8-Track Tape,B33-671-B,B33-671,Spring (Lock Plate Assembly)
+H-R99,8-Track Tape,B33-671-B,B33-671,Spring (Lock Plate Assembly)
+H-R9000,8-Track Tape,B33-673-A,B33-673,Spring (Door)
+H-R99,8-Track Tape,B33-673-A,B33-673,Spring (Door)
+H-R9000,8-Track Tape,B33-726-0,B33-726,Spring (Head Base)
+H-R99,8-Track Tape,B33-726-0,B33-726,Spring (Head Base)
+H-R9000,8-Track Tape,B33-727-0,B33-727,Spring (Azimuth Adj.)
+H-R99,8-Track Tape,B33-727-0,B33-727,Spring (Azimuth Adj.)
+PL-71,Turntable,B71-004-0,B71-004,Nut M9
+QT-6100,Reel To Reel Tape,B71-004-0,B71-004,M9 Nut
+SA-5200,Integrated Amplifier,B71-004-0,B71-004,Nut (9ø)
+SA-9900,Integrated Amplifier,B71-004-0,B71-004,Nut (9φ)
+SA-9900,Integrated Amplifier,B71-004-0,B71-004,Nut (9φ)
+SR-303,Reverb,B71-004,B71-004,Nut M9
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-535,Receiver,B71-004-0,B71-004,Nut (9Φ)
+SX-636,Receiver,B71-004-0,B71-004,Nut 9ϕ
+TX-5300,Tuner,B71-004-0,B71-004,Nut (9ɸ)
+TX-9500,Tuner,B71-004-0,B71-004,Hex. nut 9:1:
+SA-5200,Integrated Amplifier,B71-005-0,B71-005,Nut (11ø)
+TX-9500,Tuner,B71-005-0,B71-005,Hex. nut 11ɸ
+A-9,Integrated Amplifier,B71-010,B71-010,Nut M7
+A-90,Integrated Amplifier,B71-010,B71-010,Nul
+SA-9900,Integrated Amplifier,B71-010-0,B71-010,Nut (7φ)
+TX-6800/608,Tuner,B71-010,B71-010,Nut 7 ɸ
+H-R99,8-Track Tape,B71-031-0,B71-031,Insulating Nut
+QX-9900,Receiver,B71-031-0,B71-031,Insulating nut
+SX-434,Receiver,B71-031-0,B71-031,Nut (insulator)
+SX-838,Receiver,B71-031-0,B71-031,Nut (insulator)
+QT-6100,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-6100,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-6600,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-6600,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-74,Reel To Reel Tape,B71-403-A,B71-403,Special nut (U)
+QT-74,Reel To Reel Tape,B71-403-A,B71-403,Special nut (U)
