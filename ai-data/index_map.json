@@ -1,28 +1,57 @@
 {
   "source": "../Pioneer_Parts_Database.csv",
-  "description": "Automatically generated AI search index derived from Pioneer_Parts_Database.csv.",
+  "description": "Automatically generated AI search indexes derived from Pioneer_Parts_Database.csv.",
   "record_count": 23040,
-  "partition_count": 3,
   "target_records_per_file": 8000,
-  "normalization_rule": "The normalized_part_number is the database's canonical search key. Pioneer part-number suffixes such as -0, -O, -A, -B, etc. are treated as variants of the same base part number.",
-  "partitions": [
-    {
-      "file": "parts_01.csv",
-      "records": 8001,
-      "first_normalized_part_number": "100-PLX500-2017",
-      "last_normalized_part_number": "ANR-020"
+  "normalization_rule": "The normalized_part_number is the canonical search key. Pioneer part-number suffixes such as -0, -O, -A, -B, etc. are treated as variants of the same base part number.",
+  "indexes": {
+    "part_number": {
+      "purpose": "Use this index when searching by Pioneer part number or normalized part number to identify associated models.",
+      "sort_field": "normalized_part_number",
+      "files": [
+        {
+          "file": "parts_01.csv",
+          "records": 8001,
+          "first": "100-PLX500-2017",
+          "last": "ANR-020"
+        },
+        {
+          "file": "parts_02.csv",
+          "records": 8024,
+          "first": "ANR-026",
+          "last": "M49-025"
+        },
+        {
+          "file": "parts_03.csv",
+          "records": 7015,
+          "first": "M49-052",
+          "last": "ZMR30H120FZK"
+        }
+      ]
     },
-    {
-      "file": "parts_02.csv",
-      "records": 8024,
-      "first_normalized_part_number": "ANR-026",
-      "last_normalized_part_number": "M49-025"
-    },
-    {
-      "file": "parts_03.csv",
-      "records": 7015,
-      "first_normalized_part_number": "M49-052",
-      "last_normalized_part_number": "ZMR30H120FZK"
+    "model": {
+      "purpose": "Use this index when searching by Pioneer model to identify its associated parts.",
+      "sort_field": "model",
+      "files": [
+        {
+          "file": "models_01.csv",
+          "records": 8087,
+          "first": "A-27",
+          "last": "PL-A45D"
+        },
+        {
+          "file": "models_02.csv",
+          "records": 8126,
+          "first": "PL-A505",
+          "last": "SX-1010"
+        },
+        {
+          "file": "models_03.csv",
+          "records": 6827,
+          "first": "SX-1050",
+          "last": "TX-D1000"
+        }
+      ]
     }
-  ]
+  }
 }
