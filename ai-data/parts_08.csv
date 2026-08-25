@@ -1,0 +1,2501 @@
+model,category,part_number,normalized_part_number,description
+PL-516,Turntable,PNW-384,PNW-384,Neon lamp holder
+PL-518,Turntable,PNW-384,PNW-384,Neon lamp holder
+PL-L1000,Turntable,PNW-390,PNW-390,Cam
+PL-600/600X,Turntable,PNW-391,PNW-391,Collar
+PL-L1000,Turntable,PNW-391,PNW-391,Collar
+PL-L1000,Turntable,PNW-391,PNW-391,Collar
+PL-600/600X,Turntable,PNW-392,PNW-392,Pulley
+PL-630,Turntable,PNW-392,PNW-392,Motor pulley
+PL-L1000,Turntable,PNW-392,PNW-392,Motor pulley
+PL-600/600X,Turntable,PNW-393,PNW-393,Pulley
+PL-L1000,Turntable,PNW-393,PNW-393,Pulley
+PL-516,Turntable,PNW-396,PNW-396,Cap
+PL-540,Turntable,PNW-397,PNW-397,Foot case
+PL-540,Turntable,PNW-415,PNW-415,Stopper (Foot)
+PL-L1000,Turntable,PNW-418,PNW-418,Gear F
+PL-630,Turntable,PNW-435,PNW-435,Cover (METER)
+PL-540,Turntable,PNW-454,PNW-454,Cover
+PL-540,Turntable,PNW-455,PNW-455,Lamp holder (Strobe)
+PL-560,Turntable,PNW-455,PNW-455,Neon Iamp holder
+PL-540,Turntable,PNW-456,PNW-456,Name plate
+PL-600/600X,Turntable,PNW-469,PNW-469,Stopper
+PL-500,Turntable,PNW-472,PNW-472,Holder
+PL-500X,Turntable,PNW-472,PNW-472,Holder
+PL-500,Turntable,PNW-473,PNW-473,Lens
+PL-500X,Turntable,PNW-473,PNW-473,Lens
+PL-500,Turntable,PNW-474,PNW-474,Selector cam
+PL-500X,Turntable,PNW-474,PNW-474,Selector cam
+PL-500,Turntable,PNW-475,PNW-475,Selector lever
+PL-500X,Turntable,PNW-475,PNW-475,Selector lever
+PL-500,Turntable,PNW-479,PNW-479,Arm base
+PL-500,Turntable,PNW-482,PNW-482,Neon lamp base
+PL-500X,Turntable,PNW-482,PNW-482,Neon lamp base
+PL-L1000,Turntable,PNW-483,PNW-483,Case C
+PL-500,Turntable,PNW-484,PNW-484,Holder
+PL-500X,Turntable,PNW-484,PNW-484,Holder
+PL-600/600X,Turntable,PNW-484,PNW-484,Holder
+PL-600/600X,Turntable,PNW-485,PNW-485,Worm gear
+PL-L1000,Turntable,PNW-485,PNW-485,Worm gear
+PL-600/600X,Turntable,PNW-496,PNW-496,Control case A (PL-600)
+PL-600/600X,Turntable,PNW-497,PNW-497,Control case B (PL-600)
+PL-600/600X,Turntable,PNW-500,PNW-500,Lever
+PL-510A,Turntable,PNW-541,PNW-541,Elevation arm
+PL-510,Turntable,PNW-542,PNW-542,Arm base
+PL-510S,Turntable,PNW-542,PNW-542,Arm base
+PL-510,Turntable,PNW-544,PNW-544,EV Cam
+PL-510S,Turntable,PNW-544,PNW-544,EV Cam
+PL-510,Turntable,PNW-545,PNW-545,Bias lever
+PL-510S,Turntable,PNW-545,PNW-545,Bias lever
+PL-510,Turntable,PNW-546,PNW-546,AS Lever
+PL-510S,Turntable,PNW-546,PNW-546,AS Lever
+PL-510,Turntable,PNW-547,PNW-547,AS Cam shaft
+PL-510S,Turntable,PNW-547,PNW-547,AS Cam shaft
+PL-115D,Turntable,PNW-548,PNW-548,ELEVATION UNIT
+PL-117D,Turntable,PNW-548,PNW-548,Elevation unit
+PL-500,Turntable,PNW-577,PNW-577,Elevation sheet
+PL-500,Turntable,PNW-577,PNW-577,EV sheet
+PL-500X,Turntable,PNW-577,PNW-577,Elevation sheet
+PL-500X,Turntable,PNW-577,PNW-577,EV sheet
+PL-520,Turntable,PNW-577,PNW-577,Arm elevation
+PL-560,Turntable,PNW-577,PNW-577,Elevation sheet
+PL-516,Turntable,PNW-591,PNW-591,PU plate B
+PL-L800,Turntable,PNW-592,PNW-592,Adjusting cam
+PL-516,Turntable,PNW-597,PNW-597,EV rod
+PL-520,Turntable,PNW-602,PNW-602,"Shaft, tonearm"
+PL-520,Turntable,PNW-603,PNW-603,"Bar, tonearm"
+PL-520,Turntable,PNW-616,PNW-616,"Stand base, tonearm"
+PL-600/600X,Turntable,PNX-001,PNX-001,Selector knob
+PL-600/600X,Turntable,PNX-002,PNX-002,Collar
+PL-600/600X,Turntable,PNX-003,PNX-003,EV shaft holder
+PL-600/600X,Turntable,PNX-010,PNX-010,PU plate
+PL-200/200X,Turntable,PNX-015,PNX-015,lnsulator
+PL-100/100X,Turntable,PNX-030,PNX-030,Switch lever
+PL-200/200X,Turntable,PNX-030,PNX-030,Switch lever
+PL-640/S40,Turntable,PNX-030,PNX-030,Switch lever
+PL-100/100X,Turntable,PNX-031,PNX-031,Plate
+PL-200/200X,Turntable,PNX-031,PNX-031,Switch plate
+PL-640/S40,Turntable,PNX-031,PNX-031,Switch locker
+PL-200/200X,Turntable,PNX-033,PNX-033,EV cam
+PL-100/100X,Turntable,PNX-035,PNX-035,Lock plate
+PL-200/200X,Turntable,PNX-035,PNX-035,Plate
+PL-640/S40,Turntable,PNX-035,PNX-035,Lock plate
+PL-100/100X,Turntable,PNX-036,PNX-036,Cam
+PL-200/200X,Turntable,PNX-036,PNX-036,Cam
+PL-100/100X,Turntable,PNX-051,PNX-051,Lens
+PL-200/200X,Turntable,PNX-051,PNX-051,Lens
+PL-200/200X,Turntable,PNX-052,PNX-052,Button guide A
+PL-200/200X,Turntable,PNX-053,PNX-053,Arm base (PL-200)
+PL-100/100X,Turntable,PNX-054,PNX-054,AS washer
+PL-200/200X,Turntable,PNX-054,PNX-054,AS adjusting plate
+PL-100/100X,Turntable,PNX-055,PNX-055,Base lever
+PL-200/200X,Turntable,PNX-055,PNX-055,Lever
+PL-100/100X,Turntable,PNX-059,PNX-059,EV cam
+PL-200/200X,Turntable,PNX-059,PNX-059,EV cam
+PL-200/200X,Turntable,PNX-060,PNX-060,EV plate spring B unit
+PL-100/100X,Turntable,PNX-061,PNX-061,PU plate (B)
+PL-200/200X,Turntable,PNX-061,PNX-061,PU plate B
+PL-100/100X,Turntable,PNX-062,PNX-062,Foot case
+PL-200/200X,Turntable,PNX-062,PNX-062,Foot case
+PL-100/100X,Turntable,PNX-064,PNX-064,Turntable platter packing
+PL-200/200X,Turntable,PNX-064,PNX-064,Turntable protector
+PL-100/100X,Turntable,PNX-074,PNX-074,Neon lamp base
+PL-500,Turntable,PNX-078,PNX-078,Neon lamp holder
+PL-500X,Turntable,PNX-078,PNX-078,Neon lamp holder
+PL-500,Turntable,PNX-079,PNX-079,Panel (KUT)
+PL-500X,Turntable,PNX-080,PNX-080,Panel
+PL-200/200X,Turntable,PNX-085,PNX-085,Arm base (PL-200X)
+PL-500X,Turntable,PNX-088,PNX-088,Arm base
+PL-500,Turntable,PNX-089,PNX-089,Panel (S)
+PL-L1000,Turntable,PNX-092,PNX-092,Lever
+PL-L1000,Turntable,PNX-094,PNX-094,Base
+PL-L1000,Turntable,PNX-097,PNX-097,Spacer
+PL-L1000,Turntable,PNX-098,PNX-098,Arm holder
+PL-L1000,Turntable,PNX-102,PNX-102,Cupler base
+PL-L1000,Turntable,PNX-103,PNX-103,Spacer
+PL-L1000,Turntable,PNX-108,PNX-108,EV gear
+PL-L1000,Turntable,PNX-108,PNX-108,EV gear
+PL-200/200X,Turntable,PNX-110,PNX-110,Panel (PL-200)
+PL-200/200X,Turntable,PNX-111,PNX-111,Panel (PL-200X)
+PL-600/600X,Turntable,PNX-118,PNX-118,"Control case A (PL-600X) (HET, HBT)"
+PL-600/600X,Turntable,PNX-119,PNX-119,"Control case B (PL-600X)  (HET, HBT)"
+PL-500,Turntable,PNX-128,PNX-128,Panel (KCT)
+PL-L1000,Turntable,PNX-130,PNX-130,Control case B
+PL-L1000,Turntable,PNX-135,PNX-135,Control case A
+PL-100/100X,Turntable,PNX-151,PNX-151,Panel
+PL-100/100X,Turntable,PNX-152,PNX-152,Arm base
+PL-100/100X,Turntable,PNX-155,PNX-155,Panel (PL-100X)
+PL-100/100X,Turntable,PNX-156,PNX-156,Arm base (PL-100X)
+PL-L800,Turntable,PNX-182,PNX-182,Switch lever
+PL-L800,Turntable,PNX-190,PNX-190,Holder
+PL-L800,Turntable,PNX-246,PNX-246,Stator base
+PL-L800,Turntable,PNX-247,PNX-247,EV cam
+PL-L800,Turntable,PNX-249,PNX-249,Pipe guide
+PL-L800,Turntable,PNX-252,PNX-252,Carrier holder
+PL-L800,Turntable,PNX-256,PNX-256,Lens
+PL-L800,Turntable,PNX-257,PNX-257,Cramp knob
+PL-L800,Turntable,PNX-258,PNX-258,Cramp lever
+PL-L800,Turntable,PNX-260,PNX-260,Carrier base (B)
+PL-L800,Turntable,PNX-262,PNX-262,Adiusting screw
+PL-L800,Turntable,PNX-264,PNX-264,V slider
+PL-L800,Turntable,PNX-294,PNX-294,Turntable platter packing
+PL-L800,Turntable,PNX-295,PNX-295,Shell spacer
+PL-L800,Turntable,PNX-345,PNX-345,Pipe guide
+PL-L800,Turntable,PNX-360,PNX-360,Stemming pulley
+PL-640/S40,Turntable,PNY-044,PNY-044,AS plate
+PL-640/S40,Turntable,PNY-101,PNY-101,Panel
+PL-640/S40,Turntable,PNY-101,PNY-101,Panel - PL-S40/KCT Type
+PL-640/S40,Turntable,PNY-101,PNY-101,Panel - PL-S40/WP Type
+PL-640/S40,Turntable,PNY-104,PNY-104,Panel  PL-640/KU Type
+PL-640/S40,Turntable,PNY-104,PNY-104,Panel  PL-640/WB Type
+PL-640/S40,Turntable,PNY-104,PNY-104,Panel  PL-640/WE Type
+PL-640/S40,Turntable,PNY-104,PNY-104,Panel  PL-640/WP Type
+PL-640/S40,Turntable,PNY-106,PNY-106,Panel - PL-S40/R Type
+PL-640/S40,Turntable,PNY-109,PNY-109,Panel  PL-640/R Type
+PL-640/S40,Turntable,PNY-130,PNY-130,EV lever (C)
+PL-55X,Turntable,PP-303,PP-303,Head shell Pioneer model
+SX-828,Receiver,PP-402,PP-402,MC phono input transformer
+PL-L800,Turntable,PPB-935,PPB-935,Cartridge assembly
+PL-71,Turntable,PPD-504-0,PPD-504,Tonearm assembly
+PL-55X,Turntable,PPD-518-0,PPD-518,Tonearm assembly
+PL-12DII,Turntable,PPD-520-A,PPD-520,Tonearm assembly
+PL-51A,Turntable,PPD-520-A,PPD-520,Tonearm assembly (excluding headshell)
+PL-117D,Turntable,PPD-535,PPD-535,Tone arm assembly
+PL-510,Turntable,PPD-539,PPD-539,Tonearm assembly
+PL-510A,Turntable,PPD-539,PPD-539,Tonearm assembly
+PL-510S,Turntable,PPD-539,PPD-539,Tonearm assembly
+PL-112D,Turntable,PPD-545,PPD-545,Tone arm assembly
+PL-530,Turntable,PPD-546,PPD-546,Tonearm assembly
+PL-570,Turntable,PPD-550,PPD-550,Tonearm assembly
+PL-550,Turntable,PPD-559,PPD-559,Tonearm assembly
+PL-520,Turntable,PPD-569,PPD-569,Tone arm assembly
+PL-518,Turntable,PPD-572,PPD-572,Tonearm assembly
+PL-540,Turntable,PPD-572,PPD-572,Tone arm assembly
+PL-516,Turntable,PPD-573,PPD-573,Tonearm assembly
+PL-630,Turntable,PPD-576,PPD-576,Tonearm assembly
+PL-560,Turntable,PPD-577,PPD-577,Tonearm assembly
+PL-500X,Turntable,PPD-580,PPD-580,Tonearm assembly
+PL-600/600X,Turntable,PPD-589,PPD-589,Tonearm assembly (PL-600)
+PL-200/200X,Turntable,PPD-590,PPD-590,Arm assembly (PL-200X)
+PL-500,Turntable,PPD-595,PPD-595,Tonearm assembly
+PL-600/600X,Turntable,PPD-597,PPD-597,Tonearm assembly (PL-600X)
+PL-200/200X,Turntable,PPD-598,PPD-598,Arm assembly (PL-200)
+PL-L1000,Turntable,PPD-601,PPD-601,Tone arm assembly
+PL-100/100X,Turntable,PPD-603,PPD-603,Arm assembly
+PL-100/100X,Turntable,PPD-609,PPD-609,Arm assembly (PL-100X)
+PL-L800,Turntable,PPD-619,PPD-619,Tonearm assembly
+PL-640/S40,Turntable,PPD-653,PPD-653,Arm assembly
+PL-100/100X,Turntable,PPZ30P080FMC,PPZ30P080FMC,Screw
+QX-747,Receiver,PQX-101,PQX-101,Test record
+QX-646,Receiver,PQX-1011,PQX-1011,Test record
+QX-949,Receiver,PQX-1011,PQX-1011,Test record
+RT-1011L,Reel To Reel Tape,PR-100,PR-100,Metal reel 10-1/2 in
+RT-1020L,Reel To Reel Tape,PR-100,PR-100,Empty reel (PR-100)
+RT-707,Reel To Reel Tape,PR-85,PR-85,"PR-85 cannot be supplied 7"" Metal reel"
+TX-05,Tuner,PR5724S,PR5724S,LED CT730
+PL-55X,Turntable,PRB-014-0,PRB-014,Operating instructions (PL-55X)
+PL-12DII,Turntable,PRB-019-0,PRB-019,Operating instructions  PL-12DII
+PL-117D,Turntable,PRB-022,PRB-022,"Operating instruction (KUT, KCT model)"
+PL-510,Turntable,PRB-023,PRB-023,Operating instruction (PL-510)
+PL-510S,Turntable,PRB-023,PRB-023,Operating instruction (PL-510S)
+PL-115D,Turntable,PRB-025,PRB-025,O/M PL-115D
+PL-510,Turntable,PRB-028,PRB-028,Operating instruction (PL-510)
+PL-510S,Turntable,PRB-029,PRB-029,Operating instruction (PL-510S)
+PL-117D,Turntable,PRB-031,PRB-031,Operating instruction (HGT model/English)
+PL-117D,Turntable,PRB-035,PRB-035,"Operating instruction (QT,Q model)"
+PL-510A,Turntable,PRB-036,PRB-036,Operating instructions  PL-510A
+PL-510A,Turntable,PRB-039,PRB-039,Operating instructions (HGT - English)
+PL-530,Turntable,PRB-044,PRB-044,Operating instructions PL-530 (S type)
+PL-530,Turntable,PRB-045,PRB-045,Operating instructions PL-530 (K type)
+PL-530,Turntable,PRB-048,PRB-048,Operating instructions PL-530 (ST type)
+PL-550,Turntable,PRB-054,PRB-054,Operating instructions PL-550
+PL-570,Turntable,PRB-056,PRB-056,Operating instructions  PL-570
+PLC-590,Turntable,PRB-068,PRB-068,Operating instructions  PLC-590
+PL-520,Turntable,PRB-074,PRB-074,Operating instructions (HGT)
+PL-520,Turntable,PRB-075,PRB-075,"Operating instructions (KCT, KUT)"
+PL-516,Turntable,PRB-079,PRB-079,Operating instructions (English)  PL-516
+PL-516,Turntable,PRB-080,PRB-080,Operating instructions   PL-516
+PL-518,Turntable,PRB-083,PRB-083,Operating instructions  PL-518 (HGT - English)
+PL-540,Turntable,PRB-097,PRB-097,Operating instruction  PL-540
+PL-630,Turntable,PRB-100,PRB-100,Operating instructions  PL-630
+PL-560,Turntable,PRB-111,PRB-111,Operating instructions  PL-560
+PL-500,Turntable,PRB-134,PRB-134,"Operating instructions (KUT, KCT)"
+PL-500X,Turntable,PRB-135,PRB-135,Operating instructions (English)
+PL-200/200X,Turntable,PRB-141,PRB-141,Operating instructions (PL-200)
+PL-200/200X,Turntable,PRB-142,PRB-142,Operating instructions (PL-200X)
+PL-600/600X,Turntable,PRB-149,PRB-149,Operating instructions  PL-600
+PL-L1000,Turntable,PRB-156,PRB-156,Operating instructions  PL-L1000 (English)
+PL-500,Turntable,PRB-158,PRB-158,Operating instructions (S)
+PL-100/100X,Turntable,PRB-167,PRB-167,Operating instructions (PL-100X)
+PL-L800,Turntable,PRB-186,PRB-186,Operating instructions  PL-L800
+PL-640/S40,Turntable,PRB-232,PRB-232,Operating instructions (English)  PL-S40/KUT Type
+PL-640/S40,Turntable,PRB-233,PRB-233,Operating instructions (English)  PL-640/KU Type
+PL-640/S40,Turntable,PRB-233,PRB-233,Operating instructions (English)  PL-640/R Type
+PL-640/S40,Turntable,PRB-233,PRB-233,Operating instructions (English)  PL-640/WB Type
+PL-640/S40,Turntable,PRB-233,PRB-233,Operating instructions (English)  PL-640/WP Type
+PL-640/S40,Turntable,PRC-006,PRC-006,Operating Instructions (Spanish) - PL-S40/R Type
+PL-640/S40,Turntable,PRC-007,PRC-007,Operating instructions (Spanish)  PL-640/R Type
+PL-117D,Turntable,PRD-015,PRD-015,"Operating instruction (HGT modeI/German, French)"
+PL-510A,Turntable,PRD-016,PRD-016,Operating instructions (HGT - French/German)
+PL-520,Turntable,PRD-024,PRD-024,Operating instructions (Germany/French)
+PL-516,Turntable,PRD-026,PRD-026,Operating instructions (French/Germany)  PL-516
+PL-518,Turntable,PRD-028,PRD-028,Operating instructions  PL-518 (HGT - French/Germany)
+PL-500X,Turntable,PRD-046,PRD-046,Operating instructions (French/German)
+PL-L1000,Turntable,PRD-051,PRD-051,"Operating instructions PL-L1000 (German/French - HET, HBT)"
+PL-100/100X,Turntable,PRD-054,PRD-054,Operating instructions (French/German - WE)
+PL-100/100X,Turntable,PRD-055,PRD-055,Operating instructions (French/German - WE  PL-100X)
+PL-640/S40,Turntable,PRE-021,PRE-021,Operating instructions (English/Garman/French/Italian)  PL-640/WE Type
+PLC-590,Turntable,PRF-009,PRF-009,Tone arm mounting paper
+PL-510,Turntable,PRM-011,PRM-011,Strobo
+PL-510S,Turntable,PRM-011,PRM-011,Strobo
+PL-12DII,Turntable,PRW-003-0,PRW-003,Cramp. caution card
+PL-500,Turntable,PRW-038,PRW-038,Caution label
+PL-500X,Turntable,PRW-038,PRW-038,Caution label
+PL-L1000,Turntable,PRW-046,PRW-046,Label
+PL-L1000,Turntable,PRW-068,PRW-068,Caution label
+SX-939,Receiver,PR½PS 225J,PR½PS 225J,Carbon film  2.2M  ½W
+SX-1010,Receiver,PS2P 332J,PS2P 332J,Metal oxide 3.3k 2W
+PL-630,Turntable,PSA-002,PSA-002,Power switch
+PL-530,Turntable,PSB-001,PSB-001,Line voltage selector (S type only)
+PL-520,Turntable,PSB-002,PSB-002,Line voltage Selector (HGT)
+PL-600/600X,Turntable,PSB-002,PSB-002,"Line voltage selector (HET, HBT)"
+PL-L1000,Turntable,PSB-002,PSB-002,"Line voltage selector (HET, HBT)"
+PL-600/600X,Turntable,PSB-007,PSB-007,"Line voltage selector (S, S/G)"
+PL-L1000,Turntable,PSB-007,PSB-007,Line voltage selector (S/G)
+PL-600/600X,Turntable,PSB-008,PSB-008,Rotary switch
+PL-500X,Turntable,PSB-009,PSB-009,LINE VOLTAGE SELECTOR
+PL-500,Turntable,PSB-010,PSB-010,LINE VOLTAGE SELECTOR (S)
+PL-640/S40,Turntable,PSB-011,PSB-011,Line voltage selector  PL-640/R Type
+PL-640/S40,Turntable,PSB-011,PSB-011,Line voltage selector - PL-S40/R Type
+PL-600/600X,Turntable,PSB-022,PSB-022,"Line voltage selector (HET, HBT)"
+F-91-3,Tuner,PSE-201,PSE-201,HA B-STOCK UNIT CARTON
+F-91-3,Tuner,PSE-202,PSE-202,HE B-STOCK FOAM
+F-91-3,Tuner,PSE-501,PSE-501,HE B-STOCK FOAM COVER SHEET
+PL-600/600X,Turntable,PSF-005,PSF-005,Microswitch
+PL-630,Turntable,PSF-005,PSF-005,Microswitch
+PL-L1000,Turntable,PSF-005,PSF-005,Microswitch
+PL-200/200X,Turntable,PSF-006,PSF-006,Microswitch
+PL-500,Turntable,PSF-006,PSF-006,MICRO (START/REPEAT)
+PL-500,Turntable,PSF-006,PSF-006,"Microswitch (KUT, KCT)"
+PL-500,Turntable,PSF-006,PSF-006,START/REPEAT
+PL-518,Turntable,PSF-006,PSF-006,Microswitch (KUT)
+PL-540,Turntable,PSF-006,PSF-006,Microswitch
+PL-560,Turntable,PSF-006,PSF-006,Microswitch
+PL-600/600X,Turntable,PSF-006,PSF-006,"Microswitch (KUT, KCT)"
+PL-500,Turntable,PSF-007,PSF-007,MICRO (STOP)
+PL-560,Turntable,PSF-007,PSF-007,Microswitch
+PL-500,Turntable,PSF-008,PSF-008,CUT(STOP)
+PL-500,Turntable,PSF-008,PSF-008,Microswitch
+PL-500,Turntable,PSF-008,PSF-008,Microswitch (S)
+PL-500,Turntable,PSF-008,PSF-008,START/REPEAT (S)
+PL-600/600X,Turntable,PSF-008,PSF-008,"Microswitch (S, S/G)"
+PL-L1000,Turntable,PSF-008,PSF-008,Microswitch (S/G)
+PL-100/100X,Turntable,PSF-009,PSF-009,Microswitch
+PL-500,Turntable,PSF-009,PSF-009,MICRO (START/REPEAT) (S)
+PL-500,Turntable,PSF-009,PSF-009,MICRO (STOP) (S)
+PL-500X,Turntable,PSF-009,PSF-009,MICRO (START/REPEAT)
+PL-500X,Turntable,PSF-009,PSF-009,MICRO (STOP)
+PL-500X,Turntable,PSF-012,PSF-012,CUT (STOP)
+PL-500X,Turntable,PSF-012,PSF-012,Microswitch
+PL-500X,Turntable,PSF-012,PSF-012,START/REPEAT
+PL-600/600X,Turntable,PSF-012,PSF-012,"Microswitch (HET, HBT)"
+PL-L1000,Turntable,PSF-012,PSF-012,"Microswitch (HET, HBT)"
+PL-L800,Turntable,PSF-018,PSF-018,Microswitch
+PL-640/S40,Turntable,PSF-020,PSF-020,Microswitch (POWER)
+PLC-590,Turntable,PSF-023,PSF-023,Microswitch (STOP)
+PL-516,Turntable,PSG-001,PSG-001,Push switch (SPEED)
+PL-518,Turntable,PSG-001,PSG-001,Push switch (SPEED SELECT)
+PL-520,Turntable,PSG-001,PSG-001,Push switch (SPEED)
+PL-550,Turntable,PSG-001,PSG-001,Push switch (Quartz Lock)
+PL-570,Turntable,PSG-001,PSG-001,Microswitch (Quartz Lock)
+PLC-590,Turntable,PSG-002,PSG-002,Push switch (Quartz Lock)
+PLC-590,Turntable,PSG-003,PSG-003,Push switch (SPEED)
+PL-630,Turntable,PSG-009,PSG-009,"Switch (REPEAT,30/25/17CM,UP/DOWN)"
+PL-630,Turntable,PSG-010,PSG-010,Push switch (SPEED)
+PL-630,Turntable,PSG-011,PSG-011,Push switch (QUARTZ)
+PL-630,Turntable,PSG-013,PSG-013,Push switch (AUTO)
+PL-540,Turntable,PSG-014,PSG-014,Push switch (Speed selector)
+PL-500,Turntable,PSG-015,PSG-015,SPEED SELECTOR
+PL-500X,Turntable,PSG-015,PSG-015,SPEED SELECTOR
+PL-600/600X,Turntable,PSG-016,PSG-016,Push switch
+PL-600/600X,Turntable,PSG-017,PSG-017,Push switch
+PL-L1000,Turntable,PSG-017,PSG-017,Push switch
+PL-L800,Turntable,PSG-017,PSG-017,Push switch
+PL-L800,Turntable,PSG-018,PSG-018,Switch (POWER)
+PL-100/100X,Turntable,PSG-020,PSG-020,Push switch
+PL-200/200X,Turntable,PSG-020,PSG-020,Push switch (SPEED SELECT/POWER)
+PL-L800,Turntable,PSG-025,PSG-025,"Switch (SPEED,DISC SIZE,REPEAT,ARM ELEVATION,START/STOP)"
+PL-L800,Turntable,PSG-030,PSG-030,"Switch (ARM LOCATION <, ARM LOCATION >)"
+PL-L800,Turntable,PSG-031,PSG-031,Switch (DOWN DETECTOR/UP DETECTOR)
+PL-640/S40,Turntable,PSG-048,PSG-048,Push switch
+PL-640/S40,Turntable,PSG-049,PSG-049,Push switch (SPEED)
+PL-510A,Turntable,PSH-001,PSH-001,Slide switch (LlNE voltage selector)
+PL-570,Turntable,PSH-001,PSH-001,Line voltage selector (HGT)
+PL-202AZ,Turntable,PSH1006,PSH1006,SWITCH (SPEED)PL222AZ
+PL-222AZ,Turntable,PSH1006,PSH1006,SWITCH (SPEED)PL222AZ
+PL-223AZ,Turntable,PSH1006,PSH1006,SWITCH (SPEED)PL222AZ
+PL-117D,Turntable,PSN -001,PSN -001,Leaf switch
+PL-500,Turntable,PSS-003,PSS-003,Crystal
+PL-500X,Turntable,PSS-003,PSS-003,Crystal
+PL-540,Turntable,PTL-003,PTL-003,Armature core assembly
+PL-560,Turntable,PTL-003,PTL-003,Armature core assembly
+PL-630,Turntable,PTL-003,PTL-003,Armature core assembly
+PL-510,Turntable,PTT-008,PTT-008,Power transformer
+PL-510S,Turntable,PTT-008,PTT-008,Power transformer
+PL-510A,Turntable,PTT-009,PTT-009,Power transformer (HGT)
+PL-510A,Turntable,PTT-017,PTT-017,Power tranformer
+PL-530,Turntable,PTT-017,PTT-017,Power transformer (K type)
+PL-530,Turntable,PTT-020,PTT-020,Power transformer (S type)
+PL-550,Turntable,PTT-021,PTT-021,Power transformer
+PL-570,Turntable,PTT-021,PTT-021,Power transformer
+PL-570,Turntable,PTT-025,PTT-025,Power transformer (HGT)
+PLC-590,Turntable,PTT-026,PTT-026,Power transformer
+PL-520,Turntable,PTT-032,PTT-032,Power transformer (HGT)
+PL-520,Turntable,PTT-033,PTT-033,"Power transformer (KUT, KCT)"
+PL-516,Turntable,PTT-037,PTT-037,"Power transformer (KUT,KCT)"
+PL-516,Turntable,PTT-038,PTT-038,"Power transformer (HG,HGT)"
+PL-518,Turntable,PTT-041,PTT-041,"Power transformer (KCT, KUT)"
+PL-518,Turntable,PTT-042,PTT-042,Power transformer (HGT)
+PL-540,Turntable,PTT-048,PTT-048,Power transformer (KUT)
+PL-630,Turntable,PTT-050,PTT-050,Power transformer (KUT)
+PL-540,Turntable,PTT-051,PTT-051,Power transformer (KCT)
+PL-560,Turntable,PTT-053,PTT-053,Power transformer (KUT)
+PL-560,Turntable,PTT-054,PTT-054,Power transformer (KCT)
+PL-630,Turntable,PTT-057,PTT-057,Power transformer (KCT)
+PL-200/200X,Turntable,PTT-077,PTT-077,"Power transformer (KU, KUT)"
+PL-200/200X,Turntable,PTT-090,PTT-090,Power transformer (KCT)
+PL-500,Turntable,PTT-092,PTT-092,Power transformer (KUT)
+PL-500X,Turntable,PTT-093,PTT-093,Power transformer
+PL-500X,Turntable,PTT-093,PTT-093,Transformer
+PL-600/600X,Turntable,PTT-094,PTT-094,Power transformer (KUT)
+PL-600/600X,Turntable,PTT-095,PTT-095,"Power transformer (HET, HBT)"
+PL-L1000,Turntable,PTT-097,PTT-097,"Power transformer (HET, HBT)"
+PL-500,Turntable,PTT-098,PTT-098,Power transformer (S)
+PL-600/600X,Turntable,PTT-099,PTT-099,Power transformer (S/G)
+PL-L1000,Turntable,PTT-100,PTT-100,Power transformer (S/G)
+PL-500,Turntable,PTT-102,PTT-102,Power transformer (KCT)
+PL-600/600X,Turntable,PTT-103,PTT-103,Power transformer (KCT)
+PL-100/100X,Turntable,PTT-107,PTT-107,Power transformer
+PL-L800,Turntable,PTT-128,PTT-128,Power transformer (120V)
+PL-640/S40,Turntable,PTX-042,PTX-042,Power transformer (120V)  PL-640/KU Type
+PL-640/S40,Turntable,PTX-042,PTX-042,Power transformer (AC 120V) - PL-S40/KUT Type
+PL-640/S40,Turntable,PTX-042,PTX-042,Power transformer assembly
+PL-640/S40,Turntable,PTX-043,PTX-043,Power transformer (AC 120V) - PL-S40/KCT Type
+PL-640/S40,Turntable,PTX-044,PTX-044,Power transformer (220V - 240V)  PL-640/WB Type
+PL-640/S40,Turntable,PTX-044,PTX-044,Power transformer (220V - 240V)  PL-640/WE Type
+PL-640/S40,Turntable,PTX-044,PTX-044,Power transformer (220V - 240V)  PL-640/WP Type
+PL-640/S40,Turntable,PTX-044,PTX-044,Power transformer (AC 220V -AC 240V) - PL-S40/WP Type
+PL-640/S40,Turntable,PTX-045,PTX-045,"Power transformer (100V - 120V, 220V - 240V)  PL-640/R Type"
+PL-640/S40,Turntable,PTX-645,PTX-645,"Power transformer (AC 110V -120V, 220V - 240V) - PL-S40/R Type"
+PL-510,Turntable,PWG-007,PWG-007,Driving current control assembly
+PL-510A,Turntable,PWG-007,PWG-007,Drive current control assembly
+PL-510S,Turntable,PWG-007,PWG-007,Driving current control assembly
+PL-530,Turntable,PWG-009,PWG-009,Drive control assembly
+PL-550,Turntable,PWG-011,PWG-011,Drive control assembly
+PL-570,Turntable,PWG-011,PWG-011,Drive control assembly
+PLC-590,Turntable,PWG-012,PWG-012,Drive control assembly
+PL-540,Turntable,PWG-016,PWG-016,Drive control assembly
+PL-560,Turntable,PWG-017,PWG-017,Drive control assembly (Include armature core assembly)
+PL-630,Turntable,PWG-017,PWG-017,Drive controI assembly
+PL-L1000,Turntable,PWM-032,PWM-032,Control assembly
+PL-L800,Turntable,PWM-063,PWM-063,Control assembly
+PL-518,Turntable,PWN-338,PWN-338,Plate (L)
+PL-117D,Turntable,PWR -813,PWR -813,"Line voltage selector assembly (Q,QT model)"
+PL-510,Turntable,PWR-002,PWR-002,Power supply assembly B
+PL-510S,Turntable,PWR-002,PWR-002,Power supply assembly B
+PL-510A,Turntable,PWR-006,PWR-006,Power supply assembly B
+PL-510A,Turntable,PWR-008,PWR-008,Power supply assembly B (HGT)
+PL-520,Turntable,PWR-016,PWR-016,Power supply assembly (HGT)
+PL-520,Turntable,PWR-017,PWR-017,Power supply assembly (KUT)
+PL-516,Turntable,PWR-021,PWR-021,Power supply assembly (KUT)
+PL-516,Turntable,PWR-023,PWR-023,"Power supply assembly (HG,HGT)"
+PL-520,Turntable,PWR-026,PWR-026,Power supply assembly (KCT)
+PL-518,Turntable,PWR-027,PWR-027,Power supply assembly (KUT)
+PL-518,Turntable,PWR-028,PWR-028,Power supply assembly (HGT)
+PL-516,Turntable,PWR-031,PWR-031,Power supply assembly (KCT)
+PL-518,Turntable,PWR-032,PWR-032,Power supply assembly (KCT)
+PL-518,Turntable,PWR-035,PWR-035,Power supply assembly A (HGT)
+PL-540,Turntable,PWR-040,PWR-040,Power supply assembly (KUT)
+PL-540,Turntable,PWR-042,PWR-042,Power supply assembly (KCT)
+PL-560,Turntable,PWR-044,PWR-044,Power supply assembly (KUT)
+PL-560,Turntable,PWR-045,PWR-045,Power supply assembly (KCT)
+PL-630,Turntable,PWR-048,PWR-048,Power supply assembly (KUT)
+PL-630,Turntable,PWR-049,PWR-049,Power supply assembly (KCT)
+PL-600/600X,Turntable,PWR-056,PWR-056,"Power supply assembly (HET, HBT)"
+PL-L1000,Turntable,PWR-057,PWR-057,POWER SUPPLY Ass'y
+PL-L1000,Turntable,PWR-057,PWR-057,"Power supply assembly (HET, HBT)"
+PL-L1000,Turntable,PWR-058,PWR-058,Power supply assembly (S/G)
+PL-510,Turntable,PWR-810,PWR-810,Power supply assembly A
+PL-510S,Turntable,PWR-810,PWR-810,Power supply assembly A
+PL-510A,Turntable,PWR-816,PWR-816,Power supply assembly A
+PL-510A,Turntable,PWR-818,PWR-818,Power supply A assembly (HGT)
+PL-530,Turntable,PWR-820,PWR-820,"Power supply assembly (KCT, KUT)"
+PL-530,Turntable,PWR-821,PWR-821,"Power supply assembly (S, ST)"
+PL-550,Turntable,PWR-827,PWR-827,Power supply assembly (KUT)
+PL-570,Turntable,PWR-828,PWR-828,Power supply assembly (KUT)
+PL-570,Turntable,PWR-830,PWR-830,Power supply assembly (KCT)
+PL-550,Turntable,PWR-832,PWR-832,Power supply assembly (KCT)
+PL-570,Turntable,PWR-834,PWR-834,Power supply assembly (HGT)
+PL-510,Turntable,PWX-003,PWX-003,Positional detector
+PL-510S,Turntable,PWX-003,PWX-003,Positional detector
+PL-510A,Turntable,PWX-004,PWX-004,Locational detector assembly
+PL-550,Turntable,PWX-006,PWX-006,Positional detector assembly
+PLC-590,Turntable,PWX-006,PWX-006,Positinel detector assembly
+PL-530,Turntable,PWX-007,PWX-007,Positional detector assembly
+PLC-590,Turntable,PWX-010,PWX-010,Meter drive circuit assembly
+PL-570,Turntable,PWX-011,PWX-011,Auto return detector assembly
+PL-540,Turntable,PWX-021,PWX-021,Oscillator assembly
+PL-560,Turntable,PWX-022,PWX-022,Oscillator assembly
+PL-630,Turntable,PWX-022,PWX-022,Oscillator assembly
+PL-540,Turntable,PWX-023,PWX-023,Speed detector assembly
+PL-560,Turntable,PWX-023,PWX-023,Speed detector assembly
+PL-630,Turntable,PWX-023,PWX-023,Speed detector assembly
+PL-630,Turntable,PWX-027,PWX-027,Tonearm drive assembly
+PL-560,Turntable,PWX-028,PWX-028,Control assembly
+PL-630,Turntable,PWX-035,PWX-035,Control (A) assembly
+PL-570,Turntable,PWX-066,PWX-066,Positional detector assembly
+CT-F8282,Cassette Tape,PWX-113,PWX-113,Indicator assembly
+PL-12DII,Turntable,PXA-003-0,PXA-003,Hinge (KUT)
+PL-71,Turntable,PXA-008-A,PXA-008,Switch assembly
+PL-12DII,Turntable,PXA-014-0,PXA-014,Hinge (KCT)
+PL-71,Turntable,PXA-019-A,PXA-019,Arm rest assembly
+PL-51A,Turntable,PXA-030-A,PXA-030,Arm rest assembly
+PL-55X,Turntable,PXA-047-0,PXA-047,Insulator assembly
+PL-530,Turntable,PXA-070,PXA-070,Hinge
+PL-550,Turntable,PXA-085,PXA-085,AS assembly
+PL-550,Turntable,PXA-086,PXA-086,EV sheet assembly
+PL-570,Turntable,PXA-088,PXA-088,AS plate unit
+PL-510,Turntable,PXA-103,PXA-103,Arm rest unit
+PL-510A,Turntable,PXA-103,PXA-103,Arm rest unit
+PL-510S,Turntable,PXA-103,PXA-103,Arm rest unit
+PL-112D,Turntable,PXA-104,PXA-104,Arm rest assembly
+PL-117D,Turntable,PXA-104,PXA-104,Arm rest assembly
+PL-510,Turntable,PXA-104,PXA-104,Arm rest assembly
+PL-510A,Turntable,PXA-104,PXA-104,Arm rest assembly
+PL-510S,Turntable,PXA-104,PXA-104,Arm rest assembly
+PL-510,Turntable,PXA-106,PXA-106,Storbo case assembly
+PL-510S,Turntable,PXA-106,PXA-106,Storbo case assembly
+PL-510,Turntable,PXA-107,PXA-107,FUNCTION MECHANISM ASSEMBLY
+PL-510S,Turntable,PXA-107,PXA-107,FUNCTION MECHANISM ASSEMBLY
+PL-112D,Turntable,PXA-108,PXA-108,Hinge
+PL-117D,Turntable,PXA-108,PXA-108,Hinge
+PL-510A,Turntable,PXA-108,PXA-108,Hinge
+PL-510,Turntable,PXA-109,PXA-109,Foot assembly
+PL-510A,Turntable,PXA-109,PXA-109,Foot assembly
+PL-510S,Turntable,PXA-109,PXA-109,Foot assembly
+PL-510,Turntable,PXA-117,PXA-117,Bottom plate assembly
+PL-510A,Turntable,PXA-117,PXA-117,Bottom plate assembly
+PL-510S,Turntable,PXA-117,PXA-117,Bottom plate assembly
+PL-117D,Turntable,PXA-124,PXA-124,Speed selector button assembly
+PL-112D,Turntable,PXA-134,PXA-134,Center shaft assembly
+PL-117D,Turntable,PXA-134,PXA-134,Center shaft assembly
+PL-117D,Turntable,PXA-142,PXA-142,Elevation lever assembly
+PL-117D,Turntable,PXA-143,PXA-143,Disc size lever assembly
+PL-115D,Turntable,PXA-148,PXA-148,FOOT ASSY PL115D
+PL-117D,Turntable,PXA-148,PXA-148,Foot assembly
+PL-117D,Turntable,PXA-149,PXA-149,PU plate assembly
+PL-117D,Turntable,PXA-150,PXA-150,Speed selector assembly
+PL-510,Turntable,PXA-155,PXA-155,Foot assembly
+PL-510A,Turntable,PXA-155,PXA-155,Foot assembly
+PL-510S,Turntable,PXA-155,PXA-155,Foot assembly
+PL-112D,Turntable,PXA-159,PXA-159,Dust cover assembly
+PL-117D,Turntable,PXA-159,PXA-159,Dust cover assembly
+PL-510,Turntable,PXA-159,PXA-159,Dust cover assembly
+PL-510A,Turntable,PXA-159,PXA-159,Dust cover assembly
+PL-510S,Turntable,PXA-159,PXA-159,Dust cover assembly
+PL-550,Turntable,PXA-164,PXA-164,Arm rest assembly
+PL-550,Turntable,PXA-165,PXA-165,EV assembly
+PL-550,Turntable,PXA-171,PXA-171,Hinge assembly
+PL-570,Turntable,PXA-171,PXA-171,Hinge
+PLC-590,Turntable,PXA-171,PXA-171,Hinge
+PL-510,Turntable,PXA-180,PXA-180,FUNCTION MECHANISM ASSEMBLY (KCT model)
+PL-117D,Turntable,PXA-187,PXA-187,Main plate assembly (HGT model)
+PL-530,Turntable,PXA-196,PXA-196,Function lever assembly
+PL-530,Turntable,PXA-198,PXA-198,Foot assembly
+PL-530,Turntable,PXA-200,PXA-200,Platter assembly
+PL-530,Turntable,PXA-206,PXA-206,Plate
+PL-560,Turntable,PXA-206,PXA-206,Stopper unit
+PLC-590,Turntable,PXA-211,PXA-211,START-STOP button ass'y
+PL-117D,Turntable,PXA-214,PXA-214,Main plate assembly (Q model)
+PL-117D,Turntable,PXA-214,PXA-214,Main plate assembly (QT model)
+PL-117D,Turntable,PXA-216,PXA-216,Function button assembly
+PL-117D,Turntable,PXA-219,PXA-219,Main plate assembly (KUT model)
+PL-117D,Turntable,PXA-220,PXA-220,Main plate assembly (KCT model)
+PL-510A,Turntable,PXA-221,PXA-221,Strobo case assembly
+PLC-590,Turntable,PXA-236,PXA-236,Dust cover assembly
+PL-530,Turntable,PXA-241,PXA-241,Foot assembly
+PL-570,Turntable,PXA-242,PXA-242,Anti skating assembly
+PL-570,Turntable,PXA-244,PXA-244,Arm rest assembly
+PL-570,Turntable,PXA-245,PXA-245,EV assembly
+PL-570,Turntable,PXA-246,PXA-246,EV sheet assembly
+PL-570,Turntable,PXA-247,PXA-247,EV selector assembly
+PL-570,Turntable,PXA-252,PXA-252,Control assembly
+PL-570,Turntable,PXA-253,PXA-253,Switch lever assembly
+PL-570,Turntable,PXA-255,PXA-255,Selector assembly
+PLC-590,Turntable,PXA-272,PXA-272,Connector assembly (H)
+PLC-590,Turntable,PXA-286,PXA-286,Arm rest assembly
+PL-570,Turntable,PXA-291,PXA-291,Bottom assembly (KUT)
+PL-550,Turntable,PXA-292,PXA-292,Foot assembly
+PL-570,Turntable,PXA-292,PXA-292,Foot assembly (KUT)
+PL-500,Turntable,PXA-323,PXA-323,Hinge assembly
+PL-500X,Turntable,PXA-323,PXA-323,Hinge assembly
+PL-516,Turntable,PXA-323,PXA-323,Hinge assembly
+PL-518,Turntable,PXA-323,PXA-323,Hinge assembly
+PL-540,Turntable,PXA-323,PXA-323,Hinge assembly
+PL-560,Turntable,PXA-323,PXA-323,Hinge assembly
+PL-516,Turntable,PXA-324,PXA-324,Dust cover assembly
+PL-518,Turntable,PXA-324,PXA-324,Dust cover assembly
+PL-570,Turntable,PXA-346,PXA-346,Bottom assembly (KCT)
+PL-570,Turntable,PXA-347,PXA-347,Foot assembly (KCT)
+PLC-590,Turntable,PXA-352,PXA-352,D.D Motor
+PLC-590,Turntable,PXA-353,PXA-353,Connector assembly (J)
+PL-520,Turntable,PXA-354,PXA-354,PU plate assembly
+PL-520,Turntable,PXA-355,PXA-355,Rotor assembly (HGT)
+PL-560,Turntable,PXA-355,PXA-355,Rotor assembly (KCT)
+PL-570,Turntable,PXA-359,PXA-359,Speed select assembly
+PL-520,Turntable,PXA-363,PXA-363,Arm rest assembly
+PLC-590,Turntable,PXA-373,PXA-373,Foot assembly
+PL-600/600X,Turntable,PXA-380,PXA-380,Hinge assembly
+PL-630,Turntable,PXA-380,PXA-380,Hinge assembly
+PL-520,Turntable,PXA-381,PXA-381,EV assembly
+PL-520,Turntable,PXA-384,PXA-384,Dust cover assembly
+PL-520,Turntable,PXA-401,PXA-401,Sub panel assembly (HGT)
+PL-520,Turntable,PXA-402,PXA-402,Under board assembly (HGT)
+PL-520,Turntable,PXA-404,PXA-404,"Sub panel assembly (KCT,KUT)"
+PL-520,Turntable,PXA-406,PXA-406,"Rotor assembly (KUT, KCT)"
+PL-560,Turntable,PXA-406,PXA-406,Rotor assembly (KUT)
+PL-520,Turntable,PXA-412,PXA-412,Selecter lever assembly
+PL-520,Turntable,PXA-417,PXA-417,"Under board assembly (KCT, KUT)"
+PL-516,Turntable,PXA-419,PXA-419,Lever assembly
+PL-516,Turntable,PXA-420,PXA-420,EV sheet assembly
+PL-518,Turntable,PXA-420,PXA-420,EV sheet assembly
+PL-540,Turntable,PXA-420,PXA-420,EV sheet assembly
+PL-516,Turntable,PXA-421,PXA-421,Arm rest assembly
+PL-518,Turntable,PXA-421,PXA-421,Arm rest assembly
+PL-540,Turntable,PXA-421,PXA-421,Arm rest assembly
+PL-516,Turntable,PXA-441,PXA-441,Center shaft assembly
+PL-540,Turntable,PXA-442,PXA-442,Lever assembly
+PL-516,Turntable,PXA-443,PXA-443,PU plate A assembly
+PL-540,Turntable,PXA-443,PXA-443,PU plate assembly
+PL-520,Turntable,PXA-444,PXA-444,Turntable platter
+PL-L1000,Turntable,PXA-463,PXA-463,Hinge assembly
+PL-600/600X,Turntable,PXA-469,PXA-469,EV sheet assembly
+PL-630,Turntable,PXA-469,PXA-469,EV sheet assembly
+PL-600/600X,Turntable,PXA-500,PXA-500,Arm rest assembly
+PL-12DII,Turntable,PXA-502-0,PXA-502,Main weight
+PL-12DII,Turntable,PXA-503-A,PXA-503,Elevation assembly
+PL-112D,Turntable,PXA-558,PXA-558,Head shell assembly
+PL-117D,Turntable,PXA-558,PXA-558,"Head shell assembly (KCT, KUT model)"
+PL-510,Turntable,PXA-558,PXA-558,Headshell assembly
+PL-510S,Turntable,PXA-558,PXA-558,Headshell assembly
+PL-550,Turntable,PXA-580,PXA-580,Weight assembly
+PL-510,Turntable,PXA-598,PXA-598,Elevation arm assembly
+PL-510A,Turntable,PXA-598,PXA-598,Elevation arm assembly
+PL-510S,Turntable,PXA-598,PXA-598,Elevation arm assembly
+PL-115D,Turntable,PXA-599,PXA-599,COUNTER WEIGHT
+PL-117D,Turntable,PXA-599,PXA-599,Main weight
+PL-510,Turntable,PXA-599,PXA-599,Counterweight
+PL-510A,Turntable,PXA-599,PXA-599,Counter weight assembly
+PL-510S,Turntable,PXA-599,PXA-599,Counterweight
+PL-530,Turntable,PXA-599,PXA-599,Weight assembly
+PL-117D,Turntable,PXA-615,PXA-615,Anti-skating assembly
+PL-510,Turntable,PXA-622,PXA-622,Antiskating assembly
+PL-510S,Turntable,PXA-622,PXA-622,Antiskating assembly
+PL-117D,Turntable,PXA-630,PXA-630,"Head shell assembly (Q, QT, HGT model)"
+PL-510A,Turntable,PXA-630,PXA-630,Headshell assembly (HGT)
+PL-530,Turntable,PXA-630,PXA-630,Headshell (S type including cartridge)
+PL-550,Turntable,PXA-630,PXA-630,Headshell assembly
+PL-510A,Turntable,PXA-641,PXA-641,Anti skate assembly
+PL-510A,Turntable,PXA-641,PXA-641,Anti skating assembly (HGT)
+PL-570,Turntable,PXA-646,PXA-646,Counter weight assembly
+PL-530,Turntable,PXA-648,PXA-648,Arm lift sheet assembly
+CT-F8282,Cassette Tape,PXA-656,PXA-656,Door arm assembly
+PL-520,Turntable,PXA-657,PXA-657,Main Weight
+PL-500X,Turntable,PXA-676,PXA-676,Headshell assembly
+PL-516,Turntable,PXA-676,PXA-676,"Headshell assembly (HG,HGT)"
+PL-518,Turntable,PXA-676,PXA-676,Headshell assembly (Black type -HGT)
+PL-516,Turntable,PXA-693,PXA-693,Headshell assembly
+PL-518,Turntable,PXA-693,PXA-693,"Headshell assembly (KCT, KUT)"
+PL-520,Turntable,PXA-693,PXA-693,Headshell
+PL-540,Turntable,PXA-693,PXA-693,HeadshelI assembly
+PL-540,Turntable,PXA-693,PXA-693,Headshell assembly
+PL-560,Turntable,PXA-693,PXA-693,Headshell assembly
+PL-516,Turntable,PXA-694,PXA-694,Weight assembly
+PL-630,Turntable,PXA-697,PXA-697,Headshell assembly
+PL-518,Turntable,PXA-708,PXA-708,Weight assembly
+PL-540,Turntable,PXA-708,PXA-708,Main weight assembly
+PL-560,Turntable,PXA-708,PXA-708,Main weight assembly
+PL-630,Turntable,PXA-716,PXA-716,Main weight assembly
+PL-500X,Turntable,PXA-720,PXA-720,Weight assembly
+PL-600/600X,Turntable,PXA-735,PXA-735,Weight assembly
+PL-600/600X,Turntable,PXA-735,PXA-735,Weight assembly
+PL-600/600X,Turntable,PXA-736,PXA-736,Headshell assembly
+PL-600/600X,Turntable,PXA-736,PXA-736,Headshell assembly (PL-600)
+PL-100/100X,Turntable,PXA-791,PXA-791,Head shell assembly (PL-100X)
+PL-200/200X,Turntable,PXA-791,PXA-791,Headshell assembly (PL-200X)
+PL-100/100X,Turntable,PXA-792,PXA-792,Head shell assembly
+PL-200/200X,Turntable,PXA-792,PXA-792,Headshell assembly (PL-200)
+PL-500,Turntable,PXA-792,PXA-792,"Headshell assembly (KUT,KCT)"
+PL-L1000,Turntable,PXA-804,PXA-804,Weight assembly
+PL-500,Turntable,PXA-806,PXA-806,Weight assembly
+PL-600/600X,Turntable,PXA-809,PXA-809,Headshell assembly (PL-600X)
+PL-100/100X,Turntable,PXA-841,PXA-841,Weight assembly
+PL-100/100X,Turntable,PXA-841,PXA-841,Weight assembly
+PL-L800,Turntable,PXA-881,PXA-881,Headsheel assembly
+PL-L800,Turntable,PXA-891,PXA-891,Weight shaft assembly
+PL-L800,Turntable,PXA-893,PXA-893,Weight asssrnbly
+PL-500,Turntable,PXB-001,PXB-001,PU plate assembly
+PL-500X,Turntable,PXB-001,PXB-001,PU plate assembly
+PL-500,Turntable,PXB-002,PXB-002,Arm rest assembly
+PL-500X,Turntable,PXB-002,PXB-002,Arm rest assembly
+PL-115D,Turntable,PXB-007,PXB-007,DUST COVER ASSY
+PL-500,Turntable,PXB-010,PXB-010,D.D. motor
+PL-500X,Turntable,PXB-010,PXB-010,D.D. motor
+PL-500X,Turntable,PXB-010,PXB-010,MOTOR Ass'y
+PL-600/600X,Turntable,PXB-022,PXB-022,D.D. motor assembly
+PL-L1000,Turntable,PXB-061,PXB-061,DD Motor assembly
+PL-200/200X,Turntable,PXB-092,PXB-092,Weight assembly
+PL-200/200X,Turntable,PXB-092,PXB-092,Weight assembly
+PL-100/100X,Turntable,PXB-094,PXB-094,Arm rest assembly
+PL-200/200X,Turntable,PXB-094,PXB-094,Arm rest assembly
+PL-500,Turntable,PXB-102,PXB-102,"Sub panel assembly (KUT, KCT)"
+PL-500X,Turntable,PXB-103,PXB-103,Sub panel assembly
+PL-500,Turntable,PXB-105,PXB-105,Sub panel assembly (S)
+PL-100/100X,Turntable,PXB-107,PXB-107,EV sheet assembly
+PL-200/200X,Turntable,PXB-107,PXB-107,EV sheet assembly
+PL-L1000,Turntable,PXB-116,PXB-116,EV sheet assembly
+PL-L1000,Turntable,PXB-118,PXB-118,Coil assembly
+PL-L1000,Turntable,PXB-119,PXB-119,Cramper assembly
+PL-L1000,Turntable,PXB-120,PXB-120,Bearing
+PL-L1000,Turntable,PXB-120,PXB-120,Bearing
+PL-L1000,Turntable,PXB-121,PXB-121,Bearing
+PL-L1000,Turntable,PXB-121,PXB-121,Bearing
+PL-200/200X,Turntable,PXB-125,PXB-125,Cartridge mounting screw assembly (PL-200)
+PL-500,Turntable,PXB-125,PXB-125,"Cartridge mounting screw assembly (KUT,KCT)"
+PL-500X,Turntable,PXB-125,PXB-125,Cartridge mounting screw assembly
+PL-L1000,Turntable,PXB-125,PXB-125,Cartridge mounting part assembly
+PL-600/600X,Turntable,PXB-126,PXB-126,Panel assembly (KUT)
+PL-600/600X,Turntable,PXB-128,PXB-128,"Panel assembly (HET, HBT)"
+PL-600/600X,Turntable,PXB-133,PXB-133,"Panel assembly (KCT,S,S/G)"
+PL-L1000,Turntable,PXB-134,PXB-134,Screw
+PL-200/200X,Turntable,PXB-151,PXB-151,Cut spring A assembly
+PL-200/200X,Turntable,PXB-152,PXB-152,Cut spring assembly
+PL-100/100X,Turntable,PXB-155,PXB-155,Hinge assembly
+PL-200/200X,Turntable,PXB-155,PXB-155,Hinge assembly
+PL-100/100X,Turntable,PXB-177,PXB-177,Shaft assembly
+PL-L800,Turntable,PXB-201,PXB-201,Hinge assembly
+PL-L800,Turntable,PXB-212,PXB-212,Coil assembly
+PL-640/S40,Turntable,PXB-232,PXB-232,Drive plate assembly
+PL-L800,Turntable,PXB-233,PXB-233,Panel assembly
+PL-L800,Turntable,PXB-234,PXB-234,Carrier base (A) assembly
+PL-640/S40,Turntable,PXB-321,PXB-321,Hinge assembly
+PL-640/S40,Turntable,PXB-332,PXB-332,Arm rest assembly
+PL-640/S40,Turntable,PXB-333,PXB-333,PU cord assembly  PL-640/R Type
+PL-640/S40,Turntable,PXB-333,PXB-333,PU cord assembly  PL-640/WE Type
+PL-640/S40,Turntable,PXB-333,PXB-333,PU cord assembly  PL-640/WP Type
+PL-640/S40,Turntable,PXB-333,PXB-333,PU cord assembly - PL-S40/KCT Type
+PL-640/S40,Turntable,PXB-333,PXB-333,PU cord assembly - PL-S40/R Type
+PL-640/S40,Turntable,PXB-333,PXB-333,PU cord assembly - PL-S40/WP Type
+PL-640/S40,Turntable,PXB-340,PXB-340,PU plate assembly
+PL-640/S40,Turntable,PXB-345,PXB-345,PU cord assembly
+PL-640/S40,Turntable,PXB-345,PXB-345,PU cord assembly  PL-640/KU Type
+PL-640/S40,Turntable,PXB-345,PXB-345,PU cord assembly  PL-S40/KUT Type
+PL-640/S40,Turntable,PXB-345,PXB-345,PU cord assembly - PL-S40/KUT Type
+PL-640/S40,Turntable,PXB-563,PXB-563,Head shell
+PL-640/S40,Turntable,PXB-583,PXB-583,Weight assembly
+PL-112D,Turntable,PXF-058,PXF-058,Sub weight
+PL-12DII,Turntable,PXM-005-0,PXM-005,Function lever assembly
+PL-510,Turntable,PXM-020,PXM-020,Motor (including positional detector assembly)
+PL-510A,Turntable,PXM-020,PXM-020,Motor (including drive current control assembly)
+PL-510S,Turntable,PXM-020,PXM-020,Motor (including positional detector assembly)
+PL-112D,Turntable,PXM-022,PXM-022,Motor
+PL-530,Turntable,PXM-030,PXM-030,D.D. Motor
+PL-117D,Turntable,PXM-032,PXM-032,Motor
+PL-520,Turntable,PXM-037,PXM-037,Motor
+PL-530,Turntable,PXM-037,PXM-037,Timing motor
+PL-115D,Turntable,PXM-041,PXM-041,MOTOR(TURN TABLE)
+PL-570,Turntable,PXM-048,PXM-048,Timing motor (KUT)
+PL-550,Turntable,PXM-049,PXM-049,D.D. motor
+PL-570,Turntable,PXM-049,PXM-049,D.D motor (Including Drive control assembly)
+PL-570,Turntable,PXM-050,PXM-050,Timing motor (HGT)
+PL-570,Turntable,PXM-053,PXM-053,Timing motor (KCT)
+PL-516,Turntable,PXM-054,PXM-054,Motor
+PL-518,Turntable,PXM-058,PXM-058,D.D motor
+PL-630,Turntable,PXM-059,PXM-059,Motor
+PL-540,Turntable,PXM-061,PXM-061,D.D Motor (lnclude PWX-021)
+PL-500,Turntable,PXM-064,PXM-064,"MOTOR (KUT,KCT)"
+PL-500,Turntable,PXM-064,PXM-064,MOTOR (S)
+PL-560,Turntable,PXM-064,PXM-064,Timing motor
+PL-560,Turntable,PXM-065,PXM-065,D.D. Motor (Include oscillator assembly PWX-022)
+PL-600/600X,Turntable,PXM-069,PXM-069,Motor
+PL-L1000,Turntable,PXM-073,PXM-073,Motor
+PL-200/200X,Turntable,PXM-074,PXM-074,Motor
+PL-500X,Turntable,PXM-080,PXM-080,MOTOR
+PL-L800,Turntable,PXM-093,PXM-093,Motor
+PL-L800,Turntable,PXM-096,PXM-096,Gear motor
+PL-L800,Turntable,PXM-101,PXM-101,Dynamo
+PL-640/S40,Turntable,PXM-126,PXM-126,Motor
+PL-L1000,Turntable,PXP-003,PXP-003,Solenoid assembly
+PL-520,Turntable,PXT 537,PXT 537,Knob (ANTI-SKATE)
+PL-510,Turntable,PXT-035,PXT-035,Function lever
+PL-510A,Turntable,PXT-035,PXT-035,Function lever (FUNCTION)
+PL-510S,Turntable,PXT-035,PXT-035,Function lever
+PL-510,Turntable,PXT-036,PXT-036,Button unit
+PL-510A,Turntable,PXT-036,PXT-036,Button unit (SPEED SELECT)
+PL-510S,Turntable,PXT-036,PXT-036,Button unit
+PL-117D,Turntable,PXT-069,PXT-069,Select crank unit
+PL-117D,Turntable,PXT-076,PXT-076,EV unit
+PL-112D,Turntable,PXT-085,PXT-085,Foot
+PL-550,Turntable,PXT-098,PXT-098,Control panel
+PL-500,Turntable,PXT-109,PXT-109,Adjust washer
+PL-500X,Turntable,PXT-109,PXT-109,Adjust washer
+PLC-590,Turntable,PXT-127,PXT-127,Button unit (Power)
+PLC-590,Turntable,PXT-129,PXT-129,"Button unit (Start,Stop)"
+PL-570,Turntable,PXT-174,PXT-174,Lens
+PL-570,Turntable,PXT-186,PXT-186,Name plate (CONTROLS)
+PL-570,Turntable,PXT-189,PXT-189,Name plate (Tonearm)
+PL-520,Turntable,PXT-199,PXT-199,Stopper
+PL-500,Turntable,PXT-201,PXT-201,Adjust shaft
+PL-500X,Turntable,PXT-201,PXT-201,Adjust shaft
+PL-520,Turntable,PXT-204,PXT-204,Plate
+PL-520,Turntable,PXT-213,PXT-213,Rod
+PL-520,Turntable,PXT-214,PXT-214,Foot (KUT)
+PL-520,Turntable,PXT-219,PXT-219,Stopper assembly
+PL-516,Turntable,PXT-226,PXT-226,Cam unit
+PL-518,Turntable,PXT-226,PXT-226,Cam assembly
+PL-516,Turntable,PXT-229,PXT-229,Lever unit
+PL-520,Turntable,PXT-230,PXT-230,"Foot (KCT, HGT)"
+PL-516,Turntable,PXT-238,PXT-238,EV cam unit
+PL-516,Turntable,PXT-239,PXT-239,Foot unit (KCT)
+PL-516,Turntable,PXT-240,PXT-240,Foot unit (KUT)
+PL-600/600X,Turntable,PXT-243,PXT-243,PU adjust cam unit
+PL-540,Turntable,PXT-250,PXT-250,Lever unit
+PL-516,Turntable,PXT-253,PXT-253,AS adjust unit
+PL-540,Turntable,PXT-253,PXT-253,AS adjust unit
+PL-540,Turntable,PXT-262,PXT-262,Rotor assembly
+PL-560,Turntable,PXT-277,PXT-277,"Push button unit (Cut,Repeat,Stop)"
+PL-560,Turntable,PXT-292,PXT-292,Arm rest unit
+PL-500,Turntable,PXT-295,PXT-295,Push button unit
+PL-500X,Turntable,PXT-295,PXT-295,Push button unit
+PL-500,Turntable,PXT-296,PXT-296,Actuator A
+PL-500X,Turntable,PXT-296,PXT-296,Actuator A
+PL-500,Turntable,PXT-301,PXT-301,EV lever unit
+PL-500X,Turntable,PXT-301,PXT-301,EV lever unit
+PL-500,Turntable,PXT-314,PXT-314,Actuator D
+PL-500X,Turntable,PXT-314,PXT-314,Actuator D
+PL-100/100X,Turntable,PXT-355,PXT-355,Lever unit
+PL-200/200X,Turntable,PXT-355,PXT-355,Detector lever unit
+PL-200/200X,Turntable,PXT-356,PXT-356,Plate
+PL-100/100X,Turntable,PXT-382,PXT-382,EV lever unit
+PL-200/200X,Turntable,PXT-382,PXT-382,EV plate spring A
+PL-200/200X,Turntable,PXT-385,PXT-385,EV cam spring
+PL-L1000,Turntable,PXT-391,PXT-391,Dial unit
+PL-L1000,Turntable,PXT-392,PXT-392,Case unit
+PL-L1000,Turntable,PXT-394,PXT-394,Shaft holder B unit
+PL-L1000,Turntable,PXT-403,PXT-403,Motor
+PL-100/100X,Turntable,PXT-413,PXT-413,EV plate spring (B) unit
+PL-L1000,Turntable,PXT-414,PXT-414,Screw
+PL-L800,Turntable,PXT-440,PXT-440,Tracking shutter
+PL-640/S40,Turntable,PXT-446,PXT-446,Detector lever unit
+PL-L800,Turntable,PXT-447,PXT-447,Shell spacer unit
+PL-L800,Turntable,PXT-458,PXT-458,Rotor unit
+PL-510,Turntable,PXT-517,PXT-517,EV Lever
+PL-510S,Turntable,PXT-517,PXT-517,EV Lever
+PL-510,Turntable,PXT-518,PXT-518,Wire
+PL-510S,Turntable,PXT-518,PXT-518,Wire
+PL-510,Turntable,PXT-523,PXT-523,Wire
+PL-510A,Turntable,PXT-523,PXT-523,Wire
+PL-510S,Turntable,PXT-523,PXT-523,Wire
+PL-550,Turntable,PXT-524,PXT-524,Arm stand
+PL-530,Turntable,PXT-527,PXT-527,Arm rest unit
+PL-520,Turntable,PXT-537,PXT-537,Knob
+PL-100/100X,Turntable,PXT-910,PXT-910,Cartridge (without stylus)
+PL-200/200X,Turntable,PXT-941,PXT-941,Cartridge assembly (PL-200X)
+PL-640/S40,Turntable,PXV-033,PXV-033,EV sheet unit
+PL-640/S40,Turntable,PXV-928,PXV-928,"Cartridge (PC-5MC, without stylus) - PL-S40/R Type"
+PL-640/S40,Turntable,PXV-928,PXV-928,"Cartridge (PC-5MC, without stylus) - PL-S40/WP Type"
+PL-640/S40,Turntable,PXV-928,PXV-928,Cartridge (Without stylus)  PL-640/KU Type
+PL-640/S40,Turntable,PXV-928,PXV-928,Cartridge (Without stylus)  PL-640/R Type
+PL-640/S40,Turntable,PXV-928,PXV-928,Cartridge (Without stylus)  PL-640/WB Type
+PL-640/S40,Turntable,PXV-928,PXV-928,Cartridge (Without stylus)  PL-640/WE Type
+PL-640/S40,Turntable,PXV-928,PXV-928,Cartridge (Without stylus)  PL-640/WP Type
+PL-520,Turntable,PYY-009,PYY-009,Anti-Skating assembly
+PL-516,Turntable,PYY-010,PYY-010,Return signal unit
+PL-540,Turntable,PYY-012,PYY-012,Cam unit
+PL-560,Turntable,PYY-021,PYY-021,P.C. Board (output)
+PL-630,Turntable,PYY-022,PYY-022,Cabinet
+PL-540,Turntable,PYY-023,PYY-023,PU terminal assembly
+PL-500,Turntable,PYY-024,PYY-024,Foot
+PL-500X,Turntable,PYY-024,PYY-024,Foot
+PL-600/600X,Turntable,PYY-024,PYY-024,Foot assembly
+PL-600/600X,Turntable,PYY-025,PYY-025,Gear assembly F
+PL-100/100X,Turntable,PYY-058,PYY-058,Return signal unit
+PL-200/200X,Turntable,PYY-058,PYY-058,Return signal unit
+PL-100/100X,Turntable,PYY-071,PYY-071,Motor assembly
+PL-640/S40,Turntable,PYY-100,PYY-100,Cam assembly
+PL-L800,Turntable,PYY-104,PYY-104,Carrier base (B) unit
+PL-990,Turntable,PZS1001,PZS1001,"MIRCO SW(STOP,PLAY,START)"
+PL-990,Turntable,PZS1002,PZS1002,MIRCO SW(SPEED 33/45)
+RT-1020L,Reel To Reel Tape,R XA-310-C,R XA-310,Tension arm assembly
+SX-700T,Receiver,R12-001-A,R12-001,Service manual  SX-700T
+SX-1500T,Receiver,R12-006-D,R12-006,Service manual SX-1500T
+SX-1000TD,Receiver,R12-010-C,R12-010,Service manual  SX-1000TD
+SX-440,Receiver,R12-024-B,R12-024,"Installation, Operation and Service Manual SX-440"
+SA-700,Integrated Amplifier,R12-025-B,R12-025,Service Manual SA-700
+TX-500,Tuner,R12-026,R12-026,O/M(TA500)
+SA-900,Integrated Amplifier,R12-029-A,R12-029,Service Manual & Operating Instructions SA-900
+TX-900,Tuner,R12-044,R12-044,O/M TX900
+SX-990,Receiver,R12-048-C,R12-048,"Installation, Operation and Service Manual SX-990 (FVW)"
+SX-1500TD,Receiver,R12-054-C,R12-054,Service manual  SX-1500TD
+SX-1000TW,Receiver,R12-056-B,R12-056,"Installation, Operation and Service Manual SX-1000TW"
+SX-770,Receiver,R12-061-0,R12-061,"Installation, Operating and Service Manual (KCW) SX-770"
+SX-9000,Receiver,R12-066-A,R12-066,"Installation, Operation and Service Manual (FW) SX9000"
+TX-700,Tuner,R12-067,R12-067,O/M TX700
+SX-2500,Receiver,R12-068-0,R12-068,"Installation, Operation and Service Manual  (FVW)  SX-2500"
+T-6100,Reel To Reel Tape,R12-406,R12-406,O/M T-6100
+T-6600,Reel To Reel Tape,R12-407,R12-407,O/M T-6600
+T-8800,Reel To Reel Tape,R12-408,R12-408,O/M T-8800
+T-3300,Cassette Tape,R12-409,R12-409,O/M T-3300
+SX-1000TA (Later),Receiver,R19-189-A,R19-189,Operating instructions/service manual  SX-1000TA (Later)
+SX-6,Receiver,R42-085-0,R42-085,Service manual  PL-A25
+PL-25/F,Turntable,R42-104-0,R42-104,Service manual  PL-25/F
+T-6100,Reel To Reel Tape,R42-105,R42-105,S/M T-6600
+T-6600,Reel To Reel Tape,R42-105,R42-105,S/M T-6600
+PL-50,Turntable,R42-115-0,R42-115,Service manual  PL-50
+PL-A35,Turntable,R42-133-0,R42-133,Service Manual  PL-A35
+SD-1000,Other,R42-145-0,R42-145,Service Manual  SD-1100 (FW)
+T-8800,Reel To Reel Tape,R42-147,R42-147,S/M T-8800/F
+SR-202W,Reverb,R42-152-0,R42-152,Service manual  SR-202W
+TX-600,Tuner,R42-158,R42-158,S/M(TX600)
+SX-6000,Receiver,R42-185-0,R42-185,Service Manual SX-6000
+QX-8000,Receiver,R42-186,R42-186,Service manual QX-8000
+QL-600,Integrated Amplifier,R42-187,R42-187,Service manual QL-600
+QA-800,Integrated Amplifier,R42-188,R42-188,Service manual QA-800
+QM-800,Amplifier,R42-188,R42-188,Service manual QM-800
+SA-800,Integrated Amplifier,R42-189-0,R42-189,Service Manual SA-800
+TX-800,Tuner,R42-190,R42-190,S/M(TX800)
+TX-1000,Tuner,R42-191,R42-191,S/M TX-1000
+SX-626 (1971),Receiver,R42-219-0,R42-219,Service Manual SX-626 (1971)
+SA-500A,Integrated Amplifier,R42-221-0,R42-221,Service Manual (KU/KC/FV)
+TX-500A,Tuner,R42-222,R42-222,S/M(TX500A)
+QT-2100,8-Track Tape,R42-227,R42-227,S/M QT-2100
+QT-6600,Reel To Reel Tape,R42-244,R42-244,Service manual QT-6600
+T-3500,Cassette Tape,R42-245,R42-245,S/M T-3500
+QT-6100,Reel To Reel Tape,R42-251,R42-251,Service manual QT-6100
+QX-8000A,Receiver,R42-256,R42-256,Service manual QX-8000A
+QD-210,Other,R42-257,R42-257,S/M QD-210
+QL-600A,Integrated Amplifier,R42-259-0,R42-259,Service manual  QL-600A
+QA-800A,Integrated Amplifier,R42-261,R42-261,Service manual QA-800A
+QC-800A,Pre-Amplifier,R42-261,R42-261,Service Manual QC-800A
+QM-800A,Amplifier,R42-261,R42-261,Service manual QM-800A
+QX-4000,Receiver,R42-278,R42-278,Service manual QX-4000
+SD-1100,Other,R42-282-0,R42-282,Service Manual  SD-1100  (FW)
+QX-9900,Receiver,R42-285,R42-285,Service manual QX-9900
+PL-12E,Turntable,R42-328-0,R42-328,Service manual  PL-12E
+TX-8100,Tuner,R42-333-0,R42-333,Service manual  TX-8100
+TX-7100,Tuner,R42-334-0,R42-334,Service manual  TX-7100
+TX-6200,Tuner,R42-335-0,R42-335,"Service manual TX-6200 (F,KU,FVZ)"
+QX-646,Receiver,R42-341,R42-341,Service Manual QX-646
+RT-1020L,Reel To Reel Tape,R42-345-O,R42-345,Service Manual RT-1020L
+T-3500,Cassette Tape,RAA-001,RAA-001,KNOB(POWER)
+QT-6100,Reel To Reel Tape,RAA-003-A,RAA-003,Knob for power switch
+QT-6600,Reel To Reel Tape,RAA-003-A,RAA-003,Knob for power switch
+QT-74,Reel To Reel Tape,RAA-003-A,RAA-003,Knob (POWER)
+T-6600,Reel To Reel Tape,RAA-003,RAA-003,KNOB(POWER)
+QT-6600,Reel To Reel Tape,RAA-004-A,RAA-004,Level control knob (REC)
+QT-74,Reel To Reel Tape,RAA-004-A,RAA-004,Knob (REC. Level control)
+QT-6100,Reel To Reel Tape,RAA-005-0,RAA-005,"Knob, REC level (L)"
+QT-6600,Reel To Reel Tape,RAA-005-0,RAA-005,Level control knob (P.B.)
+QT-6100,Reel To Reel Tape,RAA-006-0,RAA-006,"Knob, REC level (R)"
+QT-2100,8-Track Tape,RAA-007,RAA-007,"KNOB(PROGRAM ""FRONT"")"
+QT-6100,Reel To Reel Tape,RAA-008-0,RAA-008,Push switch button ass'y
+QT-6600,Reel To Reel Tape,RAA-008-0,RAA-008,Push switch button assembly
+QT-6100,Reel To Reel Tape,RAA-010-0,RAA-010,"Knob, function lever"
+QT-6600,Reel To Reel Tape,RAA-010-0,RAA-010,Function lever knob
+T-3500,Cassette Tape,RAA-013,RAA-013,KNOB(LEVEL)
+QT-74,Reel To Reel Tape,RAA-034-0,RAA-034,Knob (REC lever)
+QT-74,Reel To Reel Tape,RAA-035-C,RAA-035,Knob (TAPE SPEED SELECTOR)
+QT-74,Reel To Reel Tape,RAA-036-0,RAA-036,Push button assembly
+QT-74,Reel To Reel Tape,RAA-045-C,RAA-045,Knob (FUNCTION lever)
+QT-74,Reel To Reel Tape,RAA-055-A,RAA-055,Knob (REC MASTER level control)
+QT-74,Reel To Reel Tape,RAA-057-A,RAA-057,Knob (PB. Level control)
+RT-1020L,Reel To Reel Tape,RAA-060-0,RAA-060,Lever switch knob (A) assembly
+RT-1011L,Reel To Reel Tape,RAA-062-B,RAA-062,Lever switch knob (B) assembly
+RT-1020L,Reel To Reel Tape,RAA-062-B,RAA-062,Lever switch knob (B) assembly
+RT-1020L,Reel To Reel Tape,RAA-063-0,RAA-063,"Knob (REC BIAS, REC EQ)"
+RT-1020L,Reel To Reel Tape,RAA-065-A,RAA-065,Double knob inner (REC LEVEL)
+RT-1020L,Reel To Reel Tape,RAA-066-B,RAA-066,Double knob outer (REC _LEVEL)
+RT-1020L,Reel To Reel Tape,RAA-070-0,RAA-070,Double knob inner (FRONT OUTPUT)
+RT-1020L,Reel To Reel Tape,RAA-071-0,RAA-071,Double knob outer (REAR OUTPUT)
+CT-F7171,Cassette Tape,RAA-089-0,RAA-089,Knob outer
+CT-F7171,Cassette Tape,RAA-090-0,RAA-090,Knob inner
+CT-F7171,Cassette Tape,RAA-091-0,RAA-091,"Knob (MEMORY, LIGHT)"
+CT-F6161,Cassette Tape,RAA-092-0,RAA-092,Knob (POWER)
+CT-F6262,Cassette Tape,RAA-092,RAA-092,Knob (POWER)
+CT-F7171,Cassette Tape,RAA-092-0,RAA-092,Knob (POWER)
+CT-F7272,Cassette Tape,RAA-092,RAA-092,Knob (POWER)
+CT-F6161,Cassette Tape,RAA-093-0,RAA-093,"Knob (DOLBY NR, BIAS, EQ)"
+CT-F7171,Cassette Tape,RAA-093-0,RAA-093,"Knob (DOLBY, NR, BIAS, EQ, LIMITER)"
+CT-F9191,Cassette Tape,RAA-093,RAA-093,"Button (MEMORY,LIMITER,BIAS,EQ,MPX FILTER,DOLBY)"
+CT-F6161,Cassette Tape,RAA-094-0,RAA-094,Knob (SKIP)
+CT-F7171,Cassette Tape,RAA-094-0,RAA-094,Knob (SKIP)
+CT-F9191,Cassette Tape,RAA-094,RAA-094,Button (DOOR OPEN)
+RT-1011L,Reel To Reel Tape,RAA-096-A,RAA-096,Double knob outer (REC LEVEL)
+RT-1011L,Reel To Reel Tape,RAA-097-A,RAA-097,Double knob inner (REC LEVEL)
+RT-1011L,Reel To Reel Tape,RAA-099-A,RAA-099,Double knob outer (OUTPUT LEVEL)
+RT-1011L,Reel To Reel Tape,RAA-102-0,RAA-102,Lever switch knob
+RT-1011L,Reel To Reel Tape,RAA-103-A,RAA-103,Double knob inner (OUTPUT LEVEL)
+CT-F6161,Cassette Tape,RAA-109-0,RAA-109,Knob outer
+CT-F6161,Cassette Tape,RAA-110-0,RAA-110,Knob inner
+CT-F8282,Cassette Tape,RAA-113,RAA-113,Lever knob assembly (PAUSE)
+CT-F9191,Cassette Tape,RAA-113,RAA-113,"Knob (POWER,PAUSE)"
+CT-F500/505,Cassette Tape,RAA-117,RAA-117,Knob A (INPUT LEVEL R)
+CT-F500/505,Cassette Tape,RAA-118,RAA-118,Knob B (INPUT LEVEL L)
+CT-F8282,Cassette Tape,RAA-119,RAA-119,Volume knob A (INPUT)
+CT-F9191,Cassette Tape,RAA-119,RAA-119,"Inner knob (INPUT-MIC/LINE,OUTPUT)"
+CT-F8282,Cassette Tape,RAA-120,RAA-120,Volume knob B (OUTPUT)
+CT-F9191,Cassette Tape,RAA-120,RAA-120,"Outer knob (INPUT-MIC/LINE,OUTPUT)"
+CT-F8282,Cassette Tape,RAA-141,RAA-141,Knob (POWER)
+CT-F7272,Cassette Tape,RAA-153,RAA-153,"Knob (INPUT, OUTPUT L)"
+CT-F6262,Cassette Tape,RAA-154,RAA-154,Knob (INPUT R)
+CT-F6262,Cassette Tape,RAA-154,RAA-154,Knob (OUTPUT R)
+CT-F7272,Cassette Tape,RAA-154,RAA-154,"Knob (INPUT, OUTPUT R)"
+CT-F7272,Cassette Tape,RAA-157,RAA-157,"Knob (MEMORY, DOLBY, TAPE)"
+CT-F6262,Cassette Tape,RAA-159,RAA-159,Knob (DOLBY NR)
+CT-F6262,Cassette Tape,RAA-159,RAA-159,Knob (TAPE)
+CT-F6262,Cassette Tape,RAA-160,RAA-160,Knob (INPUT L)
+CT-F6262,Cassette Tape,RAA-160,RAA-160,Knob (OUTPUT L)
+MA-62,Other,RAA-161,RAA-161,SLIDE KNOB
+MA-62A,Other,RAA-161,RAA-161,SLIDE KNOB
+T-3300,Cassette Tape,RAA-161,RAA-161,SLIDE KNOB
+CT-F8282,Cassette Tape,RAA-162,RAA-162,"Knob assembly (RESET-MEMORY/STOP, BIAS, EQ, DOLBY NR)"
+RT-701,Reel To Reel Tape,RAA-164,RAA-164,Knob A (LINE)
+RT-707,Reel To Reel Tape,RAA-164,RAA-164,"Knob A (MIC,LINE)"
+RT-701,Reel To Reel Tape,RAA-165,RAA-165,Knob B (MIC)
+RT-707,Reel To Reel Tape,RAA-165,RAA-165,"Knob B (MIC,LINE)"
+RT-701,Reel To Reel Tape,RAA-166,RAA-166,Knob (PITCH CONTROL)
+RT-707,Reel To Reel Tape,RAA-166,RAA-166,Knob (PITCH CONTROL)
+CT-F1000,Cassette Tape,RAA-180,RAA-180,Lever knob A assembly
+CT-F1000,Cassette Tape,RAA-184,RAA-184,Knob B assembly (MONITOR)
+CT-F1000,Cassette Tape,RAA-184,RAA-184,Knob B assembly (PAUSE)
+CT-F1000,Cassette Tape,RAA-184,RAA-184,Knob B assembly (POWER)
+CT-F1000,Cassette Tape,RAA-187,RAA-187,Knob (PITCH CONTROL)
+CT-F1000,Cassette Tape,RAA-188,RAA-188,"Knob (DOLBY REC CAL L, R)"
+CT-F1000,Cassette Tape,RAA-189,RAA-189,"Knob A assembly (MIC/DIN, LINE, OUTPUT)"
+CT-F1000,Cassette Tape,RAA-191,RAA-191,"Knob B (MIC/DIN, LINE, OUTPUT)"
+CT-F700,Cassette Tape,RAA-207,RAA-207,Knob A (INPUT/OUTPUT L)
+CT-F700,Cassette Tape,RAA-208,RAA-208,Knob B (INPUT/OUTPUT R)
+CT-F700,Cassette Tape,RAA-209,RAA-209,"Knob (METER, BIAS, EQ, DOLBY NR, INPUT)"
+CT-F700,Cassette Tape,RAA-210,RAA-210,Knob assembly (MEMORY)
+CT-F900,Cassette Tape,RAA-223,RAA-223,Knob (INPUT L)
+CT-F950,Cassette Tape,RAA-223,RAA-223,REC VR knob (L) assembly
+CT-F900,Cassette Tape,RAA-225,RAA-225,Knob (INPUT R)
+CT-F950,Cassette Tape,RAA-225,RAA-225,REC VR knob (R) assembly
+CT-F900,Cassette Tape,RAA-227,RAA-227,Knob (OUTPUT L)
+CT-F950,Cassette Tape,RAA-227,RAA-227,PB VR knob (L) assembly
+CT-F900,Cassette Tape,RAA-229,RAA-229,Knob (OUTPUT R)
+CT-F950,Cassette Tape,RAA-229,RAA-229,PB VR knob (R) assembly
+CT-F900,Cassette Tape,RAA-231,RAA-231,Knob (BIAS)
+CT-F950,Cassette Tape,RAA-231,RAA-231,BIAS VR knob
+CT-F850,Cassette Tape,RAA-233,RAA-233,Knob (BIAS VR)
+CT-F600/605,Cassette Tape,RAA-254,RAA-254,Knob A (INPUT LEVEL R)
+CT-F600/605,Cassette Tape,RAA-255,RAA-255,Knob B (INPUT LEVEL L)
+CT-F1250,Cassette Tape,RAA-259,RAA-259,Switch knob ass'y
+CT-F1250,Cassette Tape,RAA-260,RAA-260,REC VR knob (L) assembly
+CT-F1250,Cassette Tape,RAA-262,RAA-262,REC VR knob (R) assembly
+CT-F1250,Cassette Tape,RAA-264,RAA-264,PB VR knob (L) assembly
+CT-F1250,Cassette Tape,RAA-266,RAA-266,PB VR knob (R) assembly
+CT-F1250,Cassette Tape,RAA-268,RAA-268,Knob (A) ass'y
+CT-F750,Cassette Tape,RAA-282,RAA-282,Volume knob assembly (OUTPUT)
+CT-F750,Cassette Tape,RAA-283,RAA-283,Volume knob (INPUT - L) assembly
+CT-F750,Cassette Tape,RAA-284,RAA-284,Volume knob (INPUT - R) assembly
+CT-F1250,Cassette Tape,RAA-294,RAA-294,Knob
+CT-F1250,Cassette Tape,RAA-295,RAA-295,BLE knob
+CT-F950,Cassette Tape,RAA-301,RAA-301,Tape selector knob assembly
+CT-F850,Cassette Tape,RAA-303,RAA-303,REC VR knob (L) assembly
+CT-F850,Cassette Tape,RAA-305,RAA-305,REC VR knob (R) assembly
+CT-F850,Cassette Tape,RAA-307,RAA-307,Tape Selector knob assembly
+CT-F850,Cassette Tape,RAA-309,RAA-309,P.B. VR knob (L) assembly
+CT-F850,Cassette Tape,RAA-311,RAA-311,P.B. VR knob (R) assembly
+CT-F1050,Cassette Tape,RAA-351,RAA-351,Volume knob L assembly
+CT-F1050,Cassette Tape,RAA-351,RAA-351,VR knob L assembly (INPUT)
+CT-F1050,Cassette Tape,RAA-352,RAA-352,Volume knob R assembly
+CT-F1050,Cassette Tape,RAA-352,RAA-352,VR knob R assembly (INPUT)
+CT-F1050,Cassette Tape,RAA-353,RAA-353,Volume knob assembly
+CT-F1050,Cassette Tape,RAA-353,RAA-353,Volume knob assembly (OUTPUT)
+RT-1020L,Reel To Reel Tape,RAC-001-A,RAC-001,Function button (STOP)
+RT-1020L,Reel To Reel Tape,RAC-002-A,RAC-002,Function button (FAST)
+RT-1020L,Reel To Reel Tape,RAC-002-A,RAC-002,Function button (PLAY)
+RT-1020L,Reel To Reel Tape,RAC-002-A,RAC-002,Function button (REWI
+RT-1020L,Reel To Reel Tape,RAC-003-B,RAC-003,Function button (REC)
+RT-1011L,Reel To Reel Tape,RAC-004-A,RAC-004,"Knob (power, reel, speed)"
+RT-1020L,Reel To Reel Tape,RAC-004-A,RAC-004,"Knob (POWER, REEL, SPEED)"
+CT-F7171,Cassette Tape,RAC-023-0,RAC-023,Marker ring
+RT-707,Reel To Reel Tape,RAC-052,RAC-052,Knob (REPEAT) assembly
+RT-707,Reel To Reel Tape,RAC-054,RAC-054,Knob (DIRECTION)
+RT-701,Reel To Reel Tape,RAC-055,RAC-055,Knob (FUNCTlON SWITCH) assembly
+RT-707,Reel To Reel Tape,RAC-055,RAC-055,Knob (FUNCTION SWITCH) assembly
+RT-701,Reel To Reel Tape,RAC-056,RAC-056,Knob (REC SWITCH) assembly
+RT-707,Reel To Reel Tape,RAC-056,RAC-056,REC button assembly
+RT-701,Reel To Reel Tape,RAC-057,RAC-057,Knob (SWITCH) assembly
+RT-707,Reel To Reel Tape,RAC-057,RAC-057,Knob (SWITCH) assembly
+CT-F700,Cassette Tape,RAC-069,RAC-069,Power button cap
+CT-F700,Cassette Tape,RAC-070,RAC-070,Counter cap
+CT-F500/505,Cassette Tape,RAC-083,RAC-083,Cap (COUNTER RESET - CT-F500)
+CT-F500/505,Cassette Tape,RAC-084,RAC-084,"Knob (TAPE SELECTOR,DOLBY NR)"
+CT-F500/505,Cassette Tape,RAC-085,RAC-085,Power switch knob
+CT-F900,Cassette Tape,RAC-091,RAC-091,Chassis Push knob A (MONITOR)
+CT-F900,Cassette Tape,RAC-091,RAC-091,"Knob A (DOLBY NR, INPUT)"
+CT-F950,Cassette Tape,RAC-091,RAC-091,"Push knob A (MONITOR, DOLBY, INPUT SELECTOR)"
+CT-F900,Cassette Tape,RAC-092,RAC-092,Push knob B (TAPE)
+CT-F1250,Cassette Tape,RAC-093,RAC-093,Push knob (C)
+CT-F900,Cassette Tape,RAC-093,RAC-093,"Push knob C (COUNTER, MEMORY, REPEAT, TIMER START, METER)"
+CT-F950,Cassette Tape,RAC-093,RAC-093,Push knob (C)
+CT-F1250,Cassette Tape,RAC-094,RAC-094,Power switch knob
+CT-F850,Cassette Tape,RAC-094,RAC-094,Knob (POWER SWITCH)
+CT-F900,Cassette Tape,RAC-094,RAC-094,Knob (POWER)
+CT-F950,Cassette Tape,RAC-094,RAC-094,Power knob
+CT-F900,Cassette Tape,RAC-095,RAC-095,"Knob (REW, FF, STOP, PLAY,REC, PAUSE)"
+CT-F500/505,Cassette Tape,RAC-097,RAC-097,Cap (COUNTER RESET - CT-F500)
+CT-F850,Cassette Tape,RAC-100,RAC-100,"Push Knob (MONITOR, METER SELECT, DOLBY)"
+CT-F850,Cassette Tape,RAC-103,RAC-103,Knob (COUNTER)
+CT-F600/605,Cassette Tape,RAC-104,RAC-104,"Push knob (DOLBY NR,TAPE SELECTION)"
+CT-F600/605,Cassette Tape,RAC-105,RAC-105,Lever knob assembly
+CT-F1250,Cassette Tape,RAC-107,RAC-107,Knob
+CT-F950,Cassette Tape,RAC-108,RAC-108,Function switch knob
+CT-F750,Cassette Tape,RAC-109,RAC-109,"Lever knob (DOLBY, REC MUTE) assembly"
+CT-F750,Cassette Tape,RAC-110,RAC-110,Lever knob (POWER) assembly
+CT-F850,Cassette Tape,RAC-111,RAC-111,"Knob A (STOP, PLAY, PAUSE)"
+CT-F850,Cassette Tape,RAC-112,RAC-112,"Knob B (REW, FF, REC)"
+RT-909,Reel To Reel Tape,RAC-113,RAC-113,Meter knob assembly
+RT-909,Reel To Reel Tape,RAC-114,RAC-114,Counter knob assembly
+RT-909,Reel To Reel Tape,RAC-115,RAC-115,Switch knob assembly
+CT-F750,Cassette Tape,RAC-116,RAC-116,Cover close knob assembly
+CT-F1250,Cassette Tape,RAC-117,RAC-117,Knob (B)
+RT-909,Reel To Reel Tape,RAC-118,RAC-118,Function knob assembly
+RT-909,Reel To Reel Tape,RAC-119,RAC-119,REC knob assembly
+RT-909,Reel To Reel Tape,RAC-120,RAC-120,Knob A assembly
+RT-909,Reel To Reel Tape,RAC-121,RAC-121,Knob B assembly
+RT-909,Reel To Reel Tape,RAC-122,RAC-122,Knob (PITCH CONTROL)
+RT-909,Reel To Reel Tape,RAD-130,RAD-130,"Switch cap (MONITOR,BIAS,EQ,REC MODE ON/OFF)"
+RT-909,Reel To Reel Tape,RAD-130,RAD-130,Switch cap (POWER)
+QT-6100,Reel To Reel Tape,RAH -071-0,RAH -071,Deck panel
+CT-F7171,Cassette Tape,RAH-010-A,RAH-010,Reflecting plate
+QT-74,Reel To Reel Tape,RAH-014-0,RAH-014,Aluminum disk
+QT-6600,Reel To Reel Tape,RAH-016-A,RAH-016,Name plate
+QT-74,Reel To Reel Tape,RAH-019-A,RAH-019,Name plate
+CT-F700,Cassette Tape,RAH-020,RAH-020,Cassette plate
+QT-6600,Reel To Reel Tape,RAH-023-A,RAH-023,Deck panel
+QT-74,Reel To Reel Tape,RAH-058-0,RAH-058,Reel mount frame
+QT-74,Reel To Reel Tape,RAH-058-0,RAH-058,Reel mount frame
+QT-74,Reel To Reel Tape,RAH-060-B,RAH-060,Deck panel
+QT-6100,Reel To Reel Tape,RAH-063-0,RAH-063,Reel mount frame
+QT-6100,Reel To Reel Tape,RAH-063-0,RAH-063,Reel mount frame
+QT-6600,Reel To Reel Tape,RAH-064-0,RAH-064,Reel mount frame
+QT-6600,Reel To Reel Tape,RAH-064-0,RAH-064,Reel mount frame
+QT-74,Reel To Reel Tape,RAH-075-0,RAH-075,REC./P.B. head template A2
+QT-74,Reel To Reel Tape,RAH-076-0,RAH-076,REC./P.B. head template B2
+RT-1011L,Reel To Reel Tape,RAH-079-A,RAH-079,Tension arm plate
+RT-1020L,Reel To Reel Tape,RAH-079-A,RAH-079,Spin screw
+RT-1020L,Reel To Reel Tape,RAH-092-0,RAH-092,Roller cover (A)
+RT-1020L,Reel To Reel Tape,RAH-093-0,RAH-093,Roller cover (B)
+RT-1011L,Reel To Reel Tape,RAH-106-0,RAH-106,Roller cover (A)
+RT-1011L,Reel To Reel Tape,RAH-107-0,RAH-107,Roller cover (B)
+CT-F6161,Cassette Tape,RAH-116-0,RAH-116,Reflecting plate
+CT-F9191,Cassette Tape,RAH-126,RAH-126,"Lever (REW,FF,STOP,PLAY)"
+CT-F9191,Cassette Tape,RAH-128,RAH-128,Lever (REC)
+CT-F8282,Cassette Tape,RAH-152,RAH-152,"Lever A (REW, FFW)"
+CT-F8282,Cassette Tape,RAH-152,RAH-152,"Lever A (STOP, PLAY)"
+CT-F8282,Cassette Tape,RAH-153,RAH-153,Lever B (REC)
+CT-F6262,Cassette Tape,RAH-154,RAH-154,Cassette panel
+CT-F7272,Cassette Tape,RAH-154,RAH-154,Panel
+CT-F7272,Cassette Tape,RAH-161,RAH-161,Front panel
+CT-F8282,Cassette Tape,RAH-163,RAH-163,Front panel
+CT-F6262,Cassette Tape,RAH-165,RAH-165,Front panel
+RT-701,Reel To Reel Tape,RAH-170,RAH-170,Base cover R
+RT-707,Reel To Reel Tape,RAH-170,RAH-170,Base cover R
+RT-701,Reel To Reel Tape,RAH-171,RAH-171,Base cover L
+RT-707,Reel To Reel Tape,RAH-171,RAH-171,Base cover L
+RT-701,Reel To Reel Tape,RAH-172,RAH-172,Cap
+RT-707,Reel To Reel Tape,RAH-176,RAH-176,Head panel B
+CT-F1000,Cassette Tape,RAH-187,RAH-187,Function button A (PLAY)
+CT-F1000,Cassette Tape,RAH-188,RAH-188,Function button B (REC)
+RT-701,Reel To Reel Tape,RAH-189,RAH-189,Head panel A
+CT-F1000,Cassette Tape,RAH-190,RAH-190,Function button C (REW)
+CT-F1000,Cassette Tape,RAH-191,RAH-191,Function button D (F.F)
+CT-F1000,Cassette Tape,RAH-192,RAH-192,Function button E (STOP)
+CT-F700,Cassette Tape,RAH-200,RAH-200,Cassette plate
+CT-F500/505,Cassette Tape,RAH-213,RAH-213,Front panel (CT-F500)
+CT-F500/505,Cassette Tape,RAH-224,RAH-224,Dress plate
+CT-F500/505,Cassette Tape,RAH-230,RAH-230,Front panel (CT-F505)
+CT-F850,Cassette Tape,RAH-233,RAH-233,Plate
+CT-F600/605,Cassette Tape,RAH-259,RAH-259,Dress plate
+CT-F1250,Cassette Tape,RAH-264,RAH-264,Half cover panel
+CT-F600/605,Cassette Tape,RAH-284,RAH-284,Front panel - CT-F605/KU Model
+CT-F950,Cassette Tape,RAH-285,RAH-285,Escutcheon panel
+CT-F950,Cassette Tape,RAH-286,RAH-286,Function panel
+CT-F950,Cassette Tape,RAH-287,RAH-287,Half cover panel
+CT-F850,Cassette Tape,RAH-289,RAH-289,Control panel
+CT-F750,Cassette Tape,RAH-290,RAH-290,FR key
+RT-909,Reel To Reel Tape,RAH-293,RAH-293,Front panel
+CT-F600/605,Cassette Tape,RAH-298,RAH-298,Front panel
+CT-F850,Cassette Tape,RAH-299,RAH-299,Front panel
+QT-6600,Reel To Reel Tape,RAK-001-0,RAK-001,Terminal name plate
+QT-74,Reel To Reel Tape,RAK-001-0,RAK-001,Terminal name plate
+RT-707,Reel To Reel Tape,RAK-004,RAK-004,Plate
+QT-6600,Reel To Reel Tape,RAL-037-0,RAL-037,Model name plate
+QT-6100,Reel To Reel Tape,RAL-039-0,RAL-039,Model name plate
+RT-1020L,Reel To Reel Tape,RAL-092-0,RAL-092,Model plate
+QT-74,Reel To Reel Tape,RAL-100-0,RAL-100,Model name plate
+CT-F7171,Cassette Tape,RAL-127-0,RAL-127,Name plate  (KCU Model)
+CT-F7171,Cassette Tape,RAL-129-0,RAL-129,Name plate  (FV model)
+RT-1011L,Reel To Reel Tape,RAL-130-0,RAL-130,Name plate (model)
+RT-1011L,Reel To Reel Tape,RAL-150-0,RAL-150,Name plate (KU model)
+RT-1011L,Reel To Reel Tape,RAL-151-0,RAL-151,Name plate (FV model)
+CT-F6161,Cassette Tape,RAL-161-0,RAL-161,Name plate   (KCU model)
+CT-F6161,Cassette Tape,RAL-163-0,RAL-163,Name plate   (FV model)
+QT-6600,Reel To Reel Tape,RAP-002-0,RAP-002,Aluminum frame (Right side)
+QT-6600,Reel To Reel Tape,RAP-003-0,RAP-003,Aluminum frame (Left side)
+QT-6100,Reel To Reel Tape,RAP-004-C,RAP-004,Amplifier panel
+QT-6100,Reel To Reel Tape,RAP-017-0,RAP-017,Aluminum frame (B)
+QT-6100,Reel To Reel Tape,RAP-017-0,RAP-017,Aluminum frame (B)
+QT-74,Reel To Reel Tape,RAP-024-0,RAP-024,Aluminum frame (A)
+QT-6600,Reel To Reel Tape,RAP-032-0,RAP-032,Counter escutcheon
+QT-74,Reel To Reel Tape,RAP-032-0,RAP-032,Counter escutcheon
+QT-74,Reel To Reel Tape,RAP-033-0,RAP-033,Aluminum frame
+QT-74,Reel To Reel Tape,RAP-034-0,RAP-034,Aluminum frame
+RT-1011L,Reel To Reel Tape,RAP-035-0,RAP-035,Frame (A)
+RT-1020L,Reel To Reel Tape,RAP-035-0,RAP-035,Frame (A)
+RT-1020L,Reel To Reel Tape,RAP-036-B,RAP-036,Sash (B)
+RT-1020L,Reel To Reel Tape,RAP-036-B,RAP-036,Sash (B)
+RT-1020L,Reel To Reel Tape,RAP-041-0,RAP-041,Rosette washer
+RT-1020L,Reel To Reel Tape,RAP-043-A,RAP-043,Meter Escutcheon
+RT-1011L,Reel To Reel Tape,RAP-046-0,RAP-046,Flame (B)
+RT-1011L,Reel To Reel Tape,RAP-046-0,RAP-046,Frame (B)
+RT-1011L,Reel To Reel Tape,RAT-002-A,RAT-002,Pinch roller cap
+RT-1020L,Reel To Reel Tape,RAT-002-A,RAT-002,Cap (pinch roller)
+RT-1020L,Reel To Reel Tape,RAT-003-0,RAT-003,Cap (bearing)
+RT-1011L,Reel To Reel Tape,RAT-005-A,RAT-005,REC lamp escutcheon
+RT-1011L,Reel To Reel Tape,RAT-007-0,RAT-007,Cap
+QT-6100,Reel To Reel Tape,RAW-001-0,RAW-001,Counter
+QT-6600,Reel To Reel Tape,RAW-001-0,RAW-001,Counter
+QT-74,Reel To Reel Tape,RAW-001-0,RAW-001,Counter
+QT-6600,Reel To Reel Tape,RAW-002-B,RAW-002,Level meter
+QT-6600,Reel To Reel Tape,RAW-002-B,RAW-002,Level meter
+QT-6100,Reel To Reel Tape,RAW-003-0,RAW-003,Level meter
+T-3500,Cassette Tape,RAW-005,RAW-005,METER
+QT-74,Reel To Reel Tape,RAW-013-A,RAW-013,Level meter
+RT-1011L,Reel To Reel Tape,RAW-017-0,RAW-017,Counter
+RT-1020L,Reel To Reel Tape,RAW-017-0,RAW-017,Counter
+RT-1011L,Reel To Reel Tape,RAW-018-0,RAW-018,Level meter
+RT-1020L,Reel To Reel Tape,RAW-018-0,RAW-018,Level meter
+CT-F7171,Cassette Tape,RAW-022-0,RAW-022,Level meter
+CT-F7171,Cassette Tape,RAW-023-0,RAW-023,Tape counter assembly
+CT-F6161,Cassette Tape,RAW-025-0,RAW-025,Level meter
+CT-F6161,Cassette Tape,RAW-026-0,RAW-026,Tape counter assembly
+CT-F9191,Cassette Tape,RAW-032-0,RAW-032,Level meter
+CT-F8282,Cassette Tape,RAW-033,RAW-033,Tape counter
+CT-F9191,Cassette Tape,RAW-033,RAW-033,Tape counter
+CT-F8282,Cassette Tape,RAW-041,RAW-041,"Level meter (LEFT, RIGHT)"
+CT-F7272,Cassette Tape,RAW-045,RAW-045,Counter
+CT-F6262,Cassette Tape,RAW-046,RAW-046,Tape counter
+CT-F7272,Cassette Tape,RAW-047,RAW-047,Level meter
+CT-F6262,Cassette Tape,RAW-049,RAW-049,Level meter
+CT-F700,Cassette Tape,RAW-051,RAW-051,Counter
+RT-701,Reel To Reel Tape,RAW-054,RAW-054,Tape counter
+RT-707,Reel To Reel Tape,RAW-055,RAW-055,Level meter R
+RT-707,Reel To Reel Tape,RAW-056,RAW-056,Level meter L
+RT-707,Reel To Reel Tape,RAW-057,RAW-057,Tape counter
+RT-701,Reel To Reel Tape,RAW-061,RAW-061,Level metev L
+RT-701,Reel To Reel Tape,RAW-062,RAW-062,Level meter R
+CT-F1000,Cassette Tape,RAW-064,RAW-064,Tape counter
+CT-F1000,Cassette Tape,RAW-067,RAW-067,Level meter assembly
+CT-F700,Cassette Tape,RAW-070,RAW-070,Level meter assembly
+CT-F700,Cassette Tape,RAW-074,RAW-074,Level meter assembly P
+CT-F500/505,Cassette Tape,RAW-094,RAW-094,Level meter (CT-F500)
+CT-F500/505,Cassette Tape,RAW-095,RAW-095,Tape counter
+CT-F500/505,Cassette Tape,RAW-109,RAW-109,Level meter (CT-F505)
+CT-F600/605,Cassette Tape,RAW-121,RAW-121,Tape counter
+CT-F850,Cassette Tape,RAW-126,RAW-126,Counter
+CT-F750,Cassette Tape,RAW-127,RAW-127,Tape counter
+CT-F1050,Cassette Tape,RAW-156,RAW-156,LED array
+QT-6600,Reel To Reel Tape,RAX-001-B,RAX-001,Dust cover assembly
+QT-6600,Reel To Reel Tape,RAX-001-B,RAX-001,Dust cover assembly
+QT-74,Reel To Reel Tape,RAX-001-C,RAX-001,Dust cover assembly
+RT-1020L,Reel To Reel Tape,RAX-008-B,RAX-008,Center base
+CT-F6161,Cassette Tape,RBA-004-0,RBA-004,Stud screw
+CT-F7171,Cassette Tape,RBA-004-0,RBA-004,Stud screw
+CT-F950,Cassette Tape,RBA-026,RBA-026,Screw
+CT-F600/605,Cassette Tape,RBA-036,RBA-036,Screw
+CT-F850,Cassette Tape,RBA-038,RBA-038,Screw
+CT-F950,Cassette Tape,RBA-038,RBA-038,Screw
+CT-F1050,Cassette Tape,RBA-039,RBA-039,Tapping screw
+CT-F1250,Cassette Tape,RBA-044,RBA-044,Screw (A)
+CT-F950,Cassette Tape,RBA-044,RBA-044,Screw (A)
+CT-F1250,Cassette Tape,RBA-045,RBA-045,Screw (B)
+CT-F950,Cassette Tape,RBA-045,RBA-045,Screw (B)
+CT-F1050,Cassette Tape,RBA-046,RBA-046,Screw
+CT-F750,Cassette Tape,RBA-046,RBA-046,Screw
+CT-F1050,Cassette Tape,RBA-064,RBA-064,Step screw
+QT-74,Reel To Reel Tape,RBE-005-0,RBE-005,Damper washer
+RT-1020L,Reel To Reel Tape,RBF-007-0,RBF-007,Nylon washer
+CT-F750,Cassette Tape,RBF-013,RBF-013,Steel ball
+CT-F850,Cassette Tape,RBF-013,RBF-013,Steel ball
+CT-F900,Cassette Tape,RBF-013,RBF-013,Steel ball
+CT-F950,Cassette Tape,RBF-013,RBF-013,Steel ball
+RT-1011L,Reel To Reel Tape,RBF-018-0,RBF-018,Washer
+RT-1011L,Reel To Reel Tape,RBF-019-0,RBF-019,Bushing
+RT-707,Reel To Reel Tape,RBF-019,RBF-019,Insulator
+CT-F7171,Cassette Tape,RBF-020-0,RBF-020,Spacer
+CT-F6161,Cassette Tape,RBF-021-0,RBF-021,Teflon washer
+CT-F7171,Cassette Tape,RBF-021-0,RBF-021,Teflon washer
+CT-F1050,Cassette Tape,RBF-030,RBF-030,Oil stopper
+CT-F600/605,Cassette Tape,RBF-030,RBF-030,Washer
+CT-F6262,Cassette Tape,RBF-030,RBF-030,Oil fence washer
+CT-F7272,Cassette Tape,RBF-030,RBF-030,Washer
+CT-F750,Cassette Tape,RBF-030,RBF-030,Washer
+CT-F1250,Cassette Tape,RBF-037,RBF-037,Washer
+CT-F850,Cassette Tape,RBF-037,RBF-037,Washer
+CT-F950,Cassette Tape,RBF-037,RBF-037,Washer
+QT-74,Reel To Reel Tape,RBG-003-0,RBG-003,Special retaining washer
+QT-6100,Reel To Reel Tape,RBH -076-0,RBH -076,Head spring
+QT-6600,Reel To Reel Tape,RBH -076-0,RBH -076,Head spring
+QT-6100,Reel To Reel Tape,RBH-050-0,RBH-050,Speed selector cam sprlng
+QT-6600,Reel To Reel Tape,RBH-050-0,RBH-050,Speed selector cam spring
+QT-74,Reel To Reel Tape,RBH-050-0,RBH-050,Speed selector cam spring
+QT-74,Reel To Reel Tape,RBH-055-0,RBH-055,Brake spring
+QT-6100,Reel To Reel Tape,RBH-076-0,RBH-076,Head spring
+QT-74,Reel To Reel Tape,RBH-076-0,RBH-076,Head spring
+QT-74,Reel To Reel Tape,RBH-080-0,RBH-080,Damper spring
+QT-74,Reel To Reel Tape,RBH-081-0,RBH-081,Back tension Spring
+CT-F6161,Cassette Tape,RBH-110-B,RBH-110,Spring (Sliding bar)
+CT-F7171,Cassette Tape,RBH-110-B,RBH-110,Spring (Sliding bar)
+QT-74,Reel To Reel Tape,RBH-121-0,RBH-121,Tension pulley spring
+RT-1011L,Reel To Reel Tape,RBH-146-0,RBH-146,Pinch pressure spring
+RT-1020L,Reel To Reel Tape,RBH-146-0,RBH-146,Pinch pressure spring
+RT-1020L,Reel To Reel Tape,RBH-148-A,RBH-148,Spring (roller arm)
+RT-1011L,Reel To Reel Tape,RBH-149-A,RBH-149,Tension arm spring
+RT-1020L,Reel To Reel Tape,RBH-149-A,RBH-149,Tension arm spring
+RT-1011L,Reel To Reel Tape,RBH-152-0,RBH-152,Release spring
+RT-1020L,Reel To Reel Tape,RBH-152-0,RBH-152,Release-spring
+RT-1011L,Reel To Reel Tape,RBH-162-0,RBH-162,Reel base spring
+RT-1020L,Reel To Reel Tape,RBH-162-0,RBH-162,Reel base spring
+RT-701,Reel To Reel Tape,RBH-162,RBH-162,Reel base spring
+RT-1011L,Reel To Reel Tape,RBH-169-0,RBH-169,Shifter spring
+RT-1020L,Reel To Reel Tape,RBH-169-0,RBH-169,Shifter spring
+RT-1011L,Reel To Reel Tape,RBH-170-0,RBH-170,Pinch backward spring
+RT-1020L,Reel To Reel Tape,RBH-170-0,RBH-170,Backward spring
+RT-1011L,Reel To Reel Tape,RBH-173-0,RBH-173,Brake Spring
+RT-1020L,Reel To Reel Tape,RBH-173-0,RBH-173,Brake spring
+CT-F6161,Cassette Tape,RBH-176-0,RBH-176,Spring (operating button)
+CT-F7171,Cassette Tape,RBH-176-0,RBH-176,Spring (operating button)
+CT-F6161,Cassette Tape,RBH-181-0,RBH-181,Spring (head base)
+CT-F7171,Cassette Tape,RBH-181-0,RBH-181,Spring (head base)
+CT-F6161,Cassette Tape,RBH-182-0,RBH-182,Spring (brake)
+CT-F7171,Cassette Tape,RBH-182-0,RBH-182,Spring (brake)
+CT-F6161,Cassette Tape,RBH-183-0,RBH-183,Adjusting spring (head)
+CT-F7171,Cassette Tape,RBH-183-0,RBH-183,Adjusting spring (head)
+CT-F6161,Cassette Tape,RBH-184-0,RBH-184,Spring for brake lever
+CT-F7171,Cassette Tape,RBH-184-0,RBH-184,Spring for brake lever
+CT-F6161,Cassette Tape,RBH-187-0,RBH-187,Spring for FF lever
+CT-F7171,Cassette Tape,RBH-187-0,RBH-187,Spring for FF lever
+CT-F6161,Cassette Tape,RBH-188-0,RBH-188,FR lever spring D
+CT-F7171,Cassette Tape,RBH-188-0,RBH-188,FR lever. D
+CT-F6161,Cassette Tape,RBH-189-0,RBH-189,Spring for REW lever
+CT-F7171,Cassette Tape,RBH-189-0,RBH-189,Spring for REW lever
+CT-F6161,Cassette Tape,RBH-190-0,RBH-190,Spring for tension arm
+CT-F7171,Cassette Tape,RBH-190-0,RBH-190,Spring for tension arm
+RT-1011L,Reel To Reel Tape,RBH-194-0,RBH-194,Roller arm spring
+CT-F6161,Cassette Tape,RBH-200-0,RBH-200,Spring (Cam)
+CT-F7171,Cassette Tape,RBH-200-0,RBH-200,Spring (Cam)
+CT-F6161,Cassette Tape,RBH-201-0,RBH-201,Spring (Sliding plate)
+CT-F7171,Cassette Tape,RBH-201-0,RBH-201,Spring (Sliding plate)
+CT-F6161,Cassette Tape,RBH-202-0,RBH-202,Spring (Door lock bar)
+CT-F7171,Cassette Tape,RBH-202-0,RBH-202,Spring (Door lock bar)
+CT-F6161,Cassette Tape,RBH-203-0,RBH-203,Spring (Release lever)
+CT-F7171,Cassette Tape,RBH-203-0,RBH-203,Spring (Release lever)
+CT-F6161,Cassette Tape,RBH-204-0,RBH-204,Spring (Cassette positioner R)
+CT-F7171,Cassette Tape,RBH-204-0,RBH-204,Spring (Cassette positioner R)
+CT-F6161,Cassette Tape,RBH-205-0,RBH-205,Spring (Cassette positioner L)
+CT-F7171,Cassette Tape,RBH-205-0,RBH-205,Spring (Cassette positioner L)
+CT-F6161,Cassette Tape,RBH-208-0,RBH-208,Spring
+CT-F7171,Cassette Tape,RBH-208-0,RBH-208,Spring
+CT-F6161,Cassette Tape,RBH-209-0,RBH-209,Spring (Sliding bar)
+CT-F7171,Cassette Tape,RBH-209-0,RBH-209,Spring (Sliding bar)
+CT-F6161,Cassette Tape,RBH-210-0,RBH-210,Door spring
+CT-F7171,Cassette Tape,RBH-210-0,RBH-210,Door spring
+CT-F6161,Cassette Tape,RBH-211-0,RBH-211,Spring (head base)
+CT-F7171,Cassette Tape,RBH-211-0,RBH-211,Spring (head base)
+CT-F6161,Cassette Tape,RBH-214-0,RBH-214,Spring (STOP EJECT button)
+CT-F7171,Cassette Tape,RBH-214-0,RBH-214,Spring (STOP EJECT button)
+CT-F6161,Cassette Tape,RBH-215-0,RBH-215,Spring (button lock)
+CT-F7171,Cassette Tape,RBH-215-0,RBH-215,Spring (button lock)
+CT-F6161,Cassette Tape,RBH-216-0,RBH-216,Spring (EJECT)
+CT-F6161,Cassette Tape,RBH-217-0,RBH-217,Spring (pause lock)
+CT-F7171,Cassette Tape,RBH-217-0,RBH-217,Spring (pause lock)
+CT-F6161,Cassette Tape,RBH-218-0,RBH-218,Prevention plate spring
+CT-F7171,Cassette Tape,RBH-218-0,RBH-218,Prevention plate spring
+CT-F6161,Cassette Tape,RBH-219-0,RBH-219,Spring (pinch roller)
+CT-F7171,Cassette Tape,RBH-219-0,RBH-219,Spring (pinch roller)
+CT-F6161,Cassette Tape,RBH-220-0,RBH-220,Spring (Pause-lever)
+CT-F7171,Cassette Tape,RBH-220-0,RBH-220,Spring (Pause-lever)
+CT-F6161,Cassette Tape,RBH-221-0,RBH-221,Spring for idler B lever
+CT-F7171,Cassette Tape,RBH-221-0,RBH-221,Spring for idler B lever
+CT-F6161,Cassette Tape,RBH-222-0,RBH-222,Spring for REC lever
+CT-F7171,Cassette Tape,RBH-222-0,RBH-222,Spring for REC lever
+CT-F6161,Cassette Tape,RBH-226-0,RBH-226,Spring for REC lever
+CT-F7171,Cassette Tape,RBH-226-0,RBH-226,Spring for REC lever
+CT-F6161,Cassette Tape,RBH-227-0,RBH-227,Spring
+CT-F7171,Cassette Tape,RBH-227-0,RBH-227,Spring
+CT-F6262,Cassette Tape,RBH-277,RBH-277,Spring
+CT-F7272,Cassette Tape,RBH-277,RBH-277,Spring
+CT-F6262,Cassette Tape,RBH-280,RBH-280,Spring
+CT-F6262,Cassette Tape,RBH-281,RBH-281,Spring
+CT-F6262,Cassette Tape,RBH-282,RBH-282,Spring
+CT-F7272,Cassette Tape,RBH-282,RBH-282,Spring
+CT-F6262,Cassette Tape,RBH-283,RBH-283,Spring
+CT-F7272,Cassette Tape,RBH-283,RBH-283,Spring
+CT-F6262,Cassette Tape,RBH-284,RBH-284,Spring
+CT-F7272,Cassette Tape,RBH-284,RBH-284,Spring
+CT-F6262,Cassette Tape,RBH-285,RBH-285,Retainer spring (L)
+CT-F7272,Cassette Tape,RBH-285,RBH-285,Spring (L)
+CT-F6262,Cassette Tape,RBH-286,RBH-286,Retainer spring (R)
+CT-F7272,Cassette Tape,RBH-286,RBH-286,Spring (R)
+CT-F6262,Cassette Tape,RBH-287,RBH-287,Spring
+CT-F7272,Cassette Tape,RBH-287,RBH-287,Spring
+CT-F6262,Cassette Tape,RBH-288,RBH-288,Spring
+CT-F7272,Cassette Tape,RBH-288,RBH-288,Spring
+CT-F6262,Cassette Tape,RBH-290,RBH-290,Spring
+CT-F7272,Cassette Tape,RBH-290,RBH-290,Spring
+CT-F6262,Cassette Tape,RBH-291,RBH-291,Spring
+CT-F7272,Cassette Tape,RBH-291,RBH-291,Spring
+CT-F6262,Cassette Tape,RBH-292,RBH-292,Brake pressure spring
+CT-F7272,Cassette Tape,RBH-292,RBH-292,Spring
+CT-F6262,Cassette Tape,RBH-293,RBH-293,Spring
+CT-F7272,Cassette Tape,RBH-293,RBH-293,Spring
+CT-F6262,Cassette Tape,RBH-294,RBH-294,Operating lever spring
+CT-F7272,Cassette Tape,RBH-294,RBH-294,Spring
+CT-F6262,Cassette Tape,RBH-295,RBH-295,Pause lever spring
+CT-F7272,Cassette Tape,RBH-295,RBH-295,Spring
+CT-F6262,Cassette Tape,RBH-296,RBH-296,Spring
+CT-F7272,Cassette Tape,RBH-296,RBH-296,Spring
+CT-F6262,Cassette Tape,RBH-297,RBH-297,Ratchet spring
+CT-F7272,Cassette Tape,RBH-297,RBH-297,Spring
+CT-F6262,Cassette Tape,RBH-301,RBH-301,Spring
+CT-F7272,Cassette Tape,RBH-301,RBH-301,Spring
+CT-F6262,Cassette Tape,RBH-302,RBH-302,Return spring
+CT-F6262,Cassette Tape,RBH-304,RBH-304,Pinch roller spring
+CT-F7272,Cassette Tape,RBH-304,RBH-304,Spring
+CT-F600/605,Cassette Tape,RBH-306,RBH-306,Head adjusting spring
+CT-F6262,Cassette Tape,RBH-306,RBH-306,Spring
+CT-F7272,Cassette Tape,RBH-306,RBH-306,Spring
+CT-F6262,Cassette Tape,RBH-310,RBH-310,Spring
+CT-F7272,Cassette Tape,RBH-310,RBH-310,Spring
+RT-701,Reel To Reel Tape,RBH-313,RBH-313,Brake spring
+RT-707,Reel To Reel Tape,RBH-313,RBH-313,Brake spring
+RT-701,Reel To Reel Tape,RBH-320,RBH-320,Shut off lever
+RT-707,Reel To Reel Tape,RBH-320,RBH-320,Shut off lever
+RT-707,Reel To Reel Tape,RBH-322,RBH-322,Release lever
+RT-707,Reel To Reel Tape,RBH-323,RBH-323,Release arm spring
+RT-707,Reel To Reel Tape,RBH-325,RBH-325,Spring C
+RT-707,Reel To Reel Tape,RBH-326,RBH-326,T Spring B
+RT-707,Reel To Reel Tape,RBH-329,RBH-329,T spring A
+RT-701,Reel To Reel Tape,RBH-351,RBH-351,Release lever
+CT-F700,Cassette Tape,RBH-356,RBH-356,Pause arm assembly
+RT-701,Reel To Reel Tape,RBH-362,RBH-362,Brake release spring
+CT-F1250,Cassette Tape,RBH-373,RBH-373,Spring
+CT-F850,Cassette Tape,RBH-373,RBH-373,Spring
+CT-F950,Cassette Tape,RBH-373,RBH-373,Spring
+CT-F1250,Cassette Tape,RBH-374,RBH-374,Spring
+CT-F750,Cassette Tape,RBH-374,RBH-374,Spring .
+CT-F850,Cassette Tape,RBH-374,RBH-374,Spring
+CT-F950,Cassette Tape,RBH-374,RBH-374,Spring
+CT-F700,Cassette Tape,RBH-388,RBH-388,Head base spring
+CT-F700,Cassette Tape,RBH-391,RBH-391,Ratchet wire
+CT-F700,Cassette Tape,RBH-397,RBH-397,Door spring
+CT-F700,Cassette Tape,RBH-398,RBH-398,Lever spring
+CT-F700,Cassette Tape,RBH-399,RBH-399,Cam arm spring
+CT-F700,Cassette Tape,RBH-425,RBH-425,Damper spring
+CT-F1250,Cassette Tape,RBH-498,RBH-498,Spring
+CT-F850,Cassette Tape,RBH-498,RBH-498,Spring
+CT-F950,Cassette Tape,RBH-498,RBH-498,Spring
+CT-F1250,Cassette Tape,RBH-502,RBH-502,Spring
+CT-F850,Cassette Tape,RBH-502,RBH-502,Spring
+CT-F900,Cassette Tape,RBH-502,RBH-502,Idler spring
+CT-F950,Cassette Tape,RBH-502,RBH-502,Spring
+CT-F1250,Cassette Tape,RBH-503,RBH-503,Ball guide
+CT-F1250,Cassette Tape,RBH-503,RBH-503,Half holder
+CT-F850,Cassette Tape,RBH-503,RBH-503,Spring
+CT-F950,Cassette Tape,RBH-503,RBH-503,Spring
+CT-F900,Cassette Tape,RBH-504,RBH-504,Idler spring
+CT-F1250,Cassette Tape,RBH-505,RBH-505,Spring
+CT-F850,Cassette Tape,RBH-505,RBH-505,Spring
+CT-F950,Cassette Tape,RBH-505,RBH-505,Spring
+CT-F1250,Cassette Tape,RBH-506,RBH-506,Spring (A)
+CT-F850,Cassette Tape,RBH-506,RBH-506,Solenoid spring (A)
+CT-F950,Cassette Tape,RBH-506,RBH-506,Spring
+CT-F1250,Cassette Tape,RBH-507,RBH-507,Spring
+CT-F850,Cassette Tape,RBH-507,RBH-507,Solenoid spring (B)
+CT-F900,Cassette Tape,RBH-507,RBH-507,Solenoid spring B
+CT-F950,Cassette Tape,RBH-507,RBH-507,Spring
+CT-F1250,Cassette Tape,RBH-511,RBH-511,Spring
+CT-F850,Cassette Tape,RBH-511,RBH-511,Spring
+CT-F950,Cassette Tape,RBH-511,RBH-511,Spring
+CT-F850,Cassette Tape,RBH-516,RBH-516,Spring
+CT-F950,Cassette Tape,RBH-516,RBH-516,Spring
+CT-F1250,Cassette Tape,RBH-524,RBH-524,spring
+CT-F850,Cassette Tape,RBH-524,RBH-524,Spring
+CT-F950,Cassette Tape,RBH-524,RBH-524,Spring
+CT-F850,Cassette Tape,RBH-532,RBH-532,Solenoid spring
+CT-F1250,Cassette Tape,RBH-534,RBH-534,Spring
+CT-F850,Cassette Tape,RBH-534,RBH-534,Spring
+CT-F950,Cassette Tape,RBH-534,RBH-534,Spring
+CT-F1250,Cassette Tape,RBH-557,RBH-557,Spring
+CT-F850,Cassette Tape,RBH-557,RBH-557,Spring (GND)
+CT-F950,Cassette Tape,RBH-557,RBH-557,Spring
+CT-F1250,Cassette Tape,RBH-563,RBH-563,Brake spring
+CT-F850,Cassette Tape,RBH-563,RBH-563,Spring
+CT-F950,Cassette Tape,RBH-563,RBH-563,Spring
+CT-F1250,Cassette Tape,RBH-564,RBH-564,Spring
+CT-F850,Cassette Tape,RBH-564,RBH-564,Spring
+CT-F950,Cassette Tape,RBH-564,RBH-564,Spring
+RT-909,Reel To Reel Tape,RBH-583,RBH-583,Senter link return spring
+RT-909,Reel To Reel Tape,RBH-584,RBH-584,Pause lever spring
+RT-909,Reel To Reel Tape,RBH-585,RBH-585,Reel base sﬂrmg
+RT-909,Reel To Reel Tape,RBH-586,RBH-586,Reel base adjust spring
+RT-909,Reel To Reel Tape,RBH-591,RBH-591,Brake spring
+CT-F750,Cassette Tape,RBH-592,RBH-592,Spring
+CT-F750,Cassette Tape,RBH-593,RBH-593,Spring
+CT-F750,Cassette Tape,RBH-594,RBH-594,Spring
+CT-F750,Cassette Tape,RBH-595,RBH-595,Spring
+CT-F750,Cassette Tape,RBH-596,RBH-596,HB spring
+CT-F750,Cassette Tape,RBH-597,RBH-597,Spring
+CT-F750,Cassette Tape,RBH-598,RBH-598,Spring
+CT-F750,Cassette Tape,RBH-603,RBH-603,Spring
+CT-F750,Cassette Tape,RBH-604,RBH-604,Spring
+CT-F750,Cassette Tape,RBH-605,RBH-605,REW spring A
+CT-F750,Cassette Tape,RBH-606,RBH-606,REW spring B
+CT-F750,Cassette Tape,RBH-607,RBH-607,Spring
+CT-F750,Cassette Tape,RBH-608,RBH-608,Spring
+CT-F750,Cassette Tape,RBH-609,RBH-609,Spring
+CT-F750,Cassette Tape,RBH-610,RBH-610,Spring
+CT-F750,Cassette Tape,RBH-611,RBH-611,Spring
+CT-F750,Cassette Tape,RBH-613,RBH-613,Spring
+CT-F750,Cassette Tape,RBH-614,RBH-614,Spring
+CT-F750,Cassette Tape,RBH-615,RBH-615,Spring
+CT-F750,Cassette Tape,RBH-616,RBH-616,Spring
+CT-F750,Cassette Tape,RBH-617,RBH-617,Spring
+CT-F750,Cassette Tape,RBH-618,RBH-618,Spring
+RT-909,Reel To Reel Tape,RBH-622,RBH-622,Knob return spring
+CT-F750,Cassette Tape,RBH-623,RBH-623,Spring
+CT-F750,Cassette Tape,RBH-636,RBH-636,Spring
+CT-F750,Cassette Tape,RBH-637,RBH-637,Spring
+CT-F750,Cassette Tape,RBH-638,RBH-638,Spring
+CT-F750,Cassette Tape,RBH-639,RBH-639,Spring
+CT-F750,Cassette Tape,RBH-640,RBH-640,Spring
+CT-F750,Cassette Tape,RBH-641,RBH-641,Spring
+CT-F750,Cassette Tape,RBH-642,RBH-642,Spring
+CT-F750,Cassette Tape,RBH-643,RBH-643,Spring
+RT-909,Reel To Reel Tape,RBH-645,RBH-645,Pressure spring
+CT-F1250,Cassette Tape,RBH-647,RBH-647,Spring (B)
+CT-F1050,Cassette Tape,RBH-763,RBH-763,ldler spring
+CT-F1050,Cassette Tape,RBH-764,RBH-764,Spring
+CT-F1050,Cassette Tape,RBH-765,RBH-765,Pinch arm spring
+CT-F1050,Cassette Tape,RBH-766,RBH-766,Pinch pressure spring
+CT-F1050,Cassette Tape,RBH-768,RBH-768,Release spring
+CT-F1050,Cassette Tape,RBH-769,RBH-769,Spring L
+CT-F1050,Cassette Tape,RBH-770,RBH-770,Spring R
+CT-F1050,Cassette Tape,RBH-771,RBH-771,Azimuth spring
+CT-F1050,Cassette Tape,RBH-773,RBH-773,HB spring
+CT-F1050,Cassette Tape,RBH-774,RBH-774,Lever spring
+CT-F1050,Cassette Tape,RBH-783,RBH-783,Eject lever spring
+CT-F1050,Cassette Tape,RBH-786,RBH-786,Lock arm spring
+CT-F1050,Cassette Tape,RBH-797,RBH-797,Earth spring
+CT-F1050,Cassette Tape,RBH-808,RBH-808,HB spring
+CT-F1050,Cassette Tape,RBH-809,RBH-809,Brake spring
+CT-F1050,Cassette Tape,RBH-810,RBH-810,Connection rod
+CT-F1050,Cassette Tape,RBH-811,RBH-811,Pocket arm spring
+CT-F1050,Cassette Tape,RBH-824,RBH-824,Button spring
+CT-F1050,Cassette Tape,RBH-825,RBH-825,Knob earth spring
+QT-6600,Reel To Reel Tape,RBK-034-A,RBK-034,Spring lever
+QT-74,Reel To Reel Tape,RBK-034-A,RBK-034,Spring lever
+QT-6600,Reel To Reel Tape,RBK-035-0,RBK-035,Plate spring
+QT-74,Reel To Reel Tape,RBK-035-0,RBK-035,Plate spring
+QT-6100,Reel To Reel Tape,RBK-055-0,RBK-055,Lock spring
+QT-6100,Reel To Reel Tape,RBK-055-0,RBK-055,Lock spring
+QT-6600,Reel To Reel Tape,RBK-055-0,RBK-055,Lock spring
+QT-6600,Reel To Reel Tape,RBK-055-0,RBK-055,Lock spring
+QT-74,Reel To Reel Tape,RBK-055-0,RBK-055,Lock spring
+RT-1011L,Reel To Reel Tape,RBK-060-B,RBK-060,Head adj spring
+RT-1020L,Reel To Reel Tape,RBK-060-B,RBK-060,Head adj. spring
+CT-F6161,Cassette Tape,RBK-072-0,RBK-072,Spring for base head
+CT-F7171,Cassette Tape,RBK-072-0,RBK-072,Spring for base head
+RT-1011L,Reel To Reel Tape,RBK-073-0,RBK-073,Arm lock spring
+RT-701,Reel To Reel Tape,RBK-093,RBK-093,Adjuster spring
+RT-707,Reel To Reel Tape,RBK-093,RBK-093,Adjuster spring
+CT-F7272,Cassette Tape,RBK-096,RBK-096,Spring
+CT-F6262,Cassette Tape,RBK-099,RBK-099,Door lock spring
+CT-F7272,Cassette Tape,RBK-099,RBK-099,Plate spring
+CT-F850,Cassette Tape,RBK-107,RBK-107,Spring
+CT-F950,Cassette Tape,RBK-107,RBK-107,Spring
+CT-F850,Cassette Tape,RBK-119,RBK-119,Head base holder
+CT-F900,Cassette Tape,RBK-119,RBK-119,Head base holder
+CT-F950,Cassette Tape,RBK-119,RBK-119,Head base holder
+CT-F850,Cassette Tape,RBK-127,RBK-127,Spring
+CT-F950,Cassette Tape,RBK-132,RBK-132,Spring
+RT-909,Reel To Reel Tape,RBK-137,RBK-137,Head adjust spring
+RT-909,Reel To Reel Tape,RBK-139,RBK-139,Thrust spring
+CT-F1050,Cassette Tape,RBK-160,RBK-160,Half spring
+CT-F1050,Cassette Tape,RBK-161,RBK-161,Pocket spring
+CT-F1250,Cassette Tape,RBK-419,RBK-419,Head base holder
+CT-F700,Cassette Tape,RBM-004,RBM-004,Wire nut  (KC type)
+CT-F700,Cassette Tape,RBM-004,RBM-004,Wire nut  (KU type)
+CT-F750,Cassette Tape,RBM-004,RBM-004,Wire nut
+CT-F950,Cassette Tape,RBM-004,RBM-004,Wire nut
+CT-F7171,Cassette Tape,RBM-216-0,RBM-216,Spring (EJECT)
+CT-F7171,Cassette Tape,RBN-004-A,RBN-004,Plastic nut
+RT-1011L,Reel To Reel Tape,RBN-004-A,RBN-004,Insulate nut
+CT-F6262,Cassette Tape,RBN-005,RBN-005,Insulator nut
+CT-F1050,Cassette Tape,RBN-009,RBN-009,Nylon nut
+CT-F1250,Cassette Tape,RBS-024,RBS-024,Switch (C - DOLBY)
+CT-F600/605,Cassette Tape,RBS-110,RBS-110,Operating instruction (CT-F600/KC)
+CT-F600/605,Cassette Tape,RCG-006,RCG-006,Capacitor
+RT-1020L,Reel To Reel Tape,RCH-010-0,RCH-010,"Electrolytic capacitor 1,000uF 35V"
+RT-1020L,Reel To Reel Tape,RCH-010-0,RCH-010,"Electrolytic capacitor 1,000uF 50V"
+RT-1011L,Reel To Reel Tape,RCL-010-0,RCL-010,Phase capacitor 0.5 +4uF 250V
+RT-1011L,Reel To Reel Tape,RCL-010-0,RCL-010,Phase capacitor 0.5+4uF 250V
+RT-1020L,Reel To Reel Tape,RCL-010-0,RCL-010,Phase capacitor 0.5 +4uF 250V
+RT-1020L,Reel To Reel Tape,RCL-013-0,RCL-013,MP capacitor (A) 1 + 2.8uF 250V
+RT-1020L,Reel To Reel Tape,RCL-013-0,RCL-013,MP capacitor (A) 2.8 +1uF 250V
+RT-1011L,Reel To Reel Tape,RCL-015-0,RCL-015,MP capacitor (A) 1+2.8uF 250V
+RT-1011L,Reel To Reel Tape,RCL-015-0,RCL-015,MP capacitor (A) 2.8 + 1uF 250V
+RT-701,Reel To Reel Tape,RCL-015,RCL-015,MP capacitor
+RT-701,Reel To Reel Tape,RCL-017,RCL-017,MP capacitor
+QT-74,Reel To Reel Tape,RCN -001-0,RCN -001,Wire wound resistor 75Ω 10W
+QT-6100,Reel To Reel Tape,RCN-001-0,RCN-001,Wire wound resistor 75Ω 10W
+QT-6600,Reel To Reel Tape,RCN-001-0,RCN-001,Wire wound 75  10W
+QT-6600,Reel To Reel Tape,RCN-001-0,RCN-001,Wire wound 75  10W
+QT-6600,Reel To Reel Tape,RCN-001-0,RCN-001,Wire wound resistor 75Ω  10W
+RT-1020L,Reel To Reel Tape,RCN-010-0,RCN-010,Wire wound resistor (A) 100Ω 20W
+RT-1020L,Reel To Reel Tape,RCN-011-0,RCN-011,Wire wound resistor (B) 300Ω 20W
+RT-1020L,Reel To Reel Tape,RCN-012-0,RCN-012,Wire wound resistor (C) 500Ω 20W
+RT-1020L,Reel To Reel Tape,RCN-014-0,RCN-014,Wire wound resistor (D) 2kΩ 20W
+RT-1011L,Reel To Reel Tape,RCN-020-0,RCN-020,Wire wound resistor (A)
+RT-1011L,Reel To Reel Tape,RCN-020-0,RCN-020,Wire wound resistor (A)
+RT-1011L,Reel To Reel Tape,RCN-021-0,RCN-021,Wire wound resister (B)
+RT-1011L,Reel To Reel Tape,RCN-021-0,RCN-021,Wire wound resistor (B)
+RT-1011L,Reel To Reel Tape,RCN-022-0,RCN-022,Wire wound resistor (C)
+RT-1011L,Reel To Reel Tape,RCN-022-0,RCN-022,Wire wound resistor (C)
+RT-1011L,Reel To Reel Tape,RCN-023-0,RCN-023,Wire wound resistor (D)
+RT-1011L,Reel To Reel Tape,RCN-023-0,RCN-023,Wire wound resistor (D)
+RT-707,Reel To Reel Tape,RCN-023,RCN-023,Wire wound resistor D
+RT-707,Reel To Reel Tape,RCN-024,RCN-024,Wire wound resistor A
+RT-701,Reel To Reel Tape,RCN-033,RCN-033,Wire wound resistor A 350 25w
+RT-701,Reel To Reel Tape,RCN-034,RCN-034,Wire wound resistor D 2k 20w
+RT-701,Reel To Reel Tape,RCS-011,RCS-011,Variable resistor (PITCH CONTROL)
+RT-707,Reel To Reel Tape,RCS-011,RCS-011,Variable resistor 10k-B (PITCH CONTROL)
+RT-707,Reel To Reel Tape,RCS-013,RCS-013,Variable resistor (OUTPUT LEVEL CONTROL) 20k-B
+RT-707,Reel To Reel Tape,RCS-013,RCS-013,Variable resistor (OUTPUT LEVEL CONTROL) 20k-B
+CT-F1000,Cassette Tape,RCS-015,RCS-015,"VariabIe resistor (DOLBY REC CAL L, R)"
+CT-F700,Cassette Tape,RCS-016,RCS-016,Volume (BIAS)
+CT-F900,Cassette Tape,RCS-017,RCS-017,Volume (BIAS)
+CT-F950,Cassette Tape,RCS-020,RCS-020,Volume 5K-B (BIAS)
+CT-F850,Cassette Tape,RCS-021,RCS-021,Volume 10K-B  (BIAS)
+RT-909,Reel To Reel Tape,RCS-022,RCS-022,Pitch control volume
+QT-6600,Reel To Reel Tape,RCV-001-0,RCV-001,20k 4-gang (REC MASTER)
+QT-6600,Reel To Reel Tape,RCV-001-0,RCV-001,20k 4-gang (REC MASTER)
+QT-6600,Reel To Reel Tape,RCV-001-0,RCV-001,REC master level control
+QT-74,Reel To Reel Tape,RCV-001-0,RCV-001,REC MASTER 4-gang level control 20k-B
+QT-6600,Reel To Reel Tape,RCV-002-0,RCV-002,20k dual (REC/P.B. level)
+QT-6600,Reel To Reel Tape,RCV-002-0,RCV-002,20k dual (REC/P.B. level)
+QT-6600,Reel To Reel Tape,RCV-002-0,RCV-002,20k dual (REC/P.B. level)
+QT-6600,Reel To Reel Tape,RCV-002-0,RCV-002,20k dual (REC/P.B. level)
+QT-6600,Reel To Reel Tape,RCV-002-0,RCV-002,REC/P.B. level control
+QT-74,Reel To Reel Tape,RCV-002-0,RCV-002,REC./P.B. dual level control  20k-A (P.B. level) 20k-B (REC. level)
+QT-2100,8-Track Tape,RCV-003,RCV-003,CONTROL(VOLUME)
+QT-6100,Reel To Reel Tape,RCV-004-0,RCV-004,REC level control
+RT-1011L,Reel To Reel Tape,RCV-010-B,RCV-010,Rec level control
+RT-1011L,Reel To Reel Tape,RCV-010-B,RCV-010,Rec level control
+RT-1011L,Reel To Reel Tape,RCV-010-B,RCV-010,REC level volume
+RT-1020L,Reel To Reel Tape,RCV-010-A,RCV-010,REC level volume 10kΩ-A
+RT-1020L,Reel To Reel Tape,RCV-011-0,RCV-011,P.B. level volume 50kΩ-B
+CT-F6161,Cassette Tape,RCV-017-C,RCV-017,Variable resistor 20ks2-A (INPUT)
+CT-F7171,Cassette Tape,RCV-017-0,RCV-017,Variable resistor 20kΩ-A (REC LEVEL)
+CT-F6161,Cassette Tape,RCV-018-C,RCV-018,Variable resistor 50ks2-A (OUTPUT)
+CT-F7171,Cassette Tape,RCV-018-0,RCV-018,Variable resistor 50kΩ-A (PB LEVEL)
+RT-1011L,Reel To Reel Tape,RCV-019-0,RCV-019,Play back control
+RT-1011L,Reel To Reel Tape,RCV-019-0,RCV-019,Playback level volume
+CT-F9191,Cassette Tape,RCV-020,RCV-020,Variable resistor 10kΩ-A (DIN/MIC)
+CT-F9191,Cassette Tape,RCV-021,RCV-021,Variable resistor 20kΩ-A (LINE)
+CT-F9191,Cassette Tape,RCV-021,RCV-021,Variable resistor 20kΩ-A (OUTPUT)
+CT-F8282,Cassette Tape,RCV-027,RCV-027,INPUT LEVEL Control 20k(A)
+CT-F8282,Cassette Tape,RCV-027,RCV-027,INPUT LEVEL Control 20k(A)
+CT-F8282,Cassette Tape,RCV-028,RCV-028,OUTPUT LEVEL Control 20k(B)
+CT-F8282,Cassette Tape,RCV-028,RCV-028,OUTPUT LEVEL Control 20k(B)
+CT-F6262,Cassette Tape,RCV-029,RCV-029,Variable resistor 20k-15A (INPUT)
+CT-F7272,Cassette Tape,RCV-029,RCV-029,Variable resistor (INPUT)
+CT-F6262,Cassette Tape,RCV-030,RCV-030,Variable resistor 20k-3B (OUTPUT)
+CT-F7272,Cassette Tape,RCV-030,RCV-030,Variable resistor (OUTPUT)
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (LINE)
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (LINE)
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (MIC)
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (MIC)
+CT-F1000,Cassette Tape,RCV-041,RCV-041,Variable resistor (MIC/DIN)
+CT-F1000,Cassette Tape,RCV-042,RCV-042,Variable resistor (LINE)
+CT-F1000,Cassette Tape,RCV-043,RCV-043,Variable resistor (OUTPUT)
+CT-F700,Cassette Tape,RCV-045,RCV-045,Variable resistor (INPUT) 20k-A
+CT-F700,Cassette Tape,RCV-046,RCV-046,Variable resistor(OUTPUT) 20k-B
+CT-F500/505,Cassette Tape,RCV-055,RCV-055,"Variable resistor 20k (INPUT LEVEL - Include nut, washer)"
+CT-F600/605,Cassette Tape,RCV-055,RCV-055,Variable resistor (INPUT LEVEL)
+CT-F900,Cassette Tape,RCV-056,RCV-056,Volume (INPUT)
+CT-F950,Cassette Tape,RCV-056,RCV-056,Volume 20k (A) (INPUT)
+CT-F900,Cassette Tape,RCV-060,RCV-060,Volume (OUTPUT)
+CT-F850,Cassette Tape,RCV-061,RCV-061,Volume 20K-A (INPUT)
+CT-F950,Cassette Tape,RCV-064,RCV-064,Volume 20K (B) (OUTPUT)
+CT-F1250,Cassette Tape,RCV-065,RCV-065,Volume (PITCH CONTROL)
+CT-F850,Cassette Tape,RCV-066,RCV-066,Volume switch 50K-B  (OUTPUT)
+CT-F1250,Cassette Tape,RCV-070,RCV-070,Bias control
+CT-F1250,Cassette Tape,RCV-071,RCV-071,Control (LEVEL/EQ)
+CT-F1250,Cassette Tape,RCV-074,RCV-074,PB volume (OUTPUT) 20k (B)
+RT-909,Reel To Reel Tape,RCV-075,RCV-075,Variable resistor (LINE)
+RT-909,Reel To Reel Tape,RCV-076,RCV-076,Variable resistor (OUTPUT)
+CT-F750,Cassette Tape,RCV-077,RCV-077,Volume 20k (INPUT)
+CT-F750,Cassette Tape,RCV-078,RCV-078,Volume 20k (OUTPUT)
+RT-909,Reel To Reel Tape,RCV-079,RCV-079,Variable resistor (MIC)
+CT-F1050,Cassette Tape,RCV-091,RCV-091,Volume (INPUT) 20k-A
+CT-F1050,Cassette Tape,RCV-092,RCV-092,Volume (OUTPUT) 20k-B
+T-3500,Cassette Tape,RCW-001,RCW-001,CONTROL(REC/PLAYBACK LEVEL)
+SX-550,Receiver,RD ½PS 225J,RD ½PS 225J,Carbon film 2.2M ½W
+SX-650,Receiver,RD ½PS 225J,RD ½PS 225J,Carbon film 2.2M  ½W (KCU)
+SX-750,Receiver,RD ½PS 225J,RD ½PS 225J,Carbon film 2.2M ½W
+CT-F1250,Cassette Tape,RDE-010,RDE-010,Connection cord
+CT-F6161,Cassette Tape,RDE-010-0,RDE-010,Connection cord
+CT-F700,Cassette Tape,RDE-010,RDE-010,Connection cord
+CT-F7171,Cassette Tape,RDE-010-0,RDE-010,Connection Cord
+CT-F8282,Cassette Tape,RDE-010,RDE-010,Connection cord
+CT-F850,Cassette Tape,RDE-010,RDE-010,Connection cord
+CT-F900,Cassette Tape,RDE-010,RDE-010,Connection cord
+CT-F9191,Cassette Tape,RDE-010,RDE-010,Connection cord
+CT-F950,Cassette Tape,RDE-010,RDE-010,Connection cord
+RT-1011L,Reel To Reel Tape,RDE-010-A,RDE-010,Connection cord
+RT-707,Reel To Reel Tape,RDE-010,RDE-010,Connection cord
+RT-909,Reel To Reel Tape,RDE-010,RDE-010,Connection code
+CT-F600/605,Cassette Tape,RDE-010 (RDE-024) (RDE-025),RDE-010 (RDE-024) (RDE-025),Cord
+CT-F6262,Cassette Tape,RDE-019,RDE-019,Connection cord
+CT-F7272,Cassette Tape,RDE-019,RDE-019,Connection cord
+CT-F600/605,Cassette Tape,RDE-027 (RDE-028) (RDE-031),RDE-027 (RDE-028) (RDE-031),Cord assembly
+CT-F850,Cassette Tape,RDE-027 (RDE-028) (RDE-031),RDE-027 (RDE-028) (RDE-031),Connection cord assembly
+CT-F750,Cassette Tape,RDE-031 (RDE-028) (RDE-032),RDE-031 (RDE-028) (RDE-032),Cord assembly
+CT-F1050,Cassette Tape,RDE-039 (RDE-032) (RDE-028) (RDE-033) (RDE-029),RDE-039 (RDE-032) (RDE-028) (RDE-033) (RDE-029),Connection cord assembly
+RT-1020L,Reel To Reel Tape,RDG-003-0,RDG-003,Power cord
+CT-F1000,Cassette Tape,RDG-013,RDG-013,AC power cord (KU)
+CT-F6262,Cassette Tape,RDG-013,RDG-013,AC power cord
+CT-F700,Cassette Tape,RDG-013,RDG-013,Power cord (KU type)
+CT-F7272,Cassette Tape,RDG-013,RDG-013,Power cord
+CT-F8282,Cassette Tape,RDG-013,RDG-013,Power cord
+RT-707,Reel To Reel Tape,RDG-013,RDG-013,Power cord (KU)
+CT-F700,Cassette Tape,RDG-019,RDG-019,Power cord (D type)
+CT-F700,Cassette Tape,RDG-019,RDG-019,Power cord (D/G type)
+CT-F1250,Cassette Tape,RDG-021,RDG-021,Power cord (UL)
+CT-F500/505,Cassette Tape,RDG-021,RDG-021,AC power cord
+CT-F600/605,Cassette Tape,RDG-021,RDG-021,Power cord
+CT-F700,Cassette Tape,RDG-021,RDG-021,Power cord (KC type)
+CT-F900,Cassette Tape,RDG-021,RDG-021,Power cord (for KU type)
+CT-F750,Cassette Tape,RDG-022,RDG-022,AC power cord
+CT-F850,Cassette Tape,RDG-022,RDG-022,Power cord
+CT-F950,Cassette Tape,RDG-022,RDG-022,Power cord
+PL-100/100X,Turntable,RDG-022,RDG-022,AC power cord (WB)
+RT-909,Reel To Reel Tape,RDG-022,RDG-022,Power code (KU)
+CT-F1050,Cassette Tape,RDG-024,RDG-024,Power cord
+RT-909,Reel To Reel Tape,RDG-024,RDG-024,Power code (D/G)
+CT-F7171,Cassette Tape,RDM-010-0,RDM-010,Cushion
+QT-6600,Reel To Reel Tape,RD¼F'S 332K,RD¼F'S 332K,Carbon film 3.3k
+QX-949,Receiver,RD¼P5 104J,RD¼P5 104J,Carbon film 100k
+SX-626 (1971),Receiver,RD¼PS  154J,RD¼PS  154J,Carbon film  150k
+SX-626 (1971),Receiver,RD¼PS  154J,RD¼PS  154J,Carbon film  150k
+SX-626 (1971),Receiver,RD¼PS  154J,RD¼PS  154J,Carbon film  150k
+SX-626 (1971),Receiver,RD¼PS  154J,RD¼PS  154J,Carbon film  150k
+SX-550,Receiver,RD¼PS 102J,RD¼PS 102J,Carbon film 1k  (KU)
+CT-F8282,Cassette Tape,RD¼PS 103J,RD¼PS 103J,Carbon film 10k
+CT-F8282,Cassette Tape,RD¼PS 103J,RD¼PS 103J,Carbon film 10k
+QX-747,Receiver,RD¼PS 103J,RD¼PS 103J,Carbon film 10k
+CT-F9191,Cassette Tape,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+CT-F9191,Cassette Tape,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-747,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-747,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-747A,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-747A,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-949,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-949,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+RT-1011L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SX-828,Receiver,RD¼PS 104JNL,RD¼PS 104JNL,Carbon film  100k
+QX-747A,Receiver,RD¼PS 105J,RD¼PS 105J,Carbon film 1M
+RT-1011L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor 1.5kΩ ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor l.5kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor 1.5kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor 1.5KΩ ¼W
+QX-646,Receiver,RD¼PS 154J,RD¼PS 154J,Carbon film 150k
+QX-646,Receiver,RD¼PS 154J,RD¼PS 154J,Carbon film 150k
+SX-727,Receiver,RD¼PS 183J,RD¼PS 183J,Carbon film  18k
+SX-727,Receiver,RD¼PS 183J,RD¼PS 183J,Carbon film  18k
+SX-828,Receiver,RD¼PS 183JNL,RD¼PS 183JNL,Carbon film  18k
+SX-828,Receiver,RD¼PS 183JNL,RD¼PS 183JNL,Carbon film  18k
+SX-727,Receiver,RD¼PS 220J,RD¼PS 220J,Carbon film  22  ½W
+CT-F1000,Cassette Tape,RD¼PS 222J,RD¼PS 222J,Carbon film 2.2k
+CT-F1000,Cassette Tape,RD¼PS 222J,RD¼PS 222J,Carbon film 2.2k
+RT-1011L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22kΩ. ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22Ω ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22kΩ ¼W
+SX-535,Receiver,RD¼PS 225J,RD¼PS 225J,Carbon film  2.2M (KCU)
+QX-747,Receiver,RD¼PS 274J,RD¼PS 274J,Carbon film 270k
+QX-949,Receiver,RD¼PS 274J,RD¼PS 274J,Carbon film 270k
+RT-1020L,Reel To Reel Tape,RD¼PS 302J,RD¼PS 302J,Carbon film resistor 3kΩ ¼W
+SX-727,Receiver,RD¼PS 330J,RD¼PS 330J,Carbon film  33
+QT-6600,Reel To Reel Tape,RD¼PS 332K,RD¼PS 332K,Carban film 3.3k
+QT-6600,Reel To Reel Tape,RD¼PS 332K,RD¼PS 332K,Carbon film 3.3k
+QT-6600,Reel To Reel Tape,RD¼PS 332K,RD¼PS 332K,Carbon film 3.3k
+QT-6600,Reel To Reel Tape,RD¼PS 333K,RD¼PS 333K,Carbon film 33k
+QT-6600,Reel To Reel Tape,RD¼PS 333K,RD¼PS 333K,Carbon film 33k
+QT-6600,Reel To Reel Tape,RD¼PS 334K,RD¼PS 334K,Carbon film 330k
+QT-6600,Reel To Reel Tape,RD¼PS 334K,RD¼PS 334K,Carbon film 330k
+QT-6600,Reel To Reel Tape,RD¼PS 334K,RD¼PS 334K,Carbon film 330k
+QT-6600,Reel To Reel Tape,RD¼PS 334K,RD¼PS 334K,Carbon film 330k
+SA-9500,Integrated Amplifier,RD¼PS 393J,RD¼PS 393J,Carbon film 39k
+SX-535,Receiver,RD¼PS 393J,RD¼PS 393J,Carbon film  39k
+QX-949,Receiver,RD¼PS 472J,RD¼PS 472J,Carbon film 4.7k
+QX-949,Receiver,RD¼PS 472J,RD¼PS 472J,Carbon film 447k
+SX-828,Receiver,RD¼PS 472JNL,RD¼PS 472JNL,Carbon film  4.7k
+SX-424,Receiver,RD¼PS 473J,RD¼PS 473J,Carbon film  47k
+SX-828,Receiver,RD¼PS 473J,RD¼PS 473J,Carbon film  47k
+QX-8000A,Receiver,RD¼PS 474J,RD¼PS 474J,Carbon film 470k
+SX-424,Receiver,RD¼PS 474J,RD¼PS 474J,Carbon film  470k
+SX-525,Receiver,RD¼PS 474J,RD¼PS 474J,Carbon film 470k
+SX-550,Receiver,RD¼PS 511J,RD¼PS 511J,Carbon film 510  (KU)
+RT-1020L,Reel To Reel Tape,RD¼PS 622J,RD¼PS 622J,Carbon film resistor 6.2kΩ ¼W
+QX-747,Receiver,RD¼PS 820.1,RD¼PS 820.1,Carbon film 82
+QX-646,Receiver,RD¼PS 820J,RD¼PS 820J,Carbon film 82
+SA-9500,Integrated Amplifier,RD¼PS 823J,RD¼PS 823J,Carbon film 82k
+SX-434,Receiver,RD¼PS 823J,RD¼PS 823J,Carbon film  82k
+SX-828,Receiver,RD¼PS 823J,RD¼PS 823J,Carbon film  82k
+Exclusive M3,Amplifier,RD¼PS330J,RD¼PS330J,Carbon film 33
+QX-949,Receiver,RD½FS 225J,RD½FS 225J,Carbon film 2.2M ½W
+SX-550,Receiver,RD½P5 5R6J,RD½P5 5R6J,Carbon film 5.6 ½W (KU)
+SX-626 (1971),Receiver,RD½PS  220J,RD½PS  220J,Carbon film  22  ½W
+SX-550,Receiver,RD½PS 100J,RD½PS 100J,Carbon film 10 ½W (KU)
+SX-550,Receiver,RD½PS 100J,RD½PS 100J,Carbon film 10 ½W (KU)
+SX-525,Receiver,RD½PS 122J,RD½PS 122J,Carbon film 1.2k  ½W
+SX-434,Receiver,RD½PS 151J,RD½PS 151J,Carbon film  150 ½W
+SX-434,Receiver,RD½PS 151J,RD½PS 151J,Carbon film  150 ½W
+SX-424,Receiver,RD½PS 220J,RD½PS 220J,Carbon film  22  ½W
+SX-525,Receiver,RD½PS 220J,RD½PS 220J,Carbon film 22  ½W
+SX-828,Receiver,RD½PS 220J,RD½PS 220J,Carbon film  22 ½W
+M-22,Amplifier,RD½PS 222J,RD½PS 222J,Carbon film resistor 2.2k ½W (KL-type)
+QX-646,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+QX-747,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+QX-8000A,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KUW)
+SX-1010,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KCU)
+SX-1050,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+SX-1080,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+SX-1250,Receiver,RD½PS 225J,RD½PS 225J,"Carbon film, 2.2M, ½W"
+SX-1280,Receiver,RD½PS 225J,RD½PS 225J,Carbon film resistor 2.2M
+SX-1980,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 22M ½W
+SX-424,Receiver,RD½PS 225J,RD½PS 225J,Carbon film  2.2M  ½W
+SX-450,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KC/KU)
+SX-525,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KCW)
+SX-636,Receiver,RD½PS 225J,RD½PS 225J,Carbon film  2.2M  ½W
+SX-737,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KCU)
+SX-838,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KCU)
+SX-850,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+SX-950,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+TX-9500II,Tuner,RD½PS 225J,RD½PS 225J,Carbon film 2.2M
+PL-A45,Turntable,RD½PS 333J,RD½PS 333J,Carbon film resistor 33k ½W
+SX-636,Receiver,RD½PS 393J,RD½PS 393J,Carbon film  39k
+QT-6600,Reel To Reel Tape,RD½PS 562J,RD½PS 562J,Carbon film resistor  5.6Ω  ½W
+QT-74,Reel To Reel Tape,RD½PS 5R6J,RD½PS 5R6J,Carbon film resistor 5.6Ω ½W
+SX-550,Receiver,RD½PS 5R6J,RD½PS 5R6J,Carbon film 5.6 ½W (KU)
+SX-550,Receiver,RD½PS 5R6J,RD½PS 5R6J,Carbon film 5.6 ½W (KU)
+SX-550,Receiver,RD½PS 5R6J,RD½PS 5R6J,Carbon film 5.6 ½W (KU)
+SX-424,Receiver,RD½PS 821J,RD½PS 821J,Carbon film  820  ½W
+SX-424,Receiver,RD½PS 821J,RD½PS 821J,Carbon film  820  ½W
+SX-980,Receiver,RD½PS225J,RD½PS225J,Carbon film 2.2M ½W
+SX-626 (1971),Receiver,RD½PW  225J,RD½PW  225J,Carbon film  2.2M  ½W
+SX-434,Receiver,RD½PW 225J,RD½PW 225J,Carbon film  2.2M ½W (KCU)
+SX-727,Receiver,RD½PW 225J,RD½PW 225J,Carbon film  2.2M
+SX-828,Receiver,RD½PW 225J,RD½PW 225J,Carbon film  2.2M   (KUW)
+RT-1011L,Reel To Reel Tape,REA-005-0,REA-005,Cleaning kit
+RT-1020L,Reel To Reel Tape,REA-005-0,REA-005,Head cleaning kit
+CT-F6161,Cassette Tape,REA-007-0,REA-007,Head cleaning kit
+CT-F7171,Cassette Tape,REA-007-0,REA-007,Head cleaning kit
+CT-F6262,Cassette Tape,REA-014,REA-014,Head cleaning assembly
+CT-F700,Cassette Tape,REA-014,REA-014,Head cleaning assembly
+CT-F7272,Cassette Tape,REA-014,REA-014,Cleaning kit
+CT-F8282,Cassette Tape,REA-014,REA-014,Cleaning kit
+RT-707,Reel To Reel Tape,REA-016,REA-016,Head cleaning assembly
+RT-707,Reel To Reel Tape,REA-019,REA-019,Sensing tape
+RT-909,Reel To Reel Tape,REA-019,REA-019,Sensing foil assembly
+CT-F1250,Cassette Tape,REA-021,REA-021,Head cleaning assembly
+CT-F500/505,Cassette Tape,REA-021,REA-021,Head cleaning kit
+CT-F600/605,Cassette Tape,REA-021,REA-021,Head cleaning kit
+CT-F750,Cassette Tape,REA-021,REA-021,Head cleaning kit assembly
+CT-F850,Cassette Tape,REA-021,REA-021,Head cleaning
+CT-F900,Cassette Tape,REA-021,REA-021,Head cleaning assembly
+CT-F950,Cassette Tape,REA-021,REA-021,Head cleaning assembly
+RT-909,Reel To Reel Tape,REA-021,REA-021,Head cleaning assembly
+QT-6100,Reel To Reel Tape,REB-004-0,REB-004,Rubber cushion
+QT-6600,Reel To Reel Tape,REB-004-0,REB-004,Rubber cushion
+QT-74,Reel To Reel Tape,REB-0040,REB-0040,Rubber cushion
+QT-6100,Reel To Reel Tape,REB-014,REB-014,REEL CAP
+QT-74,Reel To Reel Tape,REB-014,REB-014,REEL CAP
+QT-6100,Reel To Reel Tape,REB-021-0,REB-021,Insulator tip
+QT-6100,Reel To Reel Tape,REB-022-0,REB-022,Pilot lamp tube
+QT-6600,Reel To Reel Tape,REB-022-0,REB-022,Pilot lamp tube
+QT-74,Reel To Reel Tape,REB-022-0,REB-022,Pilot lamp tube
+QT-6100,Reel To Reel Tape,REB-039-0,REB-039,Lamp grommet
+QT-6600,Reel To Reel Tape,REB-039-0,REB-039,Lamp grommet
+QT-74,Reel To Reel Tape,REB-039-0,REB-039,Rubber bush
+QT-6100,Reel To Reel Tape,REB-051-0,REB-051,Take-up belt
+QT-6100,Reel To Reel Tape,REB-051-0,REB-051,Take-up belt
+QT-6600,Reel To Reel Tape,REB-051-0,REB-051,Take-up belt
+QT-6600,Reel To Reel Tape,REB-051-0,REB-051,Take-up belt
+QT-74,Reel To Reel Tape,REB-051-A,REB-051,Take-up belt
+QT-6600,Reel To Reel Tape,REB-052-0,REB-052,Oil shielding washer (A)
+QT-74,Reel To Reel Tape,REB-052-0,REB-052,Oil shielding washer (A)
+RT-1011L,Reel To Reel Tape,REB-052-0,REB-052,Flubher washer (A)
+RT-1011L,Reel To Reel Tape,REB-052-0,REB-052,Shading washer
+RT-1020L,Reel To Reel Tape,REB-052-0,REB-052,Rubber washer (A)
+RT-909,Reel To Reel Tape,REB-052,REB-052,Oil thrower washer A
+QT-6100,Reel To Reel Tape,REB-068-0,REB-068,lnsulator tip
+QT-6600,Reel To Reel Tape,REB-068-0,REB-068,Insulator tip
+QT-74,Reel To Reel Tape,REB-068-0,REB-068,Insulator tip
+QT-6100,Reel To Reel Tape,REB-069-0,REB-069,Insulator tip (B)
+QT-6100,Reel To Reel Tape,REB-069-0,REB-069,Insulator tip (B)
+QT-6600,Reel To Reel Tape,REB-069-0,REB-069,Insulator tip
+QT-74,Reel To Reel Tape,REB-069-0,REB-069,Insulator tip
+RT-1011L,Reel To Reel Tape,REB-077-0,REB-077,Counter belt
+RT-1020L,Reel To Reel Tape,REB-077-0,REB-077,Counter belt
+RT-1011L,Reel To Reel Tape,REB-078-0,REB-078,Pinch arm damper
+RT-1020L,Reel To Reel Tape,REB-078-0,REB-078,Pinch arm damper
+RT-1020L,Reel To Reel Tape,REB-091-0,REB-091,Shading washer
+T-3300,Cassette Tape,REB-093,REB-093,COUNTER BELT B
+T-3500,Cassette Tape,REB-093,REB-093,COUNTER BELT B
+RT-1020L,Reel To Reel Tape,REB-094-0,REB-094,Rubber grommet
+RT-1020L,Reel To Reel Tape,REB-098-0,REB-098,Brake arm damper
+RT-1011L,Reel To Reel Tape,REB-099-0,REB-099,Cover cushion (A)
+RT-1020L,Reel To Reel Tape,REB-099-0,REB-099,Cover cushion (A)
+CT-F6161,Cassette Tape,REB-100-0,REB-100,Cushion
+RT-1011L,Reel To Reel Tape,REB-100-0,REB-100,Cover cushion (B)
+RT-1020L,Reel To Reel Tape,REB-100-0,REB-100,Cover cushion (B)
+RT-1011L,Reel To Reel Tape,REB-103-A,REB-103,Tension arm damper
+RT-707,Reel To Reel Tape,REB-103,REB-103,Tension arm damper
+RT-1020L,Reel To Reel Tape,REB-103A,REB-103A,Tension arm damper
+RT-1011L,Reel To Reel Tape,REB-108-0,REB-108,Flywheel belt
+RT-1011L,Reel To Reel Tape,REB-109-0,REB-109,Shifter damper
+RT-1020L,Reel To Reel Tape,REB-109-0,REB-109,Shifter damper
+CT-F6161,Cassette Tape,REB-116-0,REB-116,Drive belt
+CT-F7171,Cassette Tape,REB-116-0,REB-116,Drive belt
+CT-F6161,Cassette Tape,REB-117-0,REB-117,Motor cushion
+CT-F7171,Cassette Tape,REB-117-0,REB-117,Motor cushion
+RT-1011L,Reel To Reel Tape,REB-119-0,REB-119,Reel adjusting sheets
+CT-F6161,Cassette Tape,REB-129-0,REB-129,Cushion
+CT-F7171,Cassette Tape,REB-129-0,REB-129,Cushion
+CT-F6161,Cassette Tape,REB-130-0,REB-130,Cushion
+CT-F7171,Cassette Tape,REB-130-0,REB-130,Cushion
+CT-F6161,Cassette Tape,REB-131-0,REB-131,Lamp holder
+CT-F7171,Cassette Tape,REB-131-0,REB-131,Lamp holder
+CT-F7171,Cassette Tape,REB-132-0,REB-132,Rubber ring
+CT-F6161,Cassette Tape,REB-133-B,REB-133,Counter belt A
+CT-F7171,Cassette Tape,REB-133-B,REB-133,Counter belt A
+CT-F6161,Cassette Tape,REB-134-B,REB-134,Counter belt B
+CT-F7171,Cassette Tape,REB-134-B,REB-134,Counter belt B
+CT-F6161,Cassette Tape,REB-135-B,REB-135,Belt (Sensing)
+CT-F7171,Cassette Tape,REB-135-B,REB-135,Belt (Sensing)
+CT-F6161,Cassette Tape,REB-140-0,REB-140,Cushion
+CT-F7171,Cassette Tape,REB-140-0,REB-140,Brake lever
+CT-F6161,Cassette Tape,REB-142-0,REB-142,Lamp cover
+CT-F6161,Cassette Tape,REB-145-0,REB-145,Lamp holder
+CT-F8282,Cassette Tape,REB-150,REB-150,Capstan belt
+CT-F9191,Cassette Tape,REB-150,REB-150,Capstan belt
+CT-F1250,Cassette Tape,REB-153,REB-153,Stopper
+CT-F1250,Cassette Tape,REB-153,REB-153,Stopper
+CT-F8282,Cassette Tape,REB-153,REB-153,Stopper
+CT-F850,Cassette Tape,REB-153,REB-153,Stopper
+CT-F850,Cassette Tape,REB-153,REB-153,Stopper
+CT-F900,Cassette Tape,REB-153,REB-153,Stopper
+CT-F950,Cassette Tape,REB-153,REB-153,Stopper
+CT-F8282,Cassette Tape,REB-156,REB-156,Sensing belt
+CT-F6262,Cassette Tape,REB-158,REB-158,Lamp holder
+CT-F8282,Cassette Tape,REB-184,REB-184,Lamp cover
+CT-F8282,Cassette Tape,REB-185,REB-185,Counter belt
+CT-F1250,Cassette Tape,REB-187,REB-187,Brake shoe
+CT-F500/505,Cassette Tape,REB-187,REB-187,Brake shoe
+CT-F600/605,Cassette Tape,REB-187,REB-187,Brake shoe
+CT-F6262,Cassette Tape,REB-187,REB-187,Brake rubber shoe
+CT-F7272,Cassette Tape,REB-187,REB-187,Brake shoe
+CT-F750,Cassette Tape,REB-187,REB-187,Brake rubber shoe
+CT-F850,Cassette Tape,REB-187,REB-187,Brake shoe
+CT-F900,Cassette Tape,REB-187,REB-187,Brake shoe
+CT-F950,Cassette Tape,REB-187,REB-187,Brake shoe
+CT-F6262,Cassette Tape,REB-189,REB-189,Capstan belt
+CT-F7272,Cassette Tape,REB-189,REB-189,Belt
+CT-F6262,Cassette Tape,REB-190,REB-190,Counter belt
+CT-F7272,Cassette Tape,REB-190,REB-190,Belt
+CT-F6262,Cassette Tape,REB-191,REB-191,Sensing belt
+CT-F700,Cassette Tape,REB-191,REB-191,Sensing belt
+CT-F7272,Cassette Tape,REB-191,REB-191,Belt
+CT-F6262,Cassette Tape,REB-194,REB-194,Damper sponge
+CT-F7272,Cassette Tape,REB-194,REB-194,Rubber cushion
+CT-F850,Cassette Tape,REB-194,REB-194,Cushion
+CT-F900,Cassette Tape,REB-194,REB-194,Cushion
+CT-F950,Cassette Tape,REB-194,REB-194,Rubber
+CT-F700,Cassette Tape,REB-200,REB-200,Sensing belt A
+RT-701,Reel To Reel Tape,REB-205,REB-205,Counter belt
+RT-707,Reel To Reel Tape,REB-205,REB-205,Counter belt
+RT-707,Reel To Reel Tape,REB-210,REB-210,Reel pad
+CT-F700,Cassette Tape,REB-211,REB-211,Capstan belt
+CT-F500/505,Cassette Tape,REB-212,REB-212,Worm drive belt
+CT-F600/605,Cassette Tape,REB-212,REB-212,Worm drive belt
+RT-701,Reel To Reel Tape,REB-215,REB-215,Reel sheet
+CT-F900,Cassette Tape,REB-220,REB-220,Cover cushion A
+RT-909,Reel To Reel Tape,REB-220,REB-220,Cover cushion A
+RT-909,Reel To Reel Tape,REB-221,REB-221,Cover cushion B
+CT-F1250,Cassette Tape,REB-223,REB-223,Cover cushion (D)
+CT-F600/605,Cassette Tape,REB-223,REB-223,Cover cushion
+CT-F750,Cassette Tape,REB-223,REB-223,Cover cushion (D)
+CT-F850,Cassette Tape,REB-223,REB-223,Cover cushion (D)
+CT-F950,Cassette Tape,REB-223,REB-223,Rubber (D)
+CT-F900,Cassette Tape,REB-233,REB-233,Rubber
+CT-F950,Cassette Tape,REB-233,REB-233,Cover cushion
+CT-F750,Cassette Tape,REB-241,REB-241,Door stopper
+CT-F600/605,Cassette Tape,REB-260,REB-260,Cushion
+CT-F700,Cassette Tape,REB-263,REB-263,Bonnet cushion
+CT-F900,Cassette Tape,REB-267,REB-267,Lamp holder
+CT-F850,Cassette Tape,REB-270,REB-270,Capstan belt
+CT-F900,Cassette Tape,REB-270,REB-270,Capstan belt
+CT-F950,Cassette Tape,REB-270,REB-270,Capstan belt
+CT-F900,Cassette Tape,REB-271,REB-271,TU belt
+CT-F1250,Cassette Tape,REB-272,REB-272,Sensing belt
+CT-F850,Cassette Tape,REB-272,REB-272,Sensing belt
+CT-F900,Cassette Tape,REB-272,REB-272,Sensing belt
+CT-F950,Cassette Tape,REB-272,REB-272,Sensing belt
+CT-F1050,Cassette Tape,REB-275,REB-275,O ring
+CT-F600/605,Cassette Tape,REB-275,REB-275,0 type ring
+CT-F500/505,Cassette Tape,REB-283,REB-283,Stop belt
+CT-F600/605,Cassette Tape,REB-283,REB-283,Stop belt
+CT-F900,Cassette Tape,REB-289,REB-289,Sub belt
+CT-F500/505,Cassette Tape,REB-291,REB-291,Capstan belt
+CT-F500/505,Cassette Tape,REB-292,REB-292,Sensing belt
+CT-F600/605,Cassette Tape,REB-292,REB-292,Sensing belt
+CT-F1250,Cassette Tape,REB-297,REB-297,Lamp holder
+CT-F750,Cassette Tape,REB-297,REB-297,Lamp holder
+CT-F850,Cassette Tape,REB-297,REB-297,Lamp holder
+CT-F950,Cassette Tape,REB-297,REB-297,Lamp holder
+CT-F850,Cassette Tape,REB-299,REB-299,Counter belt
+CT-F850,Cassette Tape,REB-300,REB-300,Belt
+CT-F850,Cassette Tape,REB-301,REB-301,Meter cushion (A)
+CT-F850,Cassette Tape,REB-305,REB-305,Cushion (R)
+CT-F850,Cassette Tape,REB-306,REB-306,Cushion (L)
+CT-F850,Cassette Tape,REB-307,REB-307,Stopper
+CT-F600/605,Cassette Tape,REB-310,REB-310,Counter belt
+CT-F850,Cassette Tape,REB-314,REB-314,Sub-belt
+CT-F950,Cassette Tape,REB-314,REB-314,Sub belt
+CT-F1250,Cassette Tape,REB-317,REB-317,TU belt
+CT-F850,Cassette Tape,REB-317,REB-317,TU belt
+CT-F950,Cassette Tape,REB-317,REB-317,TU belt
+CT-F600/605,Cassette Tape,REB-330,REB-330,Capstan belt
+CT-F750,Cassette Tape,REB-335,REB-335,Rubber
+CT-F750,Cassette Tape,REB-341,REB-341,Stopper
+CT-F750,Cassette Tape,REB-344,REB-344,Cover cushion
+CT-F850,Cassette Tape,REB-348,REB-348,Meter cushion
+RT-909,Reel To Reel Tape,REB-349,REB-349,Heel sheet
+CT-F750,Cassette Tape,REB-350,REB-350,Counter belt
+CT-F750,Cassette Tape,REB-352,REB-352,Capstan belt
+CT-F750,Cassette Tape,REB-353,REB-353,REW pulley belt
+CT-F750,Cassette Tape,REB-354,REB-354,TU belt
+RT-909,Reel To Reel Tape,REB-361,REB-361,Belt
+CT-F1250,Cassette Tape,REB-368,REB-368,sub-belt
+CT-F1050,Cassette Tape,REB-372,REB-372,Lock cushion
+RT-909,Reel To Reel Tape,REB-374,REB-374,Arm cushion
+CT-F750,Cassette Tape,REB-398,REB-398,BT belt
+CT-F1050,Cassette Tape,REB-408,REB-408,Rubber cushion
+CT-F1050,Cassette Tape,REB-428,REB-428,Capstan belt
+CT-F1050,Cassette Tape,REB-429,REB-429,Stopper
+CT-F1050,Cassette Tape,REB-429,REB-429,Stopper
+CT-F1050,Cassette Tape,REB-429,REB-429,Stopper
+CT-F1050,Cassette Tape,REB-435,REB-435,Detector belt
+CT-F1050,Cassette Tape,REB-436,REB-436,BT belt
+QT-74,Reel To Reel Tape,REC-017-0,REC-017,Meter cushion (A)
+QT-74,Reel To Reel Tape,REC-017-0,REC-017,Meter cushion (A)
+QT-74,Reel To Reel Tape,REC-018-0,REC-018,Meter cushion (B)
+QT-6100,Reel To Reel Tape,REC-034-0,REC-034,Rubber cushion
+QT-74,Reel To Reel Tape,REC-035-0,REC-035,Capstan cover
+QT-6100,Reel To Reel Tape,REC-037-0,REC-037,Meter cushion A
+QT-6100,Reel To Reel Tape,REC-038-0,REC-038,Meter cushion B
+QT-6100,Reel To Reel Tape,REC-038-0,REC-038,Meter cushion B
+QT-6100,Reel To Reel Tape,REC-051-0,REC-051,Rubber cushion
+RT-1020L,Reel To Reel Tape,REC-115-A,REC-115,Escutcheon (jack)
+RT-1011L,Reel To Reel Tape,REC-116-A,REC-116,Foot (A)
+RT-1020L,Reel To Reel Tape,REC-116-A,REC-116,Foot (A)
+RT-1011L,Reel To Reel Tape,REC-119-A,REC-119,Foot (B)
+RT-1020L,Reel To Reel Tape,REC-119-A,REC-119,Foot (B)
+RT-1011L,Reel To Reel Tape,REC-122-A,REC-122,Spacer (erase head)
+RT-1020L,Reel To Reel Tape,REC-122-A,REC-122,Spacer (erase head)
+RT-1020L,Reel To Reel Tape,REC-145-B,REC-145,Button guard
+CT-F6161,Cassette Tape,REC-148-0,REC-148,Meter cushion
+CT-F700,Cassette Tape,REC-150,REC-150,Capacitor sleeve A (D type)
+CT-F700,Cassette Tape,REC-150,REC-150,Capacitor sleeve A (D/G type)
+RT-909,Reel To Reel Tape,REC-150,REC-150,Capacitor sleeve A (D/G)
+CT-F7171,Cassette Tape,REC-160-0,REC-160,Meter cushion
+CT-F6161,Cassette Tape,REC-164-0,REC-164,AC cord grommet
+CT-F6262,Cassette Tape,REC-164,REC-164,Strain relief
+CT-F7171,Cassette Tape,REC-164-0,REC-164,AC cord grommet
+RT-1011L,Reel To Reel Tape,REC-164-0,REC-164,Power cord clamp
+RT-707,Reel To Reel Tape,REC-164,REC-164,Strain relief
+RT-1011L,Reel To Reel Tape,REC-167-A,REC-167,Button holder
+RT-1011L,Reel To Reel Tape,REC-168-A,REC-168,Counter escutcheon
+RT-1011L,Reel To Reel Tape,REC-170-A,REC-170,Meter escutcheon
+RT-1011L,Reel To Reel Tape,REC-174-0,REC-174,Insulate plate (A)
+RT-1011L,Reel To Reel Tape,REC-175-0,REC-175,Insulate plate (B)
+RT-701,Reel To Reel Tape,REC-218,REC-218,Foot assembly
+CT-F700,Cassette Tape,REC-223,REC-223,Meter cushion
+RT-701,Reel To Reel Tape,REC-234,REC-234,Rear panel escutcheon
+RT-707,Reel To Reel Tape,REC-234,REC-234,Rear panel escutcheon
+RT-701,Reel To Reel Tape,REC-245,REC-245,Head housing
+CT-F1250,Cassette Tape,REC-250,REC-250,Capacitor cover (D)
+CT-F700,Cassette Tape,REC-250,REC-250,Capacitor sleeve D  (KC type)
+CT-F700,Cassette Tape,REC-250,REC-250,Capacitor sleeve D  (KU type)
+CT-F750,Cassette Tape,REC-250,REC-250,Capacitor cover
+CT-F850,Cassette Tape,REC-250,REC-250,Cover
+CT-F950,Cassette Tape,REC-250,REC-250,Capacitor cover D
+RT-707,Reel To Reel Tape,REC-252,REC-252,Switch holder
+RT-707,Reel To Reel Tape,REC-254,REC-254,lnsulator collar
+RT-701,Reel To Reel Tape,REC-256,REC-256,Stroke adjuster
+RT-707,Reel To Reel Tape,REC-256,REC-256,Stroke adjuster
+CT-F1000,Cassette Tape,REC-257,REC-257,Strain relief
+CT-F700,Cassette Tape,REC-257,REC-257,Strain relief
+RT-701,Reel To Reel Tape,REC-257,REC-257,Strain relief
+RT-701,Reel To Reel Tape,REC-260,REC-260,E head mount B
+RT-707,Reel To Reel Tape,REC-260,REC-260,E head mount B
+CT-F1050,Cassette Tape,REC-272,REC-272,Strain relief
+CT-F1250,Cassette Tape,REC-272,REC-272,Strain relief
+CT-F500/505,Cassette Tape,REC-272,REC-272,Strain relief
+CT-F600/605,Cassette Tape,REC-272,REC-272,Strain relief
+CT-F750,Cassette Tape,REC-272,REC-272,Strain relief
+CT-F850,Cassette Tape,REC-272,REC-272,Strain relief
+CT-F900,Cassette Tape,REC-272,REC-272,Strain relief
+CT-F950,Cassette Tape,REC-272,REC-272,Strain relief
+RT-909,Reel To Reel Tape,REC-272,REC-272,Strain relief
+CT-F1250,Cassette Tape,REC-278,REC-278,Switch spacer
+CT-F750,Cassette Tape,REC-278,REC-278,Switch spacer
+CT-F850,Cassette Tape,REC-278,REC-278,Spacer
+CT-F900,Cassette Tape,REC-278,REC-278,Spacer
+CT-F950,Cassette Tape,REC-278,REC-278,Spacer
+RT-909,Reel To Reel Tape,REC-278,REC-278,Switch spacer
+CT-F1050,Cassette Tape,REC-287,REC-287,Capacitor cover
+CT-F600/605,Cassette Tape,REC-297,REC-297,Capacitor cover
+RT-909,Reel To Reel Tape,REC-305,REC-305,Pinch roller can
+RT-909,Reel To Reel Tape,REC-315,REC-315,Insulator collar
+RT-909,Reel To Reel Tape,REC-319,REC-319,Foot R
+RT-909,Reel To Reel Tape,REC-320,REC-320,Foot L
+CT-F1050,Cassette Tape,REC-359,REC-359,Washer
+QT-74,Reel To Reel Tape,RED-045-0,RED-045,Back tension felt
+CT-F1250,Cassette Tape,RED-047,RED-047,Switch mask
+CT-F900,Cassette Tape,RED-047,RED-047,Switch mask
+CT-F950,Cassette Tape,RED-047,RED-047,Switch mask
+QT-74,Reel To Reel Tape,RED-050-0,RED-050,Cloth
+RT-1011L,Reel To Reel Tape,RED-052-0,RED-052,Buffer felt
+RT-1020L,Reel To Reel Tape,RED-052-0,RED-052,Buffer felt
+RT-1011L,Reel To Reel Tape,RED-053-0,RED-053,Pinch felt
+RT-1020L,Reel To Reel Tape,RED-053-0,RED-053,Felt (pinch roller)
+RT-1020L,Reel To Reel Tape,RED-054-A,RED-054,Felt
+RT-1020L,Reel To Reel Tape,RED-060-B,RED-060,Roller arm damper
+RT-1011L,Reel To Reel Tape,RED-065-0,RED-065,Masking plate (B)
+RT-1011L,Reel To Reel Tape,RED-066-0,RED-066,Button felt
+RT-1011L,Reel To Reel Tape,RED-067-A,RED-067,Meter cushion
+RT-1011L,Reel To Reel Tape,RED-068-0,RED-068,Ribbon
+RT-1011L,Reel To Reel Tape,RED-069-0,RED-069,Felt
+RT-1020L,Reel To Reel Tape,RED-069-0,RED-069,Felt
+CT-F6161,Cassette Tape,RED-074-0,RED-074,Mask
+CT-F7171,Cassette Tape,RED-074-0,RED-074,Mask
+RT-1011L,Reel To Reel Tape,RED-079-0,RED-079,Masking plate
+CT-F6262,Cassette Tape,RED-117,RED-117,Mask
+CT-F600/605,Cassette Tape,RED-136,RED-136,BT felt
+CT-F600/605,Cassette Tape,RED-136,RED-136,Felt
+CT-F850,Cassette Tape,RED-140,RED-140,Volume mask
+CT-F1250,Cassette Tape,RED-141,RED-141,Felt
+CT-F850,Cassette Tape,RED-141,RED-141,Cushion
+CT-F850,Cassette Tape,RED-145,RED-145,Volume mask
+CT-F900,Cassette Tape,RED-145,RED-145,Volume mask
+CT-F950,Cassette Tape,RED-145,RED-145,Volume mask
+CT-F500/505,Cassette Tape,RED-147,RED-147,Button stopper
+CT-F600/605,Cassette Tape,RED-147,RED-147,Button stopper
+CT-F1250,Cassette Tape,RED-151,RED-151,Volume mask (B)
+CT-F1250,Cassette Tape,RED-151,RED-151,Volume mask (B)
+CT-F900,Cassette Tape,RED-151,RED-151,Volume mask B
+CT-F950,Cassette Tape,RED-151,RED-151,Volume mask
+CT-F850,Cassette Tape,RED-157,RED-157,Mask
+CT-F1250,Cassette Tape,RED-159,RED-159,Volume mask
+RT-909,Reel To Reel Tape,RED-166,RED-166,Stopper felt
+RT-909,Reel To Reel Tape,RED-167,RED-167,Fool felt
+CT-F750,Cassette Tape,RED-168,RED-168,Mask
+CT-F1250,Cassette Tape,RED-172,RED-172,Diode mask
+CT-F750,Cassette Tape,RED-175,RED-175,Cover cushion
+RT-1020L,Reel To Reel Tape,REE-042-0,REE-042,Insulate bushing
+RT-1020L,Reel To Reel Tape,REE-043-0,REE-043,Insulate bushing
+RT-1011L,Reel To Reel Tape,REE-045-0,REE-045,Insulate bushing
+RT-1011L,Reel To Reel Tape,REE-046-A,REE-046,Plate
+RT-1011L,Reel To Reel Tape,REE-050-0,REE-050,Insulate bushing
+CT-F1050,Cassette Tape,REE-051,REE-051,Insulator spacer
+CT-F6262,Cassette Tape,REE-055,REE-055,Insulator
+CT-F7272,Cassette Tape,REE-055,REE-055,Spacer
+RT-707,Reel To Reel Tape,REE-060,REE-060,Insulator
+CT-F600/605,Cassette Tape,REE-062,REE-062,Insulator (CKYDYF473Z 50)
+RT-1011L,Reel To Reel Tape,REF-005-0,REF-005,E.H. adj spacer (B)
+RT-1020L,Reel To Reel Tape,REF-005-0,REF-005,E.H. adj. spacer (B)
+CT-F6161,Cassette Tape,REF-009-0,REF-009,Steel ball 2ø
+CT-F7171,Cassette Tape,REF-009-0,REF-009,Steel ball 2ø
+CT-F6161,Cassette Tape,REF-010-0,REF-010,Steel ball 2.5ø
+CT-F7171,Cassette Tape,REF-010-0,REF-010,Steel ball 2.5¢
+CT-F1250,Cassette Tape,REF-013,REF-013,Base assembly
+CT-F1250,Cassette Tape,REF-013,REF-013,Steel ball
+CT-F600/605,Cassette Tape,REF-013,REF-013,Steel ball
+CT-F600/605,Cassette Tape,REF-013,REF-013,Steel ball
+CT-F6262,Cassette Tape,REF-013,REF-013,Steel ball
+CT-F7272,Cassette Tape,REF-013,REF-013,Steel ball
+CT-F1250,Cassette Tape,REF-014,REF-014,Steel ball
+CT-F900,Cassette Tape,REF-014,REF-014,Steel ball
+CT-F950,Cassette Tape,REF-014,REF-014,Steel ball
+RT-1011L,Reel To Reel Tape,REG-010-0,REG-010,Vinyl bag
+CT-F750,Cassette Tape,REH-669,REH-669,Spring
+CT-F6161,Cassette Tape,REK-031-0,REK-031,Fuse (500mA)  (FV model)
+CT-F7171,Cassette Tape,REK-031-0,REK-031,Fuse (500 mA)  (FV model)
+CT-F6161,Cassette Tape,REK-033-0,REK-033,Fuse (1A)  (KCU model)
+CT-F7171,Cassette Tape,REK-033-0,REK-033,Fuse (1A)   (KCU Model)
+RT-1011L,Reel To Reel Tape,REK-033-0,REK-033,1A Fuse
+RT-701,Reel To Reel Tape,REK-044,REK-044,Fuse 3.15A
+RT-909,Reel To Reel Tape,REK-044,REK-044,Fuse 4A
+CT-F700,Cassette Tape,REK-048,REK-048,0.5A Fuse (D type)
+CT-F700,Cassette Tape,REK-048,REK-048,0.5A Fuse (D/G type)
+RT-701,Reel To Reel Tape,REK-048,REK-048,Fuse 0.5A
+RT-909,Reel To Reel Tape,REK-048,REK-048,Fuse 0.5A
+RT-909,Reel To Reel Tape,REK-048,REK-048,Fuse 0.5A
+CT-F700,Cassette Tape,REK-051,REK-051,1A Fuse (D type)
+CT-F700,Cassette Tape,REK-051,REK-051,1A Fuse (D/G type)
+RT-701,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-701,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-701,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-909,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-701,Reel To Reel Tape,REK-055,REK-055,Fuse 2A
+RT-909,Reel To Reel Tape,REK-055,REK-055,Fuse 2A
+CT-F1050,Cassette Tape,REK-058,REK-058,Fuse (800mA)
+CT-F1050,Cassette Tape,REK-058,REK-058,Fuse 800mA (for 120V)
+CT-F1050,Cassette Tape,REK-058,REK-058,Fuse 800mA (for 220V or 240V)
+CT-F8282,Cassette Tape,REK-059,REK-059,Fuse 1.2A
+CT-F1050,Cassette Tape,REK-063,REK-063,Fuse (1 .5A)
+CT-F1050,Cassette Tape,REK-063,REK-063,Fuse 1.5A (for 120V)
+CT-F1050,Cassette Tape,REK-063,REK-063,Fuse 1.5A (for 220V or 240V)
+RT-909,Reel To Reel Tape,REK-066,REK-066,Fuse 4A
+QT-6100,Reel To Reel Tape,REL-002-0,REL-002,Pilot lamp
+QT-6600,Reel To Reel Tape,REL-002-0,REL-002,Pilot lamp (Lever rneter)
+QT-74,Reel To Reel Tape,REL-002-0,REL-002,Pilot lamp
+T-3500,Cassette Tape,REL-004,REL-004,PILOT LAMP
+CT-F6161,Cassette Tape,REL-007-0,REL-007,Pilot lamp 6V 100mA (compartment)
+CT-F6161,Cassette Tape,REL-007-0,REL-007,Pilot lamp 6V 100mA (compartment)
+CT-F6161,Cassette Tape,REL-013-0,REL-013,"Pilot lamp (DOLBY, PL5)"
+CT-F7171,Cassette Tape,REL-013-0,REL-013,Pilot lamp (DOLBY)
+CT-F9191,Cassette Tape,REL-019,REL-019,Lamp
+CT-F9191,Cassette Tape,REL-019-0,REL-019,Lamp (CHROME)
+CT-F9191,Cassette Tape,REL-019-0,REL-019,Lamp (DOLBY)
+CT-F9191,Cassette Tape,REL-019-0,REL-019,Lamp (MEMORY)
+CT-F6262,Cassette Tape,REL-026,REL-026,"Lamp with leads 8V, 55mA"
+CT-F6262,Cassette Tape,REL-026,REL-026,"Lamp with leads 8V, 55mA"
+CT-F7272,Cassette Tape,REL-026,REL-026,Lamp (CrO2) 26V 30mA
+CT-F7272,Cassette Tape,REL-026,REL-026,Lamp (FeCr) 26V 30mA
+CT-F8282,Cassette Tape,REL-026,REL-026,Lamp (CHROME)
+CT-F8282,Cassette Tape,REL-026,REL-026,Lamp (DRLBY)
+CT-F8282,Cassette Tape,REL-026,REL-026,Lamp (MEMORY)
+CT-F8282,Cassette Tape,REL-027,REL-027,Lamp assembly
+RT-707,Reel To Reel Tape,REL-029,REL-029,Pilot lamp
+CT-F6262,Cassette Tape,REL-033,REL-033,"Lamp assembly 8V, 100mA"
+CT-F7272,Cassette Tape,REL-033,REL-033,Indicator lamp assembly
+RT-707,Reel To Reel Tape,REL-042,REL-042,Pilot lamp  (with lead wire)
+CT-F700,Cassette Tape,REL-048,REL-048,Pilot lamp
+CT-F700,Cassette Tape,REL-051,REL-051,Meter lamp
+CT-F700,Cassette Tape,REL-056,REL-056,Lamp assembly
+CT-F900,Cassette Tape,REL-062,REL-062,Lamp
+CT-F1250,Cassette Tape,REL-072,REL-072,Lamp (B)
+CT-F750,Cassette Tape,REL-072,REL-072,Lamp
+CT-F850,Cassette Tape,REL-072,REL-072,PL801 8V 100mA
+CT-F950,Cassette Tape,REL-072,REL-072,Lamp B (CASSETTE-LAMP)
+CT-F750,Cassette Tape,REL-075,REL-075,Lamp
+CT-F750,Cassette Tape,REL-075,REL-075,Lamp
+CT-F750,Cassette Tape,REL-076,REL-076,Lamp
+CT-F1050,Cassette Tape,REL-088,REL-088,Lamp
+CT-F1050,Cassette Tape,REL-089,REL-089,Lamp
+CT-F1050,Cassette Tape,REL-089,REL-089,"Lamp (PLAY,PAUSE,REC,REC MUTE)"
+QT-6100,Reel To Reel Tape,REN-157-0,REN-157,P.C.B. holder
+RT-707,Reel To Reel Tape,RFB-039,RFB-039,Erase head (4T2C)
+QT-6600,Reel To Reel Tape,RHA-003-A,RHA-003,Styrotector A
+QT-6600,Reel To Reel Tape,RHA-015-0,RHA-015,Styrotector B
+RT-1020L,Reel To Reel Tape,RHA-042-C,RHA-042,Cushion (R)
+RT-1020L,Reel To Reel Tape,RHA-043C,RHA-043C,Cushion (L)
+RT-1020L,Reel To Reel Tape,RHA-044-A,RHA-044,"Packing case (Including 1,2,7,10,11,12,13,15)"
+RT-1020L,Reel To Reel Tape,RHA-045-B,RHA-045,Cardboard
+RT-1020L,Reel To Reel Tape,RHA-045-B,RHA-045,Cardboard
+RT-1020L,Reel To Reel Tape,RHA-046-A,RHA-046,Frame for accessory reel
+RT-1020L,Reel To Reel Tape,RHA-047-B,RHA-047,Frame for accessory box
+RT-1020L,Reel To Reel Tape,RHA-049-0,RHA-049,Buffer block
+CT-F7171,Cassette Tape,RHA-077-0,RHA-077,Styrotector
+RT-1011L,Reel To Reel Tape,RHA-082-0,RHA-082,Cushion (L)
+RT-1011L,Reel To Reel Tape,RHA-083-0,RHA-083,Cushion (R)
+CT-F6161,Cassette Tape,RHA-089-0,RHA-089,Protector
+CT-F7272,Cassette Tape,RHA-119,RHA-119,Side pad
+CT-F8282,Cassette Tape,RHA-122,RHA-122,Side pad
+CT-F6262,Cassette Tape,RHA-123,RHA-123,Side pad
+RT-707,Reel To Reel Tape,RHA-13,RHA-13,Cushion R
+RT-707,Reel To Reel Tape,RHA-135,RHA-135,Cushion L
+CT-F700,Cassette Tape,RHA-143,RHA-143,Side pad
+CT-F900,Cassette Tape,RHA-156,RHA-156,Side pad L
+CT-F900,Cassette Tape,RHA-157,RHA-157,Side pad R
+CT-F500/505,Cassette Tape,RHA-158,RHA-158,Side protector
+CT-F1250,Cassette Tape,RHA-174,RHA-174,Side pad L
+CT-F950,Cassette Tape,RHA-174,RHA-174,Side pad L
+CT-F1250,Cassette Tape,RHA-175,RHA-175,Side Pad R
+CT-F950,Cassette Tape,RHA-175,RHA-175,Side pad R
+CT-F600/605,Cassette Tape,RHA-176,RHA-176,Side protector (L)
+CT-F600/605,Cassette Tape,RHA-177,RHA-177,Side protector (R)
+CT-F850,Cassette Tape,RHA-184,RHA-184,Side pad
+CT-F750,Cassette Tape,RHA-185,RHA-185,Side protector
+RT-909,Reel To Reel Tape,RHA-188,RHA-188,Cushion L
+RT-909,Reel To Reel Tape,RHA-189,RHA-189,Cushion R
+CT-F1050,Cassette Tape,RHA-226,RHA-226,Pad A
+CT-F1050,Cassette Tape,RHA-227,RHA-227,Pad B
+RT-909,Reel To Reel Tape,RHB-107,RHB-107,Operating instructions
+RT-1011L,Reel To Reel Tape,RHC-023-0,RHC-023,Packing sheet
+RT-1020L,Reel To Reel Tape,RHC-023-0,RHC-023,Styrene paper
+RT-1011L,Reel To Reel Tape,RHC-027-0,RHC-027,Protector
+RT-1011L,Reel To Reel Tape,RHC-028-0,RHC-028,Cardboard
+RT-1011L,Reel To Reel Tape,RHC-029-0,RHC-029,Spacer
+RT-1011L,Reel To Reel Tape,RHC-030-0,RHC-030,Side spacer
+RT-1011L,Reel To Reel Tape,RHC-031-0,RHC-031,Cardboard
+RT-707,Reel To Reel Tape,RHC-064,RHC-064,Mount
+CT-F700,Cassette Tape,RHC-071,RHC-071,Spacer A (D/G type)
+CT-F700,Cassette Tape,RHC-072,RHC-072,Spacer B (D/G type)
+CT-F700,Cassette Tape,RHC-077,RHC-077,Spacer (D/G type)
+RT-909,Reel To Reel Tape,RHC-094,RHC-094,Accessory mount
+RT-909,Reel To Reel Tape,RHC-095,RHC-095,Accessory box
+CT-F1050,Cassette Tape,RHC-121,RHC-121,Sheet
+RT-1011L,Reel To Reel Tape,RHG-072-0,RHG-072,Outer case
+CT-F6161,Cassette Tape,RHG-103-0,RHG-103,Packing case
+CT-F9191,Cassette Tape,RHG-116,RHG-116,Packing case
+CT-F7272,Cassette Tape,RHG-150,RHG-150,Packing case (KU)
+CT-F7272,Cassette Tape,RHG-151,RHG-151,Packing case (KC)
+CT-F8282,Cassette Tape,RHG-157,RHG-157,Packing case (KC)
+CT-F8282,Cassette Tape,RHG-158,RHG-158,Packing case (KU)
+CT-F6262,Cassette Tape,RHG-167,RHG-167,Packing case (for U.S.A.)
+CT-F6262,Cassette Tape,RHG-168,RHG-168,Packing case (for Canada)
+RT-707,Reel To Reel Tape,RHG-184,RHG-184,Packing case (KU)
+RT-707,Reel To Reel Tape,RHG-185,RHG-185,Packing case (KC)
+CT-F700,Cassette Tape,RHG-210,RHG-210,Packing case (D type)
+CT-F700,Cassette Tape,RHG-211,RHG-211,Packing case (D/G type)
+CT-F700,Cassette Tape,RHG-215,RHG-215,Packing case (KC type)
+CT-F700,Cassette Tape,RHG-216,RHG-216,Packing case (KU type)
+CT-F700,Cassette Tape,RHG-218,RHG-218,Packing case (HG type)
+CT-F900,Cassette Tape,RHG-220,RHG-220,Packing case (for KC type)
+CT-F900,Cassette Tape,RHG-221,RHG-221,Packing case (for KU type)
+CT-F500/505,Cassette Tape,RHG-231,RHG-231,Packing case (KU - CT-F500)
+CT-F500/505,Cassette Tape,RHG-233,RHG-233,Packing case (CT-F505)
+CT-F500/505,Cassette Tape,RHG-233,RHG-233,Packing case (KC - CT-F500)
+CT-F600/605,Cassette Tape,RHG-266,RHG-266,Packing case (CT-F605/KU)
+CT-F600/605,Cassette Tape,RHG-267,RHG-267,Packing case (CT-F500/KC)
+CT-F950,Cassette Tape,RHG-281,RHG-281,Packing case (for KC type)
+CT-F950,Cassette Tape,RHG-282,RHG-282,Packing case (for KU type)
+CT-F1250,Cassette Tape,RHG-284,RHG-284,Packing case (for KU type)
+CT-F1250,Cassette Tape,RHG-285,RHG-285,Packmg case (for KC type)
+CT-F850,Cassette Tape,RHG-286,RHG-286,Packing case (KC)
+CT-F850,Cassette Tape,RHG-287,RHG-287,Packing case (KU)
+CT-F750,Cassette Tape,RHG-291,RHG-291,Packing case (KC)
+CT-F750,Cassette Tape,RHG-292,RHG-292,Packing case (KU)
+RT-909,Reel To Reel Tape,RHG-313,RHG-313,Packing case (KU)
+RT-909,Reel To Reel Tape,RHG-318,RHG-318,Packing case (D/G)
+CT-F1050,Cassette Tape,RHG-376,RHG-376,Packing case
+QT-6600,Reel To Reel Tape,RHK-058-0,RHK-058,Packing case
+RT-1020L,Reel To Reel Tape,RHK-102-0,RHK-102,Packing case assembly
+CT-F7171,Cassette Tape,RHK-128-0,RHK-128,Packing case
+RT-1011L,Reel To Reel Tape,RHK-131-0,RHK-131,Packing case assembly
+QT-6600,Reel To Reel Tape,RHL-001-0,RHL-001,Vinyl bag
+RT-1020L,Reel To Reel Tape,RHL-007-0,RHL-007,Vinyl bag
+CT-F7171,Cassette Tape,RHL-015-0,RHL-015,Vinyl bag
+CT-F1050,Cassette Tape,RHL-018,RHL-018,Vinyl bag (for operating instructions)
+CT-F1250,Cassette Tape,RHL-018,RHL-018,Vinyl bag (for operating instructions)
+CT-F600/605,Cassette Tape,RHL-018,RHL-018,Vinyl bag
+CT-F6262,Cassette Tape,RHL-018,RHL-018,Vinyl pouch
+CT-F700,Cassette Tape,RHL-018,RHL-018,Vinyl bag (for operating instructions)
+CT-F7272,Cassette Tape,RHL-018,RHL-018,Vinyl bag
+CT-F750,Cassette Tape,RHL-018,RHL-018,Vinyl bag
+CT-F8282,Cassette Tape,RHL-018,RHL-018,Vinyl bag
+CT-F850,Cassette Tape,RHL-018,RHL-018,Vinyl bag
+CT-F900,Cassette Tape,RHL-018,RHL-018,Vinyl bag (for operating instructions)
+CT-F950,Cassette Tape,RHL-018,RHL-018,Vinyl bag (for operating instructions)
+RT-909,Reel To Reel Tape,RHL-018,RHL-018,Vinyl bag
+CT-F1250,Cassette Tape,RHL-019,RHL-019,Vinyl bag (for connection cord)
+CT-F6262,Cassette Tape,RHL-019,RHL-019,Vinyl pouch
+CT-F700,Cassette Tape,RHL-019,RHL-019,Vinyl bag (for connection cord)
+CT-F7272,Cassette Tape,RHL-019,RHL-019,Vinyl bag
+CT-F8282,Cassette Tape,RHL-019,RHL-019,Vinyl bag
+CT-F900,Cassette Tape,RHL-019,RHL-019,Vinyl bag (for connection cord)
+CT-F950,Cassette Tape,RHL-019,RHL-019,Vinyl bag (for connection cord)
+RT-1011L,Reel To Reel Tape,RHL-021-0,RHL-021,Vinyl bag
+RT-1011L,Reel To Reel Tape,RHL-025-0,RHL-025,Vinyl bag
+RT-909,Reel To Reel Tape,RHL-025,RHL-025,Vinyl bag
+CT-F1250,Cassette Tape,RHL-031,RHL-031,Vinyl bag (for cassette (apedeck)
+CT-F8282,Cassette Tape,RHL-031,RHL-031,Vinyl bag
+CT-F900,Cassette Tape,RHL-031,RHL-031,Vinyl bag (for cassette tapedeck)
+CT-F950,Cassette Tape,RHL-031,RHL-031,Vinyl bag (for cassette tape deck)
+CT-F500/505,Cassette Tape,RHL-035,RHL-035,Vinyl bag
+CT-F6262,Cassette Tape,RHL-035,RHL-035,Vinyl bag
+CT-F7272,Cassette Tape,RHL-035,RHL-035,Vinyl bag
+CT-F1050,Cassette Tape,RHL-041,RHL-041,Vinyl bag (for cassette deck)
+CT-F750,Cassette Tape,RHL-041,RHL-041,Vinyl bag
+CT-F850,Cassette Tape,RHL-041,RHL-041,Vinyl bag
+CT-F700,Cassette Tape,RHL-044,RHL-044,Vinyl bag
+CT-F600/605,Cassette Tape,RHL-050,RHL-050,Vinyl bag
+RT-909,Reel To Reel Tape,RHL-055,RHL-055,Vinyl bag
+RT-909,Reel To Reel Tape,RHL-056,RHL-056,Vinyl bag
+QT-6600,Reel To Reel Tape,RHX-004-A,RHX-004,Accessories parts box
+RT-1020L,Reel To Reel Tape,RHX-019-0,RHX-019,Accessory box
+QT-6600,Reel To Reel Tape,RKB-001-A,RKB-001,4P input terminal
+QT-74,Reel To Reel Tape,RKB-001-A,RKB-001,Phono jack (4 Jacks)
+QT-6100,Reel To Reel Tape,RKB-003-A,RKB-003,6P input terminal board
+CT-F6161,Cassette Tape,RKB-007-0,RKB-007,Phono jack (4 jack)
+CT-F9191,Cassette Tape,RKB-007,RKB-007,Phono jack (4 jack)
+CT-F6262,Cassette Tape,RKB-010,RKB-010,Terminal assembly (LINE/DIN)
+CT-F7272,Cassette Tape,RKB-010,RKB-010,Pin jack assembly
+CT-F8282,Cassette Tape,RKB-010,RKB-010,"Jack assembly (LINE IN, LINE OUT)"
+RT-707,Reel To Reel Tape,RKB-011,RKB-011,Terminal (4P)
+CT-F1000,Cassette Tape,RKB-013,RKB-013,Pin jack assembly
+CT-F700,Cassette Tape,RKB-013,RKB-013,Pinjack assembly
+CT-F1000,Cassette Tape,RKB-014,RKB-014,4P mount pin jack
+CT-F500/505,Cassette Tape,RKB-014,RKB-014,Pin jack assembly (4P)
+CT-F600/605,Cassette Tape,RKB-014,RKB-014,Pin jack
+CT-F850,Cassette Tape,RKB-014,RKB-014,4P mount pin jack
+CT-F900,Cassette Tape,RKB-014,RKB-014,4P mount pinjack
+RT-909,Reel To Reel Tape,RKB-014,RKB-014,"Terminal (OUTPUT, lNPUT)"
+CT-F1050,Cassette Tape,RKB-014 (RKB-016),RKB-014 (RKB-016),"Terminal (OUTPUT, INPUT)"
+CT-F1250,Cassette Tape,RKB-014 (RKB-016),RKB-014 (RKB-016),4P mount pin jack
+CT-F750,Cassette Tape,RKB-014 (RKB-016),RKB-014 (RKB-016),Pin jack (4P)
+CT-F950,Cassette Tape,RKB-014 (RKB-016),RKB-014 (RKB-016),4P mount pin jack
+RT-1011L,Reel To Reel Tape,RKC -016-0,RKC -016,Melded terminal T-type 3P
+QT-6600,Reel To Reel Tape,RKC-002-0,RKC-002,1P terminal strip
+QT-74,Reel To Reel Tape,RKC-002-0,RKC-002,Terminal strip (1P)
+QT-6600,Reel To Reel Tape,RKC-003-A,RKC-003,4P terminal strip
+QT-74,Reel To Reel Tape,RKC-003-A,RKC-003,Terminal Strip (4P)
+QT-6100,Reel To Reel Tape,RKC-004-0,RKC-004,2P terminal strip
+QT-6600,Reel To Reel Tape,RKC-004-0,RKC-004,2P terminal strip
+QT-74,Reel To Reel Tape,RKC-004-0,RKC-004,Terminal strip (2P)
+QT-6100,Reel To Reel Tape,RKC-008-0,RKC-008,2P terminal strip
+RT-1011L,Reel To Reel Tape,RKC-01 3-0,RKC-01 3,Terminal strip 6P
+RT-1011L,Reel To Reel Tape,RKC-013-0,RKC-013,Terminal strip 6P
+RT-1020L,Reel To Reel Tape,RKC-013-0,RKC-013,Terminal strip 6P
+RT-1020L,Reel To Reel Tape,RKC-013-0,RKC-013,Terminal strip 6P
+CT-F6161,Cassette Tape,RKC-015-0,RKC-015,Terminal strip (2P)
+CT-F7171,Cassette Tape,RKC-015-0,RKC-015,Terminal strip (2P)
+CT-F1050,Cassette Tape,RKH-005,RKH-005,Insulator
+CT-F1050,Cassette Tape,RKH-005,RKH-005,Insulator spacer
+QT-74,Reel To Reel Tape,RKK-002-0,RKK-002,Lamp socket
+QT-6100,Reel To Reel Tape,RKK-005-0,RKK-005,Lamp socket
+QT-6600,Reel To Reel Tape,RKK-005-0,RKK-005,Lamp socket
+CT-F7171,Cassette Tape,RKN-002-A,RKN-002,Phone jack (HEAD)
+QT-74,Reel To Reel Tape,RKN-002-A,RKN-002,Phonejack (HEADPHONE)
+RT-1020L,Reel To Reel Tape,RKN-002-A,RKN-002,Headphone jack (A)
+CT-F6161,Cassette Tape,RKN-013-B,RKN-013,Jack assembly {C)
+CT-F9191,Cassette Tape,RKN-020,RKN-020,Mic jack assembly
+RT-1011L,Reel To Reel Tape,RKN-020-0,RKN-020,MIC jack
+CT-F9191,Cassette Tape,RKN-021,RKN-021,Phone jack assembly
+RT-1011L,Reel To Reel Tape,RKN-021-0,RKN-021,Headphone jack (A)
+CT-F6262,Cassette Tape,RKN-031,RKN-031,Phone jack (MIC)
+CT-F7272,Cassette Tape,RKN-031,RKN-031,Phone jack (MIC)
+CT-F8282,Cassette Tape,RKN-031,RKN-031,Phone jack (MIC)
+CT-F1000,Cassette Tape,RKN-032,RKN-032,Headphone jack
+CT-F1000,Cassette Tape,RKN-032,RKN-032,Headphones jack
+CT-F6262,Cassette Tape,RKN-032,RKN-032,Phone jack (PHONES)
+CT-F7272,Cassette Tape,RKN-032,RKN-032,Phone jack (HEADPHONES)
+CT-F8282,Cassette Tape,RKN-032,RKN-032,HEADPHONES jack
+CT-F8282,Cassette Tape,RKN-032,RKN-032,Phone jack (Headphone)
+CT-F1000,Cassette Tape,RKN-037,RKN-037,MIC jack
+CT-F700,Cassette Tape,RKN-040,RKN-040,Jack assembly
+CT-F1250,Cassette Tape,RKN-044,RKN-044,Mic jack
+CT-F950,Cassette Tape,RKN-044,RKN-044,MIC jack
+CT-F1250,Cassette Tape,RKN-046,RKN-046,Headphone Jack
+CT-F950,Cassette Tape,RKN-046,RKN-046,Headphone jack
+CT-F500/505,Cassette Tape,RKN-047,RKN-047,Mic jack
+CT-F500/505,Cassette Tape,RKN-048,RKN-048,Phone jack
+CT-F900,Cassette Tape,RKN-049,RKN-049,Jack assembly
+CT-F600/605,Cassette Tape,RKN-052,RKN-052,Phone jack
+CT-F600/605,Cassette Tape,RKN-054,RKN-054,Mic jack
+CT-F750,Cassette Tape,RKN-055,RKN-055,Mic jack
+CT-F850,Cassette Tape,RKN-055,RKN-055,MIC jack
+CT-F750,Cassette Tape,RKN-056,RKN-056,Phone jack
+CT-F850,Cassette Tape,RKN-056,RKN-056,Head phone jack
+RT-909,Reel To Reel Tape,RKN-056,RKN-056,Headphones jack
+RT-909,Reel To Reel Tape,RKN-058,RKN-058,Mic jack
+CT-F1050,Cassette Tape,RKN-069,RKN-069,MIC jack
+CT-F1050,Cassette Tape,RKN-070,RKN-070,Headphones jack
+RT-1020L,Reel To Reel Tape,RKP-003-A,RKP-003,AC socket
+CT-F6161,Cassette Tape,RKP-006-0,RKP-006,DIN type socket
+CT-F7171,Cassette Tape,RKP-006-0,RKP-006,DIN type socket
+CT-F9191,Cassette Tape,RKP-006,RKP-006,5p jack (DIN)
+RT-1011L,Reel To Reel Tape,RKP-006-0,RKP-006,DIN socket
+CT-F9191,Cassette Tape,RKP-007,RKP-007,Connector socket A
+CT-F9191,Cassette Tape,RKP-008,RKP-008,Connector socket B
+CT-F9191,Cassette Tape,RKP-009,RKP-009,Connector pin A
+CT-F9191,Cassette Tape,RKP-010,RKP-010,Connector pin B
+CT-F700,Cassette Tape,RKP-014,RKP-014,AC socket (INLET)  (HG type)
+CT-F1000,Cassette Tape,RKP-017,RKP-017,AC socket
+CT-F8282,Cassette Tape,RKP-017,RKP-017,AC outlet
+RT-707,Reel To Reel Tape,RKP-030,RKP-030,DIN connector
+CT-F950,Cassette Tape,RKP-044,RKP-044,Connector (13p)
+DT-400,Timer,RKP-050,RKP-050,AC OUTLET SOCKET DT400
+CT-F1250,Cassette Tape,RKP-064,RKP-064,Connector assembly (16P)
+CT-F850,Cassette Tape,RKP-066,RKP-066,Connector (11p)
+CT-F1250,Cassette Tape,RKP-111,RKP-111,Connector ass'y
+CT-F1250,Cassette Tape,RKP-114,RKP-114,AC socket
+CT-F750,Cassette Tape,RKP-117,RKP-117,Connector assembly (B)
+RT-909,Reel To Reel Tape,RKP-121,RKP-121,Connector assembly (5p)
+RT-909,Reel To Reel Tape,RKP-126,RKP-126,Connector assembly (4p)
+RT-909,Reel To Reel Tape,RKP-128,RKP-128,Connector assembly (9p)
+RT-909,Reel To Reel Tape,RKP-130,RKP-130,Connector assembly (19p)
+CT-F750,Cassette Tape,RKP-138,RKP-138,Connector assembly 7P
+CT-F750,Cassette Tape,RKP-139,RKP-139,Connector assembly 10P
+CT-F750,Cassette Tape,RKP-144,RKP-144,Connector assembly (E)
+CT-F1050,Cassette Tape,RKP-213,RKP-213,2P connector assembly (B)
+CT-F1050,Cassette Tape,RKP-217,RKP-217,6P connector socket assembly A
+CT-F1050,Cassette Tape,RKP-218,RKP-218,6P connector assembly B
+CT-F1050,Cassette Tape,RKP-219,RKP-219,3P connector assembly A
+CT-F1050,Cassette Tape,RKP-220,RKP-220,3P connector assembly- B
+CT-F1050,Cassette Tape,RKP-222,RKP-222,Remote-control socket
+CT-F1050,Cassette Tape,RKP-225,RKP-225,Connector assembly (3)
+CT-F1050,Cassette Tape,RKP-226,RKP-226,Connector assembly (4)
+CT-F1050,Cassette Tape,RKP-228,RKP-228,Connector assembly (6)
+CT-F1050,Cassette Tape,RKP-229,RKP-229,Connector assembly (7)
+CT-F1050,Cassette Tape,RKP-229,RKP-229,Connector assembly (7)
+CT-F1050,Cassette Tape,RKP-230,RKP-230,Connector assembly (8)
+CT-F1050,Cassette Tape,RKP-231,RKP-231,Connector assembly (9)
+CT-F1050,Cassette Tape,RKP-232,RKP-232,Connector assembly (10)
+CT-F1050,Cassette Tape,RKP-232,RKP-232,Connector assembly (10)
+CT-F1050,Cassette Tape,RKP-233,RKP-233,Connector assembly (11)
+CT-F1050,Cassette Tape,RKP-234,RKP-234,Connector assembly (12)
+CT-F1050,Cassette Tape,RKP-235,RKP-235,Connector assembly (13)
+CT-F1050,Cassette Tape,RKP-236,RKP-236,Connector assembly (14)
+CT-F1050,Cassette Tape,RKP-237,RKP-237,Connector assembly (15)
+CT-F1050,Cassette Tape,RKP-238,RKP-238,Connector assembly (16)
+CT-F1050,Cassette Tape,RKP-239,RKP-239,Connector assembly - Dolby (17)
+CT-F9191,Cassette Tape,RKR-016,RKR-016,Fuse holder (KCU)
+RT-701,Reel To Reel Tape,RKR-017,RKR-017,Fuse Clip

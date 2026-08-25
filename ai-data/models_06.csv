@@ -1,0 +1,2560 @@
+model,category,part_number,normalized_part_number,description
+SA-530,Integrated Amplifier,AAB-283,AAB-283,"Rotary knob (SPEAKERS, BASS, TREBLE, BALANCE)"
+SA-530,Integrated Amplifier,AAD-417,AAD-417,Push knob A (POWER)
+SA-530,Integrated Amplifier,AAD-418,AAD-418,"Push knob B (LOUDNESS, TAPE2/ADAPTOR)"
+SA-530,Integrated Amplifier,AAV-303,AAV-303,LED level meter module
+SA-530,Integrated Amplifier,ACE-327,ACE-327,Strain relief - KU
+SA-530,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC220V) - HB
+SA-530,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC220V) - HE
+SA-530,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC220V) - HEZ
+SA-530,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC220V) - S
+SA-530,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC220V) - YP
+SA-530,Integrated Amplifier,ACG-017,ACG-017,Ceramic capacitor (0.01/AC125V) - KU
+SA-530,Integrated Amplifier,ACH-239,ACH-239,Electrolytic capacitor (5600/42V)
+SA-530,Integrated Amplifier,ACT-027,ACT-027,Variable 100k (BALANCE)
+SA-530,Integrated Amplifier,ACT-149,ACT-149,"Variable 100k (BASS,TREBLE)"
+SA-530,Integrated Amplifier,ACT-149,ACT-149,Variable resistor (BASS)
+SA-530,Integrated Amplifier,ACT-149,ACT-149,Variable resistor (TREBLE)
+SA-530,Integrated Amplifier,ACX-109,ACX-109,Variable 250k (VOLUME)
+SA-530,Integrated Amplifier,ADG-052,ADG-052,AC power cord - KU
+SA-530,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S
+SA-530,Integrated Amplifier,ADG-063,ADG-063,AC power cord - HB
+SA-530,Integrated Amplifier,ADG-065,ADG-065,AC power cord - HE
+SA-530,Integrated Amplifier,ADG-065,ADG-065,AC power cord - HEZ
+SA-530,Integrated Amplifier,ADG-067,ADG-067,AC power cord - YP
+SA-530,Integrated Amplifier,AEC-318,AEC-318,Mica wafer
+SA-530,Integrated Amplifier,AEC-327,AEC-327,Strain relief
+SA-530,Integrated Amplifier,AEC-784,AEC-784,Foot assembly
+SA-530,Integrated Amplifier,AEK-121,AEK-121,Fuse (1.6A) - S
+SA-530,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A)
+SA-530,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - KU
+SA-530,Integrated Amplifier,AEK-125,AEK-125,Fuse (5A) - S
+SA-530,Integrated Amplifier,AEK-126,AEK-126,Fuse (5A) - KU
+SA-530,Integrated Amplifier,AEK-402,AEK-402,Fuse (T1A) - HB
+SA-530,Integrated Amplifier,AEK-402,AEK-402,Fuse (T1A) - HE
+SA-530,Integrated Amplifier,AEK-402,AEK-402,Fuse (T1A) - HEZ
+SA-530,Integrated Amplifier,AEK-402,AEK-402,Fuse (T1A) - YP
+SA-530,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HB
+SA-530,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HE
+SA-530,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HEZ
+SA-530,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HEZ
+SA-530,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - YP
+SA-530,Integrated Amplifier,AEL-157,AEL-157,Lamp assembly (FUNCTION INDICATORS)
+SA-530,Integrated Amplifier,AHA-298,AHA-298,Front rear pad
+SA-530,Integrated Amplifier,AHE-030,AHE-030,Packing case - KU
+SA-530,Integrated Amplifier,AHE-036,AHE-036,Packing case - HB
+SA-530,Integrated Amplifier,AHE-036,AHE-036,Packing case - HE
+SA-530,Integrated Amplifier,AHE-036,AHE-036,Packing case - HEZ
+SA-530,Integrated Amplifier,AHE-036,AHE-036,Packing case - S
+SA-530,Integrated Amplifier,AHE-036,AHE-036,Packing case - YP
+SA-530,Integrated Amplifier,AKB-077,AKB-077,Terminal 2P (PHONES)
+SA-530,Integrated Amplifier,AKB-078,AKB-078,Terminal 4P (TAPE1)
+SA-530,Integrated Amplifier,AKB-078,AKB-078,Terminal 4P (TAPE2/ADAPTOR)
+SA-530,Integrated Amplifier,AKB-079,AKB-079,Terminal 6P (INPUT)
+SA-530,Integrated Amplifier,AKE-102,AKE-102,Terminal (SPEAKER)
+SA-530,Integrated Amplifier,AKE-403,AKE-403,Fuse (T2.5A) - HE
+SA-530,Integrated Amplifier,AKN-029,AKN-029,Headphone jack
+SA-530,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - KU
+SA-530,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - S
+SA-530,Integrated Amplifier,AKP-502,AKP-502,AC socket (AC OUTLETS) - HE
+SA-530,Integrated Amplifier,AKP-502,AKP-502,AC socket (AC OUTLETS) - HEZ
+SA-530,Integrated Amplifier,AKP-503,AKP-503,AC socket (AC OUTLETS) - HB
+SA-530,Integrated Amplifier,AKX-063,AKX-063,Voltage selector switch - S
+SA-530,Integrated Amplifier,ANE-353,ANE-353,Bonnet case
+SA-530,Integrated Amplifier,ANM-204,ANM-204,Front panel cover
+SA-530,Integrated Amplifier,ANM-205,ANM-205,Front panel assembly
+SA-530,Integrated Amplifier,ARB-476,ARB-476,Operating instructions (English) - KU
+SA-530,Integrated Amplifier,ARB-481,ARB-481,Operating instructions (English) - HB
+SA-530,Integrated Amplifier,ARB-481,ARB-481,Operating instructions (English) - S
+SA-530,Integrated Amplifier,ARB-481,ARB-481,Operating instructions (English) - YP
+SA-530,Integrated Amplifier,ARC-016,ARC-016,Operating instructions (German) - HEZ
+SA-530,Integrated Amplifier,ARC-021,ARC-021,Operating instructions (Spanish) - S
+SA-530,Integrated Amplifier,ARE-030,ARE-030,Operating instructions (English/German/French Italian) - HE
+SA-530,Integrated Amplifier,ASE-014,ASE-014,Rotary switch (SPEAKERS)
+SA-530,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - HB
+SA-530,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - HE
+SA-530,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - HEZ
+SA-530,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - YP
+SA-530,Integrated Amplifier,ASG-539,ASG-539,Push switch (POWER) - KU
+SA-530,Integrated Amplifier,ASG-539,ASG-539,Push switch (POWER) - S
+SA-530,Integrated Amplifier,ASG-801,ASG-801,Push switch (FUNCTION)
+SA-530,Integrated Amplifier,ASG-802,ASG-802,"Push switch (LOUDNESS, TAPE2/ADAPTOR)"
+SA-530,Integrated Amplifier,ATT-895,ATT-895,Power transformer (120V) - KU
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HB"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HE"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HEZ"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - YP"
+SA-530,Integrated Amplifier,ATT-897,ATT-897,"Power transformer (110V,120V,220V. 240V) - S"
+SA-530,Integrated Amplifier,AWG-084,AWG-084,Control assembly
+SA-530,Integrated Amplifier,AWK-199,AWK-199,"AF assembly - KU,S,YP,HE,HB"
+SA-530,Integrated Amplifier,AWK-202,AWK-202,AF assembly - HEZ
+SA-530,Integrated Amplifier,AXC-012,AXC-012,Slide knob assembly
+SA-530,Integrated Amplifier,CQMA 223K 50,CQMA 223K 50,Ceramic capacitor - HEZ
+SA-5500II,Integrated Amplifier,AAB-129,AAB-129,Knob (VOLUME)
+SA-5500II,Integrated Amplifier,AAB-130,AAB-130,Knob (BALANCE)
+SA-5500II,Integrated Amplifier,AAB-130,AAB-130,Knob (FUNCTION)
+SA-5500II,Integrated Amplifier,AAB-130,AAB-130,"Knob (TREBLE, BASS)"
+SA-5500II,Integrated Amplifier,AAD-123,AAD-123,Knob (LOUDNESS)
+SA-5500II,Integrated Amplifier,AAD-123,AAD-123,Knob (POWER)
+SA-5500II,Integrated Amplifier,AAD-123,AAD-123,Knob (TAPE MONITOR)
+SA-5500II,Integrated Amplifier,AAD-126,AAD-126,Knob (SPEAKERS)
+SA-5500II,Integrated Amplifier,ACG-003,ACG-003,Capacitor
+SA-5500II,Integrated Amplifier,ACV-126,ACV-126,Variable resistor (BALANCE)
+SA-5500II,Integrated Amplifier,ACV-181,ACV-181,Variable resistor (VOLUME)
+SA-5500II,Integrated Amplifier,ACV-182,ACV-182,Variable resistor (BASS)
+SA-5500II,Integrated Amplifier,ACV-182,ACV-182,Variable resistor (TREBLE)
+SA-5500II,Integrated Amplifier,AEC-279,AEC-279,Capacitor cover
+SA-5500II,Integrated Amplifier,AKE-026,AKE-026,SPEAKER output terminal
+SA-5500II,Integrated Amplifier,AKN-009,AKN-009,Phone jack (PHONES)
+SA-5500II,Integrated Amplifier,AKP-005,AKP-005,AC outlet
+SA-5500II,Integrated Amplifier,ANB-483,ANB-483,Front panel assembly
+SA-5500II,Integrated Amplifier,ANE-133,ANE-133,Top cover
+SA-5500II,Integrated Amplifier,ASD-064,ASD-064,Rotary switch (FUNCTION)
+SA-5500II,Integrated Amplifier,ASG-117,ASG-117,Push switch (SPEAKERS)
+SA-5500II,Integrated Amplifier,ASK-092,ASK-092,Lever Switch (TAPE MONITOR)
+SA-5500II,Integrated Amplifier,ASK-108,ASK-108,Lever switch (POWER)
+SA-5500II,Integrated Amplifier,ASK-120,ASK-120,Lever switch (LOUDNESS)
+SA-5500II,Integrated Amplifier,ATT-356,ATT-356,Power transformer
+SA-5500II,Integrated Amplifier,AWX- 110,AWX- 110,Earth assembly
+SA-5500II,Integrated Amplifier,GWF-103,GWF-103,Equalizer ampliﬁer assembly
+SA-5500II,Integrated Amplifier,GWG-103,GWG-103,Tone amplifier assembly
+SA-5500II,Integrated Amplifier,GWH-103,GWH-103,Power amplifier assembly
+SA-5500II,Integrated Amplifier,N/A,N/A,Operating Instructions
+SA-5500II,Integrated Amplifier,N/A,N/A,Service Manual SA-5500II
+SA-5800/508,Integrated Amplifier,AAB-202,AAB-202,Knob (VOLUME)
+SA-5800/508,Integrated Amplifier,AAB-203,AAB-203,Knob (FUNCTION)
+SA-5800/508,Integrated Amplifier,AAB-204,AAB-204,"Knob (BASS, TREBLE, BALANCE)"
+SA-5800/508,Integrated Amplifier,AAB-204,AAB-204,Knob (SPEAKERS)
+SA-5800/508,Integrated Amplifier,AAD-183,AAD-183,Lever knob (LOUDNESS)
+SA-5800/508,Integrated Amplifier,AAD-183,AAD-183,Lever knob (POWER)
+SA-5800/508,Integrated Amplifier,AAD-183,AAD-183,Lever knob (SUBSONIC FILTER)
+SA-5800/508,Integrated Amplifier,AAD-183,AAD-183,Lever knob (TAPE MON)
+SA-5800/508,Integrated Amplifier,AAV-004,AAV-004,Fluorescent indicator tube
+SA-5800/508,Integrated Amplifier,ACT-117,ACT-117,Variable resistor 100k (BASS)
+SA-5800/508,Integrated Amplifier,ACT-117,ACT-117,Variable resistor 100k (TREBLE)
+SA-5800/508,Integrated Amplifier,ACT-118,ACT-118,Variable resistor 500k (BALANCE)
+SA-5800/508,Integrated Amplifier,ACV-184,ACV-184,Variable resistor 250k (VOLUME)
+SA-5800/508,Integrated Amplifier,ADG-023,ADG-023,AC power cord
+SA-5800/508,Integrated Amplifier,AEC-570,AEC-570,Foot assembly
+SA-5800/508,Integrated Amplifier,AEK-102,AEK-102,Fuse (2.5A)
+SA-5800/508,Integrated Amplifier,AHA-188,AHA-188,Side pad - SA-5800/KU
+SA-5800/508,Integrated Amplifier,AHA-189,AHA-189,Side pad - SA-508/KU
+SA-5800/508,Integrated Amplifier,AHD-693,AHD-693,Packing case - SA-5800/KU
+SA-5800/508,Integrated Amplifier,AHD-710,AHD-710,Packing case - SA-508/KU
+SA-5800/508,Integrated Amplifier,AKB-063,AKB-063,"Terminal (TAPE 1, 2)"
+SA-5800/508,Integrated Amplifier,AKB-064,AKB-064,Terminal (INPUT)
+SA-5800/508,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-5800/508,Integrated Amplifier,AKN-023,AKN-023,Phone jack (PHONES)
+SA-5800/508,Integrated Amplifier,AKP-032,AKP-032,AC socket (AC OUTLET)
+SA-5800/508,Integrated Amplifier,AMS-023,AMS-023,Top cover - SA-5800/KU
+SA-5800/508,Integrated Amplifier,AMS-024,AMS-024,Side cover (L) - SA-5800/KU
+SA-5800/508,Integrated Amplifier,AMS-025,AMS-025,Side cover (R) - SA-5800/KU
+SA-5800/508,Integrated Amplifier,ANB-736,ANB-736,Front panel assembly - SA-5800/KU
+SA-5800/508,Integrated Amplifier,ANB-759,ANB-759,Front panel assembly - SA-508/KU
+SA-5800/508,Integrated Amplifier,ANE-250,ANE-250,Bonnet cover - SA-508/KU
+SA-5800/508,Integrated Amplifier,ARB-325,ARB-325,Operating instructions - SA-5800/KU
+SA-5800/508,Integrated Amplifier,ARB-334,ARB-334,Operating instructions - SA-508/KU
+SA-5800/508,Integrated Amplifier,ART-272-0,ART-272,Service manual  SA-5800/508  (KU)
+SA-5800/508,Integrated Amplifier,ASB-051,ASB-051,Rotary switch (SPEAKERS)
+SA-5800/508,Integrated Amplifier,ASE-110,ASE-110,Slide rotary switch (FUNCTION)
+SA-5800/508,Integrated Amplifier,ASK-155,ASK-155,Lever switch (LOUDNESS)
+SA-5800/508,Integrated Amplifier,ASK-155,ASK-155,Lever switch (SUBSONIC)
+SA-5800/508,Integrated Amplifier,ASK-156,ASK-156,"Lever switch (TAPE MONITOR 1, 2)"
+SA-5800/508,Integrated Amplifier,ASK-514,ASK-514,Lever switch (POWER)
+SA-5800/508,Integrated Amplifier,ATT-577,ATT-577,Heater transformer
+SA-5800/508,Integrated Amplifier,ATT-609,ATT-609,Power transformer
+SA-5800/508,Integrated Amplifier,AWV-004,AWV-004,Indicator assembly
+SA-5800/508,Integrated Amplifier,GWF-123,GWF-123,Equalizer assembly
+SA-5800/508,Integrated Amplifier,GWK-128,GWK-128,AF amp assembly
+SA-5800/508,Integrated Amplifier,GWX-323,GWX-323,Volume assembly
+SA-5800/508,Integrated Amplifier,GWX-324,GWX-324,Headphone assembly
+SA-5800/508,Integrated Amplifier,GWX-332,GWX-332,Fuse assembly
+SA-600,Integrated Amplifier,A12-229-0,A12-229,"Knobs for Volume control, Selector switch"
+SA-600,Integrated Amplifier,A12-232-A,A12-232,"Knobs for Power switch, Tone, Balance controls"
+SA-600,Integrated Amplifier,A19-095-0,A19-095,Knobs for Lever switches
+SA-600,Integrated Amplifier,AEC-012-C,AEC-012,Foot
+SA-600,Integrated Amplifier,AEK-004-0,AEK-004,1A fuse for UL (KUW)
+SA-600,Integrated Amplifier,AHD-028-A,AHD-028,Packing case
+SA-600,Integrated Amplifier,AKP-002-0,AKP-002,Spare AC outlet
+SA-600,Integrated Amplifier,AKR-001-0,AKR-001,Line voltage selector (FVW)
+SA-600,Integrated Amplifier,ANB-060-0,ANB-060,Front panel assembly
+SA-600,Integrated Amplifier,ARB-012-0,ARB-012,Operating instructions
+SA-600,Integrated Amplifier,ASA-007-0,ASA-007,Power switch (KUW)
+SA-600,Integrated Amplifier,ATT-015-0,ATT-015,Power transformer (KUW/KCW)
+SA-600,Integrated Amplifier,ATT-016-0,ATT-016,Power transformer (FVW)
+SA-600,Integrated Amplifier,B11-012-A,B11-012,Screw for GND
+SA-600,Integrated Amplifier,B11-041-A,B11-041,Set screws for wooden case
+SA-600,Integrated Amplifier,C15-001-O,C15-001,Oil paper 0.01 450V
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.21 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-O,C43-003,Ceramic 0.01 DC 1.4kV
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (FVW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (FVW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (KCW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (KCW)
+SA-600,Integrated Amplifier,C52-085-B,C52-085,Electrolytic 3300 80V (FVW)
+SA-600,Integrated Amplifier,C52-085-O,C52-085,Electrolytic 3300 80V
+SA-600,Integrated Amplifier,C82-038-O,C82-038,Dual type Volume control 250k
+SA-600,Integrated Amplifier,C85-052-O,C85-052,Dual type Balance Volume control 50k
+SA-600,Integrated Amplifier,D11-002-B,D11-002,AC cord (FVW)
+SA-600,Integrated Amplifier,D11-003-E,D11-003,AC cord (with plug)
+SA-600,Integrated Amplifier,D51-003-B,D51-003,Cord (with pin plug)
+SA-600,Integrated Amplifier,D51-004-B,D51-004,Cord (with pin plug)
+SA-600,Integrated Amplifier,E21-004-0,E21-004,1A fuse (FVW)
+SA-600,Integrated Amplifier,E21-005-O,E21-005,2A fuse (KCW)
+SA-600,Integrated Amplifier,E21-020-0,E21-020,1A fuse (with lead wire - FVW)
+SA-600,Integrated Amplifier,E21-020-O,E21-020,1A fuse (with the lead wire - KCW)
+SA-600,Integrated Amplifier,E21-026-O,E21-026,2A fuse (with the lead wire - KCW)
+SA-600,Integrated Amplifier,E21-027-0,E21-027,2A fuse for UL (KUW)
+SA-600,Integrated Amplifier,E21-035-0,E21-035,2A fuse for protection
+SA-600,Integrated Amplifier,E22-020-0,E22-020,Pilot lamp
+SA-600,Integrated Amplifier,H11-070-B,H11-070,Styrotector
+SA-600,Integrated Amplifier,K13-047-0,K13-047,4P terminal for ground
+SA-600,Integrated Amplifier,K21-010-E,K21-010,4P inputjacks
+SA-600,Integrated Amplifier,K22-013-0,K22-013,6P input jacks
+SA-600,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+SA-600,Integrated Amplifier,K71-032-O,K71-032,Speaker plugs
+SA-600,Integrated Amplifier,K72-015-A,K72-015,Pin plug
+SA-600,Integrated Amplifier,K72-020-0,K72-020,Microphone jack
+SA-600,Integrated Amplifier,K72-026-0,K72-026,Headphones jack
+SA-600,Integrated Amplifier,K72-028-0,K72-028,Speaker socket
+SA-600,Integrated Amplifier,K82-014-0,K82-014,Spare AC outlet (FVW)
+SA-600,Integrated Amplifier,K82-014-0,K82-014,Spare AC outlet (KCW)
+SA-600,Integrated Amplifier,K93-003-B,K93-003,5P connector socket
+SA-600,Integrated Amplifier,K96-006-C,K96-006,Fuse holder (FVW)
+SA-600,Integrated Amplifier,K96-007-B,K96-007,Fuse holder for UL
+SA-600,Integrated Amplifier,M52-139-0,M52-139,Wooden case
+SA-600,Integrated Amplifier,N/A,N/A,Operation Instructions SA-600
+SA-600,Integrated Amplifier,N/A,N/A,Service Manual SA-600
+SA-600,Integrated Amplifier,N/A,N/A,Variable Resistor (Bass) 100K(B)
+SA-600,Integrated Amplifier,N/A,N/A,Variable resistor (Treble) 100k(B)
+SA-600,Integrated Amplifier,S11-023-B,S11-023,Power switch (KCW)
+SA-600,Integrated Amplifier,S11-024-B,S11-024,Power switch (FVW)
+SA-600,Integrated Amplifier,S13-024-B,S13-024,Input selector switch
+SA-600,Integrated Amplifier,S41-022-A,S41-022,Slide switch (Pre & Main)
+SA-600,Integrated Amplifier,S42-011-A,S42-011,Lever switch (Speaker A)
+SA-600,Integrated Amplifier,S42-011-A,S42-011,Lever switch (Speaker B)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (High cut filter)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Loudness)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Low cut filter)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Mode)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Tape monitor 1)
+SA-600,Integrated Amplifier,S42-012-A,S42-012,Lever switch (Tape monitor 2)
+SA-600,Integrated Amplifier,W15-032-B,W15-032,Head amp unit
+SA-600,Integrated Amplifier,W16-036-0,W16-036,Power supply unit
+SA-600,Integrated Amplifier,W22-007-B,W22-007,Control amp unit
+SA-600,Integrated Amplifier,W23-007-A,W23-007,Main amp unit
+SA-600,Integrated Amplifier,W52-004-O,W52-004,Compound part for REC terminal
+SA-606,Integrated Amplifier,2SB618A-R or Q,2SB618A-R or Q,Transistor
+SA-606,Integrated Amplifier,2SB618A-R or Q,2SB618A-R or Q,Transistor
+SA-606,Integrated Amplifier,2SD588A-R or Q,2SD588A-R or Q,Transistor
+SA-606,Integrated Amplifier,2SD588A-R or Q,2SD588A-R or Q,Transistor
+SA-606,Integrated Amplifier,AAB-178,AAB-178,Knob (VOLUME)
+SA-606,Integrated Amplifier,AAB-179,AAB-179,Knob (BASS)
+SA-606,Integrated Amplifier,AAB-180,AAB-180,Knob (FUNCTION)
+SA-606,Integrated Amplifier,AAB-180,AAB-180,Knob (SPEAKERS)
+SA-606,Integrated Amplifier,AAD-129,AAD-129,"Lever knob assembly (LOUDNESS,TAPE MONITOR)"
+SA-606,Integrated Amplifier,AAD-129,AAD-129,Lever knob assembly (POWER)
+SA-606,Integrated Amplifier,AAW-087,AAW-087,Power meter (HG)
+SA-606,Integrated Amplifier,AAW-087,AAW-087,"Power meter (S,S/G)"
+SA-606,Integrated Amplifier,ABA-079,ABA-079,Screw (for top cover - HG)
+SA-606,Integrated Amplifier,ABA-079,ABA-079,"Screw (for top cover - S,S/G)"
+SA-606,Integrated Amplifier,ACG-001,ACG-001,"Ceramic 0.01 250V (S,S/G)"
+SA-606,Integrated Amplifier,ACG-001,ACG-001,"Ceramic 0.01 250V (S,S/G,HG)"
+SA-606,Integrated Amplifier,ACT-117,ACT-117,Variable resistor 100kΩ (BASS)
+SA-606,Integrated Amplifier,ACT-117,ACT-117,Variable resistor 100kΩ (TREBLE)
+SA-606,Integrated Amplifier,ACT-118,ACT-118,Variable resistor 500kΩ-HB (BALANCE)
+SA-606,Integrated Amplifier,ACV-184,ACV-184,Variable resistor 250kΩ (VOLUME)
+SA-606,Integrated Amplifier,ADG-016,ADG-016,"AC power cord (S,S/G)"
+SA-606,Integrated Amplifier,AEC-099,AEC-099,Cover (for C1 - HG)
+SA-606,Integrated Amplifier,AEC-099,AEC-099,"Cover (for C1 - S,S/G)"
+SA-606,Integrated Amplifier,AEC-099,AEC-099,"Cover (for C2 - S,S/G)"
+SA-606,Integrated Amplifier,AEK-018,AEK-018,Fuse 1.25A (HG)
+SA-606,Integrated Amplifier,AEK-101,AEK-101,"Fuse 3A (S,S/G)"
+SA-606,Integrated Amplifier,AEK-101,AEK-101,"Fuse 3A (S,S/G)"
+SA-606,Integrated Amplifier,AEK-103,AEK-103,"Fuse 2A (S,S/G)"
+SA-606,Integrated Amplifier,AEK-103,AEK-103,"Fuse 2A (S,S/G)"
+SA-606,Integrated Amplifier,AEK-408,AEK-408,Fuse 160mA (HG)
+SA-606,Integrated Amplifier,AEL-101,AEL-101,Lamp (with in power meter)
+SA-606,Integrated Amplifier,AEL-101,AEL-101,Lamp (with in power meter)
+SA-606,Integrated Amplifier,AEL-307,AEL-307,LED (Peak indicator)
+SA-606,Integrated Amplifier,AEL-307,AEL-307,LED (Peak indicator)
+SA-606,Integrated Amplifier,AEL-308,AEL-308,LED (Power indicator)
+SA-606,Integrated Amplifier,AHD-536,AHD-536,Packing case (S)
+SA-606,Integrated Amplifier,AHD-537,AHD-537,Packing case (S/G)
+SA-606,Integrated Amplifier,AHD-538,AHD-538,Packing case (HG)
+SA-606,Integrated Amplifier,AKB-028,AKB-028,Terminal (INPUT)
+SA-606,Integrated Amplifier,AKB-045,AKB-045,Terminal (TAPE)
+SA-606,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-606,Integrated Amplifier,AKE-031,AKE-031,Terminal (GND)
+SA-606,Integrated Amplifier,AKP-005,AKP-005,AC socket (AC OUTLETS)
+SA-606,Integrated Amplifier,AKP-008,AKP-008,Recessed plug (AC INLET - HG)
+SA-606,Integrated Amplifier,AKP-020,AKP-020,"AC socket (AC OUTLET - S,S/G)"
+SA-606,Integrated Amplifier,AKR-031,AKR-031,"Plug in selector with fuse holder (S,S/G)"
+SA-606,Integrated Amplifier,AKR-032,AKR-032,Fuse holder
+SA-606,Integrated Amplifier,AKX-037,AKX-037,Plug in selector (HG)
+SA-606,Integrated Amplifier,ANB-590,ANB-590,Front panel assembly (HG)
+SA-606,Integrated Amplifier,ANB-590,ANB-590,"Front panel assembly (S,S/G)"
+SA-606,Integrated Amplifier,ANE-195,ANE-195,Top cover (HG)
+SA-606,Integrated Amplifier,ANE-195,ANE-195,"Top cover (S,S/G)"
+SA-606,Integrated Amplifier,ARB-258,ARB-258,"Operating instructions SA-606 (ENGLISH - S,S/G,HG)"
+SA-606,Integrated Amplifier,ARD-119,ARD-119,Operating instructions SA-606 (GERMAN/FRENCH - HG)
+SA-606,Integrated Amplifier,ASA-505,ASA-505,Lever switch (POWER - HG)
+SA-606,Integrated Amplifier,ASB-051,ASB-051,Rotary switch (SPEAKERS)
+SA-606,Integrated Amplifier,ASD-071,ASD-071,Rotary switch (FUNCTION)
+SA-606,Integrated Amplifier,ASK-097,ASK-097,"Lever switch (POWER - S,S/G)"
+SA-606,Integrated Amplifier,ASK-122,ASK-122,Lever switch (LOUDNESS)
+SA-606,Integrated Amplifier,ASK-122,ASK-122,Lever switch (TAPE MONITOR)
+SA-606,Integrated Amplifier,ATT-485,ATT-485,"Power transformer (S,S/G)"
+SA-606,Integrated Amplifier,ATT-486,ATT-486,Power transformer (HG)
+SA-606,Integrated Amplifier,ATT-488,ATT-488,"Power transformer (S,S/G)"
+SA-606,Integrated Amplifier,ATT-489,ATT-489,Power transformer (HG)
+SA-606,Integrated Amplifier,AWX-135,AWX-135,"Tone and indicator assembly (S,S/G,HG)"
+SA-606,Integrated Amplifier,AWX-137,AWX-137,DIN connector assembly (HG)
+SA-606,Integrated Amplifier,GWK-110,GWK-110,"AF assembly (S,S/G,HG)"
+SA-606,Integrated Amplifier,GWX-152,GWX-152,"Input terminal assembly (S,S/G,HG)"
+SA-606,Integrated Amplifier,GWX-153,GWX-153,"Volume assembly (S,S/G,HG)"
+SA-606,Integrated Amplifier,GWX-154,GWX-154,lnput terminal assembly
+SA-606,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-606,Integrated Amplifier,K91-008,K91-008,Fuse holder 1P (HG)
+SA-606,Integrated Amplifier,N/A,N/A,Service manual SA-606
+SA-6500,Integrated Amplifier,AAB-105,AAB-105,Knob (VOLUME)
+SA-6500,Integrated Amplifier,AAB-106,AAB-106,Knob (BASS)
+SA-6500,Integrated Amplifier,AAB-106,AAB-106,Knob (FUNCTION)
+SA-6500,Integrated Amplifier,AAB-106,AAB-106,Knob (SPEAKERS)
+SA-6500,Integrated Amplifier,AAB-106,AAB-106,Knob (TREBLE)
+SA-6500,Integrated Amplifier,AAB-107,AAB-107,Knob (BALANCE)
+SA-6500,Integrated Amplifier,AAD-115,AAD-115,Knob (LOUDNESS)
+SA-6500,Integrated Amplifier,AAD-115,AAD-115,Knob (POWER)
+SA-6500,Integrated Amplifier,AAD-115,AAD-115,Knob (TAPE MONITOR 1)
+SA-6500,Integrated Amplifier,AAD-115,AAD-115,Knob (TAPE MONITOR 2)
+SA-6500,Integrated Amplifier,AAD-115,AAD-115,Knob (TONE)
+SA-6500,Integrated Amplifier,ACH-058,ACH-058,"Electrolytic capacitor 8,200uF 35V"
+SA-6500,Integrated Amplifier,ACV-135,ACV-135,Variable 250k-HB (BALANCE)
+SA-6500,Integrated Amplifier,ACV-143,ACV-143,Variable resistor 100kΩ-A (BASS)
+SA-6500,Integrated Amplifier,ACV-143,ACV-143,Variable resistor 100kΩZ-A (TREBLE)
+SA-6500,Integrated Amplifier,ACV-154,ACV-154,Variable resistor 100kΩZ-A (VOLUME)
+SA-6500,Integrated Amplifier,AEK-100,AEK-100,Fuse 4A (Primary)
+SA-6500,Integrated Amplifier,AEK-106,AEK-106,Fuse 1A (Secondary)
+SA-6500,Integrated Amplifier,AEK-108,AEK-108,Fuse 5A  (Secondary)
+SA-6500,Integrated Amplifier,AEK-108,AEK-108,Fuse 5A (Secondary)
+SA-6500,Integrated Amplifier,AEL-047,AEL-047,"Lamp with wire (8V, 50rnA)"
+SA-6500,Integrated Amplifier,AKB-030,AKB-030,Input-output terminal
+SA-6500,Integrated Amplifier,AKB-030,AKB-030,Input-output terminal (4P)
+SA-6500,Integrated Amplifier,AKB-033,AKB-033,Input terminal (GP)
+SA-6500,Integrated Amplifier,AKE-026,AKE-026,Speaker output terminal
+SA-6500,Integrated Amplifier,AKP-004,AKP-004,AC outlet socket
+SA-6500,Integrated Amplifier,ANB-389,ANB-389,Front panel assembly
+SA-6500,Integrated Amplifier,ASB-021,ASB-021,Rotary switch (SPEAKERS)
+SA-6500,Integrated Amplifier,ASB-050,ASB-050,Rotary switch (FUNCTION)
+SA-6500,Integrated Amplifier,ASK-065,ASK-065,Lever switch (POWER)
+SA-6500,Integrated Amplifier,ASK-089,ASK-089,Lever switch (LOUDNESS)
+SA-6500,Integrated Amplifier,ASK-089,ASK-089,Lever switch (TONE)
+SA-6500,Integrated Amplifier,ASK-092,ASK-092,Lever switch (TAPE MONITOR 1)
+SA-6500,Integrated Amplifier,ASK-092,ASK-092,Lever switch (TAPE MONITOR 2)
+SA-6500,Integrated Amplifier,ATT-285,ATT-285,Power transformer
+SA-6500,Integrated Amplifier,AWK-052,AWK-052,AF Amplifier Assembly
+SA-6500,Integrated Amplifier,AWK-052,AWK-052,AF assembly assembly
+SA-6500,Integrated Amplifier,K72-020,K72-020,Mic. jack
+SA-6500,Integrated Amplifier,K72-026,K72-026,Phones jack
+SA-6500,Integrated Amplifier,K93-003,K93-003,Connector socket (5p DIN type)
+SA-6500II,Integrated Amplifier,AAB-144,AAB-144,Knob (VOLUME)
+SA-6500II,Integrated Amplifier,AAB-145,AAB-145,Knob (BASS)
+SA-6500II,Integrated Amplifier,AAB-145,AAB-145,Knob (FUNCTION)
+SA-6500II,Integrated Amplifier,AAB-145,AAB-145,Knob (SPEAKERS)
+SA-6500II,Integrated Amplifier,AAB-145,AAB-145,Knob (TREBLE)
+SA-6500II,Integrated Amplifier,AAB-146,AAB-146,Knob (BALANCE)
+SA-6500II,Integrated Amplifier,AAD-115,AAD-115,Knob (LOUDNESS)
+SA-6500II,Integrated Amplifier,AAD-115,AAD-115,Knob (POWER)
+SA-6500II,Integrated Amplifier,AAD-115,AAD-115,Knob (TAPE MONITOR 1)
+SA-6500II,Integrated Amplifier,AAD-115,AAD-115,Knob (TAPE MONITOR 2)
+SA-6500II,Integrated Amplifier,AAD-115,AAD-115,Knob (TONE)
+SA-6500II,Integrated Amplifier,ACG-003,ACG-003,Ceramic 0.01 125V
+SA-6500II,Integrated Amplifier,ACG-003,ACG-003,Ceramic 0.01 125V
+SA-6500II,Integrated Amplifier,ACH-073,ACH-073,"Electrolytic capacitor 6,800uF 42V"
+SA-6500II,Integrated Amplifier,ACV-135,ACV-135,Variable 250k-HB (BALANCE)
+SA-6500II,Integrated Amplifier,ACV-143,ACV-143,Variable resistor 100kΩ-A (BASS)
+SA-6500II,Integrated Amplifier,ACV-143,ACV-143,Variable resistor 100kΩ-A (TREBLE)
+SA-6500II,Integrated Amplifier,ACV-154,ACV-154,Variable resistor 100kΩ-A (VOLUME)
+SA-6500II,Integrated Amplifier,ADG-005,ADG-005,AC cord
+SA-6500II,Integrated Amplifier,AEK-100,AEK-100,Fuse (Primary) 4A
+SA-6500II,Integrated Amplifier,AEK-106,AEK-106,Fuse (Secondary) 1A
+SA-6500II,Integrated Amplifier,AEK-108,AEK-108,Fuse (Secondary) 5A
+SA-6500II,Integrated Amplifier,AEK-108,AEK-108,Fuse (Secondary) 5A
+SA-6500II,Integrated Amplifier,AEL-047,AEL-047,"Lamp with wire (8V, 50mA)"
+SA-6500II,Integrated Amplifier,AEL-047,AEL-047,Lamp with wire 8V 50mA
+SA-6500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE 1)
+SA-6500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE 2)
+SA-6500II,Integrated Amplifier,AKB-043,AKB-043,Terminal (INPUT)
+SA-6500II,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-6500II,Integrated Amplifier,AKP-004,AKP-004,AC outlet socket
+SA-6500II,Integrated Amplifier,ANB-492,ANB-492,Front panel assembly
+SA-6500II,Integrated Amplifier,ASB-021,ASB-021,Rotary switch (SPEAKERS)
+SA-6500II,Integrated Amplifier,ASB-050,ASB-050,Rotary switch (FUNCTION)
+SA-6500II,Integrated Amplifier,ASK-065,ASK-065,Lever switch (POWER)
+SA-6500II,Integrated Amplifier,ASK-089,ASK-089,Lever switch (LOUDNESS)
+SA-6500II,Integrated Amplifier,ASK-089,ASK-089,Lever switch (TONE)
+SA-6500II,Integrated Amplifier,ASK-092,ASK-092,Lever switch (TAPE MONITOR 1)
+SA-6500II,Integrated Amplifier,ASK-092,ASK-092,Lever switch (TAPE MONITOR 2)
+SA-6500II,Integrated Amplifier,ATT-398,ATT-398,Power transformer
+SA-6500II,Integrated Amplifier,AWK-083,AWK-083,AF assembly
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-6500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-6500II,Integrated Amplifier,K72-026,K72-026,Phones jack
+SA-6700,Integrated Amplifier,2SB618A-R or Q,2SB618A-R or Q,Transistor
+SA-6700,Integrated Amplifier,2SB618A-R or Q,2SB618A-R or Q,Transistor
+SA-6700,Integrated Amplifier,2SD588A-R or Q,2SD588A-R or Q,Transistor
+SA-6700,Integrated Amplifier,2SD588A-R or Q,2SD588A-R or Q,Transistor
+SA-6700,Integrated Amplifier,AAB-178,AAB-178,Knob (VOLUME)
+SA-6700,Integrated Amplifier,AAB-179,AAB-179,Knob (BASS)
+SA-6700,Integrated Amplifier,AAB-180,AAB-180,Knob (FUNCTION)
+SA-6700,Integrated Amplifier,AAB-180,AAB-180,Knob (SPEAKERS)
+SA-6700,Integrated Amplifier,AAD-129,AAD-129,"Lever knob assembly (LOUDNESS,TAPE MONITOR)"
+SA-6700,Integrated Amplifier,AAD-129,AAD-129,Lever knob assembly (POWER)
+SA-6700,Integrated Amplifier,AAT-483,AAT-483,Power transformer
+SA-6700,Integrated Amplifier,AAW-069,AAW-069,Power meter
+SA-6700,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V
+SA-6700,Integrated Amplifier,ACG-003,ACG-003,Ceramic 0.01 125V
+SA-6700,Integrated Amplifier,ACG-014,ACG-014,Ceramic 0.01 125V (KC)
+SA-6700,Integrated Amplifier,ACG-014,ACG-014,Ceramic 0.01 125V (KC)
+SA-6700,Integrated Amplifier,ACT-117,ACT-117,Variable resistor 100kΩ (BASS)
+SA-6700,Integrated Amplifier,ACT-117,ACT-117,Variable resistor 100kΩ (TREBLE)
+SA-6700,Integrated Amplifier,ACT-118,ACT-118,Variable resistor 500kΩ-HB (BALANCE)
+SA-6700,Integrated Amplifier,ACV-184,ACV-184,Variable resistor 250kΩ (VOLUME)
+SA-6700,Integrated Amplifier,ADG-005,ADG-005,AC power cord
+SA-6700,Integrated Amplifier,AEC-355,AEC-355,Cover for C1 (KC)
+SA-6700,Integrated Amplifier,AEC-365,AEC-365,Cover for C2 (KC)
+SA-6700,Integrated Amplifier,AEK-101,AEK-101,Fuse 3A
+SA-6700,Integrated Amplifier,AEK-408,AEK-408,Fuse 160mA (KC)
+SA-6700,Integrated Amplifier,AEL-101,AEL-101,Lamp (with in power meter)
+SA-6700,Integrated Amplifier,AEL-101,AEL-101,Lamp (with in power meter)
+SA-6700,Integrated Amplifier,AEL-307,AEL-307,LED (Peak indicator)
+SA-6700,Integrated Amplifier,AEL-307,AEL-307,LED (Peak indicator)
+SA-6700,Integrated Amplifier,AEL-308,AEL-308,LED (Power indicator)
+SA-6700,Integrated Amplifier,AHD-535,AHD-535,Packing case (KC)
+SA-6700,Integrated Amplifier,AKB-028,AKB-028,Terminal (INPUT)
+SA-6700,Integrated Amplifier,AKB-045,AKB-045,Terminal (TAPE)
+SA-6700,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-6700,Integrated Amplifier,AKE-031,AKE-031,Terminal (GND)
+SA-6700,Integrated Amplifier,AKP-005,AKP-005,AC socket (AC OUTLETS)
+SA-6700,Integrated Amplifier,AKR-032,AKR-032,Fuse holder
+SA-6700,Integrated Amplifier,ANB-589,ANB-589,Front panel assembly
+SA-6700,Integrated Amplifier,ASB-051,ASB-051,Rotary switch (SPEAKERS)
+SA-6700,Integrated Amplifier,ASD-071,ASD-071,Rotary switch (FUNCTION)
+SA-6700,Integrated Amplifier,ASK-066,ASK-066,Lever switch (POWER)
+SA-6700,Integrated Amplifier,ASK-122,ASK-122,Lever switch (LOUDNESS)
+SA-6700,Integrated Amplifier,ASK-122,ASK-122,Lever switch (TAPE MONITOR)
+SA-6700,Integrated Amplifier,ATT-483,ATT-483,Power transformer (KU)
+SA-6700,Integrated Amplifier,ATT-484,ATT-484,Power transformer (KC)
+SA-6700,Integrated Amplifier,ATT-487,ATT-487,Power transformer
+SA-6700,Integrated Amplifier,AWX-136,AWX-136,Tone and indicator assembly
+SA-6700,Integrated Amplifier,GWK-111,GWK-111,AF assembly
+SA-6700,Integrated Amplifier,GWX-154,GWX-154,lnput terminal assembly
+SA-6700,Integrated Amplifier,GWX-155,GWX-155,Volume assembly
+SA-6700,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-6700,Integrated Amplifier,K91-008,K91-008,Fuse holder 1P for FU2 (KC)
+SA-6700,Integrated Amplifier,N/A,N/A,Operating instructions SA-6700
+SA-6700,Integrated Amplifier,N/A,N/A,Service manual SA-6700
+SA-6800/608,Integrated Amplifier,2SB705A-R,2SB705A,Transistor
+SA-6800/608,Integrated Amplifier,2SB705A-R,2SB705A,Transistor
+SA-6800/608,Integrated Amplifier,2SD745A-R,2SD745A,Transistor
+SA-6800/608,Integrated Amplifier,2SD745A-R,2SD745A,Transistor
+SA-6800/608,Integrated Amplifier,AAB-202,AAB-202,Knob (Volume)
+SA-6800/608,Integrated Amplifier,AAB-203,AAB-203,Knob (Function)
+SA-6800/608,Integrated Amplifier,AAB-204,AAB-204,Knob (Balance)
+SA-6800/608,Integrated Amplifier,AAB-204,AAB-204,Knob (Bass)
+SA-6800/608,Integrated Amplifier,AAB-204,AAB-204,Knob (Speakers)
+SA-6800/608,Integrated Amplifier,AAB-204,AAB-204,Knob (Treble)
+SA-6800/608,Integrated Amplifier,AAD-183,AAD-183,Knob (Loudness)
+SA-6800/608,Integrated Amplifier,AAD-183,AAD-183,Knob (Power)
+SA-6800/608,Integrated Amplifier,AAD-183,AAD-183,Knob (Subsonic)
+SA-6800/608,Integrated Amplifier,AAD-183,AAD-183,Knob (Tape Monitor 1)
+SA-6800/608,Integrated Amplifier,AAD-183,AAD-183,Knob (Tape Monitor 2)
+SA-6800/608,Integrated Amplifier,AAD-183,AAD-183,Knob (Tone)
+SA-6800/608,Integrated Amplifier,AAV-004,AAV-004,Fluorescent indicator tube
+SA-6800/608,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor
+SA-6800/608,Integrated Amplifier,ACH-082,ACH-082,"Electrolytic 8,000uF 50V"
+SA-6800/608,Integrated Amplifier,ACH-082,ACH-082,"Electrolytic 8,000uF 50V"
+SA-6800/608,Integrated Amplifier,ACT-117,ACT-117,Variable resistor (BASS)
+SA-6800/608,Integrated Amplifier,ACT-117,ACT-117,Variable resistor (TREBLE)
+SA-6800/608,Integrated Amplifier,ACT-118,ACT-118,Variable resistor (BALANCE)
+SA-6800/608,Integrated Amplifier,ACV-184,ACV-184,Variable resistor (VOLUME)
+SA-6800/608,Integrated Amplifier,ADG-023,ADG-023,AC powercord
+SA-6800/608,Integrated Amplifier,AEK-100,AEK-100,Fuse 4A
+SA-6800/608,Integrated Amplifier,AHA-188,AHA-188,Side pad  (SA-6800)
+SA-6800/608,Integrated Amplifier,AHA-189,AHA-189,Side pad  (SA-608)
+SA-6800/608,Integrated Amplifier,AHD-691,AHD-691,Packing case  (SA-6800)
+SA-6800/608,Integrated Amplifier,AHD-707,AHD-707,Packing case  (SA-608)
+SA-6800/608,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-6800/608,Integrated Amplifier,AKN-023,AKN-023,Phone jack (PHONES)
+SA-6800/608,Integrated Amplifier,AKP-032,AKP-032,AC socket (AC OUTLETS)
+SA-6800/608,Integrated Amplifier,AMS-023,AMS-023,Top cover  (SA-6800)
+SA-6800/608,Integrated Amplifier,AMS-024,AMS-024,Side cover (L)  (SA-6800)
+SA-6800/608,Integrated Amplifier,AMS-025,AMS-025,Side cover (R)  (SA-6800)
+SA-6800/608,Integrated Amplifier,ANB-735,ANB-735,Front panel assembly  (SA-6800)
+SA-6800/608,Integrated Amplifier,ANB-758,ANB-758,Front panel assembly  (SA-608)
+SA-6800/608,Integrated Amplifier,ANE-250,ANE-250,Bonnet cover  (SA-608)
+SA-6800/608,Integrated Amplifier,ARB-324,ARB-324,Operating instructions  SA-6800
+SA-6800/608,Integrated Amplifier,ARB-333,ARB-333,Operating instructions  SA-608
+SA-6800/608,Integrated Amplifier,ASB-051,ASB-051,Rotary switch (SPEAKERS)
+SA-6800/608,Integrated Amplifier,ASE-110,ASE-110,Slide rotary switch (FUNCTION)
+SA-6800/608,Integrated Amplifier,ASK-155,ASK-155,Lever switch (LOUDNESS)
+SA-6800/608,Integrated Amplifier,ASK-155,ASK-155,Lever switch (SUBSONIC)
+SA-6800/608,Integrated Amplifier,ASK-155,ASK-155,Lever switch (TONE)
+SA-6800/608,Integrated Amplifier,ASK-156,ASK-156,Lever switch (TAPE MONITOR 1)
+SA-6800/608,Integrated Amplifier,ASK-156,ASK-156,Lever switch (TAPE MONITOR 2)
+SA-6800/608,Integrated Amplifier,ASK-514,ASK-514,Lever switch (POWER)
+SA-6800/608,Integrated Amplifier,ATT-605,ATT-605,Power transformer
+SA-6800/608,Integrated Amplifier,AWV-004,AWV-004,Indicator assembly
+SA-6800/608,Integrated Amplifier,GWF-122,GWF-122,EQ assembly
+SA-6800/608,Integrated Amplifier,GWK-127,GWK-127,AF assembly
+SA-6800/608,Integrated Amplifier,GWX-320,GWX-320,Terminal assembly
+SA-6800/608,Integrated Amplifier,GWX-321,GWX-321,Switch assembly
+SA-6800/608,Integrated Amplifier,GWX-322,GWX-322,Volume assembly
+SA-6800/608,Integrated Amplifier,GWX-344,GWX-344,Fuse assembly
+SA-6800/608,Integrated Amplifier,GWX-345,GWX-345,Headphone assembly
+SA-700,Integrated Amplifier,A12-120-A,A12-120,"Knob, Selector, Volume, Bass,Treble, Output Selector"
+SA-700,Integrated Amplifier,A12-141-0,A12-141,"Knob, Mode, Balance"
+SA-700,Integrated Amplifier,A62-045-0,A62-045,Lens for Pilot Lamp
+SA-700,Integrated Amplifier,B11-005-A,B11-005,"Screw, to Fix Metal Cover"
+SA-700,Integrated Amplifier,C85-048-0,C85-048,"500k, Dual, Balance"
+SA-700,Integrated Amplifier,C85-054-0,C85-054,"500K, Dual, Volume"
+SA-700,Integrated Amplifier,E21-004-0,E21-004,Fuse 1A
+SA-700,Integrated Amplifier,E21-005-0,E21-005,Fuse 2A
+SA-700,Integrated Amplifier,E22-021-0,E22-021,Pilot Lamp
+SA-700,Integrated Amplifier,K21-005-C,K21-005,Terminal 1P
+SA-700,Integrated Amplifier,K21-010-0,K21-010,Terminal 4P
+SA-700,Integrated Amplifier,K22-013-C,K22-013,Terminal 6P
+SA-700,Integrated Amplifier,K42-003-0,K42-003,Pilot Lamp Socket
+SA-700,Integrated Amplifier,K72-021-C,K72-021,Headphone Jack
+SA-700,Integrated Amplifier,K82-007-B,K82-007,Spare A.C Outlet
+SA-700,Integrated Amplifier,K91-005-0,K91-005,Fuse Holder
+SA-700,Integrated Amplifier,K93-003-B,K93-003,Connector 5 (DIN Type)
+SA-700,Integrated Amplifier,M21-273-A,M21-273,Front Panel
+SA-700,Integrated Amplifier,M33-114-A,M33-114,Metal Cover
+SA-700,Integrated Amplifier,M61-017-0,M61-017,Foot
+SA-700,Integrated Amplifier,N/A,N/A,Operating Instructions SA-700
+SA-700,Integrated Amplifier,R12-025-B,R12-025,Service Manual SA-700
+SA-700,Integrated Amplifier,S11-018-0,S11-018,Line Voltage Selector
+SA-700,Integrated Amplifier,S11-022-A,S11-022,Output Selector
+SA-700,Integrated Amplifier,S13-024-0,S13-024,Input Selector
+SA-700,Integrated Amplifier,S14-025-0,S14-025,Slide Switch
+SA-700,Integrated Amplifier,S14-035-0,S14-035,Mode Switch
+SA-700,Integrated Amplifier,S16-046-0,S16-046,Tone Control Switch
+SA-700,Integrated Amplifier,S16-047-0,S16-047,Tone Control Switch
+SA-700,Integrated Amplifier,S31-018-0,S31-018,Push Switch
+SA-700,Integrated Amplifier,T52-150-C,T52-150,Power Transformer
+SA-700,Integrated Amplifier,W15-049-0,W15-049,Head Amp Unit
+SA-700,Integrated Amplifier,W15-050-A,W15-050,Control Amp Unit
+SA-700,Integrated Amplifier,W15-060C,W15-060C,Main Amp Unit
+SA-700,Integrated Amplifier,W15-068-0,W15-068,MC Amp Unit
+SA-700,Integrated Amplifier,W15-070-0,W15-070,Push Switch Unit
+SA-700,Integrated Amplifier,W16-018-0,W16-018,Power Supply Unit
+SA-706,Integrated Amplifier,2SB701S-B or C,2SB701S-B or C,Transistor
+SA-706,Integrated Amplifier,2SB701S-B or C,2SB701S-B or C,Transistor
+SA-706,Integrated Amplifier,2SD737S-B or C,2SD737S-B or C,Transistor
+SA-706,Integrated Amplifier,2SD737S-B or C,2SD737S-B or C,Transistor
+SA-706,Integrated Amplifier,AAB-178,AAB-178,Knob (VOLUME)
+SA-706,Integrated Amplifier,AAB-179,AAB-179,"Knob (BASS, TREBLE)"
+SA-706,Integrated Amplifier,AAB-180,AAB-180,"Knob (BALANCE, FUNCTION)"
+SA-706,Integrated Amplifier,AAB-180,AAB-180,Knob (SPEAKERS)
+SA-706,Integrated Amplifier,AAD-129,AAD-129,"Knob (LOUDNESS, TAPE MONITOR,DUPLICATE)"
+SA-706,Integrated Amplifier,AAD-129,AAD-129,Knob (POWER)
+SA-706,Integrated Amplifier,AAW-087,AAW-087,Meter (WATTS/8Ω - HG)
+SA-706,Integrated Amplifier,AAW-087,AAW-087,"Meter (WATTS/8Ω) - S,S/G)"
+SA-706,Integrated Amplifier,ABA-079,ABA-079,Screw (for Top cover - HG)
+SA-706,Integrated Amplifier,ABA-079,ABA-079,"Screw (for Top cover - S,S/G)"
+SA-706,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V (HG)
+SA-706,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V (S)
+SA-706,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V (S)
+SA-706,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V (S/G)
+SA-706,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V (S/G)
+SA-706,Integrated Amplifier,ACH-083,ACH-083,"Electrolytic 12,000 63V"
+SA-706,Integrated Amplifier,ACH-083,ACH-083,"Electrolytic 12,000 83V"
+SA-706,Integrated Amplifier,ACT-117,ACT-117,"Variable resistor (BASS, TREBLE)"
+SA-706,Integrated Amplifier,ACT-118,ACT-118,Variable resistor (BALANCE)
+SA-706,Integrated Amplifier,ACV-184,ACV-184,Variable resistor (VOLUME)
+SA-706,Integrated Amplifier,ADG-016,ADG-016,"AC power cord (S,S/G)"
+SA-706,Integrated Amplifier,AEC-099,AEC-099,Capacitor cover (for C1 - HG)
+SA-706,Integrated Amplifier,AEC-099,AEC-099,"Capacitor cover (for C1 - S,S/G)"
+SA-706,Integrated Amplifier,AEC-099,AEC-099,"Capacitor cover (for C2 - S,S/G)"
+SA-706,Integrated Amplifier,AEK-102,AEK-102,"Fuse (2.5A - S,S/G)"
+SA-706,Integrated Amplifier,AEK-102,AEK-102,"Fuse (2.5A for 220V/240V - S,S/G)"
+SA-706,Integrated Amplifier,AEK-107,AEK-107,Fuse (0.5A)
+SA-706,Integrated Amplifier,AEK-107,AEK-107,"Fuse (500mA - S,S/G)"
+SA-706,Integrated Amplifier,AEK-108,AEK-108,"Fuse (5A - S,S/G)"
+SA-706,Integrated Amplifier,AEK-108,AEK-108,"Fuse (5A, for 110V/120V - S,S/G)"
+SA-706,Integrated Amplifier,AEK-401,AEK-401,Fuse (500rnA - HG)
+SA-706,Integrated Amplifier,AEK-403,AEK-403,Fuse (2.5A for 220V/240V - HG)
+SA-706,Integrated Amplifier,AEK-408,AEK-408,Fuse (160mA - HG)
+SA-706,Integrated Amplifier,AEL-101,AEL-101,"Lamp 8V, 55mA (for meter)"
+SA-706,Integrated Amplifier,AEL-307,AEL-307,LED (PEAK indicator)
+SA-706,Integrated Amplifier,AEL-307,AEL-307,LED (PEAK indicator)
+SA-706,Integrated Amplifier,AEL-308,AEL-308,LED (POWER indicator)
+SA-706,Integrated Amplifier,AHD-530,AHD-530,Packing case (S)
+SA-706,Integrated Amplifier,AHD-531,AHD-531,Packing case (S/G)
+SA-706,Integrated Amplifier,AHD-532,AHD-532,Packing case (HG)
+SA-706,Integrated Amplifier,AKB-028,AKB-028,Terminal (INPUT)
+SA-706,Integrated Amplifier,AKB-045,AKB-045,Terminal (TAPE 1)
+SA-706,Integrated Amplifier,AKB-045,AKB-045,Terminal (TAPE 2)
+SA-706,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-706,Integrated Amplifier,AKE-031,AKE-031,Terminal (GND)
+SA-706,Integrated Amplifier,AKP-008,AKP-008,Recessed plug (AC INLET) (HG)
+SA-706,Integrated Amplifier,AKP-020,AKP-020,"AC socket (AC OUTLETS - S,S/G)"
+SA-706,Integrated Amplifier,AKR-031,AKR-031,Plug in selector with fuse holder (S)
+SA-706,Integrated Amplifier,AKR-031,AKR-031,Plug in selector with fuse holder (S/G)
+SA-706,Integrated Amplifier,AKR-032,AKR-032,Fuse holder 1P
+SA-706,Integrated Amplifier,AKX-037,AKX-037,Plug in selector (HG)
+SA-706,Integrated Amplifier,AMS-026,AMS-026,Top plate assembly
+SA-706,Integrated Amplifier,AMS-027,AMS-027,Side panel L
+SA-706,Integrated Amplifier,AMS-028,AMS-028,Side panel R
+SA-706,Integrated Amplifier,ANB-591,ANB-591,Front panel assembly
+SA-706,Integrated Amplifier,ANB-592,ANB-592,Front panel assembly (HG)
+SA-706,Integrated Amplifier,ANB-592,ANB-592,"Front panel assembly (S,S/G)"
+SA-706,Integrated Amplifier,ANE-196,ANE-196,Top cover (HG)
+SA-706,Integrated Amplifier,ANE-196,ANE-196,"Top cover (S,S/G)"
+SA-706,Integrated Amplifier,ARB-261,ARB-261,"Operating instructions SA-706 (English -S,S/G,HG)"
+SA-706,Integrated Amplifier,ARD-120,ARD-120,Operating instructions SA-706 (German/French - HG)
+SA-706,Integrated Amplifier,ASA-505,ASA-505,Lever switch (POWER - HG)
+SA-706,Integrated Amplifier,ASB-051,ASB-051,Rotary switch (SPEAKERS)
+SA-706,Integrated Amplifier,ASD-071,ASD-071,Rotary switch (FUNCTION)
+SA-706,Integrated Amplifier,ASH-015,ASH-015,Slide switch (INTERFERENCE FILTER)
+SA-706,Integrated Amplifier,ASK-066,ASK-066,Lever switch (POWER)
+SA-706,Integrated Amplifier,ASK-097,ASK-097,Lever switch (POWER - S)
+SA-706,Integrated Amplifier,ASK-097,ASK-097,Lever switch (POWER - S/G)
+SA-706,Integrated Amplifier,ASK-122,ASK-122,"Lever switch (TAPE MONITOR 1, 2, LOUDNESS)"
+SA-706,Integrated Amplifier,ASK-123,ASK-123,Lever switch (DUPLICATE)
+SA-706,Integrated Amplifier,ATT-492,ATT-492,"Power transformer (S,S/G)"
+SA-706,Integrated Amplifier,ATT-493,ATT-493,Power transformer (HG)
+SA-706,Integrated Amplifier,ATT-494,ATT-494,Power transformer
+SA-706,Integrated Amplifier,ATT-495,ATT-495,"Power transformer (S,S/G)"
+SA-706,Integrated Amplifier,ATT-496,ATT-496,Power transformer (HG)
+SA-706,Integrated Amplifier,AWX-137,AWX-137,DIN connector assembly (HG)
+SA-706,Integrated Amplifier,GWK-112,GWK-112,AF assembly (HG)
+SA-706,Integrated Amplifier,GWK-115,GWK-115,"AF assembly (S,S/G)"
+SA-706,Integrated Amplifier,GWX-160,GWX-160,VR assembly (HG)
+SA-706,Integrated Amplifier,GWX-161,GWX-161,Terminal assembly (HG)
+SA-706,Integrated Amplifier,GWX-162,GWX-162,RFI switch assembly (HG)
+SA-706,Integrated Amplifier,GWX-163,GWX-163,Tone & Indicator assembly (HG)
+SA-706,Integrated Amplifier,GWX-170,GWX-170,"VR assembly (S,S/G)"
+SA-706,Integrated Amplifier,GWX-171,GWX-171,"Terminal assembly (S,S/G)"
+SA-706,Integrated Amplifier,GWX-172,GWX-172,"RFI switch assembly (S,S/G)"
+SA-706,Integrated Amplifier,GWX-173,GWX-173,"Tone & Indicator assembly (S,S/G)"
+SA-706,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-706,Integrated Amplifier,K91-008,K91-008,Fuse holder 1P (HG)
+SA-706,Integrated Amplifier,N/A,N/A,Service manual SA-706
+SA-708,Integrated Amplifier,2SA1075/A/-G,2SA1075/A/,Transistor
+SA-708,Integrated Amplifier,2SC2525/A/-G,2SC2525/A/,Transistor
+SA-708,Integrated Amplifier,AAB-202,AAB-202,Knob (VOLUME)
+SA-708,Integrated Amplifier,AAB-203,AAB-203,Knob (FUNCTION)
+SA-708,Integrated Amplifier,AAB-204,AAB-204,"Knob (BASS, TREBLE, BALANCE)"
+SA-708,Integrated Amplifier,AAB-204,AAB-204,Knob (SPEAKER SELECTOR)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (DUPLICATE)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (LOUDNESS)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (MODE)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (MUTING)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (POWER)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (SUBSONIC)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (TAPE MON)
+SA-708,Integrated Amplifier,AAD-183,AAD-183,Lever knob (TONE)
+SA-708,Integrated Amplifier,AAV-004,AAV-004,Fluorescent indicator tube
+SA-708,Integrated Amplifier,ABN-049,ABN-049,Union nut
+SA-708,Integrated Amplifier,ABN-050,ABN-050,Union nut
+SA-708,Integrated Amplifier,ACT-117,ACT-117,"Variable resistor (BASS, TREBLE)"
+SA-708,Integrated Amplifier,ACT-118,ACT-118,Variable resistor (BALANCE)
+SA-708,Integrated Amplifier,ACV-181,ACV-181,Variable resistor (VOLUME)
+SA-708,Integrated Amplifier,AEC-446,AEC-446,Foot assembly
+SA-708,Integrated Amplifier,AEC-488,AEC-488,Insulator spacer
+SA-708,Integrated Amplifier,AEK-403,AEK-403,Fuse (2.5A)
+SA-708,Integrated Amplifier,AHA-187,AHA-187,Side pad
+SA-708,Integrated Amplifier,AHD-698,AHD-698,Packing case
+SA-708,Integrated Amplifier,AKB-054,AKB-054,Terminal (TAPE 1)
+SA-708,Integrated Amplifier,AKB-054,AKB-054,Terminal (TAPE 2)
+SA-708,Integrated Amplifier,AKB-055,AKB-055,Terminal (lNPUT)
+SA-708,Integrated Amplifier,AKE-038,AKE-038,Terminal (SPEAKERS)
+SA-708,Integrated Amplifier,AKE-038,AKE-038,Terminal (SPEAKERS)
+SA-708,Integrated Amplifier,AKN-023,AKN-023,Phone jack (PHONES)
+SA-708,Integrated Amplifier,AKP-008,AKP-008,Recessed plug (AC lNLET)
+SA-708,Integrated Amplifier,AKP-024,AKP-024,Connector socket
+SA-708,Integrated Amplifier,AKP-026,AKP-026,AC socket (AC OUTLETS)
+SA-708,Integrated Amplifier,ANB-747,ANB-747,Front panel assembly
+SA-708,Integrated Amplifier,ANE-235,ANE-235,Top cover
+SA-708,Integrated Amplifier,ANE-747,ANE-747,Front panel assembly
+SA-708,Integrated Amplifier,ARB-328,ARB-328,Operating instructions  SA-708 (ENGLISH)
+SA-708,Integrated Amplifier,ARD-137,ARD-137,Operating instructions  SA-708 (GERMAN/FRENCH)
+SA-708,Integrated Amplifier,ASD-104,ASD-104,Rotary switch (SPEAKERS)
+SA-708,Integrated Amplifier,ASD-118,ASD-118,Rotary swltch (FUNCTION)
+SA-708,Integrated Amplifier,ASH-015,ASH-015,Slide switch (PHONO INTERFERENCE)
+SA-708,Integrated Amplifier,ASH-023,ASH-023,Relay
+SA-708,Integrated Amplifier,ASK-158,ASK-158,Lever switch (LOUDNESS)
+SA-708,Integrated Amplifier,ASK-158,ASK-158,Lever switch (MODE)
+SA-708,Integrated Amplifier,ASK-158,ASK-158,Lever switch (MUTING)
+SA-708,Integrated Amplifier,ASK-158,ASK-158,Lever switch (SUBSONIC)
+SA-708,Integrated Amplifier,ASK-158,ASK-158,Lever switch (TONE)
+SA-708,Integrated Amplifier,ASK-160,ASK-160,Lever switch (DUPLICATE)
+SA-708,Integrated Amplifier,ASK-160,ASK-160,Lever switch (TAPE MON)
+SA-708,Integrated Amplifier,ASK-515,ASK-515,Lever switch (POWER)
+SA-708,Integrated Amplifier,ATT-603,ATT-603,Power transformer
+SA-708,Integrated Amplifier,AWV-004,AWV-004,lndicator assembly
+SA-708,Integrated Amplifier,GWG-129,GWG-129,Control assembly
+SA-708,Integrated Amplifier,GWG-130,GWG-130,Volume assembly
+SA-708,Integrated Amplifier,GWK-130,GWK-130,AF assembly
+SA-708,Integrated Amplifier,GWS-192,GWS-192,Muting assembly
+SA-708,Integrated Amplifier,GWS-194,GWS-194,Switch assembly
+SA-708,Integrated Amplifier,GWX-333,GWX-333,Tape terminal assembly
+SA-708,Integrated Amplifier,GWX-334,GWX-334,Terminal assembly
+SA-708,Integrated Amplifier,GWX-335,GWX-335,SP switch assembly
+SA-708,Integrated Amplifier,GWX-336,GWX-336,Headphone assembly
+SA-708,Integrated Amplifier,GWX-337,GWX-337,Fuse assembly
+SA-710,Integrated Amplifier,2SA1075A/,2SA1075A/,Transistor
+SA-710,Integrated Amplifier,2SC2525/A,2SC2525/A,Transistor
+SA-710,Integrated Amplifier,AAB-221,AAB-221,Knob (VOLUME)
+SA-710,Integrated Amplifier,AAB-222,AAB-222,Knob (FUNCTION)
+SA-710,Integrated Amplifier,AAB-222,AAB-222,"Knob (SPEAKERS, BASS, TREBLE)"
+SA-710,Integrated Amplifier,AAB-223,AAB-223,Knob (BALANCE)
+SA-710,Integrated Amplifier,AAD-200,AAD-200,"Lever knob (LOUDNESS, TAPE2)"
+SA-710,Integrated Amplifier,AAD-200,AAD-200,Lever knob (POWER)
+SA-710,Integrated Amplifier,AAD-200,AAD-200,"Lever knob (SUBSONIC, TONE, MODE)"
+SA-710,Integrated Amplifier,ACG-001,ACG-001,Capacitor - KU
+SA-710,Integrated Amplifier,ACT-127,ACT-127,"Variable resistor 100k (BASS, TREBLE)"
+SA-710,Integrated Amplifier,ACT-130,ACT-130,Variable resistor 500k (BALANCE)
+SA-710,Integrated Amplifier,ACV-181,ACV-181,Variable resistor 100k (VOLUME)
+SA-710,Integrated Amplifier,ADG-023,ADG-023,AC power cord - KU
+SA-710,Integrated Amplifier,ADG-041,ADG-041,AC power cord - HE
+SA-710,Integrated Amplifier,ADG-051,ADG-051,AC power cord - HB
+SA-710,Integrated Amplifier,AEC-327,AEC-327,Strein relief
+SA-710,Integrated Amplifier,AEK-017,AEK-017,Fuse - HB  (T2A)
+SA-710,Integrated Amplifier,AEK-017,AEK-017,Fuse - HE  (T2A)
+SA-710,Integrated Amplifier,AEK-108,AEK-108,Fuse - KU  (5A)
+SA-710,Integrated Amplifier,AEK-403,AEK-403,Fuse - HE  (T2.5A)
+SA-710,Integrated Amplifier,AEL-320,AEL-320,LED
+SA-710,Integrated Amplifier,AHD-753,AHD-753,Packing case -KU
+SA-710,Integrated Amplifier,AHD-774,AHD-774,Packing case -HB
+SA-710,Integrated Amplifier,AHD-774,AHD-774,Packing case -HE
+SA-710,Integrated Amplifier,AKB-063,AKB-063,Terminal (TAPE 1)
+SA-710,Integrated Amplifier,AKB-063,AKB-063,Terminal (TAPE 2)
+SA-710,Integrated Amplifier,AKB-064,AKB-064,Terminal (INPUT)
+SA-710,Integrated Amplifier,AKE-050,AKE-050,Terminal (SPEAKERS)
+SA-710,Integrated Amplifier,AKN-023,AKN-023,Headphones jack
+SA-710,Integrated Amplifier,AKP-026,AKP-026,AC socket - HE
+SA-710,Integrated Amplifier,AKP-032,AKP-032,AC socket - KU
+SA-710,Integrated Amplifier,AKP-044,AKP-044,AC socket - HB
+SA-710,Integrated Amplifier,ANB-846,ANB-846,Front panel assembly
+SA-710,Integrated Amplifier,ANB-894,ANB-894,Front panel assembly
+SA-710,Integrated Amplifier,ANE-269,ANE-269,Bonnet case
+SA-710,Integrated Amplifier,ARB-353,ARB-353,Operating instructions -KU (English)
+SA-710,Integrated Amplifier,ARB-364,ARB-364,Operating instructions -HB (English)
+SA-710,Integrated Amplifier,ARB-364,ARB-364,Operating instructions -HE (English)
+SA-710,Integrated Amplifier,ARD-146,ARD-146,Operating instructions -HE (German/French)
+SA-710,Integrated Amplifier,ART-477-0,ART-477,Service Manual SA-710
+SA-710,Integrated Amplifier,ASE-003,ASE-003,Slide rotary switch (SPEAKERS)
+SA-710,Integrated Amplifier,ASH-016,ASH-016,Slide switch (PHONO INTERFERENCE)
+SA-710,Integrated Amplifier,ASK-171,ASK-171,Lever switch (LOUDNESS)
+SA-710,Integrated Amplifier,ASK-171,ASK-171,"Lever switch (SUBSONIC, TONE, MODE)"
+SA-710,Integrated Amplifier,ASK-172,ASK-172,Lever switch (TAPE 2)
+SA-710,Integrated Amplifier,ASK-520,ASK-520,Lever switch (POWER) - KU
+SA-710,Integrated Amplifier,ASK-521,ASK-521,Lever switch (POWER) - HB
+SA-710,Integrated Amplifier,ASK-521,ASK-521,Lever switch (POWER) - HE
+SA-710,Integrated Amplifier,ASX-113,ASX-113,Slide rotary switch (FUNCTION)
+SA-710,Integrated Amplifier,ATT-668,ATT-668,Power transformer - KU
+SA-710,Integrated Amplifier,ATT-703,ATT-703,Power transformer - HB
+SA-710,Integrated Amplifier,ATT-703,ATT-703,Power transformer - HE
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (HB Type)
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (HE Type)
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (KU Type)
+SA-710,Integrated Amplifier,GWG-139,GWG-139,Tone control assembly (KU Type)
+SA-710,Integrated Amplifier,GWG-142,GWG-142,Tone control assembly (HB Type)
+SA-710,Integrated Amplifier,GWG-142,GWG-142,Tone control assembly (HE Type)
+SA-710,Integrated Amplifier,GWK-145,GWK-145,AF amplifier assembly (KU Type)
+SA-710,Integrated Amplifier,GWK-152,GWK-152,AF amplifier assembly (HB Type)
+SA-710,Integrated Amplifier,GWK-152,GWK-152,AF amplifier assembly (HE Type)
+SA-710,Integrated Amplifier,GWS-218,GWS-218,Switch assembly - SPEAKERS (KU Type)
+SA-710,Integrated Amplifier,GWS-219,GWS-219,Switch assembly - FUNCTION (KU Type)
+SA-710,Integrated Amplifier,GWS-234,GWS-234,Switch assembly - SPEAKERS (HB Type)
+SA-710,Integrated Amplifier,GWS-234,GWS-234,Switch assembly - SPEAKERS (HE Type)
+SA-710,Integrated Amplifier,GWS-235,GWS-235,Switch assembly - FUNCTION (HB Type)
+SA-710,Integrated Amplifier,GWS-235,GWS-235,Switch assembly - FUNCTION (HE Type)
+SA-710,Integrated Amplifier,GWX-461,GWX-461,Volume assembly (KU Type)
+SA-710,Integrated Amplifier,GWX-462,GWX-462,Headphones assembly (KU Type)
+SA-710,Integrated Amplifier,GWX-487,GWX-487,Headphones assembly (HB Type)
+SA-710,Integrated Amplifier,GWX-487,GWX-487,Headphones assembly (HE Type)
+SA-710,Integrated Amplifier,GWX-487,GWX-487,Volume assembly (HB Type)
+SA-710,Integrated Amplifier,GWX-487,GWX-487,Volume assembly (HE Type)
+SA-710,Integrated Amplifier,GWX-488,GWX-488,Fuse assembly (HB Type)
+SA-710,Integrated Amplifier,GWX-488,GWX-488,Fuse assembly (HE Type)
+SA-710,Integrated Amplifier,N/A,N/A,Operating instructions SA-710
+SA-7100,Integrated Amplifier,AAB-039-0,AAB-039,Knob for VOLUME
+SA-7100,Integrated Amplifier,AAB-040-0,AAB-040,Knob for FUNCTION
+SA-7100,Integrated Amplifier,AAB-041-0,AAB-041,"Knob for BASS, TREBLE, SPEAKERS"
+SA-7100,Integrated Amplifier,AAB-042-0,AAB-042,Knob for BALANCE
+SA-7100,Integrated Amplifier,AAD-039-0,AAD-039,Knob for LOUDNESS
+SA-7100,Integrated Amplifier,AAD-040-0,AAD-040,Knob for lever switches
+SA-7100,Integrated Amplifier,ACE-002-0,ACE-002,Metallized mylar 0.01  0.01  800V KUW model
+SA-7100,Integrated Amplifier,ACG-002-0,ACG-002,Ceramic  0.01  1 50V KUW model
+SA-7100,Integrated Amplifier,ACH-018-0,ACH-018,Electrolytic  6800  35V
+SA-7100,Integrated Amplifier,ACH-018-0,ACH-018,Electrolytic  6800  35V
+SA-7100,Integrated Amplifier,ACV-110-0,ACV-110,100k-B Bass control
+SA-7100,Integrated Amplifier,ACV-110-0,ACV-110,100k-B Treble control
+SA-7100,Integrated Amplifier,ACV-111-B,ACV-111,Balance control 250k-AC
+SA-7100,Integrated Amplifier,ACV-112-0,ACV-112,VOLUME control. 250k-B1
+SA-7100,Integrated Amplifier,ADE-005-0,ADE-005,Stereo cable (Phono plug to phone plug)
+SA-7100,Integrated Amplifier,ADG-003-0,ADG-003,AC power cord for KUW model
+SA-7100,Integrated Amplifier,ADG-0040,ADG-0040,AC power cord for FVW model
+SA-7100,Integrated Amplifier,AEC-083-A,AEC-083,Foot
+SA-7100,Integrated Amplifier,AEL-007-0,AEL-007,Pilot lamp
+SA-7100,Integrated Amplifier,AEL-014-0,AEL-014,Pilot lamp (Protection)
+SA-7100,Integrated Amplifier,AHD-127-0,AHD-127,Packing case for FVW model
+SA-7100,Integrated Amplifier,AHD-128-A,AHD-128,Packing case for KUW model
+SA-7100,Integrated Amplifier,AKB-014-0,AKB-014,Four-fold phone jack A (RCA type)
+SA-7100,Integrated Amplifier,AKB-015-0,AKB-015,Four-fold phono jack B (RCA type)
+SA-7100,Integrated Amplifier,AKB-018-0,AKB-018,Six-foId phono jack A (RCA type)
+SA-7100,Integrated Amplifier,AKE-010-0,AKE-010,Speaker terminal board (dual)
+SA-7100,Integrated Amplifier,AKM-004-A,AKM-004,Jumper plug
+SA-7100,Integrated Amplifier,AKP-002-0,AKP-002,Spare AC outlet for KUW model
+SA-7100,Integrated Amplifier,AKP-005-0,AKP-005,Spare AC outlet (triple) for FVW model
+SA-7100,Integrated Amplifier,AKR-001-0,AKR-001,Line voltage selector (Fuse holder - FVW model only)
+SA-7100,Integrated Amplifier,AKR-006-0,AKR-006,Fuse holder (KUW model only)
+SA-7100,Integrated Amplifier,AMM-022-A,AMM-022,Wooden case
+SA-7100,Integrated Amplifier,ANB-179-0,ANB-179,Front panel ass'y
+SA-7100,Integrated Amplifier,ARB-068-0,ARB-068,Operating instructions SA-7100
+SA-7100,Integrated Amplifier,ASB-020-B,ASB-020,FUNCTION switch
+SA-7100,Integrated Amplifier,ASB-021-0,ASB-021,SPEAKERS switch
+SA-7100,Integrated Amplifier,ASG-035-A,ASG-035,LOUDNESS Switch
+SA-7100,Integrated Amplifier,ASH-003-0,ASH-003,Relay
+SA-7100,Integrated Amplifier,ASK-024-0,ASK-024,POWER switch for FVW model
+SA-7100,Integrated Amplifier,ASK-025-0,ASK-025,POWER switch for KUW model
+SA-7100,Integrated Amplifier,ASK-026-0,ASK-026,TONE DEFEAT Switch
+SA-7100,Integrated Amplifier,ASK-027-0,ASK-027,MODE Switch
+SA-7100,Integrated Amplifier,ASK-027-0,ASK-027,MUTING Switch
+SA-7100,Integrated Amplifier,ASK-027-0,ASK-027,TURN OVER Switch (Bass)
+SA-7100,Integrated Amplifier,ASK-027-0,ASK-027,TURN OVER Switch (Treble)
+SA-7100,Integrated Amplifier,ASK-028-0,ASK-028,TAPE MONITOR Switch 1
+SA-7100,Integrated Amplifier,ASK-028-0,ASK-028,TAPE MONITOR Switch 2
+SA-7100,Integrated Amplifier,ATT-100-0,ATT-100,Power transformer for KUW model
+SA-7100,Integrated Amplifier,ATT-101-0,ATT-101,Power transformer for FVW model
+SA-7100,Integrated Amplifier,AWF-005-0,AWF-005,Equalizer amp unit
+SA-7100,Integrated Amplifier,AWG-016-0,AWG-016,Control amp unit
+SA-7100,Integrated Amplifier,AWH -021-0,AWH -021,Power amp unit
+SA-7100,Integrated Amplifier,AWM-027-A,AWM-027,Protection unit
+SA-7100,Integrated Amplifier,AWR-026-A,AWR-026,Power supply unit
+SA-7100,Integrated Amplifier,AWS-029-0,AWS-029,Lever switch unit
+SA-7100,Integrated Amplifier,AWS-030-0,AWS-030,Push switch unit
+SA-7100,Integrated Amplifier,AWW-004-0,AWW-004,Compound part for REC terminal
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic    1.4kV FVW model only
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic  0.01  1 .4kV FVW model
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic  0.01  1.4kV FVW model
+SA-7100,Integrated Amplifier,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SA-7100,Integrated Amplifier,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SA-7100,Integrated Amplifier,E21-027-0,E21-027,Fuse 2A for KUW model
+SA-7100,Integrated Amplifier,E21-033-0,E21-033,Fuse 1A for KUW model
+SA-7100,Integrated Amplifier,E21-034-A,E21-034,Fuse 1A for protection for FVW model
+SA-7100,Integrated Amplifier,E32-056-0,E32-056,AC cord stopper
+SA-7100,Integrated Amplifier,H11-070-D,H11-070,Styrotector
+SA-7100,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SA-7100,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-7100,Integrated Amplifier,K93-003-B,K93-003,5P Connector (DIN type)
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SA-7100,Integrated Amplifier,RD¼PS 104J,RD¼PS 104J,Carbon film    100k
+SA-7500,Integrated Amplifier,AAB-084-0,AAB-084,Knob (FUNCTION)
+SA-7500,Integrated Amplifier,AAB-087-0,AAB-087,Knob (VOLUME)
+SA-7500,Integrated Amplifier,AAB-091-0,AAB-091,"Knob (BASS,BASS TURNOVER,TREBLE,TREBLE TURNOVER,SPEAKERS,MODE"
+SA-7500,Integrated Amplifier,AAB-094-A,AAB-094,Knob (BALANCE)
+SA-7500,Integrated Amplifier,AAD-040-B,AAD-040,"Knob (DUPLICATE,TAPE MONITOR,LOUDNESS,MUTING)"
+SA-7500,Integrated Amplifier,AAD-040-B,AAD-040,"Knob (POWER,LOW FILTER,HIGH FILTER)"
+SA-7500,Integrated Amplifier,ACH-019-0,ACH-019,"Electrolytic capacitor (C3, C4) 10,000uF, 50V"
+SA-7500,Integrated Amplifier,ACV-136-0,ACV-136,Variable resistor (BASS) 100kΩ-B
+SA-7500,Integrated Amplifier,ACV-136-0,ACV-136,Variable resistor (TREBLE) 100kΩ.-B
+SA-7500,Integrated Amplifier,ACV-407-0,ACV-407,"Variable resistor 250kΩ-HB/100kΩ-B1 (BALANCE, VOLUME)"
+SA-7500,Integrated Amplifier,ADK-084-B,ADK-084,Lever switch (DUPLICATE)
+SA-7500,Integrated Amplifier,AKA-001-0,AKA-001,Speaker output terminal
+SA-7500,Integrated Amplifier,AKB-014-0,AKB-014,Phono jack-A (4P)
+SA-7500,Integrated Amplifier,AKB-015-0,AKB-015,Phone jack-B (4P)
+SA-7500,Integrated Amplifier,AKE-017-A,AKE-017,Binding post (for ground)
+SA-7500,Integrated Amplifier,AKN-008-0,AKN-008,Phone jack (PHONES)
+SA-7500,Integrated Amplifier,AKP-005-0,AKP-005,"AC Socket (KCU,FV)"
+SA-7500,Integrated Amplifier,AKP-007-A,AKP-007,Connector (DIN type 5P)
+SA-7500,Integrated Amplifier,AKP-008-0,AKP-008,Connector socket (AC inlet-GN)
+SA-7500,Integrated Amplifier,AKR-027-0,AKR-027,Fuse holder (with line voltage selector-FV)
+SA-7500,Integrated Amplifier,ANB-330-0,ANB-330,Front panel assembly
+SA-7500,Integrated Amplifier,ASD-026-0,ASD-026,Rotary switch (TREBLE TURNOVER)
+SA-7500,Integrated Amplifier,ASD-027-0,ASD-027,Rotary switch (BASS TURNOVER)
+SA-7500,Integrated Amplifier,ASD-028-0,ASD-028,Rotary switch (FUNCTION)
+SA-7500,Integrated Amplifier,ASD-029-0,ASD-029,Rotary switch (MODE)
+SA-7500,Integrated Amplifier,ASD-038-0,ASD-038,Rotary switch (SPEAKERS)
+SA-7500,Integrated Amplifier,ASK-066-0,ASK-066,Lever switch (POWER-KCU)
+SA-7500,Integrated Amplifier,ASK-068-0,ASK-068,"Lever switch (POWER-FV, GN)"
+SA-7500,Integrated Amplifier,ASK-086-B,ASK-086,Lever switch (TAPE MONITOR)
+SA-7500,Integrated Amplifier,ASK-090-A,ASK-090,"Lever switch (LOW FILTER,HIGH FILTER)"
+SA-7500,Integrated Amplifier,ASK-090-A,ASK-090,"Lever switch (MUTlNG,LOUDNESS)"
+SA-7500,Integrated Amplifier,ASK-090-A,ASK-090,Lever switch (TONE)
+SA-7500,Integrated Amplifier,ATT-226-B,ATT-226,Power transformer (FV)
+SA-7500,Integrated Amplifier,ATT-227-B,ATT-227,Power transformer (GN)
+SA-7500,Integrated Amplifier,ATT-228-B,ATT-228,Power transformer (KCU)
+SA-7500,Integrated Amplifier,AWF-015-B,AWF-015,Equalizer amplifier assembly
+SA-7500,Integrated Amplifier,AWG-033-0,AWG-033,Control amplifier assembly
+SA-7500,Integrated Amplifier,AWH-040-0,AWH-040,Power amplifier assembly
+SA-7500,Integrated Amplifier,AWM-072-C,AWM-072,"Switch circuit assembly (KCU, FV)"
+SA-7500,Integrated Amplifier,AWM-078-B,AWM-078,Switch circuit assembly (GN)
+SA-7500,Integrated Amplifier,K72-020-0,K72-020,Phone jack (MIC)
+SA-7500II,Integrated Amplifier,AAB-145,AAB-145,Knob (BASS)
+SA-7500II,Integrated Amplifier,AAB-145,AAB-145,Knob (SPEAKERS)
+SA-7500II,Integrated Amplifier,AAB-145,AAB-145,Knob (TREBLE)
+SA-7500II,Integrated Amplifier,AAB-146,AAB-146,Knob (BALANCE)
+SA-7500II,Integrated Amplifier,AAB-147,AAB-147,Knob (VOLUME)
+SA-7500II,Integrated Amplifier,AAB-445,AAB-445,Knob (FUNCTION)
+SA-7500II,Integrated Amplifier,AAD-115,AAD-115,Knob (LOUDNESS)
+SA-7500II,Integrated Amplifier,AAD-115,AAD-115,Knob (LOW FILTER)
+SA-7500II,Integrated Amplifier,AAD-115,AAD-115,Knob (MODE)
+SA-7500II,Integrated Amplifier,AAD-115,AAD-115,Knob (POWER)
+SA-7500II,Integrated Amplifier,AAD-115,AAD-115,Knob (TAPE DUPLICATE)
+SA-7500II,Integrated Amplifier,AAD-115,AAD-115,Knob (TAPE MONITOR)
+SA-7500II,Integrated Amplifier,AAD-115,AAD-115,Knob (TONE)
+SA-7500II,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V
+SA-7500II,Integrated Amplifier,ACG-003,ACG-003,Ceramic 0.01 125V
+SA-7500II,Integrated Amplifier,ACG-003,ACG-003,Ceramic capacitor 0.01uF 125V
+SA-7500II,Integrated Amplifier,ACH-062,ACH-062,"Electrolytic capacitor 10,000uF 50v"
+SA-7500II,Integrated Amplifier,ACV-135,ACV-135,Variable resistor 100k-HB (BALANCE)
+SA-7500II,Integrated Amplifier,ACV-138,ACV-138,Variable resistor 100k-A (BASS)
+SA-7500II,Integrated Amplifier,ACV-138,ACV-138,Variable resistor 100k-A (TREBLE)
+SA-7500II,Integrated Amplifier,ACV-162,ACV-162,Variable resistor 100k 32 step (VOLUME)
+SA-7500II,Integrated Amplifier,ADG-005,ADG-005,AC power cord
+SA-7500II,Integrated Amplifier,AEB-100,AEB-100,Rubber bracket
+SA-7500II,Integrated Amplifier,AEK-106,AEK-106,"Fuse 1A (FU2, FU3)"
+SA-7500II,Integrated Amplifier,AEK-108,AEK-108,Fuse 5A (FU 1)
+SA-7500II,Integrated Amplifier,AEL-044,AEL-044,"Lamp with leads 8V, 50mA"
+SA-7500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE 2)
+SA-7500II,Integrated Amplifier,AKB-035,AKB-035,Termmal (TAPE 1)
+SA-7500II,Integrated Amplifier,AKB-038,AKB-038,Terminal (INPUT)
+SA-7500II,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-7500II,Integrated Amplifier,AKE-031,AKE-031,Screw for ground (GND)
+SA-7500II,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLET)
+SA-7500II,Integrated Amplifier,ANB-491,ANB-491,Front panel
+SA-7500II,Integrated Amplifier,ASB-021,ASB-021,Rotary switch (SPEAKERS)
+SA-7500II,Integrated Amplifier,ASB-050,ASB-050,Rotary switch (FUNCTION)
+SA-7500II,Integrated Amplifier,ASK-066,ASK-066,Lever switch (POWER)
+SA-7500II,Integrated Amplifier,ASK-089,ASK-089,Lever switch (LOUDNESS)
+SA-7500II,Integrated Amplifier,ASK-089,ASK-089,Lever switch (LOW FILTER)
+SA-7500II,Integrated Amplifier,ASK-089,ASK-089,Lever switch (MODE)
+SA-7500II,Integrated Amplifier,ASK-089,ASK-089,Lever switch (TONE)
+SA-7500II,Integrated Amplifier,ASK-118,ASK-118,Lever switch (TAPE DUPLICATE)
+SA-7500II,Integrated Amplifier,ASK-118,ASK-118,Lever switch (TAPE MONITOR)
+SA-7500II,Integrated Amplifier,ASR-023,ASR-023,Relay
+SA-7500II,Integrated Amplifier,ATT-389,ATT-389,Power transformer
+SA-7500II,Integrated Amplifier,AWG-047,AWG-047,Control amplifier assembly
+SA-7500II,Integrated Amplifier,AWK-079,AWK-079,AF amplifier assembly
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-7500II,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-7700,Integrated Amplifier,2SB701S-B or C,2SB701S-B or C,Transistor
+SA-7700,Integrated Amplifier,2SB701S-B or C,2SB701S-B or C,Transistor
+SA-7700,Integrated Amplifier,2SD737S-B or C,2SD737S-B or C,Transistor
+SA-7700,Integrated Amplifier,2SD737S-B or C,2SD737S-B or C,Transistor
+SA-7700,Integrated Amplifier,AAB-178,AAB-178,Knob (VOLUME)
+SA-7700,Integrated Amplifier,AAB-179,AAB-179,"Knob (BASS, TREBLE)"
+SA-7700,Integrated Amplifier,AAB-180,AAB-180,"Knob (BALANCE, FUNCTION)"
+SA-7700,Integrated Amplifier,AAB-180,AAB-180,Knob (SPEAKERS)
+SA-7700,Integrated Amplifier,AAD-129,AAD-129,"Knob (LOUDNESS, TAPE MONITOR,DUPLICATE)"
+SA-7700,Integrated Amplifier,AAD-129,AAD-129,Knob (POWER)
+SA-7700,Integrated Amplifier,AAW-069,AAW-069,Meter (POWER)
+SA-7700,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V (KU)
+SA-7700,Integrated Amplifier,ACG-003,ACG-003,Ceramic 0.01 125V (KU)
+SA-7700,Integrated Amplifier,ACG-014,ACG-014,Ceramic 0.01 125V (KC)
+SA-7700,Integrated Amplifier,ACG-014,ACG-014,Ceramic 0.01 125V (KC)
+SA-7700,Integrated Amplifier,ACH-083,ACH-083,"Electrolytic 12,000 63V"
+SA-7700,Integrated Amplifier,ACH-083,ACH-083,"Electrolytic 12,000 83V"
+SA-7700,Integrated Amplifier,ACT-117,ACT-117,"Variable resistor (BASS, TREBLE)"
+SA-7700,Integrated Amplifier,ACT-118,ACT-118,Variable resistor (BALANCE)
+SA-7700,Integrated Amplifier,ACV-184,ACV-184,Variable resistor (VOLUME)
+SA-7700,Integrated Amplifier,ADG-005,ADG-005,AC power cord
+SA-7700,Integrated Amplifier,AEC-279,AEC-279,Capacitor cover for C1 (KU)
+SA-7700,Integrated Amplifier,AEC-294,AEC-294,Capacitor cover for C2 (KU)
+SA-7700,Integrated Amplifier,AEC-365,AEC-365,Capacitor cover for C1 (KC)
+SA-7700,Integrated Amplifier,AEC-365,AEC-365,Capacitor cover for C2 (KC)
+SA-7700,Integrated Amplifier,AEK-107,AEK-107,Fuse (0.5A)
+SA-7700,Integrated Amplifier,AEK-108,AEK-108,Fuse (5A)
+SA-7700,Integrated Amplifier,AEK-408,AEK-408,Fuse 160mA (KC)
+SA-7700,Integrated Amplifier,AEL-101,AEL-101,"Lamp 8V, 55mA (for meter)"
+SA-7700,Integrated Amplifier,AEL-307,AEL-307,LED (PEAK indicator)
+SA-7700,Integrated Amplifier,AEL-307,AEL-307,LED (PEAK indicator)
+SA-7700,Integrated Amplifier,AEL-308,AEL-308,LED (POWER indicator)
+SA-7700,Integrated Amplifier,AHD-528,AHD-528,Packing case (KU)
+SA-7700,Integrated Amplifier,AHD-529,AHD-529,Packing case (KC)
+SA-7700,Integrated Amplifier,AKB-028,AKB-028,Terminal (INPUT)
+SA-7700,Integrated Amplifier,AKB-045,AKB-045,Terminal (TAPE 1)
+SA-7700,Integrated Amplifier,AKB-045,AKB-045,Terminal (TAPE 2)
+SA-7700,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-7700,Integrated Amplifier,AKE-031,AKE-031,Terminal (GND)
+SA-7700,Integrated Amplifier,AKP-005,AKP-005,AC socket (AC OUTLETS)
+SA-7700,Integrated Amplifier,AKR-032,AKR-032,Fuse holder 1P
+SA-7700,Integrated Amplifier,AMS-026,AMS-026,Top plate assembly
+SA-7700,Integrated Amplifier,AMS-027,AMS-027,Side panel L
+SA-7700,Integrated Amplifier,AMS-028,AMS-028,Side panel R
+SA-7700,Integrated Amplifier,ANB-591,ANB-591,Front panel assembly
+SA-7700,Integrated Amplifier,ARB-260,ARB-260,Operating instructions SA-7700
+SA-7700,Integrated Amplifier,ASB-051,ASB-051,Rotary switch (SPEAKERS)
+SA-7700,Integrated Amplifier,ASD-071,ASD-071,Rotary switch (FUNCTION)
+SA-7700,Integrated Amplifier,ASH-015,ASH-015,Slide switch (INTERFERENCE FILTER)
+SA-7700,Integrated Amplifier,ASK-066,ASK-066,Lever switch (POWER)
+SA-7700,Integrated Amplifier,ASK-122,ASK-122,"Lever switch (TAPE MONITOR 1, 2, LOUDNESS)"
+SA-7700,Integrated Amplifier,ASK-123,ASK-123,Lever switch (DUPLICATE)
+SA-7700,Integrated Amplifier,ATT-490,ATT-490,Power transformer (KU)
+SA-7700,Integrated Amplifier,ATT-491,ATT-491,Power transformer (KC)
+SA-7700,Integrated Amplifier,ATT-494,ATT-494,Power transformer
+SA-7700,Integrated Amplifier,GWK-113,GWK-113,AF assembly (KU)
+SA-7700,Integrated Amplifier,GWK-115,GWK-115,AF assembly (KC)
+SA-7700,Integrated Amplifier,GWX-164,GWX-164,VR assembly (KU)
+SA-7700,Integrated Amplifier,GWX-165,GWX-165,Terminal assembly (KU)
+SA-7700,Integrated Amplifier,GWX-166,GWX-166,RFI switch assembly (KU)
+SA-7700,Integrated Amplifier,GWX-167,GWX-167,Tone & indicator assembly (KU)
+SA-7700,Integrated Amplifier,GWX-170,GWX-170,VR assembly (KC)
+SA-7700,Integrated Amplifier,GWX-171,GWX-171,Terminal assembly (KC)
+SA-7700,Integrated Amplifier,GWX-172,GWX-172,RFI switch assembly (KC)
+SA-7700,Integrated Amplifier,GWX-173,GWX-173,Tone & indicator assembly (KC)
+SA-7700,Integrated Amplifier,K72-026,K72-026,Phone jack (PHONES)
+SA-7700,Integrated Amplifier,K91-008,K91-008,Fuse holder for FU3 (KC)
+SA-7700,Integrated Amplifier,N/A,N/A,Service Manual SA-7700
+SA-7800,Integrated Amplifier,2SA1075/A,2SA1075/A,Transistor
+SA-7800,Integrated Amplifier,2SA1075/A,2SA1075/A,Transistor
+SA-7800,Integrated Amplifier,2SC2525/A,2SC2525/A,Transistor
+SA-7800,Integrated Amplifier,2SC2525/A,2SC2525/A,Transistor
+SA-7800,Integrated Amplifier,AAB-194,AAB-194,Knob (VOLUME)
+SA-7800,Integrated Amplifier,AAB-195,AAB-195,Knob (FUNCTION)
+SA-7800,Integrated Amplifier,AAB-196,AAB-196,Knob (BALANCE)
+SA-7800,Integrated Amplifier,AAB-196,AAB-196,Knob (BASS)
+SA-7800,Integrated Amplifier,AAB-196,AAB-196,Knob (MODE)
+SA-7800,Integrated Amplifier,AAB-196,AAB-196,Knob (SPEAKERS)
+SA-7800,Integrated Amplifier,AAB-196,AAB-196,Knob (TREBLE)
+SA-7800,Integrated Amplifier,AAD-172,AAD-172,Knob (LOUDNESS)
+SA-7800,Integrated Amplifier,AAD-172,AAD-172,Knob (MUTING)
+SA-7800,Integrated Amplifier,AAD-172,AAD-172,Knob (POWER)
+SA-7800,Integrated Amplifier,AAD-172,AAD-172,Knob (SUBSONIC Fl LTER)
+SA-7800,Integrated Amplifier,AAD-172,AAD-172,Knob (TAPE DUPLICATE)
+SA-7800,Integrated Amplifier,AAD-172,AAD-172,Knob (TAPE MONITOR)
+SA-7800,Integrated Amplifier,AAD-172,AAD-172,Knob (TONE)
+SA-7800,Integrated Amplifier,AAV-002,AAV-002,Fluorescent indicator tube
+SA-7800,Integrated Amplifier,ABN-024,ABN-024,Nut M9
+SA-7800,Integrated Amplifier,ACH-082,ACH-082,Electrolytic 8000uF/50V
+SA-7800,Integrated Amplifier,ACH-082,ACH-082,Electrolytic 8000uF/50V
+SA-7800,Integrated Amplifier,ACH-082,ACH-082,Electrolytic 8000uF/50V
+SA-7800,Integrated Amplifier,ACH-082,ACH-082,Electrolytic 8000uF/50V
+SA-7800,Integrated Amplifier,ACV-187,ACV-187,Variable resistor (BALANCE)
+SA-7800,Integrated Amplifier,ACV-198,ACV-198,Variable resistor (BASS)
+SA-7800,Integrated Amplifier,ACV-199,ACV-199,Variable resistor (TREBLE)
+SA-7800,Integrated Amplifier,ACW-113,ACW-113,Variable resistor (VOLUME)
+SA-7800,Integrated Amplifier,ADG-023,ADG-023,AC power cord
+SA-7800,Integrated Amplifier,AEK-109,AEK-109,Fuse 6A
+SA-7800,Integrated Amplifier,AEK-111,AEK-111,Fuse 0.8A
+SA-7800,Integrated Amplifier,AEL-069,AEL-069,Lamp with wives 8V 50mA
+SA-7800,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE)
+SA-7800,Integrated Amplifier,AKB-057,AKB-057,Terminal (INPUT)
+SA-7800,Integrated Amplifier,AKE-038,AKE-038,Terminal (SPEAKERS)
+SA-7800,Integrated Amplifier,AKN-023,AKN-023,Phones jack
+SA-7800,Integrated Amplifier,AKP-004,AKP-004,AC socket (OUTLETS)
+SA-7800,Integrated Amplifier,ANB-686,ANB-686,Front panel assembly
+SA-7800,Integrated Amplifier,ASB-102,ASB-102,Rotary switch (SPEAKER)
+SA-7800,Integrated Amplifier,ASD-107,ASD-107,Rotary switch (MODE)
+SA-7800,Integrated Amplifier,ASD-115,ASD-115,Rotary switch (FUNCTION)
+SA-7800,Integrated Amplifier,ASK-110,ASK-110,Lever switch (LOUDNESS)
+SA-7800,Integrated Amplifier,ASK-110,ASK-110,Lever switch (MUTING)
+SA-7800,Integrated Amplifier,ASK-110,ASK-110,Lever switch (SUBSONIC FILTER)
+SA-7800,Integrated Amplifier,ASK-110,ASK-110,Lever switch (TONE)
+SA-7800,Integrated Amplifier,ASK-113,ASK-113,Lever switch (TAPE DUPLICATE)
+SA-7800,Integrated Amplifier,ASK-113,ASK-113,Lever switch (TAPE MONITOR)
+SA-7800,Integrated Amplifier,ASK-124,ASK-124,Lever switch (POWER)
+SA-7800,Integrated Amplifier,ATT-567,ATT-567,Power transformer
+SA-7800,Integrated Amplifier,AWV-001,AWV-001,Indicator assembly
+SA-7800,Integrated Amplifier,GWF-115,GWF-115,Equalizer assembly
+SA-7800,Integrated Amplifier,GWG-123,GWG-123,Tone amplifier assembly
+SA-7800,Integrated Amplifier,GWH-118,GWH-118,Power amplifier assembly
+SA-7800,Integrated Amplifier,GWR-112,GWR-112,Power supply assembly
+SA-7800,Integrated Amplifier,GWS-169,GWS-169,Switch assembly 1
+SA-7800,Integrated Amplifier,GWS-170,GWS-170,Switch assembly 2
+SA-7800,Integrated Amplifier,GWX-258,GWX-258,Volume assembly
+SA-7800,Integrated Amplifier,GWX-259,GWX-259,Terminal assembly
+SA-7800,Integrated Amplifier,GWX-260,GWX-260,Phone jack assembly
+SA-800,Integrated Amplifier,A12-229-A,A12-229,"Knob for VOLUME, MODE and SELECTOR"
+SA-800,Integrated Amplifier,A12-232-A,A12-232,"Knob for POWER, BASS, TREBLE, SPEAKERS and BALANCE"
+SA-800,Integrated Amplifier,A19-095-A,A19-095,"Knob for MUTING, FILTERS, TAPE MONITORS and PHONO 2"
+SA-800,Integrated Amplifier,ACE-001-A,ACE-001,Oil 0.01 800V (KUW)
+SA-800,Integrated Amplifier,ACH-001-B,ACH-001,Electrolytic 1000 63V (FVW)
+SA-800,Integrated Amplifier,AEC-012-0,AEC-012,Foot
+SA-800,Integrated Amplifier,AEK-004-0,AEK-004,"Fuse 1A, for protection (KUW/KCW)"
+SA-800,Integrated Amplifier,AHD-019-0,AHD-019,Packing case
+SA-800,Integrated Amplifier,AKP-002-0,AKP-002,Spare AC outlet (KUW/KCW)
+SA-800,Integrated Amplifier,AKR-001-0,AKR-001,Fuse holder
+SA-800,Integrated Amplifier,ANB-062-0,ANB-062,Front panel Ass'y
+SA-800,Integrated Amplifier,ARB-010-0,ARB-010,Operating instructions SA-800
+SA-800,Integrated Amplifier,ARB-011-0,ARB-011,Operating instructions SA-800 (KUW/KCW)
+SA-800,Integrated Amplifier,ASA-007-0,ASA-007,POWER Switch (KUW)
+SA-800,Integrated Amplifier,ATT-019-A,ATT-019,Power transformer (KUW/KCW)
+SA-800,Integrated Amplifier,ATT-020-A,ATT-020,Power transformer (FVW)
+SA-800,Integrated Amplifier,B11-015-B,B11-015,"Screw, to fix wooden case"
+SA-800,Integrated Amplifier,C15-001-0,C15-001,Oil paper 0.01 800V (KCW)
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FWV)
+SA-800,Integrated Amplifier,C52-083-B,C52-083,Electrolytic 4700 50V (FVW)
+SA-800,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V (FVW)
+SA-800,Integrated Amplifier,C85-048-B,C85-048,"500k dual, BALANCE"
+SA-800,Integrated Amplifier,C85-054-0,C85-054,"500k dual, VOLUME"
+SA-800,Integrated Amplifier,D11-002-B,D11-002,AC Power cord
+SA-800,Integrated Amplifier,D11-003-E,D11-003,AC Power cord (KUW/KCW)
+SA-800,Integrated Amplifier,D51-003-B,D51-003,Connection cord (white)
+SA-800,Integrated Amplifier,D51-004-B,D51-004,Connection cord (red)
+SA-800,Integrated Amplifier,E21-004-0,E21-004,Fuse 1A
+SA-800,Integrated Amplifier,E21-006-0,E21-006,Fuse 3A (KUW)
+SA-800,Integrated Amplifier,E21-020-0,E21-020,"Fuse 1A, for protection"
+SA-800,Integrated Amplifier,E21-027-0,E21-027,Fuse 2A (KUW)
+SA-800,Integrated Amplifier,E22-020-0,E22-020,Pilot lamp
+SA-800,Integrated Amplifier,H11-070-B,H11-070,Protector for packing
+SA-800,Integrated Amplifier,K13-047-0,K13-047,4P Ground terminal
+SA-800,Integrated Amplifier,K21-005-C,K21-005,1P lnput terminal board
+SA-800,Integrated Amplifier,K21-010-E,K21-010,4P Input terminal board
+SA-800,Integrated Amplifier,K22-013-D,K22-013,6P Input terminal board
+SA-800,Integrated Amplifier,K24-002-A,K24-002,5P Socket for MC transformer
+SA-800,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+SA-800,Integrated Amplifier,K72-007-0,K72-007,Speaker Plug
+SA-800,Integrated Amplifier,K72-018-0,K72-018,Pin Plug
+SA-800,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SA-800,Integrated Amplifier,K72-026-0,K72-026,Headphones jack
+SA-800,Integrated Amplifier,K72-031-0,K72-031,Speaker socket
+SA-800,Integrated Amplifier,K82-012-A,K82-012,Spare AC outlet
+SA-800,Integrated Amplifier,K82-014-0,K82-014,Spare AC outlet (2P)
+SA-800,Integrated Amplifier,K93-003-B,K93-003,5P Connector (DIN type)
+SA-800,Integrated Amplifier,K96-007-B,K96-007,Fuse holder (KUW)
+SA-800,Integrated Amplifier,M52-139-C,M52-139,Wooden case
+SA-800,Integrated Amplifier,R42-189-0,R42-189,Service Manual SA-800
+SA-800,Integrated Amplifier,S11-023-B,S11-023,POWER Switch (KCW)
+SA-800,Integrated Amplifier,S11-024-B,S11-024,POWER Switch (FVW)
+SA-800,Integrated Amplifier,S12-011-B,S12-011,OUTPUT SELECTOR
+SA-800,Integrated Amplifier,S13-045-0,S13-045,SELECTOR Switch
+SA-800,Integrated Amplifier,S14-035-0,S14-035,MODE Switch
+SA-800,Integrated Amplifier,S16-046-A,S16-046,TREBLE Switch
+SA-800,Integrated Amplifier,S16-054-A,S16-054,BASS Switch
+SA-800,Integrated Amplifier,S41-025-0,S41-025,PRE & MAIN Switch
+SA-800,Integrated Amplifier,S42-011-A,S42-011,TAPE MONITOR 1 Switch
+SA-800,Integrated Amplifier,S42-011-A,S42-011,TAPE MONITOR 2 Switch
+SA-800,Integrated Amplifier,S42-012-A,S42-012,LOUDNESS Switch
+SA-800,Integrated Amplifier,S42-012-A,S42-012,LOW FILTER
+SA-800,Integrated Amplifier,S42-012-A,S42-012,MUTING Switch
+SA-800,Integrated Amplifier,S42-016-A,S42-016,HIGH FlLTER
+SA-800,Integrated Amplifier,S42-016-A,S42-016,PHONO 2 SELECTOR
+SA-800,Integrated Amplifier,S61-006-0,S61-006,ReIay
+SA-800,Integrated Amplifier,W15-050-C,W15-050,Control amp unit
+SA-800,Integrated Amplifier,W16-033-A,W16-033,Power supply unit
+SA-800,Integrated Amplifier,W21-007-A,W21-007,Head amp unit
+SA-800,Integrated Amplifier,W23-009-A,W23-009,Main amp unit
+SA-800,Integrated Amplifier,W28-006-A,W28-006,Filter unit
+SA-800,Integrated Amplifier,W28-007-A,W28-007,Protector unit
+SA-800,Integrated Amplifier,W52-004-0,W52-004,Compound part for REC terminal
+SA-8100,Integrated Amplifier,AAB-040-0,AAB-040,"Knob, function"
+SA-8100,Integrated Amplifier,AAB-041-0,AAB-041,"Knob, speaker, bass (100Hz) / treble (10kHz)"
+SA-8100,Integrated Amplifier,AAB-042-0,AAB-042,"Knob, balance, mode"
+SA-8100,Integrated Amplifier,AAB-043-0,AAB-043,"Knob, bass (50Hz) / treble (20kHz)"
+SA-8100,Integrated Amplifier,AAB-044-0,AAB-044,"Knob, level set"
+SA-8100,Integrated Amplifier,AAB-045-0,AAB-045,"Knob, volume"
+SA-8100,Integrated Amplifier,AAB-046-A,AAB-046,Knob for level control
+SA-8100,Integrated Amplifier,AAD-039-0,AAD-039,"Knob, push switch"
+SA-8100,Integrated Amplifier,AAD-040-B,AAD-040,"Knob, lever switch"
+SA-8100,Integrated Amplifier,ABA-010-A,ABA-010,Screw to fix wooden case
+SA-8100,Integrated Amplifier,ACE-002-0,ACE-002,Metallized mylar 0.01 800V  KUW model only
+SA-8100,Integrated Amplifier,ACG-002-0,ACG-002,Ceramic 0.01 150V  KUW model only
+SA-8100,Integrated Amplifier,ACH-019-0,ACH-019,Electrolytic capacitor 10000uF 50V
+SA-8100,Integrated Amplifier,ACH-019-0,ACH-019,Electrolytic capacitor 10000uF 50V
+SA-8100,Integrated Amplifier,ACT-104-0,ACT-104,Level control for AUX 2    100k-B2
+SA-8100,Integrated Amplifier,ACT-105-A,ACT-105,Level control for PHONO 2   2k-B2
+SA-8100,Integrated Amplifier,ACV-111-B,ACV-111,Balance control  250k(HB)
+SA-8100,Integrated Amplifier,ADE-005-0,ADE-005,Connection cord
+SA-8100,Integrated Amplifier,ADG-003-0,ADG-003,AC power cord for KUW model
+SA-8100,Integrated Amplifier,ADG-004-0,ADG-004,AC power cord for FVW model
+SA-8100,Integrated Amplifier,AEB-019-0,AEB-019,Boss
+SA-8100,Integrated Amplifier,AEB-019-0,AEB-019,Boss
+SA-8100,Integrated Amplifier,AEB-019-0,AEB-019,Boss
+SA-8100,Integrated Amplifier,AEB-030-0,AEB-030,Cushion
+SA-8100,Integrated Amplifier,AEC-004-0,AEC-004,Wire clip A
+SA-8100,Integrated Amplifier,AEC-064-0,AEC-064,Wire clip
+SA-8100,Integrated Amplifier,AEC-079-0,AEC-079,AC cord stopper
+SA-8100,Integrated Amplifier,AEC-083-A,AEC-083,Foot
+SA-8100,Integrated Amplifier,AEC-086-0,AEC-086,Switch stopper
+SA-8100,Integrated Amplifier,AED-018-0,AED-018,Light shade
+SA-8100,Integrated Amplifier,AEK-009-0,AEK-009,Fuse 1.5A   FVW model
+SA-8100,Integrated Amplifier,AEL-007-0,AEL-007,Pilot lamp for indicator
+SA-8100,Integrated Amplifier,AEL-014-0,AEL-014,Pilot lamp for protection   KUW model
+SA-8100,Integrated Amplifier,AHD-136-0,AHD-136,Packing case for FVW model
+SA-8100,Integrated Amplifier,AHD-137-0,AHD-137,Packing case for KUW model
+SA-8100,Integrated Amplifier,AKB-014-0,AKB-014,Four-fold phono jack A (RCA type)
+SA-8100,Integrated Amplifier,AKB-015-0,AKB-015,Four-fold phono jack B (RCA type)
+SA-8100,Integrated Amplifier,AKB-018-0,AKB-018,Six-fold phono jack A (RCA type)
+SA-8100,Integrated Amplifier,AKC-021-0,AKC-021,4p terminal strip
+SA-8100,Integrated Amplifier,AKE-010-0,AKE-010,Speaker terminal board (dual)
+SA-8100,Integrated Amplifier,AKE-012-A,AKE-012,Screw for grounding
+SA-8100,Integrated Amplifier,AKP-002-0,AKP-002,Spare AC outlet for KUW model
+SA-8100,Integrated Amplifier,AKP-005-0,AKP-005,Spare AC outlet for FVW model
+SA-8100,Integrated Amplifier,AKR-001-0,AKR-001,Fuse holder for FVW model
+SA-8100,Integrated Amplifier,AKR-007-0,AKR-007,Fuse holder for KUW model
+SA-8100,Integrated Amplifier,AMM-022-A,AMM-022,Wooden case
+SA-8100,Integrated Amplifier,ANA-032-0,ANA-032,Chassis
+SA-8100,Integrated Amplifier,ANA-033-0,ANA-033,Sub chassis
+SA-8100,Integrated Amplifier,ANB-178-A,ANB-178,Front panel ass’y
+SA-8100,Integrated Amplifier,ANC-065-A,ANC-065,Rear panel
+SA-8100,Integrated Amplifier,AND-050-A,AND-050,Sub-panel
+SA-8100,Integrated Amplifier,ANH-119-0,ANH-119,Rear shield cover
+SA-8100,Integrated Amplifier,ANH-123-0,ANH-123,Front shield cover
+SA-8100,Integrated Amplifier,ANH-128-0,ANH-128,Shield board
+SA-8100,Integrated Amplifier,ANH-138-0,ANH-138,Shield board
+SA-8100,Integrated Amplifier,ANK-018-0,ANK-018,Hexagonal wrench
+SA-8100,Integrated Amplifier,ARB-069-0,ARB-069,Operating instructions SA-8100
+SA-8100,Integrated Amplifier,ASB-021-A,ASB-021,Selector switch (SiPEAKERS)
+SA-8100,Integrated Amplifier,ASB-022-A,ASB-022,Selector switch (MODE)
+SA-8100,Integrated Amplifier,ASB-023-0,ASB-023,Selector switch (FUNCTlON)
+SA-8100,Integrated Amplifier,ASB-024-A,ASB-024,LEVEL SET switch with VOLUME
+SA-8100,Integrated Amplifier,ASC-038-A,ASC-038,Selector switch (TREBLE 10kHz)
+SA-8100,Integrated Amplifier,ASC-039-A,ASC-039,Selector switch (BASS 100HZ)
+SA-8100,Integrated Amplifier,ASC-040-B,ASC-040,Selector switch (TREBLE 20kHz)
+SA-8100,Integrated Amplifier,ASC-041-A,ASC-041,Selector switch (BASS 50Hz)
+SA-8100,Integrated Amplifier,ASG-036-A,ASG-036,Push switch (LOUDNESS)
+SA-8100,Integrated Amplifier,ASH-006-A,ASH-006,Slide switch (PRE/POWER)
+SA-8100,Integrated Amplifier,ASK-030-0,ASK-030,Lever switch (Muting)
+SA-8100,Integrated Amplifier,ASK-032-0,ASK-032,Lever switch (Tape Mon 1)
+SA-8100,Integrated Amplifier,ASK-032-0,ASK-032,Lever switch (Tape Mon 2)
+SA-8100,Integrated Amplifier,ASK-033-0,ASK-033,Lever switch  (High Filter)
+SA-8100,Integrated Amplifier,ASK-033-0,ASK-033,Lever switch (Tone defeat)
+SA-8100,Integrated Amplifier,ASK-035-0,ASK-035,Lever switch (Lo filter)
+SA-8100,Integrated Amplifier,ASK-039-0,ASK-039,Lever switch (POWER - KUW)
+SA-8100,Integrated Amplifier,ASK-040-0,ASK-040,Lever switch (POWER - FVW)
+SA-8100,Integrated Amplifier,ASR-003-0,ASR-003,Relay
+SA-8100,Integrated Amplifier,ATT-104-0,ATT-104,Power transformer for KUW model
+SA-8100,Integrated Amplifier,ATT-105-0,ATT-105,Power transformer for FVW model
+SA-8100,Integrated Amplifier,AWF-006-0,AWF-006,Equalizer amp unit
+SA-8100,Integrated Amplifier,AWG-017-0,AWG-017,Control amp unit
+SA-8100,Integrated Amplifier,AWH-022-A,AWH-022,Power amp unit
+SA-8100,Integrated Amplifier,AWK-020-0,AWK-020,Filter amp unit
+SA-8100,Integrated Amplifier,AWM-027-A,AWM-027,Protection unit
+SA-8100,Integrated Amplifier,AWR-030-0,AWR-030,Power supply unit
+SA-8100,Integrated Amplifier,AWS-035-0,AWS-035,Switch unit - A
+SA-8100,Integrated Amplifier,AWS-036-0,AWS-036,Switch unit - B
+SA-8100,Integrated Amplifier,AWS-037-0,AWS-037,Push switch unit
+SA-8100,Integrated Amplifier,AWX-044-0,AWX-044,Volume unit
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SA-8100,Integrated Amplifier,CCDSL 101Z 50,CCDSL 101Z 50,Ceramic 100p 50V
+SA-8100,Integrated Amplifier,CCDSL 101Z 50,CCDSL 101Z 50,Ceramic 100p 50V
+SA-8100,Integrated Amplifier,CCDSL 680K 50,CCDSL 680K 50,Ceramic 68p 50V
+SA-8100,Integrated Amplifier,CCDSL 680k 50,CCDSL 680k 50,Ceramic 68p 50V
+SA-8100,Integrated Amplifier,E21 -033-0,E21 -033,Fuse 1A for protection   KUW model
+SA-8100,Integrated Amplifier,E21 -033-0,E21 -033,Fuse 1A for protection   KUW model
+SA-8100,Integrated Amplifier,E21 -033-0,E21 -033,Fuse 1A for protection   KUW model
+SA-8100,Integrated Amplifier,E21 -034-A,E21 -034,Fuse 1A for protection   FVW model
+SA-8100,Integrated Amplifier,E21-021 -0,E21-021 ,Fuse 3A
+SA-8100,Integrated Amplifier,HII-070-0,HII-070,Styrotector
+SA-8100,Integrated Amplifier,K13-047-0,K13-047,Four-fold ground terminal
+SA-8100,Integrated Amplifier,K13-048-0,K13-048,Two-fold ground terminal
+SA-8100,Integrated Amplifier,K13-048-0,K13-048,Two-lold ground terminal
+SA-8100,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SA-8100,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-8100,Integrated Amplifier,K93-003-B,K93-003,5P connector (DIN type)
+SA-8500,Integrated Amplifier,AAB-084-0,AAB-084,Knob (FUNCTION)
+SA-8500,Integrated Amplifier,AAB-087-0,AAB-087,Knob (VOLUME)
+SA-8500,Integrated Amplifier,AAB-090-A,AAB-090,Knob (MIC/PHONO 2 LEVEL)
+SA-8500,Integrated Amplifier,AAB-091-0,AAB-091,"Knob (MODE,SPEAKERS)"
+SA-8500,Integrated Amplifier,AAB-091-0,AAB-091,"Knob (TREBLE,BASS)"
+SA-8500,Integrated Amplifier,AAB-094-0,AAB-094,Knob (BALANCE)
+SA-8500,Integrated Amplifier,AAD-040-B,AAD-040,"Knob (DUPLICATE,MONITOR,LOUDNESS,MUTING)"
+SA-8500,Integrated Amplifier,AAD-040-B,AAD-040,"Knob (POWER, LOW FILTER, HIGH FILTER)"
+SA-8500,Integrated Amplifier,ACH-048-0,ACH-048,Electrolytic capacitor 15000uF 50V
+SA-8500,Integrated Amplifier,ACT-105-A,ACT-105,Variable resistor 2k-B (MIC/PHON0 2 LEVEL)
+SA-8500,Integrated Amplifier,ACV-149-A,ACV-149,Switch type variable resistor (SUB TREBLE)
+SA-8500,Integrated Amplifier,ACV-150-A,ACV-150,Switch type variable resistor (MAIN TREBLE)
+SA-8500,Integrated Amplifier,ACV-151-A,ACV-151,Switch type variable resistor (MAIN BASS)
+SA-8500,Integrated Amplifier,ACV-152-A,ACV-152,Switch type variable resistor (SUB BASS)
+SA-8500,Integrated Amplifier,ACV-407-0,ACV-407,"Variable resistor 100K-B, 250K-HB (VOLUME & BALANCE)"
+SA-8500,Integrated Amplifier,AKA-001-0,AKA-001,Speaker output terminal
+SA-8500,Integrated Amplifier,AKB-014-0,AKB-014,Phone jack-A(4P)
+SA-8500,Integrated Amplifier,AKB-014-0,AKB-014,Phono jack-A(4P)
+SA-8500,Integrated Amplifier,AKB-015-0,AKB-015,Phone jack-B(4P)
+SA-8500,Integrated Amplifier,AKE-017-A,AKE-017,Binding post (for ground)
+SA-8500,Integrated Amplifier,AKN-008-0,AKN-008,Phone jack (PHONES)
+SA-8500,Integrated Amplifier,AKP-005-0,AKP-005,AC socket (KCU)
+SA-8500,Integrated Amplifier,AKP-007-A,AKP-007,Connector (DIN type 5P)
+SA-8500,Integrated Amplifier,AKP-008-0,AKP-008,"Connector socket (AC inlet, GN)"
+SA-8500,Integrated Amplifier,AKR-027-0,AKR-027,"Fuse holder (With line voltage selector, FV)"
+SA-8500,Integrated Amplifier,ANB-329-A,ANB-329,Front panel assembly
+SA-8500,Integrated Amplifier,ASD-029-0,ASD-029,Rotary switch (MODE)
+SA-8500,Integrated Amplifier,ASD-036-0,ASD-036,Rotary (FUNCTION)
+SA-8500,Integrated Amplifier,ASD-038-0,ASD-038,Rotary switch (SPEAKERS)
+SA-8500,Integrated Amplifier,ASK-066-0,ASK-066,"Lever switch (POWER, KCU)"
+SA-8500,Integrated Amplifier,ASK-068-0,ASK-068,"Lever switch (POWER, FV, GN)"
+SA-8500,Integrated Amplifier,ASK-086-B,ASK-086,"Lever switch (DUPLICATE,MONITOR)"
+SA-8500,Integrated Amplifier,ASK-090-A,ASK-090,"Lever switch (LOUDNESS,MUTING)"
+SA-8500,Integrated Amplifier,ASK-090-A,ASK-090,Lever switch (TONE)
+SA-8500,Integrated Amplifier,ASK-091-B,ASK-091,"Lever switch (LOW FILTER, HIGH FILTER)"
+SA-8500,Integrated Amplifier,ASR-010-0,ASR-010,Relay
+SA-8500,Integrated Amplifier,ATT-232-A,ATT-232,Power transformer (FV)
+SA-8500,Integrated Amplifier,ATT-233-B,ATT-233,Power transformer (GN)
+SA-8500,Integrated Amplifier,ATT-234-A,ATT-234,Power transformer (KCU)
+SA-8500,Integrated Amplifier,AWF-016-A,AWF-016,Equalizer amplifier assembly
+SA-8500,Integrated Amplifier,AWG-034-A,AWG-034,Control amplifier assembly
+SA-8500,Integrated Amplifier,AWH-042-0,AWH-042,Power amplifier assembly
+SA-8500,Integrated Amplifier,AWS-083-D,AWS-083,Switch circuit assembly (KCU/FV)
+SA-8500,Integrated Amplifier,AWS-085-B,AWS-085,Switch circuit assembly (GN)
+SA-8500,Integrated Amplifier,K72-020-0,K72-020,Phone jack (MIC)
+SA-8500II,Integrated Amplifier,2SB617A/A/-R or Q,2SB617A/A/-R or Q,Transistor
+SA-8500II,Integrated Amplifier,2SD587A/A/-R or Q,2SD587A/A/-R or Q,Transistor
+SA-8500II,Integrated Amplifier,AAB-114,AAB-114,Knob (VOLUME)
+SA-8500II,Integrated Amplifier,AAB-115,AAB-115,Knob (FUNCTION)
+SA-8500II,Integrated Amplifier,AAB-116,AAB-116,Knob (BALANCE)
+SA-8500II,Integrated Amplifier,AAB-116,AAB-116,Knob (BASS)
+SA-8500II,Integrated Amplifier,AAB-116,AAB-116,Knob (MODE)
+SA-8500II,Integrated Amplifier,AAB-116,AAB-116,Knob (SPEAKERS)
+SA-8500II,Integrated Amplifier,AAB-116,AAB-116,Knob (TREBLE)
+SA-8500II,Integrated Amplifier,AAB-117,AAB-117,Knob (CARTRIDGE LOAD)
+SA-8500II,Integrated Amplifier,AAD-117,AAD-117,Knob (FILTER)
+SA-8500II,Integrated Amplifier,AAD-117,AAD-117,Knob (LOUDNESS)
+SA-8500II,Integrated Amplifier,AAD-117,AAD-117,Knob (MUTING)
+SA-8500II,Integrated Amplifier,AAD-117,AAD-117,Knob (POWER)
+SA-8500II,Integrated Amplifier,AAD-117,AAD-117,Knob (TAPE)
+SA-8500II,Integrated Amplifier,AAD-117,AAD-117,Knob (TONE)
+SA-8500II,Integrated Amplifier,ABN-024,ABN-024,Washer faced nut M9
+SA-8500II,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V
+SA-8500II,Integrated Amplifier,ACH-064,ACH-064,Electrolytic 10000 50V
+SA-8500II,Integrated Amplifier,ACH-064,ACH-064,Electrolytic 10000 50V
+SA-8500II,Integrated Amplifier,ACH-064,ACH-064,Electrolytic 10000 50V
+SA-8500II,Integrated Amplifier,ACH-064,ACH-064,Electrolytic 10000 50V
+SA-8500II,Integrated Amplifier,ACH-064,ACH-064,"Electrolytic capacitor 10,000uF 50V"
+SA-8500II,Integrated Amplifier,ACV-136,ACV-136,Variable resistor (BASS)
+SA-8500II,Integrated Amplifier,ACV-136,ACV-136,Variable resistor (TREBLE)
+SA-8500II,Integrated Amplifier,ACV-171,ACV-171,Variable resisior (VOLUME)
+SA-8500II,Integrated Amplifier,ACV-172,ACV-172,Variable resistor (BALANCE)
+SA-8500II,Integrated Amplifier,ADG-005,ADG-005,AC power cord-KC
+SA-8500II,Integrated Amplifier,ADG-005,ADG-005,AC power cord-KU
+SA-8500II,Integrated Amplifier,ADG-017,ADG-017,AC power cord-S
+SA-8500II,Integrated Amplifier,AEB-092,AEB-092,Rubber bracket
+SA-8500II,Integrated Amplifier,AEL-081,AEL-081,"Lamp with leads 8V, 50mA"
+SA-8500II,Integrated Amplifier,AHD-430,AHD-430,Packing case-KU
+SA-8500II,Integrated Amplifier,AHD-430,AHD-430,Packing case-S
+SA-8500II,Integrated Amplifier,AHD-431,AHD-431,Packing case-KC
+SA-8500II,Integrated Amplifier,AHD-432,AHD-432,Packing case-HG
+SA-8500II,Integrated Amplifier,AKB-027,AKB-027,Terminal (PHONO)
+SA-8500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (PRE/POWER AMP)
+SA-8500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE 1)
+SA-8500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE 2)
+SA-8500II,Integrated Amplifier,AKB-036,AKB-036,Terminal (TUNER/AUX)
+SA-8500II,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-8500II,Integrated Amplifier,AKE-030,AKE-030,Screw for ground (GND)
+SA-8500II,Integrated Amplifier,AKN-008,AKN-008,Phone jack (PHONES)
+SA-8500II,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLETS)
+SA-8500II,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLETS-KC)
+SA-8500II,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLETS-KU)
+SA-8500II,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLETS-S)
+SA-8500II,Integrated Amplifier,AKP-008,AKP-008,Recessed plug (AC INLET-HG)
+SA-8500II,Integrated Amplifier,AKR-031,AKR-031,Plug in selector (4-position line voltage selector (110V/120V/220V/240V) with fuse holder-S)
+SA-8500II,Integrated Amplifier,AKX-037,AKX-037,Plug in selector (2-position line voltage selector (220V/240V)-HG)
+SA-8500II,Integrated Amplifier,ANB-481,ANB-481,Front panel
+SA-8500II,Integrated Amplifier,ARB-205,ARB-205,Operating instructions  SA-8500II (English-KC)
+SA-8500II,Integrated Amplifier,ARB-205,ARB-205,Operating instructions  SA-8500II (English-KU)
+SA-8500II,Integrated Amplifier,ARB-216,ARB-216,Operating instructions  SA-8500II (English-HG)
+SA-8500II,Integrated Amplifier,ARB-216,ARB-216,Operating instructions  SA-8500II (English-S)
+SA-8500II,Integrated Amplifier,ARD-106,ARD-106,Operating instructions  SA-8500II (German/French-HG)
+SA-8500II,Integrated Amplifier,ART-207,ART-207,"Service manual SA-8500II Additional (S, HG, KC)"
+SA-8500II,Integrated Amplifier,ASD-052,ASD-052,Rotary switch (FUNCTION)
+SA-8500II,Integrated Amplifier,ASD-053,ASD-053,Rotary switch (MODE)
+SA-8500II,Integrated Amplifier,ASD-054,ASD-054,Rotary switch (SPEAKERS)
+SA-8500II,Integrated Amplifier,ASD-056,ASD-056,Rotary switch (TREBLE TURNOVER)
+SA-8500II,Integrated Amplifier,ASD-057,ASD-057,Rotary switch (BASS TURNOVER)
+SA-8500II,Integrated Amplifier,ASD-065 (ASD-055),ASD-065 (ASD-055),Rotary switch (CARTRIDGE LOAD)
+SA-8500II,Integrated Amplifier,ASK-109,ASK-109,Lever switch (TONE)
+SA-8500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (HIGH FILTER)
+SA-8500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (LOUDNESS)
+SA-8500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (LOW FILTER)
+SA-8500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (MUTING)
+SA-8500II,Integrated Amplifier,ASK-113,ASK-113,Lever switch (TAPE DUPLICATE)
+SA-8500II,Integrated Amplifier,ASK-113,ASK-113,Lever switch (TAPE MONITOR)
+SA-8500II,Integrated Amplifier,ASK-124,ASK-124,Lever switch (POWER-KC)
+SA-8500II,Integrated Amplifier,ASK-124,ASK-124,Lever switch (POWER-KU)
+SA-8500II,Integrated Amplifier,ASK-127,ASK-127,Lever switch (POWER-HG)
+SA-8500II,Integrated Amplifier,ASK-128,ASK-128,Lever switch (POWER-S)
+SA-8500II,Integrated Amplifier,ATT-366,ATT-366,Power transformer (L-KU)
+SA-8500II,Integrated Amplifier,ATT-367,ATT-367,Power transformer (R-KU)
+SA-8500II,Integrated Amplifier,ATT-368,ATT-368,Power transformer (L-KC)
+SA-8500II,Integrated Amplifier,ATT-369,ATT-369,Power transformer (R-KC)
+SA-8500II,Integrated Amplifier,ATT-370,ATT-370,Power transformer (L-HG)
+SA-8500II,Integrated Amplifier,ATT-371,ATT-371,Power transformer (R-HG)
+SA-8500II,Integrated Amplifier,ATT-372,ATT-372,Power transformer (L-S)
+SA-8500II,Integrated Amplifier,ATT-373,ATT-373,Power transformer (R-S)
+SA-8500II,Integrated Amplifier,AWF-023,AWF-023,Equalizer amplifier assembly
+SA-8500II,Integrated Amplifier,AWG-044,AWG-044,Control amplifier assembly
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-KC
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-KU
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-S
+SA-8500II,Integrated Amplifier,AWH-061,AWH-061,Power amplifier assembly-HG
+SA-8500II,Integrated Amplifier,AWS-108,AWS-108,Switch assembly-KU
+SA-8500II,Integrated Amplifier,AWS-110,AWS-110,Switch assembly-KC
+SA-8500II,Integrated Amplifier,AWS-112,AWS-112,Switch assembly-HG
+SA-8500II,Integrated Amplifier,AWS-113,AWS-113,Switch assembly-S
+SA-8500II,Integrated Amplifier,AWX-062,AWX-062,5P connector assembly-HG
+SA-8500II,Integrated Amplifier,AWX-062,AWX-062,5P connector assembly-S
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-8800,Integrated Amplifier,2SA1075/A/-G,2SA1075/A/,Transistor
+SA-8800,Integrated Amplifier,2SA1075/A/-G,2SA1075/A/,Transistor
+SA-8800,Integrated Amplifier,2SA1075/A/-G,2SA1075/A/,Transistor
+SA-8800,Integrated Amplifier,2SA1075/A/-G,2SA1075/A/,Transistor
+SA-8800,Integrated Amplifier,2SC2525/A/-G,2SC2525/A/,Transistor
+SA-8800,Integrated Amplifier,2SC2525/A/-G,2SC2525/A/,Transistor
+SA-8800,Integrated Amplifier,2SC2525/A/-G,2SC2525/A/,Transistor
+SA-8800,Integrated Amplifier,2SC2525/A/-G,2SC2525/A/,Transistor
+SA-8800,Integrated Amplifier,AAB-194,AAB-194,Knob (VOLUME)
+SA-8800,Integrated Amplifier,AAB-195,AAB-195,Knob (FUNCTION)
+SA-8800,Integrated Amplifier,AAB-196,AAB-196,Knob (BALANCE)
+SA-8800,Integrated Amplifier,AAB-196,AAB-196,"Knob (BASS, TREBLE)"
+SA-8800,Integrated Amplifier,AAB-196,AAB-196,"Knob (MODE, CARTRIDGE LOAD)"
+SA-8800,Integrated Amplifier,AAB-196,AAB-196,Knob (SPEAKERS)
+SA-8800,Integrated Amplifier,AAD-172,AAD-172,Knob (FlLTER)
+SA-8800,Integrated Amplifier,AAD-172,AAD-172,"Knob (LOUDNESS, MUTING)"
+SA-8800,Integrated Amplifier,AAD-172,AAD-172,Knob (POWER)
+SA-8800,Integrated Amplifier,AAD-172,AAD-172,Knob (TAPE)
+SA-8800,Integrated Amplifier,AAD-172,AAD-172,Knob (TONE)
+SA-8800,Integrated Amplifier,AAV-002,AAV-002,Fluorescent indicator tube
+SA-8800,Integrated Amplifier,ABN-024,ABN-024,Nut M9
+SA-8800,Integrated Amplifier,ACG-003,ACG-003,Ceramic capacitor (0.01 uF 125V)
+SA-8800,Integrated Amplifier,ACH-209,ACH-209,"Electrolytic capacitor (12,000uF 63V)"
+SA-8800,Integrated Amplifier,ACV 199,ACV 199,Variable resistor (TREBLE)
+SA-8800,Integrated Amplifier,ACV-187,ACV-187,Variable resistor (BALANCE)
+SA-8800,Integrated Amplifier,ACV-198,ACV-198,Variable resistor (BASS)
+SA-8800,Integrated Amplifier,ACW-113,ACW-113,Variable resistor (VOLUME)
+SA-8800,Integrated Amplifier,ADG-023 (ADG-022),ADG-023 (ADG-022),AC power cord
+SA-8800,Integrated Amplifier,AEK-109,AEK-109,Fuse (6A)
+SA-8800,Integrated Amplifier,AEK-111,AEK-111,Fuse (0.8A)
+SA-8800,Integrated Amplifier,AEL-047,AEL-047,Lamp with wires
+SA-8800,Integrated Amplifier,AKB-035,AKB-035,Terminal (PRE/POWER AMP)
+SA-8800,Integrated Amplifier,AKB-054,AKB-054,Terminal (PHONO)
+SA-8800,Integrated Amplifier,AKB-054,AKB-054,Terminal (TAPE 1)
+SA-8800,Integrated Amplifier,AKB-054,AKB-054,Terminal (TAPE 2)
+SA-8800,Integrated Amplifier,AKB-054,AKB-054,"Terminal (TUNER, AUX)"
+SA-8800,Integrated Amplifier,AKE-038,AKE-038,Terminal (SPEAKERS)
+SA-8800,Integrated Amplifier,AKN-023,AKN-023,Phone jack (PHONES)
+SA-8800,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLETS)
+SA-8800,Integrated Amplifier,AMM-077,AMM-077,Wooden Bonnet
+SA-8800,Integrated Amplifier,ANB-685,ANB-685,Front panel
+SA-8800,Integrated Amplifier,ASB-102,ASB-102,Rotary switch (SPEAKERS)
+SA-8800,Integrated Amplifier,ASD-114,ASD-114,Rotary switch (FUNCTION)
+SA-8800,Integrated Amplifier,ASE-102,ASE-102,Rotary switch (MODE)
+SA-8800,Integrated Amplifier,ASE-103,ASE-103,Rotary switch (CARTRIDGE LOAD)
+SA-8800,Integrated Amplifier,ASH-018,ASH-018,Slide switch (PHONO INTERFERENCE FILTER)
+SA-8800,Integrated Amplifier,ASH-033 (ASR-023),ASH-033 (ASR-023),Relay
+SA-8800,Integrated Amplifier,ASK-109,ASK-109,Lever switch (FILTER)
+SA-8800,Integrated Amplifier,ASK-109,ASK-109,Lever switch (LOUDNESS)
+SA-8800,Integrated Amplifier,ASK-110,ASK-110,Lever switch (MUTING)
+SA-8800,Integrated Amplifier,ASK-110,ASK-110,Lever switch (TONE)
+SA-8800,Integrated Amplifier,ASK-113,ASK-113,Lever switch (TAPE)
+SA-8800,Integrated Amplifier,ASK-124,ASK-124,"Lever switch (POWER - KU, KC)"
+SA-8800,Integrated Amplifier,ASK-128,ASK-128,"Lever switch (POWER - S,S/G)"
+SA-8800,Integrated Amplifier,ATT-563,ATT-563,Power transformer (KU)
+SA-8800,Integrated Amplifier,ATT-564,ATT-564,Power transformer (KC)
+SA-8800,Integrated Amplifier,ATT-565,ATT-565,Power transformer (S/G)
+SA-8800,Integrated Amplifier,ATT-580,ATT-580,Power transformer (S)
+SA-8800,Integrated Amplifier,AWR-182,AWR-182,Power supply assembly (KU)
+SA-8800,Integrated Amplifier,AWR-193,AWR-193,Power supply assembly (S)
+SA-8800,Integrated Amplifier,AWR-193,AWR-193,Power supply assembly (S/G)
+SA-8800,Integrated Amplifier,AWR-198,AWR-198,Power supply assembly (KC)
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (KC)
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (S)
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (S/G)
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (KU)
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (S)
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (S/G)
+SA-8800,Integrated Amplifier,AWV-003,AWV-003,lndlcator assembly (KC)
+SA-8800,Integrated Amplifier,GWF-113,GWF-113,EQ assembly (KU)
+SA-8800,Integrated Amplifier,GWF-117,GWF-117,EQ assembly (S)
+SA-8800,Integrated Amplifier,GWF-117,GWF-117,EQ assembly (S/G)
+SA-8800,Integrated Amplifier,GWF-119,GWF-119,EQ assembly (KC)
+SA-8800,Integrated Amplifier,GWG-122,GWG-122,TC assembly (KU)
+SA-8800,Integrated Amplifier,GWG-125,GWG-125,TC assembly (KC)
+SA-8800,Integrated Amplifier,GWG-125,GWG-125,TC assembly (S)
+SA-8800,Integrated Amplifier,GWG-125,GWG-125,TC assembly (S/G)
+SA-8800,Integrated Amplifier,GWH-115,GWH-115,PA assembly (KU)
+SA-8800,Integrated Amplifier,GWH-124,GWH-124,PA assembly (KC)
+SA-8800,Integrated Amplifier,GWH-124,GWH-124,PA assembly (S)
+SA-8800,Integrated Amplifier,GWH-124,GWH-124,PA assembly (S/G)
+SA-8800,Integrated Amplifier,GWS-164,GWS-164,Filler assembly (KU)
+SA-8800,Integrated Amplifier,GWS-177,GWS-177,Filler assembly (KC)
+SA-8800,Integrated Amplifier,GWS-177,GWS-177,Filler assembly (S)
+SA-8800,Integrated Amplifier,GWS-177,GWS-177,Filler assembly (S/G)
+SA-8800,Integrated Amplifier,GWX-242,GWX-242,Terminal assembly (KU)
+SA-8800,Integrated Amplifier,GWX-243,GWX-243,VR assembly (KU)
+SA-8800,Integrated Amplifier,GWX-244,GWX-244,Phones jack assembly (KU)
+SA-8800,Integrated Amplifier,GWX-274,GWX-274,Terminal assembly (S)
+SA-8800,Integrated Amplifier,GWX-274,GWX-274,Terminal assembly (S/G)
+SA-8800,Integrated Amplifier,GWX-275,GWX-275,VR assembly (KC)
+SA-8800,Integrated Amplifier,GWX-275,GWX-275,VR assembly (S)
+SA-8800,Integrated Amplifier,GWX-275,GWX-275,VR assembly (S/G)
+SA-8800,Integrated Amplifier,GWX-276,GWX-276,Phones jack assembly (KC)
+SA-8800,Integrated Amplifier,GWX-276,GWX-276,Phones jack assembly (S)
+SA-8800,Integrated Amplifier,GWX-276,GWX-276,Phones jack assembly (S/G)
+SA-8800,Integrated Amplifier,GWX-290,GWX-290,Terminal assembly (KC)
+SA-900,Integrated Amplifier,A12-065-0,A12-065,"Knob, Tape Monitor. Muting"
+SA-900,Integrated Amplifier,A12-120-A,A12-120,"Knob, Bass, Treble (L,R)"
+SA-900,Integrated Amplifier,A12-142-B,A12-142,"Knob, Volume. Selector. Mode"
+SA-900,Integrated Amplifier,A12-144-A,A12-144,"Knob, Balance, Speaker Selector, Power"
+SA-900,Integrated Amplifier,A19-077-0,A19-077,"Knob, Loudness, Low ﬁlter, High filter"
+SA-900,Integrated Amplifier,A62-045-0,A62-045,Lens for Pilot Lamp
+SA-900,Integrated Amplifier,B11-005-A,B11-005,"Screw, to fix Metal case"
+SA-900,Integrated Amplifier,C85-048-B,C85-048,500K Dual BALANCE Control
+SA-900,Integrated Amplifier,C85-054-0,C85-054,500K Dual VOLUME Control
+SA-900,Integrated Amplifier,E21-006-0,E21-006,Fuse 3A
+SA-900,Integrated Amplifier,E21-012-0,E21-012,Fuse 1.5A
+SA-900,Integrated Amplifier,E22-006-0,E22-006,Pilot Lamp
+SA-900,Integrated Amplifier,K21-005-C,K21-005,Terminal 1p
+SA-900,Integrated Amplifier,K21-009-C,K21-009,Terminal 2p
+SA-900,Integrated Amplifier,K22-010-A,K22-010,Terminal 4p
+SA-900,Integrated Amplifier,K22-013-C,K22-013,Terminal 6p
+SA-900,Integrated Amplifier,K32-007-B,K32-007,Spare A.C Outlet
+SA-900,Integrated Amplifier,K42-003-0,K42-003,Pilot Lamp Socket
+SA-900,Integrated Amplifier,K72-007-B,K72-007,Speaker Plug
+SA-900,Integrated Amplifier,K72-021-0,K72-021,Headphone Jack
+SA-900,Integrated Amplifier,K72-024-0,K72-024,Jack for microphone
+SA-900,Integrated Amplifier,K91-005-0,K91-005,Fuse Holder
+SA-900,Integrated Amplifier,K93-003-B,K93-003,Tape REC/P.B Connector
+SA-900,Integrated Amplifier,M21-269-B,M21-269,Front Panel
+SA-900,Integrated Amplifier,M33-113-A,M33-113,Metal case
+SA-900,Integrated Amplifier,M61-017-0,M61-017,Foot
+SA-900,Integrated Amplifier,R12-029-A,R12-029,Service Manual & Operating Instructions SA-900
+SA-900,Integrated Amplifier,S11-018-0,S11-018,LINE VOLTAGE Selector
+SA-900,Integrated Amplifier,S11-024-0,S11-024,POWER Switch
+SA-900,Integrated Amplifier,S12-011-0,S12-011,SPEAKER Selector
+SA-900,Integrated Amplifier,S13-025-0,S13-025,INPUT Selector
+SA-900,Integrated Amplifier,S14-035-1,S14-035,MODE Selector
+SA-900,Integrated Amplifier,S15-033-A,S15-033,BASS Control Switch (L)
+SA-900,Integrated Amplifier,S15-033-A,S15-033,BASS Control Switch (R)
+SA-900,Integrated Amplifier,S15-034-A,S15-034,TREBLE Control Switch (L)
+SA-900,Integrated Amplifier,S15-034-A,S15-034,TREBLE Control Switch (R)
+SA-900,Integrated Amplifier,S41-025-0,S41-025,SLIDE Switch
+SA-900,Integrated Amplifier,S41-025-0,S41-025,SLlDE Switch
+SA-900,Integrated Amplifier,S42-006-A,S42-006,MUTING Switch
+SA-900,Integrated Amplifier,S42-006-A,S42-006,TAPE MONITOR Swltch
+SA-900,Integrated Amplifier,T52-148-B,T52-148,Power Transformer
+SA-900,Integrated Amplifier,W15-050-0,W15-050,CONTROL AMP Unit
+SA-900,Integrated Amplifier,W15-052-A,W15-052,MAIN AMP Unit
+SA-900,Integrated Amplifier,W15-056-A,W15-056,HEAD AMP Unit
+SA-900,Integrated Amplifier,W15-058-0,W15-058,MC AMP Unit
+SA-900,Integrated Amplifier,W15-059-0,W15-059,FILTER Unit
+SA-900,Integrated Amplifier,W15-069-0,W15-069,DE-EMPHASIS SWITCH Unit
+SA-900,Integrated Amplifier,W16-017-0,W16-017,POWER SUPPLY Unit
+SA-9100,Integrated Amplifier,AAB-040-0,AAB-040,KNOB FOR FUNCTION
+SA-9100,Integrated Amplifier,AAB-041-0,AAB-041,KNOB FOR BALANCE
+SA-9100,Integrated Amplifier,AAB-041-0,AAB-041,KNOB FOR MODE
+SA-9100,Integrated Amplifier,AAB-042-0,AAB-042,KNOB FOR BASS 100HZ)
+SA-9100,Integrated Amplifier,AAB-042-0,AAB-042,KNOB FOR SPEAKERS
+SA-9100,Integrated Amplifier,AAB-042-0,AAB-042,KNOB FOR TREBLE (10kHZ)
+SA-9100,Integrated Amplifier,AAB-043-0,AAB-043,KNOB FOR BASS (50Hz)
+SA-9100,Integrated Amplifier,AAB-043-0,AAB-043,KNOB FOR TREBLE (20kHz)
+SA-9100,Integrated Amplifier,AAB-044-0,AAB-044,KNOB FOR LEVEL SET (VOLUME)
+SA-9100,Integrated Amplifier,AAB-046-A,AAB-046,Knob for level control
+SA-9100,Integrated Amplifier,AAD-040-B,AAD-040,KNOB FOR LEVER SWITCHES
+SA-9100,Integrated Amplifier,ACH-020-0,ACH-020,Electrolytic capacitor 15000 uF 50V
+SA-9100,Integrated Amplifier,ACH-020-0,ACH-020,Electrolytic capacitor 15000 uF 50V
+SA-9100,Integrated Amplifier,ACT-104-0,ACT-104,Level control (100k-B2 x 2) AUX 2
+SA-9100,Integrated Amplifier,ACT-104-0,ACT-104,Level control (100k-B2 x 2) SPEAKER B
+SA-9100,Integrated Amplifier,ACT-302-A,ACT-302,Level control (10k-B2 x 2 / 2.2k-B2 x 2)  PHONO 2
+SA-9100,Integrated Amplifier,ACV-111-A,ACV-111,Balance control 250k-HB
+SA-9100,Integrated Amplifier,ADG-003-0,ADG-003,AC power cord for KUW model
+SA-9100,Integrated Amplifier,ADG-004-0,ADG-004,AC power cord for FVW model
+SA-9100,Integrated Amplifier,AEB-019-3,AEB-019,Boss
+SA-9100,Integrated Amplifier,AEB-030-0,AEB-030,Cushion
+SA-9100,Integrated Amplifier,AEC-004-0,AEC-004,Wire clip-A
+SA-9100,Integrated Amplifier,AEC-024-0,AEC-024,Wire clip-0
+SA-9100,Integrated Amplifier,AEC-043-A,AEC-043,Foot
+SA-9100,Integrated Amplifier,AEC-079-0,AEC-079,AC cord stopper
+SA-9100,Integrated Amplifier,AEC-086-0,AEC-086,Switch stopper
+SA-9100,Integrated Amplifier,AED-018-0,AED-018,Light shade
+SA-9100,Integrated Amplifier,AEK-004-0,AEK-004,Fuse 1A (protection) for KUW model
+SA-9100,Integrated Amplifier,AEK-020-0,AEK-020,Fuse 2.5A (AC power) for FVW model
+SA-9100,Integrated Amplifier,AEK-022-0,AEK-022,Fuse 1A (protection) for FVW model
+SA-9100,Integrated Amplifier,AEK-025-0,AEK-025,Fuse 4A (AC power) for KUW model
+SA-9100,Integrated Amplifier,AEL-007-0,AEL-007,Pilot lamp for indicator
+SA-9100,Integrated Amplifier,AEL-014-0,AEL-014,Pilot lamp for protection
+SA-9100,Integrated Amplifier,AHD-138-0,AHD-138,Packing case for FVW model
+SA-9100,Integrated Amplifier,AHD-139-A,AHD-139,Packing case for KUW model
+SA-9100,Integrated Amplifier,AKB-014-0,AKB-014,Four-fold phono jack-A
+SA-9100,Integrated Amplifier,AKB-014-0,AKB-014,Four-fold phono jack-A
+SA-9100,Integrated Amplifier,AKB-015-0,AKB-015,Four-fold phono Jack-B
+SA-9100,Integrated Amplifier,AKB-017-0,AKB-017,Six fold phono jack-B
+SA-9100,Integrated Amplifier,AKC-015-0,AKC-015,2P terminal strip
+SA-9100,Integrated Amplifier,AKC-021 -0,AKC-021 ,4P terminal strip
+SA-9100,Integrated Amplifier,AKC-021-0,AKC-021,4P terminal strip
+SA-9100,Integrated Amplifier,AKE-012-A,AKE-012,Screw for grounding
+SA-9100,Integrated Amplifier,AKE-013-0,AKE-013,Speaker terminal board (triple type)
+SA-9100,Integrated Amplifier,AKP-002-0,AKP-002,Spare AC outlet for KUW model
+SA-9100,Integrated Amplifier,AKP-005-0,AKP-005,Spare AC outlet for FVW model
+SA-9100,Integrated Amplifier,AKR-001-0,AKR-001,Fuse holder for FVW model
+SA-9100,Integrated Amplifier,AKR-008-0,AKR-008,Fuse holder for KUW model
+SA-9100,Integrated Amplifier,AMM-022-A,AMM-022,Wooden case
+SA-9100,Integrated Amplifier,ANA-036-B,ANA-036,Chassis
+SA-9100,Integrated Amplifier,ANB-180-A,ANB-180,FRONT PANEL ASS'Y
+SA-9100,Integrated Amplifier,ANC-074-0,ANC-074,Rear panel
+SA-9100,Integrated Amplifier,ANH-119-0,ANH-119,Rear shield cover
+SA-9100,Integrated Amplifier,ANH-133-0,ANH-133,Front shield cover
+SA-9100,Integrated Amplifier,ANH-138-0,ANH-138,Shield board
+SA-9100,Integrated Amplifier,ANH-148-0,ANH-148,Shield cover
+SA-9100,Integrated Amplifier,ASB-022-A,ASB-022,Selector switch (MODE)
+SA-9100,Integrated Amplifier,ASB-024-B,ASB-024,LEVEL SET switch with VOLUME
+SA-9100,Integrated Amplifier,ASB-025-A,ASB-025,Selector switch (FUNCTION)
+SA-9100,Integrated Amplifier,ASB-026-A,ASB-026,Selector switch (SPEAKERS)
+SA-9100,Integrated Amplifier,ASC-042-A,ASC-042,Selector switch (TREBLE 10kHZ)
+SA-9100,Integrated Amplifier,ASC-043-A,ASC-043,Selector switch (BASS 100Hz)
+SA-9100,Integrated Amplifier,ASC-044-A,ASC-044,Selector switch (TREBLE 20kHz)
+SA-9100,Integrated Amplifier,ASC-045-A,ASC-045,Selector switch (BASS 50Hz)
+SA-9100,Integrated Amplifier,ASH-006-0,ASH-006,Slide switch (PRE/POWER)
+SA-9100,Integrated Amplifier,ASH-007-0,ASH-007,Slide switch (PHONO 2 IMP)
+SA-9100,Integrated Amplifier,ASK-034-0,ASK-034,Lever switch (TAPE MONITOR)
+SA-9100,Integrated Amplifier,ASK-036-0,ASK-036,Lever switch (DUPLICATE)
+SA-9100,Integrated Amplifier,ASK-039-0,ASK-039,Lever switch (POWER) for KUW model
+SA-9100,Integrated Amplifier,ASK-040-0,ASK-040,Lever switch (POWER) for FVW model
+SA-9100,Integrated Amplifier,ASR-003-0,ASR-003,Relay
+SA-9100,Integrated Amplifier,ATT-107-0,ATT-107,Power transformer for KUW model
+SA-9100,Integrated Amplifier,ATT-108-0,ATT-108,Power transformer for FVW model
+SA-9100,Integrated Amplifier,AWF-007-0,AWF-007,Equalizer amp ass'y
+SA-9100,Integrated Amplifier,AWG-018-A,AWG-018,Control amp ass‘v
+SA-9100,Integrated Amplifier,AWH-023-B,AWH-023,Power amp ass'v
+SA-9100,Integrated Amplifier,AWH-023-B,AWH-023,Power amp ass’y
+SA-9100,Integrated Amplifier,AWK-021-0,AWK-021,Filter amp ass'y
+SA-9100,Integrated Amplifier,AWM-025-A,AWM-025,Protection circuit ass'y
+SA-9100,Integrated Amplifier,AWR-031-0,AWR-031,Power supply circuit-A ass'y
+SA-9100,Integrated Amplifier,AWR-032-0,AWR-032,Power supply circuit-B ass’y
+SA-9100,Integrated Amplifier,AWS-038-0,AWS-038,Switch-A ass'y
+SA-9100,Integrated Amplifier,AWS-039-0,AWS-039,Switch-B ass’y
+SA-9100,Integrated Amplifier,AWS-040-0,AWS-040,Switch-C ass'y
+SA-9100,Integrated Amplifier,AWX-048-0,AWX-048,Volume ass'y
+SA-9100,Integrated Amplifier,E21-033-0,E21-033,Fuse 1A (protection) for KUW model
+SA-9100,Integrated Amplifier,E21-034-A,E21-034,Fuse 1A (Protection) for FVW model
+SA-9100,Integrated Amplifier,H11-070-0,H11-070,Styrotector
+SA-9100,Integrated Amplifier,K13-047-0,K13-047,4P ground terminal
+SA-9100,Integrated Amplifier,K72-024-0,K72-024,Microphone jack
+SA-9100,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-9100,Integrated Amplifier,K93-003-B,K93-003,5P connector (DIN type)
+SA-930,Integrated Amplifier,AAB-283,AAB-283,"Rotary knob (SPEAKERS, BASS. TREBLE, BALANCE)"
+SA-930,Integrated Amplifier,AAD-417,AAD-417,Push knob A (POWER)
+SA-930,Integrated Amplifier,AAD-418,AAD-418,"Push knob B (SUBSONIC, LOUDNESS, TAPE2/ADAPTOR)"
+SA-930,Integrated Amplifier,AAV-304,AAV-304,LED level meter module
+SA-930,Integrated Amplifier,ABA-115,ABA-115,Tapping screw (for SPEAKERS terminal) - HEZ
+SA-930,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC250V) - HB
+SA-930,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC250V) - HE
+SA-930,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC250V) - HEZ
+SA-930,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC250V) - S/SG
+SA-930,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC250V) - YP
+SA-930,Integrated Amplifier,ACG-017,ACG-017,Ceramic capacitor (0.01/AC125V) - KU
+SA-930,Integrated Amplifier,ACT-148,ACT-148,Variable resistor (BALANCE)
+SA-930,Integrated Amplifier,ACT-149,ACT-149,Variable resistor (BASS)
+SA-930,Integrated Amplifier,ACT-149,ACT-149,Variable resistor (TREBLE)
+SA-930,Integrated Amplifier,ACX-109,ACX-109,Variable resistor (VOLUME)
+SA-930,Integrated Amplifier,ADG-052,ADG-052,AC power cord - KU
+SA-930,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S/SG
+SA-930,Integrated Amplifier,ADG-063,ADG-063,AC power cord - HB
+SA-930,Integrated Amplifier,ADG-065,ADG-065,AC power cord - HE
+SA-930,Integrated Amplifier,ADG-065,ADG-065,AC power cord - HEZ
+SA-930,Integrated Amplifier,ADG-067,ADG-067,AC power cord - YP
+SA-930,Integrated Amplifier,AEC-327,AEC-327,Strain relief - KU
+SA-930,Integrated Amplifier,AEK-017,AEK-017,Fuse (T2A) - HB
+SA-930,Integrated Amplifier,AEK-017,AEK-017,Fuse (T2A) - HE
+SA-930,Integrated Amplifier,AEK-017,AEK-017,Fuse (T2A) - HEZ
+SA-930,Integrated Amplifier,AEK-017,AEK-017,Fuse (T2A) - YP
+SA-930,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S/SG
+SA-930,Integrated Amplifier,AEK-308,AEK-308,Fuse (5A)
+SA-930,Integrated Amplifier,AEK-308,AEK-308,Fuse (5A) - KU
+SA-930,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HE
+SA-930,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HEZ
+SA-930,Integrated Amplifier,AEL-157,AEL-157,Lamp assembly
+SA-930,Integrated Amplifier,AEL-369,AEL-369,LED (FUNCTION)
+SA-930,Integrated Amplifier,AEL-370,AEL-370,LED
+SA-930,Integrated Amplifier,AHA-298,AHA-298,Front rear pad
+SA-930,Integrated Amplifier,AHE-024,AHE-024,Packing case - KU
+SA-930,Integrated Amplifier,AHE-039,AHE-039,Packing case - HB
+SA-930,Integrated Amplifier,AHE-039,AHE-039,Packing case - HE
+SA-930,Integrated Amplifier,AHE-039,AHE-039,Packing case - HEZ
+SA-930,Integrated Amplifier,AHE-039,AHE-039,Packing case - S/SG
+SA-930,Integrated Amplifier,AHE-039,AHE-039,Packing case - YP
+SA-930,Integrated Amplifier,AKB-077,AKB-077,Terminal (PHONES)
+SA-930,Integrated Amplifier,AKB-078,AKB-078,Terminal (TAPE1)
+SA-930,Integrated Amplifier,AKB-078,AKB-078,Terminal (TAPE2/ADAPTOR)
+SA-930,Integrated Amplifier,AKB-079,AKB-079,Terminal (PHONO/TUNER/AUX)
+SA-930,Integrated Amplifier,AKE-102,AKE-102,Terminal (SPEAKERS)
+SA-930,Integrated Amplifier,AKN-034,AKN-034,"Terminal (PHONO,TUNER, TAPE 1)"
+SA-930,Integrated Amplifier,AKN-041,AKN-041,Headphone jack
+SA-930,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS)
+SA-930,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - KU
+SA-930,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - S/SG
+SA-930,Integrated Amplifier,AKP-502,AKP-502,AC socket (AC OUTLETS) - HE
+SA-930,Integrated Amplifier,AKP-502,AKP-502,AC socket (AC OUTLETS) - HEZ
+SA-930,Integrated Amplifier,AKP-503,AKP-503,AC socket (AC OUTLETS) - HB
+SA-930,Integrated Amplifier,AKX-063,AKX-063,Voltage selector switch - S/SG
+SA-930,Integrated Amplifier,ANE-353,ANE-353,Bonnet case
+SA-930,Integrated Amplifier,ANM-201,ANM-201,Front panel assembly
+SA-930,Integrated Amplifier,ARB-474,ARB-474,Operating instructions (English)  SA-930 - KU
+SA-930,Integrated Amplifier,ARB-479,ARB-479,Operating instructions (English)  SA-930 - HB
+SA-930,Integrated Amplifier,ARB-479,ARB-479,Operating instructions (English)  SA-930 - S/SG
+SA-930,Integrated Amplifier,ARB-479,ARB-479,Operating instructions (English)  SA-930 - YP
+SA-930,Integrated Amplifier,ARC-014,ARC-014,Operating instructions (German)  SA-930 - HEZ
+SA-930,Integrated Amplifier,ARC-021,ARC-021,Operating instructions (Spanish)  SA-930 - S
+SA-930,Integrated Amplifier,ARE-028,ARE-028,Operating instructions (English/German/French/Italian)  SA-930 - HE
+SA-930,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - HB
+SA-930,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - HE
+SA-930,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - HEZ
+SA-930,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - YP
+SA-930,Integrated Amplifier,ASG-539,ASG-539,Push switch (POWER) - KU
+SA-930,Integrated Amplifier,ASG-539,ASG-539,Push switch (POWER) - S/SG
+SA-930,Integrated Amplifier,ASG-803,ASG-803,"Push switch (LOUDNESS, TAPE2/ADAPTOR, SUBSONIC)"
+SA-930,Integrated Amplifier,ASR-102,ASR-102,Relay
+SA-930,Integrated Amplifier,ASX-118,ASX-118,Slide switch (SPEAKERS)
+SA-930,Integrated Amplifier,ASX-189,ASX-189,Rotary switch (SPEAKERS)
+SA-930,Integrated Amplifier,ATT-889,ATT-889,Power transformer (120V) - KU
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HB"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HE"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HEZ"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - YP"
+SA-930,Integrated Amplifier,ATT-891,ATT-891,"Power transformer (110V, 120V, 220V and 240V) - S/SG"
+SA-930,Integrated Amplifier,AWG-080,AWG-080,Control assembly
+SA-930,Integrated Amplifier,AWK-200,AWK-200,AF assembly (HEZ)
+SA-930,Integrated Amplifier,AWK-201,AWK-201,"AF assembly (KU, S, S/G, YP, HE, HB)"
+SA-930,Integrated Amplifier,CQMA 223K 50,CQMA 223K 50,Capacitor - HEZ
+SA-940,Integrated Amplifier,AAB-324,AAB-324,Rotary knob A (VOLUME)
+SA-940,Integrated Amplifier,AAB-325,AAB-325,"Rotary knob B (BASS, TREBLE, BALANCE)"
+SA-940,Integrated Amplifier,AAD-646,AAD-646,"Push knob ass’y C (LOUDNESS, ADAPTOR/TAPE2)"
+SA-940,Integrated Amplifier,AAD-677,AAD-677,"Push knob ass'y A (POWER, SPEAKERS)"
+SA-940,Integrated Amplifier,AAD-694,AAD-694,Push knob ass‘y B (FUNCTION)
+SA-940,Integrated Amplifier,AAV-312,AAV-312,LED level display
+SA-940,Integrated Amplifier,ACE-214,ACE-214,(0.22/AC125V) - KU
+SA-940,Integrated Amplifier,ACE-215,ACE-215,(0.22/AC250V) - HB
+SA-940,Integrated Amplifier,ACE-215,ACE-215,(0.22/AC250V) - HE
+SA-940,Integrated Amplifier,ACE-215,ACE-215,(0.22/AC250V) - S
+SA-940,Integrated Amplifier,ACE-215,ACE-215,(0.22/AC250V) - S/G
+SA-940,Integrated Amplifier,ACG-001,ACG-001,(0.01/AC250V) - S
+SA-940,Integrated Amplifier,ACG-001,ACG-001,(0.01/AC250V) - S/G
+SA-940,Integrated Amplifier,ACG-001,ACG-001,(0.01/AC250V) - YP
+SA-940,Integrated Amplifier,ACG-502,ACG-502,(0.01/AC125V) - KU
+SA-940,Integrated Amplifier,ACH-238,ACH-238,Electrolytic Capacitor (8200/56V)
+SA-940,Integrated Amplifier,ACT-168,ACT-168,Variable resistor 100k (TREBLE)
+SA-940,Integrated Amplifier,ACT-169,ACT-169,Variable resistor 100k (BASS)
+SA-940,Integrated Amplifier,ACT-170,ACT-170,Variable resistor 250k (BALANCE)
+SA-940,Integrated Amplifier,ACT-171,ACT-171,Variable resistor 100k (VOLUME)
+SA-940,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S
+SA-940,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S/G
+SA-940,Integrated Amplifier,ADG-063,ADG-063,AC power cord - HB
+SA-940,Integrated Amplifier,ADG-064,ADG-064,AC power cord - YP
+SA-940,Integrated Amplifier,ADG-068,ADG-068,AC power cord - HE
+SA-940,Integrated Amplifier,ADG-073,ADG-073,AC power cord - KU
+SA-940,Integrated Amplifier,AEC-982,AEC-982,Volume escutcheon
+SA-940,Integrated Amplifier,AEK-017,AEK-017,Fuse (2A) - YP
+SA-940,Integrated Amplifier,AEK-017,AEK-017,Fuse (T2A) - HB
+SA-940,Integrated Amplifier,AEK-017,AEK-017,Fuse (T2A) - HE
+SA-940,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S
+SA-940,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S
+SA-940,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S/G
+SA-940,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S/G
+SA-940,Integrated Amplifier,AEK-308,AEK-308,Fuse (5A) - KU
+SA-940,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HB
+SA-940,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - HE
+SA-940,Integrated Amplifier,AEL-369,AEL-369,LED (ADAPTOR/TAPE2)
+SA-940,Integrated Amplifier,AEL-370,AEL-370,LED (FUNCTION INDICATORS)
+SA-940,Integrated Amplifier,AHA-340,AHA-340,Front rear pad
+SA-940,Integrated Amplifier,AHE-192,AHE-192,Packing case - HB
+SA-940,Integrated Amplifier,AHE-192,AHE-192,Packing case - HE
+SA-940,Integrated Amplifier,AHE-192,AHE-192,Packing case - S
+SA-940,Integrated Amplifier,AHE-192,AHE-192,Packing case - S/G
+SA-940,Integrated Amplifier,AHE-192,AHE-192,Packing case - YP
+SA-940,Integrated Amplifier,AHE-217,AHE-217,Packing case - KU
+SA-940,Integrated Amplifier,AKB-093,AKB-093,Terminal (PHONO)
+SA-940,Integrated Amplifier,AKB-094,AKB-094,"Terminal (TAPE1, ADAPTOR/TAPE2)"
+SA-940,Integrated Amplifier,AKB-095,AKB-095,Terminal (INPUT)
+SA-940,Integrated Amplifier,AKE-105,AKE-105,Terminal (SPEAKERS)
+SA-940,Integrated Amplifier,AKN-045,AKN-045,Phone jack (PHONES)
+SA-940,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - KU
+SA-940,Integrated Amplifier,AKP-502,AKP-502,AC socket (AC OUTLETS) - HE
+SA-940,Integrated Amplifier,AKP-505,AKP-505,AC socket (AC OUTLETS) - HB
+SA-940,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S
+SA-940,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S/G
+SA-940,Integrated Amplifier,ANE-419,ANE-419,Bonnet case
+SA-940,Integrated Amplifier,ANM-395,ANM-395,Front panel ass'y
+SA-940,Integrated Amplifier,ARB-544,ARB-544,Operating instructions  SA-940 (English) - S
+SA-940,Integrated Amplifier,ARB-544,ARB-544,Operating instructions  SA-940 (English) - S/G
+SA-940,Integrated Amplifier,ARB-544,ARB-544,Operating instructions  SA-940(English) - HB
+SA-940,Integrated Amplifier,ARB-544,ARB-544,Operating instructions  SA-940(English) - KU
+SA-940,Integrated Amplifier,ARC-049,ARC-049,Operating instructions  SA-940 (Spanish) - S
+SA-940,Integrated Amplifier,ARE-066,ARE-066,Operating instructions  SA-940 (English/Franch/German/ltalian) - HE
+SA-940,Integrated Amplifier,ARP-298-0,ARP-298,Service manual  SA-940
+SA-940,Integrated Amplifier,ASG-541 (ASG-539),ASG-541 (ASG-539),Push switch (POWER) - KU
+SA-940,Integrated Amplifier,ASG-542,ASG-542,Push switch (POWER) - HB
+SA-940,Integrated Amplifier,ASG-542,ASG-542,Push switch (POWER) - HE
+SA-940,Integrated Amplifier,ASG-542,ASG-542,Push switch (POWER) - YP
+SA-940,Integrated Amplifier,ASG-812,ASG-812,Push switch (FUNCTION)
+SA-940,Integrated Amplifier,ASR-107,ASR-107,Relay
+SA-940,Integrated Amplifier,ATS-004,ATS-004,Power transformer (120V) - KU
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HB
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HE
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (240V) - YP
+SA-940,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V,120V,220V,240V) - S"
+SA-940,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V,120V,220V,240V) - S/G"
+SA-940,Integrated Amplifier,AWG-091,AWG-091,Control ass‘y
+SA-940,Integrated Amplifier,GWK-229,GWK-229,AF ass'y
+SA-940,Integrated Amplifier,SEA8V2BBB4S,SEA8V2BBB4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2)"
+SA-940,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (AUX 1/2)
+SA-940,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+SA-950,Integrated Amplifier,AAB-324,AAB-324,Rotary knob A (VOLUME)
+SA-950,Integrated Amplifier,AAB-325,AAB-325,"Rotary knob B (BASS, TREBLE, BALANCE)"
+SA-950,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION) - HE"
+SA-950,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION) - HEZ"
+SA-950,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION) - KC"
+SA-950,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION) - KU"
+SA-950,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION) - S"
+SA-950,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION) - S/G"
+SA-950,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION) - YP"
+SA-950,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS) - HE
+SA-950,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS) - HEZ
+SA-950,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS) - KC
+SA-950,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS) - KU
+SA-950,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS) - S
+SA-950,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS) - S/G
+SA-950,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS) - YP
+SA-950,Integrated Amplifier,AAD-636,AAD-636,"Push knob C (LOUDNESS, ADAPTOR/TAPE 2) - HE"
+SA-950,Integrated Amplifier,AAD-636,AAD-636,"Push knob C (LOUDNESS, ADAPTOR/TAPE 2) - HEZ"
+SA-950,Integrated Amplifier,AAD-636,AAD-636,"Push knob C (LOUDNESS, ADAPTOR/TAPE 2) - YP"
+SA-950,Integrated Amplifier,AAD-636,AAD-636,"Push knob D (LOUDNESS, ADAPTOR/TAPE 2) - KC"
+SA-950,Integrated Amplifier,AAD-636,AAD-636,"Push knob D (LOUDNESS, ADAPTOR/TAPE 2) - KU"
+SA-950,Integrated Amplifier,AAD-636,AAD-636,"Push knob D (LOUDNESS, ADAPTOR/TAPE 2) - S"
+SA-950,Integrated Amplifier,AAD-636,AAD-636,"Push knob D (LOUDNESS, ADAPTOR/TAPE 2) - S/G"
+SA-950,Integrated Amplifier,AAD-637,AAD-637,Push knob C (CD/VIDEO) - KC
+SA-950,Integrated Amplifier,AAD-637,AAD-637,Push knob C (CD/VIDEO) - KU
+SA-950,Integrated Amplifier,AAD-637,AAD-637,Push knob C (CD/VIDEO) - S
+SA-950,Integrated Amplifier,AAD-637,AAD-637,Push knob C (CD/VIDEO) - S/G
+SA-950,Integrated Amplifier,AAD-637,AAD-637,Push knob D (CD/VIDEO) - HE
+SA-950,Integrated Amplifier,AAD-637,AAD-637,Push knob D (CD/VIDEO) - HEZ
+SA-950,Integrated Amplifier,AAD-637,AAD-637,Push knob D (CD/VIDEO) - YP
+SA-950,Integrated Amplifier,AAV-312,AAV-312,LED level display
+SA-950,Integrated Amplifier,ACE-214,ACE-214,(0.22/AC125V) - KU
+SA-950,Integrated Amplifier,ACE-215,ACE-215,(0.22/AC250V) - S
+SA-950,Integrated Amplifier,ACE-215,ACE-215,(0.22/AC250V) - S/G
+SA-950,Integrated Amplifier,ACG-001,ACG-001,(0.01/AC250V) - S
+SA-950,Integrated Amplifier,ACG-001,ACG-001,(0.01/AC250V) - S/G
+SA-950,Integrated Amplifier,ACG-001,ACG-001,(0.01/AC250V) - YP
+SA-950,Integrated Amplifier,ACG-502,ACG-502,(0.01/AC125V) - KU
+SA-950,Integrated Amplifier,ACH-238,ACH-238,Electrolytic Capacitor (8200/56V)
+SA-950,Integrated Amplifier,ACT-168,ACT-168,Variable resistor 100k (TREBLE)
+SA-950,Integrated Amplifier,ACT-169,ACT-169,Variable resistor 100k (BASS)
+SA-950,Integrated Amplifier,ACT-170,ACT-170,Variable resistor 250k (BALANCE)
+SA-950,Integrated Amplifier,ACT-171,ACT-171,Variable resistor 100k (VOLUME)
+SA-950,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S
+SA-950,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S/G
+SA-950,Integrated Amplifier,ADG-064,ADG-064,AC Power cord - YP
+SA-950,Integrated Amplifier,ADG-068,ADG-068,AC power cord - HE
+SA-950,Integrated Amplifier,ADG-068,ADG-068,AC Power cord - HEZ
+SA-950,Integrated Amplifier,ADG-069,ADG-069,AC power cord - KC
+SA-950,Integrated Amplifier,ADG-073,ADG-073,AC power cord - KU
+SA-950,Integrated Amplifier,AEC-982,AEC-982,Volume escutcheon
+SA-950,Integrated Amplifier,AEK-017,AEK-017,Fuse (2A) - HE
+SA-950,Integrated Amplifier,AEK-017,AEK-017,FUSE (2A) - HEZ
+SA-950,Integrated Amplifier,AEK-017,AEK-017,Fuse (2A) - YP
+SA-950,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S
+SA-950,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S
+SA-950,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S/G
+SA-950,Integrated Amplifier,AEK-123,AEK-123,Fuse (2.5A) - S/G
+SA-950,Integrated Amplifier,AEK-126,AEK-126,Fuse (5A) - KC
+SA-950,Integrated Amplifier,AEK-308,AEK-308,Fuse (5A) - KU
+SA-950,Integrated Amplifier,AEK-403,AEK-403,Fuse (2.5A) - HE
+SA-950,Integrated Amplifier,AEK-403,AEK-403,Fuse (2.5A) - HEZ
+SA-950,Integrated Amplifier,AEL-369,AEL-369,LED (ADAPTOR/TAPE2)
+SA-950,Integrated Amplifier,AEL-370,AEL-370,LED (FUNCTION INDICATORS)
+SA-950,Integrated Amplifier,AFG-073,AFG-073,AC power cord - KU
+SA-950,Integrated Amplifier,AHA-340,AHA-340,Front rear pad
+SA-950,Integrated Amplifier,AHE-299,AHE-299,Packing case - KU
+SA-950,Integrated Amplifier,AHE-300,AHE-300,Packing case - HE
+SA-950,Integrated Amplifier,AHE-300,AHE-300,Packing case - HEZ
+SA-950,Integrated Amplifier,AHE-300,AHE-300,Packing case - KC
+SA-950,Integrated Amplifier,AHE-300,AHE-300,Packing case - S
+SA-950,Integrated Amplifier,AHE-300,AHE-300,Packing case - S/G
+SA-950,Integrated Amplifier,AHE-300,AHE-300,Packing case - YP
+SA-950,Integrated Amplifier,AKB-093,AKB-093,Terminal (PHONO)
+SA-950,Integrated Amplifier,AKB-094,AKB-094,"Terminal (TAPE1, ADAPTOR/TAPE2)"
+SA-950,Integrated Amplifier,AKB-095,AKB-095,Terminal (INPUT)
+SA-950,Integrated Amplifier,AKE-105,AKE-105,Terminal (SPEAKERS)
+SA-950,Integrated Amplifier,AKN-045,AKN-045,Phone jack (PHONES)
+SA-950,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - KU
+SA-950,Integrated Amplifier,AKP-502,AKP-502,AC socket (AC OUTLET) - HE
+SA-950,Integrated Amplifier,AKP-502,AKP-502,AC socket (OUTLET) - HEZ
+SA-950,Integrated Amplifier,AKP-504,AKP-504,AC socket (AC OUTLETS) - KC
+SA-950,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S
+SA-950,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S/G
+SA-950,Integrated Amplifier,ANE-419,ANE-419,Bonnet case
+SA-950,Integrated Amplifier,ANM-547,ANM-547,Front panel ass'y - HE
+SA-950,Integrated Amplifier,ANM-547,ANM-547,Front panel ass'y - HEZ
+SA-950,Integrated Amplifier,ANM-547,ANM-547,Front panel ass'y - KC
+SA-950,Integrated Amplifier,ANM-547,ANM-547,Front panel ass'y - KU
+SA-950,Integrated Amplifier,ANM-547,ANM-547,Front panel ass'y - S
+SA-950,Integrated Amplifier,ANM-547,ANM-547,Front panel ass'y - S/G
+SA-950,Integrated Amplifier,ANM-547,ANM-547,Front panel ass’y - YP
+SA-950,Integrated Amplifier,ARB-588,ARB-588,Operating instructions  SA-950  - KC
+SA-950,Integrated Amplifier,ARB-588,ARB-588,Operating instructions  SA-950  - KU
+SA-950,Integrated Amplifier,ARB-588,ARB-588,Operating instructions  SA-950 (English) - S
+SA-950,Integrated Amplifier,ARB-588,ARB-588,Operating instructions  SA-950 (English) - S/G
+SA-950,Integrated Amplifier,ARC-065,ARC-065,Operating instructions  SA-950 (Spanish) - S
+SA-950,Integrated Amplifier,ARC-066,ARC-066,Operating instructions  SA-950 (GERMAN) - HEZ
+SA-950,Integrated Amplifier,ARE-091,ARE-091,Operating instructions (Engiish/French/German/Italian) - HE
+SA-950,Integrated Amplifier,ARE-588,ARE-588,Operating instructions  SA-950 (English) - YP
+SA-950,Integrated Amplifier,ARP-494-0,ARP-494,Service manual additional  SA-950
+SA-950,Integrated Amplifier,ASG-541,ASG-541,Push switch (POWER) - KU
+SA-950,Integrated Amplifier,ASG-542,ASG-542,Push switch (POWER) - HE
+SA-950,Integrated Amplifier,ASG-542,ASG-542,Push switch (POWER) - HEZ
+SA-950,Integrated Amplifier,ASG-542,ASG-542,Push switch (POWER) - KC
+SA-950,Integrated Amplifier,ASG-542,ASG-542,Push switch (POWER) - YP
+SA-950,Integrated Amplifier,ASG-812,ASG-812,Push switch (FUNCTION)
+SA-950,Integrated Amplifier,ASR-107,ASR-107,Relay
+SA-950,Integrated Amplifier,ATS-004,ATS-004,Power transformer (120V) - KU
+SA-950,Integrated Amplifier,ATS-005,ATS-005,Power transformer (120V) - KC
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (200V/240V) - HEZ
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HE
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (240V) - YP
+SA-950,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V, 120V, 220V, 240V) - S"
+SA-950,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V, 120V, 220V, 240V) - S/G"
+SA-950,Integrated Amplifier,AWG-091,AWG-091,Control ass‘y
+SA-950,Integrated Amplifier,GWK-229,GWK-229,AF ass'y
+SA-950,Integrated Amplifier,GWK-232,GWK-232,AF ass'y - HEZ
+SA-950,Integrated Amplifier,SEA8V2BBB4S,SEA8V2BBB4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2)"
+SA-950,Integrated Amplifier,SEAV4S,SEAV4S,Push switch (AUX 1/2)
+SA-950,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+SA-9500,Integrated Amplifier,"2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)","2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,"2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)","2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,"2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)","2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,"2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)","2SB541P-S or R (2SB530S-R, O or Y) (2SA745A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,"2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)","2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,"2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)","2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,"2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)","2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,"2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)","2SD388P-S or R (2SD370S-R, O or Y) (2SC1403A-R, O or Y)",Transistor
+SA-9500,Integrated Amplifier,AAB-084-0,AAB-084,Knob (FUNCTION)
+SA-9500,Integrated Amplifier,AAB-086-0,AAB-086,Knob (BALANCE)
+SA-9500,Integrated Amplifier,AAB-086-0,AAB-086,Knob (BASS TURN OVER)
+SA-9500,Integrated Amplifier,AAB-086-0,AAB-086,Knob (BASS)
+SA-9500,Integrated Amplifier,AAB-086-0,AAB-086,Knob (MODE)
+SA-9500,Integrated Amplifier,AAB-086-0,AAB-086,Knob (SPEAKERS)
+SA-9500,Integrated Amplifier,AAB-086-0,AAB-086,Knob (TREBLE TURN OVER)
+SA-9500,Integrated Amplifier,AAB-086-0,AAB-086,Knob (TREBLE)
+SA-9500,Integrated Amplifier,AAB-089-A,AAB-089,Knob (VOLUME)
+SA-9500,Integrated Amplifier,AAD-040-B,AAD-040,Knob (ATTENUATOR)
+SA-9500,Integrated Amplifier,AAD-040-B,AAD-040,Knob (HIGH FILTER)
+SA-9500,Integrated Amplifier,AAD-040-B,AAD-040,Knob (LOW FILTER)
+SA-9500,Integrated Amplifier,AAD-040-B,AAD-040,Knob (TAPE DUPLICATE)
+SA-9500,Integrated Amplifier,AAD-040-B,AAD-040,Knob (TAPE MONITOR)
+SA-9500,Integrated Amplifier,AAD-040-B,AAD-040,Knob (TONE)
+SA-9500,Integrated Amplifier,AAD-086-0,AAD-086,Knob (POWER)
+SA-9500,Integrated Amplifier,ACG-001-0,ACG-001,Ceramic 0.01 250V
+SA-9500,Integrated Amplifier,ACG-003-0,ACG-003,Ceramic 0.01 150V
+SA-9500,Integrated Amplifier,ACH-047-0,ACH-047,"Electrolytic 18,000 63V"
+SA-9500,Integrated Amplifier,ACH-047-0,ACH-047,"Electrolytic 18,000 63V"
+SA-9500,Integrated Amplifier,ACT-304-0,ACT-304,Impedance selection 233kΩ (PHONO 2 IMPEDANCE)
+SA-9500,Integrated Amplifier,ACV-144-A,ACV-144,Variable resistor (VOLUME)
+SA-9500,Integrated Amplifier,ACV-146-A,ACV-146,Variable resistor 2kΩ-HB / 10kΩ-HB (PHONO 2/MIC LEVEL)
+SA-9500,Integrated Amplifier,ACV-148-0,ACV-148,Variable resistor (BALANCE) 250kΩ-HB
+SA-9500,Integrated Amplifier,AEK-106-0,AEK-106,Fuse IA
+SA-9500,Integrated Amplifier,AEK-109-0,AEK-109,Fuse 6A
+SA-9500,Integrated Amplifier,AEK-I06-0,AEK-I06,Fuse 1A
+SA-9500,Integrated Amplifier,AEK-I06-0,AEK-I06,Fuse 1A
+SA-9500,Integrated Amplifier,AEL-051-0,AEL-051,Lamp with wire 8V 50mA
+SA-9500,Integrated Amplifier,AEL-051-0,AEL-051,"Lamp with wire 8V, 50mA"
+SA-9500,Integrated Amplifier,AKB-023-0,AKB-023,Phone jack (4P)
+SA-9500,Integrated Amplifier,AKB-024-0,AKB-024,Phono jack (6P)
+SA-9500,Integrated Amplifier,AKE-012-A,AKE-012,Binding post (for ground)
+SA-9500,Integrated Amplifier,AKE-025-A,AKE-025,Speaker output terminal
+SA-9500,Integrated Amplifier,AKP-005-0,AKP-005,AC outlet socket
+SA-9500,Integrated Amplifier,AKP-010-0,AKP-010,Line voltage selector socket (D model only)
+SA-9500,Integrated Amplifier,ANB-327-0,ANB-327,Front panel assembly
+SA-9500,Integrated Amplifier,ASB-047-0,ASB-047,Rotary switch (SPEAKERS)
+SA-9500,Integrated Amplifier,ASD-020-A,ASD-020,Rotary switch (MODE)
+SA-9500,Integrated Amplifier,ASD-021-A,ASD-021,Rotary switch (FUNCTION)
+SA-9500,Integrated Amplifier,ASD-032-A,ASD-032,Rotary switch (BASS TURN OVER)
+SA-9500,Integrated Amplifier,ASD-033-A,ASD-033,Rotary switch (BASS)
+SA-9500,Integrated Amplifier,ASD-034-A,ASD-034,Rotary switch (TREBLE)
+SA-9500,Integrated Amplifier,ASD-035-A,ASD-035,Rotary switch (TREBLE TURN OVER)
+SA-9500,Integrated Amplifier,ASG-043-B,ASG-043,Push switch (POWER KCU)
+SA-9500,Integrated Amplifier,ASG-085-0,ASG-085,"Push switch (POWER D,GN)"
+SA-9500,Integrated Amplifier,ASH -012-0,ASH -012,Slide switch (PRE/POWER)
+SA-9500,Integrated Amplifier,ASK-084-0,ASK-084,Lever switch (TAPE DUPLICATE)
+SA-9500,Integrated Amplifier,ASK-085-0,ASK-085,Lever switch (HIGH FlLTER)
+SA-9500,Integrated Amplifier,ASK-085-0,ASK-085,Lever switch (LOW FILTER)
+SA-9500,Integrated Amplifier,ASK-086-B,ASK-086,Lever switch (TAPE MONITOR)
+SA-9500,Integrated Amplifier,ASK-087-A,ASK-087,Lever switch (ATTENUATOR)
+SA-9500,Integrated Amplifier,ASK-092-0,ASK-092,Lever switch (TONE)
+SA-9500,Integrated Amplifier,ASR-007-0,ASR-007,Relay
+SA-9500,Integrated Amplifier,ATT-236-A,ATT-236,Power transformer (D)
+SA-9500,Integrated Amplifier,ATT-238-A,ATT-238,Power transformer (KCU)
+SA-9500,Integrated Amplifier,AWG-032-0,AWG-032,Control amplifier assembly
+SA-9500,Integrated Amplifier,AWH-041-0,AWH-041,Power amplifier assembly
+SA-9500,Integrated Amplifier,AWK-039-C,AWK-039,Input circuit assembly
+SA-9500,Integrated Amplifier,AWM-074-0,AWM-074,Protection circuit assembly
+SA-9500,Integrated Amplifier,AWR -089-0,AWR -089,Power supply circuit assembly-1 (GN)
+SA-9500,Integrated Amplifier,AWR-074-A,AWR-074,Power supply circuit assembly-1  (KCU/D)
+SA-9500,Integrated Amplifier,AWR-075-A,AWR-075,Power supply circuit assembly-2 (KCU/D)
+SA-9500,Integrated Amplifier,AWR-090-0,AWR-090,Power supply circuit assembly-2 (GN)
+SA-9500,Integrated Amplifier,AWS-082-0,AWS-082,Switch circuit assembly
+SA-9500,Integrated Amplifier,AWX-073-A,AWX-073,Volume assembly
+SA-9500,Integrated Amplifier,AWX-085-0,AWX-085,Fuse assembly (GN)
+SA-9500,Integrated Amplifier,AWX-086-0,AWX-086,Fuse assembly (KCU)
+SA-9500,Integrated Amplifier,AWX-088-0,AWX-088,Fuse assembly (D)
+SA-9500,Integrated Amplifier,CQMA 272k 50,CQMA 272k 50,Mylar 2700p 50V
+SA-9500,Integrated Amplifier,CQMA 472K 50,CQMA 472K 50,Mylar 4700p 50V
+SA-9500,Integrated Amplifier,K72-020-0,K72-020,Phone jack (MIC)
+SA-9500,Integrated Amplifier,K72-026-0,K72-026,Phone jack (MIC)
+SA-9500,Integrated Amplifier,K72-026-0,K72-026,Phone jack (PHONES)
+SA-9500,Integrated Amplifier,RD¼PS 393J,RD¼PS 393J,Carbon film 39k
+SA-9500,Integrated Amplifier,RD¼PS 823J,RD¼PS 823J,Carbon film 82k
+SA-9500,Integrated Amplifier,RS2P 472J,RS2P 472J,Metal oxide 4.7k 2W
+SA-9500,Integrated Amplifier,RS2P 472J,RS2P 472J,Metal oxide 4.7k 2W
+SA-9500II,Integrated Amplifier,2SB618A/A/-R or Q,2SB618A/A/-R or Q,Transistor
+SA-9500II,Integrated Amplifier,2SD588A/A/-R or Q,2SD588A/A/-R or Q,Transistor
+SA-9500II,Integrated Amplifier,AAB-114,AAB-114,Knob (VOLUME)
+SA-9500II,Integrated Amplifier,AAB-115,AAB-115,Knob (FUNCTION)
+SA-9500II,Integrated Amplifier,AAB-116,AAB-116,Knob (BALANCE)
+SA-9500II,Integrated Amplifier,AAB-116,AAB-116,Knob (BASS)
+SA-9500II,Integrated Amplifier,AAB-116,AAB-116,Knob (MODE)
+SA-9500II,Integrated Amplifier,AAB-116,AAB-116,Knob (SPEAKERS)
+SA-9500II,Integrated Amplifier,AAB-116,AAB-116,Knob (TREBLE)
+SA-9500II,Integrated Amplifier,AAB-117,AAB-117,Knob (CARTRIDGE LOAD)
+SA-9500II,Integrated Amplifier,AAD-117,AAD-117,Knob (FILTER)
+SA-9500II,Integrated Amplifier,AAD-117,AAD-117,Knob (LOUDNESS)
+SA-9500II,Integrated Amplifier,AAD-117,AAD-117,Knob (MUTING)
+SA-9500II,Integrated Amplifier,AAD-117,AAD-117,Knob (POWER)
+SA-9500II,Integrated Amplifier,AAD-117,AAD-117,Knob (TAPE)
+SA-9500II,Integrated Amplifier,AAD-117,AAD-117,Knob (TONE)
+SA-9500II,Integrated Amplifier,ABN-024,ABN-024,Washer faced nut M9
+SA-9500II,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V
+SA-9500II,Integrated Amplifier,ACH-065,ACH-065,Electrolytic 12000 63V
+SA-9500II,Integrated Amplifier,ACH-065,ACH-065,Electrolytic 12000 63V
+SA-9500II,Integrated Amplifier,ACH-065,ACH-065,Electrolytic 12000 63V
+SA-9500II,Integrated Amplifier,ACH-065,ACH-065,Electrolytic 12000 63V
+SA-9500II,Integrated Amplifier,ACV-171,ACV-171,Variable resistor 100k 32-step (VOLUME)
+SA-9500II,Integrated Amplifier,ACV-172,ACV-172,Variable resistor (BALANCE)
+SA-9500II,Integrated Amplifier,ACV-173,ACV-173,Variable resistor (TREBLE 20kHz)
+SA-9500II,Integrated Amplifier,ACV-174,ACV-174,Variable resistor (TREBLE 10kHz)
+SA-9500II,Integrated Amplifier,ACV-175,ACV-175,Variable resistor (BASS 100Hz)
+SA-9500II,Integrated Amplifier,ACV-176,ACV-176,Variable resistor (BASS 50Hz)
+SA-9500II,Integrated Amplifier,ADF-125,ADF-125,Connection cord
+SA-9500II,Integrated Amplifier,ADG-005,ADG-005,AC power cord (KU/KC)
+SA-9500II,Integrated Amplifier,ADG-017,ADG-017,AC power cord (S)
+SA-9500II,Integrated Amplifier,AEB-092,AEB-092,Rubber bracket
+SA-9500II,Integrated Amplifier,AEK-100,AEK-100,Fuse 4A
+SA-9500II,Integrated Amplifier,AEK-100,AEK-100,Fuse 4A
+SA-9500II,Integrated Amplifier,AEK-100,AEK-100,Fuse 4A (for 220V or 240V - S)
+SA-9500II,Integrated Amplifier,AEK-100,AEK-100,Fuse 4A (for 220V or 240V-S)
+SA-9500II,Integrated Amplifier,AEK-110,AEK-110,Fuse 8A (for 110V or 120V-S)
+SA-9500II,Integrated Amplifier,AEK-110,AEK-110,Fuse BA (for 110V or 120V - S)
+SA-9500II,Integrated Amplifier,AEK-111,AEK-111,Fuse 0.8A
+SA-9500II,Integrated Amplifier,AEK-111,AEK-111,Fuse 0.8A
+SA-9500II,Integrated Amplifier,AEL-069,AEL-069,"Lamp with leads 8V, 50mA"
+SA-9500II,Integrated Amplifier,AEL-069,AEL-069,"Lamp with leads 8V, 50mA"
+SA-9500II,Integrated Amplifier,AHA-130,AHA-130,Side pad
+SA-9500II,Integrated Amplifier,AHD-433,AHD-433,Packing case
+SA-9500II,Integrated Amplifier,AHG-057,AHG-057,Sheet cover
+SA-9500II,Integrated Amplifier,AKB-027,AKB-027,Terminal (PHONO)
+SA-9500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (PRE/POWER AMP)
+SA-9500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE 1)
+SA-9500II,Integrated Amplifier,AKB-035,AKB-035,Terminal (TAPE 2)
+SA-9500II,Integrated Amplifier,AKB-036,AKB-036,Terminal (TUNER/AUX)
+SA-9500II,Integrated Amplifier,AKE-026,AKE-026,Terminal (SPEAKERS)
+SA-9500II,Integrated Amplifier,AKE-030,AKE-030,Screw for ground (GND)
+SA-9500II,Integrated Amplifier,AKN-008,AKN-008,Phone jack (PHONES)
+SA-9500II,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLETS)
+SA-9500II,Integrated Amplifier,AKP-008,AKP-008,AC Inlet (Recessed-HG)
+SA-9500II,Integrated Amplifier,AKR-031,AKR-031,Plug-in selector (4-position line voltage selector 110V/120V/220V/240V with fuse holder - S)
+SA-9500II,Integrated Amplifier,AKX-037,AKX-037,Plug-in selector (2-position line voltage selector 220V/240V - HG)
+SA-9500II,Integrated Amplifier,ANB-480,ANB-480,Front panel
+SA-9500II,Integrated Amplifier,ANK-018,ANK-018,Hexagonal wrench
+SA-9500II,Integrated Amplifier,ARB-208,ARB-208,Operating instructions (KU/KC - English)
+SA-9500II,Integrated Amplifier,ARB-220,ARB-220,Operating instructions (HG - English)
+SA-9500II,Integrated Amplifier,ARB-220,ARB-220,Operating instructions (S - English)
+SA-9500II,Integrated Amplifier,ARD-108,ARD-108,Operating instructions (HG - German/French)
+SA-9500II,Integrated Amplifier,ART-198-0,ART-198,Service Manual  SA-9500II (KU)
+SA-9500II,Integrated Amplifier,ART-208-0,ART-208,"Service Manual  SA-9500II (KC,S,HG)"
+SA-9500II,Integrated Amplifier,ASD-052,ASD-052,Rotary switch (FUNCTION)
+SA-9500II,Integrated Amplifier,ASD-053,ASD-053,Rotary switch (MODE)
+SA-9500II,Integrated Amplifier,ASD-054,ASD-054,Rotary switch (SPEAKERS)
+SA-9500II,Integrated Amplifier,ASD-055,ASD-055,Rotary switch (CARTRIDGE LOAD)
+SA-9500II,Integrated Amplifier,ASK-109,ASK-109,Lever switch (TONE)
+SA-9500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (HIGH Fl LTER)
+SA-9500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (LOUDNESS)
+SA-9500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (LOW FILTER)
+SA-9500II,Integrated Amplifier,ASK-110,ASK-110,Lever switch (MUTING)
+SA-9500II,Integrated Amplifier,ASK-113,ASK-113,Lever switch (TAPE DUPLICATE)
+SA-9500II,Integrated Amplifier,ASK-113,ASK-113,Lever switch (TAPE MONITOR)
+SA-9500II,Integrated Amplifier,ASK-124,ASK-124,Lever switch (POWER-KU/KC)
+SA-9500II,Integrated Amplifier,ASK-127,ASK-127,Lever switch (POWER-HG)
+SA-9500II,Integrated Amplifier,ASK-128,ASK-128,Lever switch (POWER-S)
+SA-9500II,Integrated Amplifier,ASR-018,ASR-018,Relay
+SA-9500II,Integrated Amplifier,ATT-374,ATT-374,Power transformer (KU-L)
+SA-9500II,Integrated Amplifier,ATT-375,ATT-375,Power transformer (KU-R)
+SA-9500II,Integrated Amplifier,ATT-376,ATT-376,Power transformer (KC-L)
+SA-9500II,Integrated Amplifier,ATT-377,ATT-377,Power transformer (KC-R)
+SA-9500II,Integrated Amplifier,ATT-378,ATT-378,Power transformer (HG-L)
+SA-9500II,Integrated Amplifier,ATT-379,ATT-379,Power transformer (HG-R)
+SA-9500II,Integrated Amplifier,ATT-380,ATT-380,Power transformer (S-L)
+SA-9500II,Integrated Amplifier,ATT-381,ATT-381,Power transformer (S-R)
+SA-9500II,Integrated Amplifier,AWF-024,AWF-024,Equalizer amplifier assembly
+SA-9500II,Integrated Amplifier,AWG-045,AWG-045,Control amplifier assembly
+SA-9500II,Integrated Amplifier,AWH-052,AWH-052,Power amplifier assembly
+SA-9500II,Integrated Amplifier,AWH-052,AWH-052,Power amplifier assembly (KU/KC/S)
+SA-9500II,Integrated Amplifier,AWH-062,AWH-062,Power amplifier assembly (HG)
+SA-9500II,Integrated Amplifier,AWS-109,AWS-109,Switch assembly
+SA-9500II,Integrated Amplifier,AWS-109,AWS-109,Switch assembly (KU)
+SA-9500II,Integrated Amplifier,AWS-111,AWS-111,Switch assembly (KC)
+SA-9500II,Integrated Amplifier,AWS-114,AWS-114,Switch assembly (HG)
+SA-9500II,Integrated Amplifier,AWS-115,AWS-115,Switch assembly (S)
+SA-9500II,Integrated Amplifier,CKDYF 4732 50,CKDYF 4732 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SA-9500II,Integrated Amplifier,E11-024,E11-024,Vinyl bag
+SA-9500II,Integrated Amplifier,E11-033,E11-033,Vinyl pouch (for fuse) - S
+SA-970,Integrated Amplifier,AAD1018,AAD1018,Function knob (CD/VIDEO)
+SA-970,Integrated Amplifier,AAD1018,AAD1018,Function knob (PHONO)
+SA-970,Integrated Amplifier,AAD1018,AAD1018,Function knob (TAPE 1)
+SA-970,Integrated Amplifier,AAD1018,AAD1018,Function knob (TUNER)
+SA-970,Integrated Amplifier,AAD1018,AAD1018,Function knob (VIDEO/AUX)
+SA-970,Integrated Amplifier,AAD1038,AAD1038,Push knob (SPEAKERS - SILVER)
+SA-970,Integrated Amplifier,AAD1039,AAD1039,Power knob (SILVER)
+SA-970,Integrated Amplifier,AAE1014,AAE1014,Slide knob (BASS - BLACK)
+SA-970,Integrated Amplifier,AAE1014,AAE1014,Slide knob (TREBLE - BLACK)
+SA-970,Integrated Amplifier,AAE1015,AAE1015,Slide knob (BALANCE - BLACK)
+SA-970,Integrated Amplifier,AAE1016,AAE1016,Slide knob (BASS - SILVER)
+SA-970,Integrated Amplifier,AAE1016,AAE1016,Slide knob (TREBLE - SILVER)
+SA-970,Integrated Amplifier,AAE1017,AAE1017,Slide knob (BALANCE - SILVER)
+SA-970,Integrated Amplifier,AAK1046,AAK1046,Sheet panel A (BLACK)
+SA-970,Integrated Amplifier,AAK1047,AAK1047,Sheet panel B
+SA-970,Integrated Amplifier,AAK1062,AAK1062,Sheet panel A (SILVER)
+SA-970,Integrated Amplifier,AAY-161,AAY-161,Push knob (ADAPTOR/TAPE 2)
+SA-970,Integrated Amplifier,AAY-161,AAY-161,Push knob (LOUDNESS)
+SA-970,Integrated Amplifier,AAY-161,AAY-161,Push knob (SPEAKERS - BLACK)
+SA-970,Integrated Amplifier,AAY-404,AAY-404,Power knob (BLACK)
+SA-970,Integrated Amplifier,ACH-238,ACH-238,Electrolytic Capacitor (8200/56V)
+SA-970,Integrated Amplifier,ACX-137,ACX-137,Variable resistor 100k (BASS)
+SA-970,Integrated Amplifier,ACX-137,ACX-137,Variable resistor 100k (TREBLE)
+SA-970,Integrated Amplifier,ADG-068,ADG-068,AC power cord
+SA-970,Integrated Amplifier,AEK-017,AEK-017,Fuse (T2A)
+SA-970,Integrated Amplifier,AHA-340,AHA-340,Front rear pad
+SA-970,Integrated Amplifier,AHD1037,AHD1037,Packing case (BLACK)
+SA-970,Integrated Amplifier,AHD1052,AHD1052,Packing case (SILVER)
+SA-970,Integrated Amplifier,AKB-094,AKB-094,Terminal 4P (TAPE 1)
+SA-970,Integrated Amplifier,AKB-095,AKB-095,Terminal 6P (ADAPTOR/TAPE 2/VIDEO/AUX IN)
+SA-970,Integrated Amplifier,AKB-095,AKB-095,Terminal 6P (PHONO/TUNER/CD)
+SA-970,Integrated Amplifier,AKE-103,AKE-103,Terminal (SPEAKER)
+SA-970,Integrated Amplifier,AKN-045,AKN-045,Jack (PHONES)(8P)
+SA-970,Integrated Amplifier,AKP-502,AKP-502,AC socket (OUTLETS)
+SA-970,Integrated Amplifier,AMR1033,AMR1033,Slide knob assembly (BLACK)
+SA-970,Integrated Amplifier,AMR1034,AMR1034,Slide knob assembly (SlLVER)
+SA-970,Integrated Amplifier,ANB1016,ANB1016,Front panel  (BLACK)
+SA-970,Integrated Amplifier,ANB1020,ANB1020,Front panel (SILVER)
+SA-970,Integrated Amplifier,ANE1012,ANE1012,Bonnet case (BLACK)
+SA-970,Integrated Amplifier,ANE1013,ANE1013,Bonnet case (SILVER)
+SA-970,Integrated Amplifier,ARE1005,ARE1005,Operating instructions  SA-970 (English/German/French/Italian)
+SA-970,Integrated Amplifier,ARP-1109-0,ARP-1109,Service manual  SA-970
+SA-970,Integrated Amplifier,ASG-003,ASG-003,Variable resistor 100k (MAIN VOLUME)
+SA-970,Integrated Amplifier,ASG-552,ASG-552,Switch (POWER)
+SA-970,Integrated Amplifier,ASG1003,ASG1003,Push switch (FUNCTION)
+SA-970,Integrated Amplifier,ASH-112 (ASH-107),ASH-112 (ASH-107),Relay
+SA-970,Integrated Amplifier,ATS-227,ATS-227,Power transformer (AC220V/240V) - HE
+SA-970,Integrated Amplifier,AWG1002,AWG1002,Control assembly
+SA-970,Integrated Amplifier,AWZ1002,AWZ1002,AF assembly
+SA-970,Integrated Amplifier,SEA7VB2B4S,SEA7VB2B4S,Push switch (ADAPTOR/TAPE2 LOUDNESS)
+SA-970,Integrated Amplifier,SEA7VB2B4S,SEA7VB2B4S,Push switch (ADAPTOR/TAPE2/LOUDNESS)
+SA-970,Integrated Amplifier,SEA7VB2B4S,SEA7VB2B4S,Variable resistor 1M (BALANCE)
+SA-970,Integrated Amplifier,SUL8MYXSC,SUL8MYXSC,Switch (SPEAKERS)
+SA-9800,Integrated Amplifier,28432526-G,28432526,Transistor
+SA-9800,Integrated Amplifier,28432526-G,28432526,Transistor
+SA-9800,Integrated Amplifier,28432526-G,28432526,Transistor
+SA-9800,Integrated Amplifier,28432526-G,28432526,Transistor
+SA-9800,Integrated Amplifier,2SA1076-G,2SA1076,Transistor
+SA-9800,Integrated Amplifier,2SA1076-G,2SA1076,Transistor
+SA-9800,Integrated Amplifier,2SA1076-G,2SA1076,Transistor
+SA-9800,Integrated Amplifier,2SA1076-G,2SA1076,Transistor
+SA-9800,Integrated Amplifier,AAB-194,AAB-194,Knob (VOLUME)
+SA-9800,Integrated Amplifier,AAB-195,AAB-195,Knob (FUNCTION)
+SA-9800,Integrated Amplifier,AAB-196,AAB-196,Knob (BASS)
+SA-9800,Integrated Amplifier,AAB-196,AAB-196,"Knob (MODE, CARTRIDGE LOAD)"
+SA-9800,Integrated Amplifier,AAB-196,AAB-196,Knob (SPEAKERS)
+SA-9800,Integrated Amplifier,AAB-196,AAB-196,"Knob (TREBLE, BALANCE)"
+SA-9800,Integrated Amplifier,AAD-172,AAD-172,Knob (FILTER)
+SA-9800,Integrated Amplifier,AAD-172,AAD-172,"Knob (LOUDNESS, MUTING)"
+SA-9800,Integrated Amplifier,AAD-172,AAD-172,Knob (POWER)
+SA-9800,Integrated Amplifier,AAD-172,AAD-172,Knob (TAPE)
+SA-9800,Integrated Amplifier,AAD-172,AAD-172,"Knob (TONE, TURNOVER)"
+SA-9800,Integrated Amplifier,AAD-173,AAD-173,Knob (METER)
+SA-9800,Integrated Amplifier,AAV-001,AAV-001,Fluorescent indicator tube
+SA-9800,Integrated Amplifier,ABA-076,ABA-076,Screw (for top cover - S)
+SA-9800,Integrated Amplifier,ABA-206,ABA-206,"Screw (for top cover - KU, S/G)"
+SA-9800,Integrated Amplifier,ABN-024,ABN-024,Washer faced nut
+SA-9800,Integrated Amplifier,ACG-001,ACG-001,Ceramic 0.01/250V
+SA-9800,Integrated Amplifier,ACG-001,ACG-001,"Ceramic 0.01/250V (S, S/G)"
+SA-9800,Integrated Amplifier,ACH-210,ACH-210,"Electrolytic 15,000/71 V"
+SA-9800,Integrated Amplifier,ACN-031,ACN-031,Wire wound 220/5W
+SA-9800,Integrated Amplifier,ACN-044,ACN-044,Wire wound 150/5W
+SA-9800,Integrated Amplifier,ACV-187,ACV-187,Variable resistor (BALANCE)
+SA-9800,Integrated Amplifier,ACV-701,ACV-701,Variable resistor (BASS)
+SA-9800,Integrated Amplifier,ACV-702,ACV-702,Variable resistor (TREBLE)
+SA-9800,Integrated Amplifier,ACW-119,ACW-119,Variable resistor (VOLUME)
+SA-9800,Integrated Amplifier,ADG-017,ADG-017,"AC power cord (S, S/G)"
+SA-9800,Integrated Amplifier,ADG-023,ADG-023,AC power cord (KU)
+SA-9800,Integrated Amplifier,AEK-108,AEK-108,Fuse (5A)
+SA-9800,Integrated Amplifier,AEK-111,AEK-111,Fuse (0.8A)
+SA-9800,Integrated Amplifier,AEL-095,AEL-095,Lamp with wires
+SA-9800,Integrated Amplifier,AKB-035,AKB-035,Terminal (PRE/POWER AMP)
+SA-9800,Integrated Amplifier,AKB-054,AKB-054,"Terminal 4-P (INPUT, TAPE)"
+SA-9800,Integrated Amplifier,AKE-038,AKE-038,Terminal (SPEAKERS)
+SA-9800,Integrated Amplifier,AKN-023,AKN-023,Phone jack (PHONES)
+SA-9800,Integrated Amplifier,AKP-004,AKP-004,AC socket (AC OUTLETS - KU)
+SA-9800,Integrated Amplifier,AKP-021,AKP-021,"AC socket (AC OUTLETS - S, S/G)"
+SA-9800,Integrated Amplifier,AKR-031,AKR-031,"Plug in selector (S, S/G)"
+SA-9800,Integrated Amplifier,AMM-079,AMM-079,"Top cover (wooden - KU, S/G)"
+SA-9800,Integrated Amplifier,AMM-079,AMM-079,Wooden cover
+SA-9800,Integrated Amplifier,ANB-687,ANB-687,Front panel
+SA-9800,Integrated Amplifier,ANE-222,ANE-222,Top cover (metal - S)
+SA-9800,Integrated Amplifier,ANP-865,ANP-865,P.C. board
+SA-9800,Integrated Amplifier,ASB-102,ASB-102,Rotary switch (SPEAKERS)
+SA-9800,Integrated Amplifier,ASD-113,ASD-113,Rotary switch (FUNCTION)
+SA-9800,Integrated Amplifier,ASE-102,ASE-102,Slide rotary switch (MODE)
+SA-9800,Integrated Amplifier,ASE-103,ASE-103,Slide rotary switch (CARTRIDGE LOAD)
+SA-9800,Integrated Amplifier,ASG-208,ASG-208,Push switch (METER)
+SA-9800,Integrated Amplifier,ASH-018,ASH-018,Slide switch (PHONO INTERFERENCE FILTER)
+SA-9800,Integrated Amplifier,ASK-112,ASK-112,"Lever switch (MUTING, LOUDNESS)"
+SA-9800,Integrated Amplifier,ASK-112,ASK-112,"Lever switch (SUBSONIC, HIGH)"
+SA-9800,Integrated Amplifier,ASK-113,ASK-113,"Lever switch (MONITOR, DUPLICATE)"
+SA-9800,Integrated Amplifier,ASK-124,ASK-124,Lever switch (POWER - KU)
+SA-9800,Integrated Amplifier,ASK-128,ASK-128,Lever switch (POWER - S)
+SA-9800,Integrated Amplifier,ASK-128,ASK-128,Lever switch (POWER - S/G)
+SA-9800,Integrated Amplifier,ASK-153,ASK-153,Lever switch (TONE)
+SA-9800,Integrated Amplifier,ASK-154,ASK-154,Lever switch (BASS TURNOVER)
+SA-9800,Integrated Amplifier,ASK-154,ASK-154,Lever switch (TREBLE TURNOVER)
+SA-9800,Integrated Amplifier,ATT-556,ATT-556,Power transformer (KU)
+SA-9800,Integrated Amplifier,ATT-556,ATT-556,Power transformer (KU)
+SA-9800,Integrated Amplifier,ATT-559,ATT-559,Power transformer (S/G)
+SA-9800,Integrated Amplifier,ATT-560,ATT-560,Power transformer (S/G)
+SA-9800,Integrated Amplifier,ATT-577,ATT-577,Transformer
+SA-9800,Integrated Amplifier,ATT-578,ATT-578,Power transformer (S)
+SA-9800,Integrated Amplifier,ATT-579,ATT-579,Power transformer (S)
+SA-9800,Integrated Amplifier,AWM-163,AWM-163,Protection assembly
+SA-9800,Integrated Amplifier,AWR -191,AWR -191,Power supply assembly
+SA-9800,Integrated Amplifier,AWR-192,AWR-192,Rectifier assembly
+SA-9800,Integrated Amplifier,AWV-002,AWV-002,Indicator assembly
+SA-9800,Integrated Amplifier,CEA 010P 50,CEA 010P 50,Electrolytic 1/50V (KU)
+SA-9800,Integrated Amplifier,CEA 010P 50,CEA 010P 50,"Electrolytic 1/50V (S, S/G)"
+SA-9800,Integrated Amplifier,GWF-116,GWF-116,EQ assembly
+SA-9800,Integrated Amplifier,GWG-124,GWG-124,TC assembly
+SA-9800,Integrated Amplifier,GWH -120,GWH -120,PA-R assembly
+SA-9800,Integrated Amplifier,GWH-119,GWH-119,PA-L assembly
+SA-9800,Integrated Amplifier,GWS-171,GWS-171,Switch assembly
+SA-9800,Integrated Amplifier,GWS-172,GWS-172,Tape switch assembly
+SA-9800,Integrated Amplifier,GWS-176,GWS-176,Filter assembly
+SA-9800,Integrated Amplifier,GWX-256,GWX-256,VR assembly
+SA-9800,Integrated Amplifier,GWX-257,GWX-257,CR assembly
+SA-9800,Integrated Amplifier,GWX-261,GWX-261,lnput terminal assembly
+SA-9800,Integrated Amplifier,GWX-262,GWX-262,Tape terminal assembly
+SA-9900,Integrated Amplifier,"2SA679S-V or R (2SA747A-R, O or Y)","2SA679S-V or R (2SA747A-R, O or Y)",Transistor
+SA-9900,Integrated Amplifier,"2SA679S-V or R (2SA747A-R, O or Y)","2SA679S-V or R (2SA747A-R, O or Y)",Transistor
+SA-9900,Integrated Amplifier,"2SA679S-Y or R (2SA747A-R, O or Y)","2SA679S-Y or R (2SA747A-R, O or Y)",Transistor
+SA-9900,Integrated Amplifier,"2SA679S-Y or R (2SA747A-R, O or Y)","2SA679S-Y or R (2SA747A-R, O or Y)",Transistor
+SA-9900,Integrated Amplifier,"2SC1079S-Y or R (2SC1116A-R, O or V)","2SC1079S-Y or R (2SC1116A-R, O or V)",Transistor
+SA-9900,Integrated Amplifier,"2SC1079S-Y or R (2SC1116A-R, O or V)","2SC1079S-Y or R (2SC1116A-R, O or V)",Transistor
+SA-9900,Integrated Amplifier,"2SC1079S-Y or R (2SC111GA-R, O or V)","2SC1079S-Y or R (2SC111GA-R, O or V)",Transistor
+SA-9900,Integrated Amplifier,"2SC1079S-Y or R (2SC111GA-R, O or V)","2SC1079S-Y or R (2SC111GA-R, O or V)",Transistor
+SA-9900,Integrated Amplifier,AAB-046-A,AAB-046,"Knob (PHONO 2 LEVEL, lMPEDANCE)"
+SA-9900,Integrated Amplifier,AAB-084-0,AAB-084,Knob (FUNCTION)
+SA-9900,Integrated Amplifier,AAB-085-A,AAB-085,Knob (VOLUME)
+SA-9900,Integrated Amplifier,AAB-086-0,AAB-086,"Knob (BASS-50HZ, BASS-100HZ,TREBLE-10kHZ, TREBLE-20kHZ,SPEAKERS, MODE, BALANCE)"
+SA-9900,Integrated Amplifier,AAD-040-B,AAD-040,"Knob (TONE, LOW FILTER, HIGH FILTER, ATTENUATOR, TAPE MONITOR, TAPE DUPLICATE)"
+SA-9900,Integrated Amplifier,AAD-086-0,AAD-086,Knob (POWER)
+SA-9900,Integrated Amplifier,ABA-079-A,ABA-079,Tapping screw 4X3
+SA-9900,Integrated Amplifier,ABA-083-0,ABA-083,Tapping screw 4X12
+SA-9900,Integrated Amplifier,ABE-001-0,ABE-001,Claw washer
+SA-9900,Integrated Amplifier,ABE-006-0,ABE-006,Claw washer
+SA-9900,Integrated Amplifier,ABN-009-0,ABN-009,Special nut
+SA-9900,Integrated Amplifier,ACH-046-0,ACH-046,"Electrolytic capacitor 22,000uF 63V (C1, C2)"
+SA-9900,Integrated Amplifier,ACT-304-0,ACT-304,Variable Resistor (PHONO 2/MIC LEVEL) 4-gang 2K-HB/10K-HB
+SA-9900,Integrated Amplifier,ACV-144-A,ACV-144,Variable resistor - VOLUME (Early production?)
+SA-9900,Integrated Amplifier,ACV-145-0,ACV-145,Variable Resistor 50K-AC (BALANCE)
+SA-9900,Integrated Amplifier,ACV-146-0,ACV-146,Impedance Selector 233K (PHONO 2 IMPEDANCE)
+SA-9900,Integrated Amplifier,ACV-315-0,ACV-315,"Variable resistor (VR2, VOLUME)"
+SA-9900,Integrated Amplifier,ADG-010-0,ADG-010,AC Power cord (D)
+SA-9900,Integrated Amplifier,ADG-011-0,ADG-011,AC power cord (KCU)
+SA-9900,Integrated Amplifier,AEB-051-A,AEB-051,Lamp holder
+SA-9900,Integrated Amplifier,AEC-009-0,AEC-009,Wire clip (A)
+SA-9900,Integrated Amplifier,AEC-024-0,AEC-024,Wire clip (D)
+SA-9900,Integrated Amplifier,AEC-037-0,AEC-037,Wire clip (S)
+SA-9900,Integrated Amplifier,AEC-079-0,AEC-079,Cord grommet
+SA-9900,Integrated Amplifier,AEC-085-0,AEC-085,Nut (insulator)
+SA-9900,Integrated Amplifier,AEC-178-0,AEC-178,Foot assembly
+SA-9900,Integrated Amplifier,AEC-181-0,AEC-181,"Cover, AC outlet"
+SA-9900,Integrated Amplifier,AEC-182-0,AEC-182,"Cover, phono jack"
+SA-9900,Integrated Amplifier,AEC-183-0,AEC-183,Boss
+SA-9900,Integrated Amplifier,AEC-193-0,AEC-193,Lock plate
+SA-9900,Integrated Amplifier,AEC-209-0,AEC-209,AC socket cover (D)
+SA-9900,Integrated Amplifier,AEK-100-0,AEK-100,"Fuse 4A (F1, primary) - D"
+SA-9900,Integrated Amplifier,AEK-106-0,AEK-106,"Fuse 1A (F2, F3, secondary) - D"
+SA-9900,Integrated Amplifier,AEK-106-0,AEK-106,"Fuse 1A (F4, lamp)"
+SA-9900,Integrated Amplifier,AEK-106-0,AEK-106,"Fuse 1A (F4, lamp) - D"
+SA-9900,Integrated Amplifier,AEK-106-0,AEK-106,"Fuse 1A (FL F3, secondary)"
+SA-9900,Integrated Amplifier,AEK-300-0,AEK-300,"Fuse 8A (F1, primary)"
+SA-9900,Integrated Amplifier,AEK-400-0,AEK-400,"Fuse 4A (F1, primary) - GN"
+SA-9900,Integrated Amplifier,AEK-402-0,AEK-402,"Fuse 1A (F2, F3, secondary) - GN"
+SA-9900,Integrated Amplifier,AEK-402-0,AEK-402,"Fuse 1A (F4, lamp) - GN"
+SA-9900,Integrated Amplifier,AEL-022-A,AEL-022,"Lamp (with leads, PL1, 8V 50mA)"
+SA-9900,Integrated Amplifier,AHA-077-0,AHA-077,Side pad (L)
+SA-9900,Integrated Amplifier,AHA-078-0,AHA-078,Side pad (R)
+SA-9900,Integrated Amplifier,AHC-017-0,AHC-017,Inside packing
+SA-9900,Integrated Amplifier,AHD-248-A,AHD-248,Packing case
+SA-9900,Integrated Amplifier,AHG-024-0,AHG-024,Cloth cover
+SA-9900,Integrated Amplifier,AKB-023-0,AKB-023,"Phono jack (4-jacks, RCA type)"
+SA-9900,Integrated Amplifier,AKE-012-A,AKE-012,Binding post (GND)
+SA-9900,Integrated Amplifier,AKE-025-0,AKE-025,Push terminal (SPEAKERS)
+SA-9900,Integrated Amplifier,AKH-001-0,AKH-001,Transistor Socket
+SA-9900,Integrated Amplifier,AKP-003-0,AKP-003,AC socket (inlet) - GN
+SA-9900,Integrated Amplifier,AKP-005-0,AKP-005,"AC socket outlet (KCU, D)"
+SA-9900,Integrated Amplifier,AKP-008-0,AKP-008,AC socket inlet (GN)
+SA-9900,Integrated Amplifier,ANA-075-B,ANA-075,Chassis (C)
+SA-9900,Integrated Amplifier,ANA-076-A,ANA-076,Chassis (R)
+SA-9900,Integrated Amplifier,ANA-077-B,ANA-077,Chassis (L)
+SA-9900,Integrated Amplifier,ANA-087-0,ANA-087,Chassis (L) - D
+SA-9900,Integrated Amplifier,ANA-088-0,ANA-088,Chassis (L) - GN
+SA-9900,Integrated Amplifier,ANB-314-A,ANB-314,Front panel assembly
+SA-9900,Integrated Amplifier,ANB-315-0,ANB-315,Side panel (R)
+SA-9900,Integrated Amplifier,ANB-316-0,ANB-316,Side panel (L)
+SA-9900,Integrated Amplifier,ANB-337-A,ANB-337,Side Panel (L) (Model D)
+SA-9900,Integrated Amplifier,ANB-338-0,ANB-338,Side Panel (L) (Model GN)
+SA-9900,Integrated Amplifier,AND-080-A,AND-080,Power Amplifier Block
+SA-9900,Integrated Amplifier,AND-080-A,AND-080,Side stay (R)
+SA-9900,Integrated Amplifier,AND-081-A,AND-081,Side stay (L)
+SA-9900,Integrated Amplifier,AND-086-0,AND-086,Panel stay
+SA-9900,Integrated Amplifier,ANE-071-A,ANE-071,Bottom plate
+SA-9900,Integrated Amplifier,ANE-071-A,ANE-071,Bottom plate - GN
+SA-9900,Integrated Amplifier,ANE-072-A,ANE-072,Top cover
+SA-9900,Integrated Amplifier,ANE-073-B,ANE-073,"Cover, power transistor"
+SA-9900,Integrated Amplifier,ANE-086-0,ANE-086,Bottom plate - D
+SA-9900,Integrated Amplifier,ANF-287-0,ANF-287,Slide switch mount
+SA-9900,Integrated Amplifier,ANF-289-0,ANF-289,Switch mount plate
+SA-9900,Integrated Amplifier,ANF-290-0,ANF-290,Sub-chassis
+SA-9900,Integrated Amplifier,ANF-309-A,ANF-309,P.C. board mount metal
+SA-9900,Integrated Amplifier,ANF-324-0,ANF-324,Socket mount metal (GN)
+SA-9900,Integrated Amplifier,ANH-231-A,ANH-231,Front shield cover
+SA-9900,Integrated Amplifier,ANH-232-0,ANH-232,Shield cover
+SA-9900,Integrated Amplifier,ANH-233-A,ANH-233,Shield cover
+SA-9900,Integrated Amplifier,ANH-234-0,ANH-234,Shield cover
+SA-9900,Integrated Amplifier,ANH-236-B,ANH-236,Heatsink
+SA-9900,Integrated Amplifier,ANH-247-0,ANH-247,Shield plate
+SA-9900,Integrated Amplifier,ANK-073-A,ANK-073,Wire guide
+SA-9900,Integrated Amplifier,ARB-129-0,ARB-129,Operating Instructions SA-9900 (KCU)
+SA-9900,Integrated Amplifier,ARB-143-0,ARB-143,Operating instructions SA-9900 (English)
+SA-9900,Integrated Amplifier,ARD-078-0,ARD-078,Operating instructions SA-9900 (German/French)
+SA-9900,Integrated Amplifier,ART-095-0,ART-095,Service Manual SA-9900 (KCU)
+SA-9900,Integrated Amplifier,ART-109,ART-109,"Service manual SA-9900 (D, GN)"
+SA-9900,Integrated Amplifier,ASB-047-0,ASB-047,"Rotary switch (S15, SPEAKERS)"
+SA-9900,Integrated Amplifier,ASD-020-A,ASD-020,Rotary Switch (MODE)
+SA-9900,Integrated Amplifier,ASD-021-A,ASD-021,Rotary Switch (FUNCTION)
+SA-9900,Integrated Amplifier,ASD-022-A,ASD-022,"Rotary Switch (BASS, 50Hz)"
+SA-9900,Integrated Amplifier,ASD-023-B,ASD-023,"Rotary Switch (BASS, 100Hz)"
+SA-9900,Integrated Amplifier,ASD-025-A,ASD-025,"Rotary Switch (TREBLE, 20KHz)"
+SA-9900,Integrated Amplifier,ASG-043-B,ASG-043,"Push switch (S18, POWER) (Model KCU)"
+SA-9900,Integrated Amplifier,ASG-077-B,ASG-077,"Push switch (S18, POWER) (Model D)"
+SA-9900,Integrated Amplifier,ASG-077-B,ASG-077,"Push switch (S18, POWER) (Model GN)"
+SA-9900,Integrated Amplifier,ASG-077-B,ASG-077,"Push switch power (D, GN)"
+SA-9900,Integrated Amplifier,ASH-012-0,ASH-012,"Slide switch (S14, PRE/POWER AMP)"
+SA-9900,Integrated Amplifier,ASK-084-A,ASK-084,Lever Switch (TAPE DUPLICATE)
+SA-9900,Integrated Amplifier,ASK-085-0,ASK-085,Lever Switch (LOW FILTER/HIGH FILTER)
+SA-9900,Integrated Amplifier,ASK-086-A,ASK-086,Lever Switch (TAPE MONITOR)
+SA-9900,Integrated Amplifier,ASK-087-A,ASK-087,Lever Switch (ATTENUATOR )
+SA-9900,Integrated Amplifier,ASK-091-A,ASK-091,Lever Switch (TONE)
+SA-9900,Integrated Amplifier,ASR-009-A,ASR-009,Relay (S16)
+SA-9900,Integrated Amplifier,ASR-011-0,ASR-011,Relay (S17)
+SA-9900,Integrated Amplifier,ASS-024-A,ASS-024,"Rotary Switch (TREBLE, 10KHz)"
+SA-9900,Integrated Amplifier,ATT-206-0,ATT-206,Power transformer (KCU)
+SA-9900,Integrated Amplifier,ATT-239-0,ATT-239,Power transformer (D)
+SA-9900,Integrated Amplifier,ATT-240-0,ATT-240,Power transformer (GN)
+SA-9900,Integrated Amplifier,AWG-031-0,AWG-031,Control amplifier assembly
+SA-9900,Integrated Amplifier,AWH-037-A,AWH-037,Power Amplifier Assembly
+SA-9900,Integrated Amplifier,AWK-038-C,AWK-038,Input circuit assembly
+SA-9900,Integrated Amplifier,AWM-071-0,AWM-071,Protection circuit assembly
+SA-9900,Integrated Amplifier,AWR-069-A,AWR-069,Power supply circuit assembly (KCU)
+SA-9900,Integrated Amplifier,AWR-069-B,AWR-069,Power supply circuit assembly-1 (D)
+SA-9900,Integrated Amplifier,AWR-070-A,AWR-070,Power supply circuit assembly-2 (KCU)
+SA-9900,Integrated Amplifier,AWR-070-B,AWR-070,Power supply circuit assembly-2 (D)
+SA-9900,Integrated Amplifier,AWR-077-0,AWR-077,Power supply circuit assembly-3
+SA-9900,Integrated Amplifier,AWR-087-0,AWR-087,Power supply circuit assembly-1 (GN)
+SA-9900,Integrated Amplifier,AWR-088-0,AWR-088,Power supply circuit assembly-2 (GN)
+SA-9900,Integrated Amplifier,AWS-079-0,AWS-079,Tone switch circuit assembly
+SA-9900,Integrated Amplifier,AWS-080-0,AWS-080,Switch circuit assembly
+SA-9900,Integrated Amplifier,AWX-073-A,AWX-073,Volume circuit assembly
+SA-9900,Integrated Amplifier,AWX-083-0,AWX-083,Fuse board assembly
+SA-9900,Integrated Amplifier,AWX-087-0,AWX-087,Fuse board assembly - D
+SA-9900,Integrated Amplifier,AWX-089-0,AWX-089,Fuse board assembly - GN
+SA-9900,Integrated Amplifier,B71-004-0,B71-004,Nut (9φ)
+SA-9900,Integrated Amplifier,B71-004-0,B71-004,Nut (9φ)
+SA-9900,Integrated Amplifier,B71-010-0,B71-010,Nut (7φ)
+SA-9900,Integrated Amplifier,E32-045-A,E32-045,Washer (insulator)
+SA-9900,Integrated Amplifier,E34-004-D,E34-004,Washer (insulator)
+SA-9900,Integrated Amplifier,K13-047-0,K13-047,Ground terminal 4P
+SA-9900,Integrated Amplifier,K13-048-0,K13-048,Ground terminal 2P
+SA-9900,Integrated Amplifier,K72-020-0,K72-020,Phono jack (MIC)
+SA-9900,Integrated Amplifier,K72-026-0,K72-026,Phone jack (PHONES)
+SA-9900,Integrated Amplifier,M45-086-A,M45-086,Washer (t = 1mm)
+SD-1000,Other,A12-204-A,A12-204,Knob (without marking)
+SD-1000,Other,A12-237-A,A12-237,"Knob (small, with marking)"
+SD-1000,Other,A12-631-O,A12-631,"Knob (large, with marking)"
+SD-1000,Other,A19-077-0,A19-077,Knob (push switch)
+SD-1000,Other,A91-019-O,A91-019,Level meter
+SD-1000,Other,AAG-018-O,AAG-018,Dial scale
+SD-1000,Other,ACT-001-0,ACT-001,"50k B,POSITION"
+SD-1000,Other,ACT-001-0,ACT-001,"50k B,POSITION"
+SD-1000,Other,ACT-002-O,ACT-002,"250k A2, HORIZ GAIN"
+SD-1000,Other,ACT-002-O,ACT-002,"250k A2, VERT GAIN"
+SD-1000,Other,ACT-003-O,ACT-003,"500k B,SWEEP VARIABLE"
+SD-1000,Other,ACT-501-O,ACT-501,"5k A2, FREQUENCY"
+SD-1000,Other,ACT-502-O,ACT-502,"10k B,OSC LEVEL"
+SD-1000,Other,ACV-002-O,ACV-002,"1M B,INTENSITY"
+SD-1000,Other,ACV-003-0,ACV-003,"250k B, FOCUS"
+SD-1000,Other,ADE-001-O,ADE-001,Cord W. plug
+SD-1000,Other,AHA-002-2,AHA-002,CARDBOARD CUSHION A
+SD-1000,Other,AHA-003-0,AHA-003,CARDBOARD CUSHION B
+SD-1000,Other,AHD-001-0,AHD-001,PACKING CASE
+SD-1000,Other,AKE-002-O,AKE-002,Terminal A
+SD-1000,Other,AKE-003-O,AKE-003,Terminal B
+SD-1000,Other,AKG-001-O,AKG-001,Socket (CRT)
+SD-1000,Other,ANB-049-O,ANB-049,Front panel Ass'y
+SD-1000,Other,ARB-001-O,ARB-001,Operating instructions
+SD-1000,Other,ASA-004-O,ASA-004,FUNCTION Switch
+SD-1000,Other,ASC-004-O,ASC-004,METER RANGE selector
+SD-1000,Other,ASC-004-O,ASC-004,SWEEP RANGE selector
+SD-1000,Other,ASG-001-O,ASG-001,FRONT-REAR Selector
+SD-1000,Other,ASG-002-O,ASG-002,DISPLAY switch
+SD-1000,Other,ASG-002-O,ASG-002,WAVEFORM & DISPLAY selector
+SD-1000,Other,ATT-008-A,ATT-008,Power transformer
+SD-1000,Other,D11-003-B,D11-003,Power cord W. UL plug
+SD-1000,Other,D51-003-B,D51-003,Cord W. pin plug (White)
+SD-1000,Other,D51-004-B,D51-004,Cord W. pin plug (Red)
+SD-1000,Other,E11-034-A,E11-034,Vinyl bag
+SD-1000,Other,E21-004-A,E21-004,Fuse 1A
+SD-1000,Other,E21-004-O,E21-004,"Fuse, 1A"
+SD-1000,Other,E21-007-O,E21-007,Fuse 0.5A
+SD-1000,Other,E22-002-O,E22-002,"Pilot lamp (screwed), 8V 150mA"
+SD-1000,Other,H11-070-0,H11-070,STYROL
+SD-1000,Other,K21-009-O,K21-009,Pin jack (2P)
+SD-1000,Other,K41-002-B,K41-002,Socket (pilot lamp)
+SD-1000,Other,K72-020-O,K72-020,Mic jack
+SD-1000,Other,K82-014-O,K82-014,Ganged AC outlets
+SD-1000,Other,K91-009-A,K91-009,Fuse holder
+SD-1000,Other,M52-139-0,M52-139,Wooden case
+SD-1000,Other,M61-017-O,M61-017,Foot
+SD-1000,Other,M6525-B1B,M6525-B1B,CRT
+SD-1000,Other,R42-145-0,R42-145,Service Manual  SD-1100 (FW)
+SD-1000,Other,S11-018-O,S11-018,Line voltage selector
+SD-1000,Other,W16-037-O,W16-037,Power supply unit
+SD-1000,Other,W18-037-O,W18-037,V & H amplifier unit
+SD-1000,Other,W18-038-A,W18-038,Meter & Mic amplifier unit
+SD-1000,Other,W18-039-0,W18-039,Audio sweep unit
+SD-1000,Other,W18-040-O,W18-040,Switch unit
+SD-1100,Other,75AKB1,75AKB1,CRT
+SD-1100,Other,A12-241-B,A12-241,"Knob (Focus, Intensity, 4-CH display)"
+SD-1100,Other,AAB-025-0,AAB-025,"Knob (Frequency, function, meter range, sweep range)"
+SD-1100,Other,AAB-038-0,AAB-038,"Knob (Gain, Sweep variable)"
+SD-1100,Other,AAB-038-0,AAB-038,Knob (Level)
+SD-1100,Other,AAB-038-0,AAB-038,Knob (Position)
+SD-1100,Other,AAD-011-0,AAD-011,"Knob (Front, Rear)"
+SD-1100,Other,AAD-011-0,AAD-011,"Knob (Waveform & Display, Display)"
+SD-1100,Other,AAG-039-B,AAG-039,Dial plate
+SD-1100,Other,AAP-022-B,AAP-022,CRT flame
+SD-1100,Other,AAW-014-0,AAW-014,Level meter
+SD-1100,Other,ABA-010-0,ABA-010,Screw to fix wooden case
+SD-1100,Other,ACH-017-0,ACH-017,Electrolytic capacitor 40+40gF 315V
+SD-1100,Other,ACL-001-0,ACL-001,Oil paper capacitor 0.2uF 1.5kV
+SD-1100,Other,ACT-001-0,ACT-001,Volume (Horiz position) 50k-B
+SD-1100,Other,ACT-001-0,ACT-001,Volume (Vert position) 50k-B
+SD-1100,Other,ACT-002-0,ACT-002,Volume (Horiz gain) 250k-A
+SD-1100,Other,ACT-002-0,ACT-002,Volume (Vert gain) 250k-A
+SD-1100,Other,ACT-003-0,ACT-003,Volume (Sweep variable) 500k-B
+SD-1100,Other,ACT-103-0,ACT-103,4 CH display volume (L) Dual 500k-B
+SD-1100,Other,ACT-103-0,ACT-103,4 CH display volume (R) Dual 500k-B
+SD-1100,Other,ACT-501-0,ACT-501,Volume (Frequency) 5k-A
+SD-1100,Other,ACT-502-0,ACT-502,Volume (Osc level) 10k-B
+SD-1100,Other,ACV-002-0,ACV-002,Volume (Focus) 250k-B
+SD-1100,Other,ACV-003-0,ACV-003,Volume (Intensity) 100k-B
+SD-1100,Other,ADE-001-0,ADE-001,Cord with plug
+SD-1100,Other,ADG-003-0,ADG-003,AC power cord
+SD-1100,Other,AEC-057-0,AEC-057,Foot assembly
+SD-1100,Other,AHA-002-0,AHA-002,Cardboard cushion A
+SD-1100,Other,AHA-003-0,AHA-003,Cardboard cushion B
+SD-1100,Other,AHD-122-0,AHD-122,Packing case
+SD-1100,Other,AKB-011-0,AKB-011,4P pin jack
+SD-1100,Other,AKC-019-0,AKC-019,4P lug terminal
+SD-1100,Other,AKE-002-0,AKE-002,Terminal A
+SD-1100,Other,AKE-003-0,AKE-003,Terminal B
+SD-1100,Other,AKE-008-0,AKE-008,Terminal (Metal)
+SD-1100,Other,AKE-008-0,AKE-008,Terminal (Metal)
+SD-1100,Other,AKG-001-0,AKG-001,Socket (CRT)
+SD-1100,Other,AKR-001-0,AKR-001,Line voltage selector
+SD-1100,Other,AMM-017-B,AMM-017,Wooden case
+SD-1100,Other,ANA-029-0,ANA-029,Chassis
+SD-1100,Other,ANB-157-B,ANB-157,Front panel assembly
+SD-1100,Other,ANB-157-B,ANB-157,Front panel assembly
+SD-1100,Other,ANC-062-0,ANC-062,Rear panel
+SD-1100,Other,AND-040-B,AND-040,Stay
+SD-1100,Other,ANE-018-0,ANE-018,Bottom plate
+SD-1100,Other,ANF-013-0,ANF-013,Switch-hold metal
+SD-1100,Other,ANF-014-0,ANF-014,Switch-hold metal B
+SD-1100,Other,ANF-085-0,ANF-085,Volume-hold metal
+SD-1100,Other,ANG-069-0,ANG-069,Meter-hold metal
+SD-1100,Other,ANH-039-0,ANH-039,Shield case
+SD-1100,Other,ANH-109-0,ANH-109,Shield plate A
+SD-1100,Other,ANH-110-0,ANH-110,Shield plate B
+SD-1100,Other,ANH-111-0,ANH-111,Side chassis (Right)
+SD-1100,Other,ANH-112-0,ANH-112,Side chassis (Left)
+SD-1100,Other,ARB-066-0,ARB-066,Operating instructions
+SD-1100,Other,ASA-034-0,ASA-034,AC Selector switch (FUNCTION)
+SD-1100,Other,ASA-034-0,ASA-034,Function switch
+SD-1100,Other,ASC-035-0,ASC-035,Selector switch A (METER RANGE)
+SD-1100,Other,ASC-036-0,ASC-036,Selector switch B (SWEEP RANGE)
+SD-1100,Other,ASH-004-0,ASH-004,Slide switch (LOW/HIGH)
+SD-1100,Other,ATT-097-0,ATT-097,Power transformer
+SD-1100,Other,AWM-034-0,AWM-034,Complex unit
+SD-1100,Other,AWR-022-0,AWR-022,Power supply unit
+SD-1100,Other,AWR-023-0,AWR-023,Power supply Unit
+SD-1100,Other,AWS-016-0,AWS-016,Switch unit
+SD-1100,Other,AWX-030-0,AWX-030,Volume unit
+SD-1100,Other,AWX-032-0,AWX-032,V. H. amp. unit
+SD-1100,Other,AWX-033-0,AWX-033,AF OSC unit
+SD-1100,Other,AWX-041-0,AWX-041,AF sweep unit
+SD-1100,Other,B11-034-A,B11-034,Screw to fix bottom plate
+SD-1100,Other,B21-008-A,B21-008,Boss
+SD-1100,Other,B21-008-A,B21-008,Boss
+SD-1100,Other,C43-003-0,C43-003,Ceramic capacitor 0.01 uF DC1.4kV
+SD-1100,Other,D51-003-B,D51-003,Connection cord (White)
+SD-1100,Other,D51-004-B,D51-004,Connection cord (Red)
+SD-1100,Other,E21-004-0,E21-004,Fuse 1A
+SD-1100,Other,E21-007-0,E21-007,Fuse 0.5A
+SD-1100,Other,E32-045-0,E32-045,Insulator
+SD-1100,Other,E32-056-0,E32-056,AC cord stopper
+SD-1100,Other,E32-079-A,E32-079,Push switch spacer
+SD-1100,Other,E32-079-A,E32-079,Push switch spacer
+SD-1100,Other,E33-009-B,E33-009,Polishing cloth
+SD-1100,Other,H11-070-D,H11-070,Styrotector
+SD-1100,Other,K13-049-0,K13-049,6P lug terminal
+SD-1100,Other,K13-049-0,K13-049,6P lug terminal
+SD-1100,Other,K21-009-D,K21-009,2P pin jack
+SD-1100,Other,K72-020-0,K72-020,Microphone jack
+SD-1100,Other,K82-014-0,K82-014,Spare AC outlet
+SD-1100,Other,M49-128-0,M49-128,Terminal-hold metal
+SD-1100,Other,R42-282-0,R42-282,Service Manual  SD-1100  (FW)
+SD-1100,Other,W18-040-0,W18-040,Switch unit

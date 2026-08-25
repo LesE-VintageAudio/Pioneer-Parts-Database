@@ -1,0 +1,2506 @@
+model,category,part_number,normalized_part_number,description
+TX-9100,Tuner,ATB-021-0,ATB-021,AM ferrite loopstick antenna
+SX-535,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-636,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-737,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-838,Receiver,ATB-026-0,ATB-026,Ferrite loopstick antenna
+SX-939,Receiver,ATB-026-0,ATB-026,Ferrite locpstick antenna
+SX-1010,Receiver,ATB-027-0,ATB-027,Ferrite loopstick antenna
+TX-7500,Tuner,ATB-037,ATB-037,BAR ANTENNA
+TX-5300,Tuner,ATB-038-0,ATB-038,Ferrite bar antenna (T2)
+TX-5300,Tuner,ATB-038-0,ATB-038,"T2, Ferrite bar antenna"
+TX-9500,Tuner,ATB-040-0,ATB-040,Bar-antenna
+QX-747A,Receiver,ATB-041,ATB-041,Bar-antenna
+QX-949A,Receiver,ATB-042,ATB-042,Ferrite bar-antenna
+SX-950,Receiver,ATB-046,ATB-046,Ferrite bar-antenna
+SX-1050,Receiver,ATB-050,ATB-050,Ferrite bar-antenna
+SX-1250,Receiver,ATB-051,ATB-051,Ferrite bar-antenna
+SX-202,Receiver,ATB-076,ATB-076,Loop antenna assembly
+TX-130L,Tuner,ATB-076,ATB-076,Antenna assembly
+TX-530L,Tuner,ATB-076,ATB-076,ANT assembly
+TX-930,Tuner,ATB-076,ATB-076,AM loop antenna
+F-90,Tuner,ATB-086,ATB-086,AM loop antenna ass'Y
+SX-50,Receiver,ATB-086,ATB-086,Loop antenna
+SX-60,Receiver,ATB-086,ATB-086,Loop antenna
+TX-950,Tuner,ATB-086,ATB-086,Loop antenna assembly
+SX-1080,Receiver,ATB-505,ATB-505,Bar antenna
+SX-1280,Receiver,ATB-505,ATB-505,Bar antenna assembly
+SX-580/590,Receiver,ATB-505,ATB-505,Bar antenna
+SX-680/690,Receiver,ATB-505,ATB-505,Ferrite bar-antenna
+SX-780,Receiver,ATB-505,ATB-505,Bar antenna
+SX-880/890,Receiver,ATB-505,ATB-505,Ferrite bar antenna
+SX-980,Receiver,ATB-505,ATB-505,Bar antenna
+TX-6500II,Tuner,ATB-505,ATB-505,Bar antenna
+TX-6800/608,Tuner,ATB-505,ATB-505,Bar antenna
+TX-8500II,Tuner,ATB-506,ATB-506,Bar antenna
+SX-1980,Receiver,ATB-507,ATB-507,Ferrite bar-antenna
+TX-9500II,Tuner,ATB-507,ATB-507,Bar antenna
+TX-5500II,Tuner,ATB-602,ATB-602,BAR ANTENNA
+SX-D5000,Receiver,ATB-619,ATB-619,Bar-antenna
+TX-520,Tuner,ATB-623,ATB-623,BAR ANTENNA
+TX-610,Tuner,ATB-623,ATB-623,BAR ANTENNA
+SX-3700,Receiver,ATB-624,ATB-624,Bar-antenna Ass'y
+SX-3800,Receiver,ATB-624,ATB-624,Bar -antenna assembly
+SX-3900,Receiver,ATB-624,ATB-624,Bar-antenna assembly
+SX-820,Receiver,ATB-624,ATB-624,Bar-antenna Ass'y
+SX-600,Receiver,ATB-626,ATB-626,Bar antenna
+SX-700,Receiver,ATB-626,ATB-626,Bar-antenna assembly
+SX-6,Receiver,ATB-631,ATB-631,Bar antenna assembly
+SX-7,Receiver,ATB-631,ATB-631,Bar-antenna assembly
+F-7,Tuner,ATB-634,ATB-634,Bar-antenna assembly
+SX-4,Receiver,ATB-636,ATB-636,Bar-antenna assembly
+SX-5,Receiver,ATB-636,ATB-636,Bar-antenna assembly
+SX-8,Receiver,ATB-638,ATB-638,Bar-antenna assembly
+QX-747,Receiver,ATF-016-0,ATF-016,Low pass filter
+SX-4,Receiver,ATF-125,ATF-125,Ceramic resonator
+SX-5,Receiver,ATF-125,ATF-125,Ceramic resonator
+SA-500A,Integrated Amplifier,ATH-003-O,ATH-003,Choke Coil
+SA-500A,Integrated Amplifier,ATH-003-O,ATH-003,Choke Coil
+SA-940,Integrated Amplifier,ATS-004,ATS-004,Power transformer (120V) - KU
+SA-950,Integrated Amplifier,ATS-004,ATS-004,Power transformer (120V) - KU
+SA-950,Integrated Amplifier,ATS-005,ATS-005,Power transformer (120V) - KC
+A-90,Integrated Amplifier,ATS-010,ATS-010,Power transformer (120V)
+SA-1040,Integrated Amplifier,ATS-013,ATS-013,Power transformer (120V) - KU
+SA-1050,Integrated Amplifier,ATS-013,ATS-013,Power transformer (120V) - KU
+A-60,Integrated Amplifier,ATS-014,ATS-014,Power transformer (120V) - KU
+SX-60,Receiver,ATS-016,ATS-016,Power transformer (120V)
+SX-50,Receiver,ATS-017,ATS-017,Power transformer (120V)
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HB
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HE
+SA-940,Integrated Amplifier,ATS-018,ATS-018,Power transformer (240V) - YP
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (200V/240V) - HEZ
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (220V/240V) - HE
+SA-950,Integrated Amplifier,ATS-018,ATS-018,Power transformer (240V) - YP
+F-90,Tuner,ATS-022,ATS-022,Power transformer (120V - KU)
+F-90,Tuner,ATS-023,ATS-023,Power transformer (220V - 240V - HB)
+F-90,Tuner,ATS-023,ATS-023,Power transformer (220V - 240V - HE)
+A-70,Integrated Amplifier,ATS-025,ATS-025,Power transformer
+A-60,Integrated Amplifier,ATS-027,ATS-027,Power transformer (220V/240V) - HB
+A-60,Integrated Amplifier,ATS-027,ATS-027,Power transformer (220V/240V) - HE
+A-60,Integrated Amplifier,ATS-027,ATS-027,Power transformer (220V/240V) - YP
+SA-1040,Integrated Amplifier,ATS-027,ATS-027,Power transformer (240V) - YP
+SA-1050,Integrated Amplifier,ATS-027,ATS-027,Power transformer (240V) - YP
+SA-1040,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S"
+SA-1040,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S/G"
+SA-1050,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S"
+SA-1050,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S/G"
+SA-940,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V,120V,220V,240V) - S"
+SA-940,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V,120V,220V,240V) - S/G"
+SA-950,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V, 120V, 220V, 240V) - S"
+SA-950,Integrated Amplifier,ATS-031,ATS-031,"Power transformer (110V, 120V, 220V, 240V) - S/G"
+A-80,Integrated Amplifier,ATS-041,ATS-041,Power transformer (220/240V) - HE
+SG-90,Equalizer,ATS-042,ATS-042,Power transformer (KU - 120V)
+SG-90,Equalizer,ATS-047,ATS-047,"Power transformer (S,S/G - 110, 120, 220, 240V)"
+A-60,Integrated Amplifier,ATS-049,ATS-049,"Power transformer (110V, 120V, 220V, 240V) - S"
+A-80,Integrated Amplifier,ATS-053,ATS-053,Power transformer (110/120/220/240V) - S
+A-80,Integrated Amplifier,ATS-053,ATS-053,Power transformer (110/120/220/240V) - S/G
+TX-201Z,Tuner,ATS-095,ATS-095,PWR XFMR TX950
+TX-905,Tuner,ATS-095,ATS-095,PWR XFMR TX950
+TX-950,Tuner,ATS-095,ATS-095,Power transformer - KU
+TX-950,Tuner,ATS-096,ATS-096,Power transformer - HEZ/YP
+TX-950,Tuner,ATS-097,ATS-097,"Power transformer - S,S/G"
+TX-950,Tuner,ATS-097,ATS-097,Power transformer - SS
+A-88X,Integrated Amplifier,ATS-201,ATS-201,Power transformer
+A-88X,Integrated Amplifier,ATS-202,ATS-202,Power transformer
+A-77X,Integrated Amplifier,ATS-203,ATS-203,Power transformer (AC120V) - KU
+A-77X,Integrated Amplifier,ATS-203,ATS-203,Power transformer (AC120V) - KU
+A-77X,Integrated Amplifier,ATS-204,ATS-204,Power transformer (AC120V) - KU
+A-77X,Integrated Amplifier,ATS-204,ATS-204,Power transformer (Power supply assembly GWR-217)
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HB"
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HB"
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HE"
+A-77X,Integrated Amplifier,ATS-216,ATS-216,"Power transformer (AC220V, 240V) - HE"
+A-77X,Integrated Amplifier,ATS-217,ATS-217,Power transformer (AC220V) - HB
+A-77X,Integrated Amplifier,ATS-217,ATS-217,Power transformer (AC220V) - HE
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power transformer (AC110,120, 220, 240V) - S"
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power transformer (AC110,120, 220, 240V) - S/G"
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power translormer (AC110, 120, 220, 240V) - S"
+A-77X,Integrated Amplifier,ATS-224,ATS-224,"Power translormer (AC110, 120, 220, 240V) - S/G"
+A-77X,Integrated Amplifier,ATS-226,ATS-226,Power transformer (AC120V only) - S
+A-77X,Integrated Amplifier,ATS-226,ATS-226,Power transformer (AC120V only) - S/G
+SA-970,Integrated Amplifier,ATS-227,ATS-227,Power transformer (AC220V/240V) - HE
+A-66X,Integrated Amplifier,ATS-252,ATS-252,"Power transformer (T1) (AC220, 240V)"
+A-66X,Integrated Amplifier,ATS-253,ATS-253,Power transformer (T2) (AC220V)
+A-858,Integrated Amplifier,ATS1198,ATS1198,Power transformer (HEZ)
+A-858,Integrated Amplifier,ATS1199,ATS1199,Power transformer (HEZ)
+SD-1000,Other,ATT-008-A,ATT-008,Power transformer
+QX-8000,Receiver,ATT-010-B,ATT-010,Power Transformer
+SA-1000,Integrated Amplifier,ATT-011-A,ATT-011,Power transformer (FVW model)
+QC-800,Pre-Amplifier,ATT-012-0,ATT-012,Power transformer
+QA-800,Integrated Amplifier,ATT-013-A,ATT-013,Power transformer
+QA-800A,Integrated Amplifier,ATT-013-A,ATT-013,Power transformer (FVW)
+SA-600,Integrated Amplifier,ATT-015-0,ATT-015,Power transformer (KUW/KCW)
+SA-600,Integrated Amplifier,ATT-016-0,ATT-016,Power transformer (FVW)
+SA-800,Integrated Amplifier,ATT-019-A,ATT-019,Power transformer (KUW/KCW)
+SA-800,Integrated Amplifier,ATT-020-A,ATT-020,Power transformer (FVW)
+TX-600,Tuner,ATT-021,ATT-021,PWR XFMR TX-600/K
+TX-800,Tuner,ATT-023,ATT-023,PWR XFMR TX-800/K
+QM-800,Amplifier,ATT-025-0,ATT-025,Power Transformer
+QL-600,Integrated Amplifier,ATT-029-0,ATT-029,Power Transformer
+TX-500A,Tuner,ATT-034,ATT-034,PWR XFMR
+SA-500A,Integrated Amplifier,ATT-036-B,ATT-036,Power Transformer (KU)
+SA-500A,Integrated Amplifier,ATT-037-A,ATT-037,Power Transformer (FV)
+SX-626 (1971),Receiver,ATT-040-A,ATT-040,"Power transformer (KUW,KCW)"
+SX-626 (1973),Receiver,ATT-040-B,ATT-040,Power transformer    KUW
+SX-626 (1971),Receiver,ATT-041-B,ATT-041,"Power transformer (FVZW,FW)"
+SX-626 (1973),Receiver,ATT-041-E,ATT-041,"Power transformer    FVZW, FW"
+SX-525,Receiver,ATT-043-C,ATT-043,"Power transformer (KUW,KCW)"
+SX-525,Receiver,ATT-044-C,ATT-044,Power transformer (FVZW)
+SX-727,Receiver,ATT-050-0,ATT-050,Power transformer (KUW)
+SX-727,Receiver,ATT-051-0,ATT-051,"Power transformer (FVZW,FW)"
+SX-828,Receiver,ATT-058-0,ATT-058,Power transformer (KUW)
+SX-828,Receiver,ATT-059,ATT-059,"Power transformer (FVZW,FW)"
+SX-525,Receiver,ATT-060-A,ATT-060,Power transformer (NBW)
+SX-626 (1971),Receiver,ATT-061-0,ATT-061,Power transformer (NBW)
+SX-626 (1973),Receiver,ATT-061-A,ATT-061,Power transformer    NBW
+SX-424,Receiver,ATT-063-0,ATT-063,Power transformer (KUW)
+SX-424,Receiver,ATT-064-0,ATT-064,Power transformer (FVZW)
+SX-626 (1973),Receiver,ATT-072-B,ATT-072,Power transformer    KCW
+QL-600A,Integrated Amplifier,ATT-079-0,ATT-079,Power transformer (KLW)
+QL-600A,Integrated Amplifier,ATT-080-0,ATT-080,Power transformer (FLW)
+QX-8000A,Receiver,ATT-082-0,ATT-082,Power transformer (KUW)
+QX-8000A,Receiver,ATT-083-0,ATT-083,"Power transformer (FW,FSAW)"
+QM-800A,Amplifier,ATT-086-0,ATT-086,Power transformer
+QC-800A,Pre-Amplifier,ATT-087-0,ATT-087,Power transformer
+QA-800A,Integrated Amplifier,ATT-091-A,ATT-091,Power transformer (KLW)
+QX-4000,Receiver,ATT-095-A,ATT-095,Power transformer KLUW model
+QX-646,Receiver,ATT-095-B,ATT-095,Power transformer (KUW model)
+QX-4000,Receiver,ATT-096-A,ATT-096,Power transformer FW model
+QX-646,Receiver,ATT-096-B,ATT-096,Power transformer (FW model)
+SD-1100,Other,ATT-097-0,ATT-097,Power transformer
+QX-9900,Receiver,ATT-098-A,ATT-098,Power transformer
+SA-7100,Integrated Amplifier,ATT-100-0,ATT-100,Power transformer for KUW model
+SA-7100,Integrated Amplifier,ATT-101-0,ATT-101,Power transformer for FVW model
+SA-8100,Integrated Amplifier,ATT-104-0,ATT-104,Power transformer for KUW model
+SA-8100,Integrated Amplifier,ATT-105-0,ATT-105,Power transformer for FVW model
+SA-9100,Integrated Amplifier,ATT-107-0,ATT-107,Power transformer for KUW model
+SA-9100,Integrated Amplifier,ATT-108-0,ATT-108,Power transformer for FVW model
+TX-7100,Tuner,ATT-110-0,ATT-110,Power transformer (KUW model)
+TX-8100,Tuner,ATT-110-0,ATT-110,Power transformer (KUW model)
+TX-7100,Tuner,ATT-111-0,ATT-111,"Power transformer (FVZW, FW model)"
+TX-8100,Tuner,ATT-111-0,ATT-111,"Power transformer (FVZW, FW model)"
+TX-9100,Tuner,ATT-113-0,ATT-113,Power transformer (KUW model)
+TX-9100,Tuner,ATT-114-0,ATT-114,"Power transformer (FVZW, FW model)"
+TX-6200,Tuner,ATT-120-0,ATT-120,Power transformer KU model
+TX-6200,Tuner,ATT-121-0,ATT-121,Power transformer F and FVZ model
+SA-5200,Integrated Amplifier,ATT-127-0,ATT-127,Power transformer (KU model)
+SA-5200,Integrated Amplifier,ATT-128-0,ATT-128,Power transformer (FV model)
+QD-240,Other,ATT-131,ATT-131,PWR XFMR QD-240/F
+TX-7100,Tuner,ATT-132-0,ATT-132,Power transformer (KCW model)
+TX-8100,Tuner,ATT-132-0,ATT-132,Power transformer (KCW model)
+TX-9100,Tuner,ATT-133-0,ATT-133,Power transformer (KCW model)
+SA-5200,Integrated Amplifier,ATT-135-0,ATT-135,Power transformer (KC model)
+QX-949,Receiver,ATT-144-A,ATT-144,Power transformer
+QX-747,Receiver,ATT-145-0,ATT-145,Power transformer
+SX-1010,Receiver,ATT-166-A,ATT-166,Power transformer (KCU)
+SX-939,Receiver,ATT-167-A,ATT-167,Power transformer (KCU)
+SX-838,Receiver,ATT-168-A,ATT-168,Power transformer (KCU)
+SX-434,Receiver,ATT-169-0,ATT-169,Power transformer (KCU)
+SX-434,Receiver,ATT-170-A,ATT-170,Power transformer (GN)
+SX-434,Receiver,ATT-171-0,ATT-171,Power transformer (FV)
+SX-838,Receiver,ATT-172-0,ATT-172,Power transformer (F)
+SX-939,Receiver,ATT-173-0,ATT-173,Power transformer (F)
+SX-1010,Receiver,ATT-174-0,ATT-174,Power transformer (F)
+SX-636,Receiver,ATT-176-0,ATT-176,Power transformer (KCU)
+SX-1010,Receiver,ATT-179-0,ATT-179,Power transformer (GN)
+SX-939,Receiver,ATT-180-A,ATT-180,Power transformer (GN)
+SX-838,Receiver,ATT-181-0,ATT-181,Power transformer (GN)
+SX-636,Receiver,ATT-184-0,ATT-184,Power transformer (FV)
+SX-636,Receiver,ATT-185-0,ATT-185,Power transformer (GN)
+SX-737,Receiver,ATT-186-0,ATT-186,Power transformer (KCU)
+SX-535,Receiver,ATT-188-0,ATT-188,Power transformer (KCU)
+SX-535,Receiver,ATT-189-A,ATT-189,Power transformer (GN)
+SX-535,Receiver,ATT-190-0,ATT-190,Power transformer (FV)
+SX-737,Receiver,ATT-191-0,ATT-191,Power transformer (GN)
+SX-737,Receiver,ATT-192-0,ATT-192,Power transformer (F)
+Exclusive M3,Amplifier,ATT-199-A,ATT-199,Power transformer
+Exclusive M3,Amplifier,ATT-199-A,ATT-199,Power transformer
+SA-9900,Integrated Amplifier,ATT-206-0,ATT-206,Power transformer (KCU)
+TX-5300,Tuner,ATT-218-0,ATT-218,Power transformer (T1)
+QX-949A,Receiver,ATT-221,ATT-221,"Power transformer (for ""KCU"" type)"
+QX-949A,Receiver,ATT-222,ATT-222,Power transformer (for “F” type)
+SA-7500,Integrated Amplifier,ATT-226-B,ATT-226,Power transformer (FV)
+SA-7500,Integrated Amplifier,ATT-227-B,ATT-227,Power transformer (GN)
+SA-7500,Integrated Amplifier,ATT-228-B,ATT-228,Power transformer (KCU)
+SA-8500,Integrated Amplifier,ATT-232-A,ATT-232,Power transformer (FV)
+SA-8500,Integrated Amplifier,ATT-233-B,ATT-233,Power transformer (GN)
+SA-8500,Integrated Amplifier,ATT-234-A,ATT-234,Power transformer (KCU)
+TX-9500,Tuner,ATT-235-A,ATT-235,Power transformer
+SA-9500,Integrated Amplifier,ATT-236-A,ATT-236,Power transformer (D)
+SA-9500,Integrated Amplifier,ATT-238-A,ATT-238,Power transformer (KCU)
+SA-9900,Integrated Amplifier,ATT-239-0,ATT-239,Power transformer (D)
+SA-9900,Integrated Amplifier,ATT-240-0,ATT-240,Power transformer (GN)
+QX-747A,Receiver,ATT-242,ATT-242,Power transformer
+SPEC-1,Pre-Amplifier,ATT-248,ATT-248,Power transformer
+SPEC-2,Amplifier,ATT-249,ATT-249,Power transformer
+RG-1,Dynamic Range Expander,ATT-253,ATT-253,Power transformer
+SX-550,Receiver,ATT-263,ATT-263,Power transformer (KU)
+SX-750,Receiver,ATT-264,ATT-264,Power transformer (KU model)
+SX-950,Receiver,ATT-265,ATT-265,Power transformer
+SX-1050,Receiver,ATT-266,ATT-266,Power transformer
+SX-1250,Receiver,ATT-267,ATT-267,Power Transformer (KCU)
+SG-9500,Equalizer,ATT-270,ATT-270,Power transformer
+SA-6500,Integrated Amplifier,ATT-285,ATT-285,Power transformer
+TX-6500,Tuner,ATT-286,ATT-286,PWR XFMR TX-6500
+TX-6500II,Tuner,ATT-286,ATT-286,Power transformer (KC)
+SX-1050,Receiver,ATT-290,ATT-290,Power transformer (S)
+SX-1250,Receiver,ATT-291,ATT-291,Power Transformer (S)
+SX-1250,Receiver,ATT-295,ATT-295,Power Transformer (HG)
+TX-6500II,Tuner,ATT-298,ATT-298,Power transformer (KU)
+SX-750,Receiver,ATT-301,ATT-301,Power transformer (KC model)
+SX-850,Receiver,ATT-302,ATT-302,Power transformer
+SX-650,Receiver,ATT-303,ATT-303,Power transformer (MODEL KU)
+SX-450,Receiver,ATT-304,ATT-304,Power transformer (KU)
+SX-550,Receiver,ATT-305,ATT-305,Power transformer (KC)
+SX-650,Receiver,ATT-315,ATT-315,Power transformer (MODEL KC)
+SX-450,Receiver,ATT-320,ATT-320,Power transformer (KC)
+SX-450,Receiver,ATT-322,ATT-322,Power Transformer (S)
+SX-550,Receiver,ATT-323,ATT-323,Power transformer (S)
+SX-550,Receiver,ATT-327,ATT-327,Power transformer (HG)
+SX-450,Receiver,ATT-333,ATT-333,Power Transformer (HG)
+SX-650,Receiver,ATT-339,ATT-339,Power transformer (MODEL S)
+SX-650,Receiver,ATT-340,ATT-340,Power transformer (MODEL HG)
+TX-8500II,Tuner,ATT-342,ATT-342,Power transformer (KU)
+TX-8500II,Tuner,ATT-343,ATT-343,Power transformer (KC)
+TX-8500II,Tuner,ATT-344,ATT-344,Power transformer (HG)
+TX-8500II,Tuner,ATT-345,ATT-345,Power transformer (S)
+TX-9500II,Tuner,ATT-347,ATT-347,Power transformer(KU/KC)
+TX-9500II,Tuner,ATT-348,ATT-348,Power transformer(HG)
+TX-9500II,Tuner,ATT-349,ATT-349,Power transformer(S)
+TX-5500II,Tuner,ATT-350,ATT-350,PWR XFMR TX-5500/2
+TX-6500II,Tuner,ATT-353,ATT-353,Power transformer (HG)
+TX-6500II,Tuner,ATT-354,ATT-354,Power transformer (S)
+SA-5500II,Integrated Amplifier,ATT-356,ATT-356,Power transformer
+SA-8500II,Integrated Amplifier,ATT-366,ATT-366,Power transformer (L-KU)
+SA-8500II,Integrated Amplifier,ATT-367,ATT-367,Power transformer (R-KU)
+SA-8500II,Integrated Amplifier,ATT-368,ATT-368,Power transformer (L-KC)
+SA-8500II,Integrated Amplifier,ATT-369,ATT-369,Power transformer (R-KC)
+SA-8500II,Integrated Amplifier,ATT-370,ATT-370,Power transformer (L-HG)
+SA-8500II,Integrated Amplifier,ATT-371,ATT-371,Power transformer (R-HG)
+SA-8500II,Integrated Amplifier,ATT-372,ATT-372,Power transformer (L-S)
+SA-8500II,Integrated Amplifier,ATT-373,ATT-373,Power transformer (R-S)
+SA-9500II,Integrated Amplifier,ATT-374,ATT-374,Power transformer (KU-L)
+SA-9500II,Integrated Amplifier,ATT-375,ATT-375,Power transformer (KU-R)
+SA-9500II,Integrated Amplifier,ATT-376,ATT-376,Power transformer (KC-L)
+SA-9500II,Integrated Amplifier,ATT-377,ATT-377,Power transformer (KC-R)
+SA-9500II,Integrated Amplifier,ATT-378,ATT-378,Power transformer (HG-L)
+SA-9500II,Integrated Amplifier,ATT-379,ATT-379,Power transformer (HG-R)
+SA-9500II,Integrated Amplifier,ATT-380,ATT-380,Power transformer (S-L)
+SA-9500II,Integrated Amplifier,ATT-381,ATT-381,Power transformer (S-R)
+SA-7500II,Integrated Amplifier,ATT-389,ATT-389,Power transformer
+C-21,Pre-Amplifier,ATT-395,ATT-395,Power transformer (for KL-type)
+M-22,Amplifier,ATT-396,ATT-396,Power transformer R ch. (KL-type)
+M-22,Amplifier,ATT-397,ATT-397,Power transformer L ch.  (KL-type)
+SA-6500II,Integrated Amplifier,ATT-398,ATT-398,Power transformer
+M-22,Amplifier,ATT-407,ATT-407,Power transformer R ch. (N-type)
+M-22,Amplifier,ATT-408,ATT-408,Power transformer L ch. (N-type)
+C-21,Pre-Amplifier,ATT-410,ATT-410,Power transformer (for S-type)
+SPEC-4,Amplifier,ATT-416,ATT-416,Power transformer (LEFT)
+SPEC-4,Amplifier,ATT-417,ATT-417,Power transformer (RIGHT)
+SX-1980,Receiver,ATT-446,ATT-446,Power Transformer (KU)
+SX-1280,Receiver,ATT-447,ATT-447,Power transformer (For KU type)
+SX-1080,Receiver,ATT-448,ATT-448,Power transformer
+SX-980,Receiver,ATT-449,ATT-449,Power transformer
+M-25,Amplifier,ATT-450,ATT-450,Power transformer
+M-25,Amplifier,ATT-451,ATT-451,Power transformer
+SX-1280,Receiver,ATT-460,ATT-460,Power transformer (For KC type)
+SX-550,Receiver,ATT-463,ATT-463,Power transformer (???)
+SX-1980,Receiver,ATT-464,ATT-464,Power Transformer (HG)
+SX-1980,Receiver,ATT-472,ATT-472,Power Transformer (S)
+SX-1980,Receiver,ATT-473,ATT-473,Power Transformer (S/G)
+SX-1280,Receiver,ATT-474,ATT-474,Power transformer (S)
+SX-1280,Receiver,ATT-475,ATT-475,Power transformer (SG)
+TX-606,Tuner,ATT-480,ATT-480,PWR XFMR TX-6700
+TX-6700,Tuner,ATT-480,ATT-480,PWR XFMR TX-6700
+SA-6700,Integrated Amplifier,ATT-483,ATT-483,Power transformer (KU)
+SA-6700,Integrated Amplifier,ATT-484,ATT-484,Power transformer (KC)
+SA-606,Integrated Amplifier,ATT-485,ATT-485,"Power transformer (S,S/G)"
+SA-606,Integrated Amplifier,ATT-486,ATT-486,Power transformer (HG)
+SA-6700,Integrated Amplifier,ATT-487,ATT-487,Power transformer
+SA-606,Integrated Amplifier,ATT-488,ATT-488,"Power transformer (S,S/G)"
+SA-606,Integrated Amplifier,ATT-489,ATT-489,Power transformer (HG)
+SA-7700,Integrated Amplifier,ATT-490,ATT-490,Power transformer (KU)
+SA-7700,Integrated Amplifier,ATT-491,ATT-491,Power transformer (KC)
+SA-706,Integrated Amplifier,ATT-492,ATT-492,"Power transformer (S,S/G)"
+SA-706,Integrated Amplifier,ATT-493,ATT-493,Power transformer (HG)
+SA-706,Integrated Amplifier,ATT-494,ATT-494,Power transformer
+SA-7700,Integrated Amplifier,ATT-494,ATT-494,Power transformer
+SA-706,Integrated Amplifier,ATT-495,ATT-495,"Power transformer (S,S/G)"
+SA-706,Integrated Amplifier,ATT-496,ATT-496,Power transformer (HG)
+SX-580/590,Receiver,ATT-510,ATT-510,Power transformer (SX-580/KU)
+SX-680/690,Receiver,ATT-511,ATT-511,Power transformer (SX-680/KU)
+SX-780,Receiver,ATT-512,ATT-512,Power transformer
+SX-880/890,Receiver,ATT-513,ATT-513,Power transformer (KU)
+SX-680/690,Receiver,ATT-516,ATT-516,Power transformer (KC type)
+SX-880/890,Receiver,ATT-518,ATT-518,Power transformer (KC)
+SX-680/690,Receiver,ATT-520,ATT-520,Power transformer (S/SG type)
+SX-880/890,Receiver,ATT-522,ATT-522,Power transformer (S)
+SX-880/890,Receiver,ATT-522,ATT-522,Power transformer (SG)
+SX-580/590,Receiver,ATT-523,ATT-523,Power transformer (SX-590/HG)
+SX-580/590,Receiver,ATT-523,ATT-523,Power transformer (SX-590/HGW4)
+SX-680/690,Receiver,ATT-524,ATT-524,Power transformer (SX-680/HG)
+SX-680/690,Receiver,ATT-524,ATT-524,Power transformer (SX-680/HGW4)
+A-27,Integrated Amplifier,ATT-528,ATT-528,Power transformer (L)
+A-27,Integrated Amplifier,ATT-528,ATT-528,Power transformer (L) - KU
+A-27,Integrated Amplifier,ATT-529,ATT-529,Power transformer (R)
+A-27,Integrated Amplifier,ATT-529,ATT-529,Power transformer (R) - KU
+F-28,Tuner,ATT-530,ATT-530,Power transformer (KU)
+F-28,Tuner,ATT-534,ATT-534,Power transformer (S/G)
+A-27,Integrated Amplifier,ATT-538,ATT-538,Power transformer (L) - S
+A-27,Integrated Amplifier,ATT-538,ATT-538,Power transformer (L) - S/G
+A-27,Integrated Amplifier,ATT-539,ATT-539,Power transformer (R) - S
+A-27,Integrated Amplifier,ATT-539,ATT-539,Power transformer (R) - S/G
+SA-3000,Integrated Amplifier,ATT-552,ATT-552,"Power transformer (HE, HB)"
+SA-3000,Integrated Amplifier,ATT-553,ATT-553,"Power transformer (HE, HB)"
+SA-9800,Integrated Amplifier,ATT-556,ATT-556,Power transformer (KU)
+SA-9800,Integrated Amplifier,ATT-556,ATT-556,Power transformer (KU)
+SA-9800,Integrated Amplifier,ATT-559,ATT-559,Power transformer (S/G)
+SA-9800,Integrated Amplifier,ATT-560,ATT-560,Power transformer (S/G)
+SA-8800,Integrated Amplifier,ATT-563,ATT-563,Power transformer (KU)
+SA-8800,Integrated Amplifier,ATT-564,ATT-564,Power transformer (KC)
+SA-8800,Integrated Amplifier,ATT-565,ATT-565,Power transformer (S/G)
+SA-7800,Integrated Amplifier,ATT-567,ATT-567,Power transformer
+TX-7800,Tuner,ATT-574,ATT-574,PWR XFMR TX-7800
+TX-7800,Tuner,ATT-575,ATT-575,Power transformer (S/SG)
+TX-7800,Tuner,ATT-576,ATT-576,Power transformer (HG)
+SA-5800/508,Integrated Amplifier,ATT-577,ATT-577,Heater transformer
+SA-9800,Integrated Amplifier,ATT-577,ATT-577,Transformer
+SA-9800,Integrated Amplifier,ATT-578,ATT-578,Power transformer (S)
+SA-9800,Integrated Amplifier,ATT-579,ATT-579,Power transformer (S)
+SA-8800,Integrated Amplifier,ATT-580,ATT-580,Power transformer (S)
+RG-2,Dynamic Range Expander,ATT-588,ATT-588,Power transformer
+RG-60,Dynamic Range Expander,ATT-589,ATT-589,"Power transformer (110V, 120V, 220V, 240V) - S,S/G"
+SG-9,Equalizer,ATT-591,ATT-591,Power transformer (120V) - KU
+SG-9800,Equalizer,ATT-591,ATT-591,Power transformer
+SG-9,Equalizer,ATT-592,ATT-592,"Power transformer (110V-120V,220V-240V) - R"
+SG-9,Equalizer,ATT-592,ATT-592,"Power transformer (110V-120V,220V-240V) - R/G"
+SR-303,Reverb,ATT-595,ATT-595,Power transformer
+SG-9,Equalizer,ATT-597,ATT-597,Power transformer (120V) - KC
+SA-3000,Integrated Amplifier,ATT-601,ATT-601,Power transformer (KU)
+SA-3000,Integrated Amplifier,ATT-602,ATT-602,Power transformer (KU)
+SA-708,Integrated Amplifier,ATT-603,ATT-603,Power transformer
+SA-6800/608,Integrated Amplifier,ATT-605,ATT-605,Power transformer
+SA-5800/508,Integrated Amplifier,ATT-609,ATT-609,Power transformer
+TX-6800/608,Tuner,ATT-612,ATT-612,Power transformer
+SA-710,Integrated Amplifier,ATT-668,ATT-668,Power transformer - KU
+SX-3900,Receiver,ATT-675,ATT-675,Power transformer (KU)
+SX-3900,Receiver,ATT-676,ATT-676,Power transformer (KU)
+SX-D7000,Receiver,ATT-676,ATT-676,Power transformer (KU)
+SX-3800,Receiver,ATT-677,ATT-677,Power transformer (KU)
+SX-3800,Receiver,ATT-678,ATT-678,Heater transformer
+SX-3900,Receiver,ATT-678,ATT-678,Heater transformer
+SX-D5000,Receiver,ATT-678,ATT-678,Heater transformer
+SX-D7000,Receiver,ATT-678,ATT-678,Heater transformer
+SX-3900,Receiver,ATT-681,ATT-681,Power transformer (S/G)
+SX-3900,Receiver,ATT-682,ATT-682,Power transformer (S/G)
+SX-3800,Receiver,ATT-683,ATT-683,"Power transformer (S/G,S)"
+SX-3400,Receiver,ATT-687,ATT-687,Power transformer (KU)
+SX-3400,Receiver,ATT-689,ATT-689,Power transformer (S)
+SX-3500,Receiver,ATT-690,ATT-690,Power transformer
+SX-3600/720,Receiver,ATT-693,ATT-693,Power transformer
+SX-3700,Receiver,ATT-696,ATT-696,Power transformer
+SX-820,Receiver,ATT-696,ATT-696,Power transformer
+SA-710,Integrated Amplifier,ATT-703,ATT-703,Power transformer - HB
+SA-710,Integrated Amplifier,ATT-703,ATT-703,Power transformer - HE
+SX-700L,Receiver,ATT-706,ATT-706,Power transformer
+SX-600L,Receiver,ATT-707,ATT-707,Power transformer
+SX-600,Receiver,ATT-714,ATT-714,Power transformer - YP
+SX-D5000,Receiver,ATT-717,ATT-717,Power transformer (120V - KU)
+SX-D7000,Receiver,ATT-718,ATT-718,Power transformer (KU)
+SX-D5000,Receiver,ATT-719,ATT-719,Transformer
+SX-D7000,Receiver,ATT-719,ATT-719,Transformer
+SX-D5000,Receiver,ATT-721,ATT-721,Power transformer (220/240V - HG)
+SX-D5000,Receiver,ATT-727,ATT-727,Transformer (HG)
+SX-600,Receiver,ATT-730,ATT-730,Power transformer - KU
+SX-700,Receiver,ATT-731,ATT-731,Power transformer
+SX-D7000,Receiver,ATT-737,ATT-737,Power transformer (KC)
+SX-D7000,Receiver,ATT-738,ATT-738,Power transformer (KC)
+A-9,Integrated Amplifier,ATT-759,ATT-759,Power transformer - KU
+A-9,Integrated Amplifier,ATT-760,ATT-760,Power transformer - KC
+A-9,Integrated Amplifier,ATT-761,ATT-761,Power transformer - S
+A-9,Integrated Amplifier,ATT-761,ATT-761,Power transformer - S/G
+A-9,Integrated Amplifier,ATT-762,ATT-762,Power transformer (220V/240V) - HE
+A-8,Integrated Amplifier,ATT-763,ATT-763,Power transformer (KU)
+A-8,Integrated Amplifier,ATT-764,ATT-764,Power transformer (KC)
+A-8,Integrated Amplifier,ATT-765-A,ATT-765,"Power transformer (S, S/G)"
+A-8,Integrated Amplifier,ATT-766-A,ATT-766,"Power transformer (HE, HB)"
+A-7,Integrated Amplifier,ATT-770,ATT-770,Power transformer  220V/240V (HE)
+A-7,Integrated Amplifier,ATT-770-A,ATT-770,Power transformer  220V/240V (HEZ)
+F-7,Tuner,ATT-774,ATT-774,"Power transformer (KU, KC)"
+F-7,Tuner,ATT-776,ATT-776,Power transformer (HG)
+SA-420,Integrated Amplifier,ATT-793,ATT-793,Power transformer (120V) - KU
+SA-420,Integrated Amplifier,ATT-794,ATT-794,Power transformer (240V) - YP
+SA-420,Integrated Amplifier,ATT-795,ATT-795,"Power transformer (110V, 120V, 220V, 240V) - S"
+A-6,Integrated Amplifier,ATT-796,ATT-796,Power transformer (120V) - KU
+A-6,Integrated Amplifier,ATT-798,ATT-798,"Power transformer (220V, 240V) - HB"
+A-6,Integrated Amplifier,ATT-798,ATT-798,"Power transformer (220V, 240V) - HE"
+SX-4,Receiver,ATT-839,ATT-839,Power transformer
+SX-5,Receiver,ATT-840,ATT-840,Power transformer
+SX-6,Receiver,ATT-841,ATT-841,Power transformer
+SX-7,Receiver,ATT-842,ATT-842,Power transformer (T2)
+SX-7,Receiver,ATT-847,ATT-847,Power transformer (T2)
+TX-130L,Tuner,ATT-881,ATT-881,Power transformer
+TX-530L,Tuner,ATT-881,ATT-881,Power transformer
+SX-8,Receiver,ATT-882,ATT-882,Power transformer (120V) KU-type
+SX-8,Receiver,ATT-883,ATT-883,Power transformer (120V) KU-type
+SX-8,Receiver,ATT-887,ATT-887,Power transformer (116/120/220/240V) S/SG-type
+SX-8,Receiver,ATT-888,ATT-888,Power transformer (110/120/220/240V) S/SG-type
+SA-930,Integrated Amplifier,ATT-889,ATT-889,Power transformer (120V) - KU
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HB"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HE"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - HEZ"
+SA-930,Integrated Amplifier,ATT-890,ATT-890,"Power transformer (220V, 240V) - YP"
+SA-930,Integrated Amplifier,ATT-891,ATT-891,"Power transformer (110V, 120V, 220V and 240V) - S/SG"
+SA-530,Integrated Amplifier,ATT-895,ATT-895,Power transformer (120V) - KU
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HB"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HE"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - HEZ"
+SA-530,Integrated Amplifier,ATT-896,ATT-896,"Power transformer (220V, 240V) - YP"
+SA-530,Integrated Amplifier,ATT-897,ATT-897,"Power transformer (110V,120V,220V. 240V) - S"
+TX-930,Tuner,ATT-916,ATT-916,Power transformer
+SX-202,Receiver,ATT-942,ATT-942,Power transformer (120V)
+A-80,Integrated Amplifier,ATT-987,ATT-987,MC transformer
+A-88X,Integrated Amplifier,ATT-987,ATT-987,MC Transformer
+GR-551,Equalizer,ATT1032,ATT1032,Power transformer (AC 220/240V) - HB
+GR-551,Equalizer,ATT1032,ATT1032,Power transformer (AC 220/240V) - HEZ
+GR-555,Equalizer,ATT1032,ATT1032,Power transformer (AC220V/240V) - HB
+GR-555,Equalizer,ATT1032,ATT1032,Power transformer (AC220V/240V) - HEZ
+GR-551,Equalizer,ATT1039,ATT1039,Power transformer (AC120V) - KUC
+GR-555,Equalizer,ATT1039,ATT1039,Power transformer (AC120V) - KUC
+GR-551,Equalizer,ATT1049,ATT1049,Power transformer (AC 110/120-127/220/240V) - SD
+GR-551,Equalizer,ATT1049,ATT1049,Power transformer (AC 110/120-127/220/240V) - SD/G
+GR-555,Equalizer,ATT1049,ATT1049,Power transformer (AC110V/120 -127V/220V/240V)  - SD
+GR-555,Equalizer,ATT1049,ATT1049,Power transformer (AC110V/120 -127V/220V/240V) - SD/G
+GR-777,Equalizer,ATT1067,ATT1067,Power transformer
+C-72,Pre-Amplifier,ATT1122,ATT1122,Power transformer (KU/CA)
+C-72,Pre-Amplifier,ATT1123,ATT1123,Power transformer (SD)
+C-72,Pre-Amplifier,ATT1126,ATT1126,Power transformer (KU/CA)
+C-72,Pre-Amplifier,ATT1127,ATT1127,Power transformer (SD)
+SX-8,Receiver,ATX-013,ATX-013,Balun
+SX-600L,Receiver,ATX-019,ATX-019,Bar antenna
+SX-700L,Receiver,ATX-019,ATX-019,Bar-antenna assembly
+SX-1000TA (Early),Receiver,AV0212,AV0212,Pilot Lamp
+SX-1000TA (Early),Receiver,AV7211,AV7211,Pilot Lamp for FM Stereo
+SX-1000TA (Early),Receiver,AV7305,AV7305,Fuse 2A
+SX-1500TD,Receiver,AWB-001,AWB-001,FM FRONT END (FVZW)
+SX-828,Receiver,AWB-005-0,AWB-005,FM front end (FVZW)
+SX-727,Receiver,AWB-006-0,AWB-006,FM front end (FVZW)
+SX-626 (1971),Receiver,AWB-008-0,AWB-008,"FM front end (KUW,FVZW,NBW,FW)"
+SX-626 (1971),Receiver,AWB-009-0,AWB-009,FM front end (KUC)
+TX-9100,Tuner,AWB-013-0,AWB-013,FM front end (Used with AAG-046-0)
+TX-9100,Tuner,AWB-015-0,AWB-015,FM front end (Used with AAG-050-0)
+SX-1010,Receiver,AWB-017-0,AWB-017,FM front end
+SX-1250,Receiver,AWB-023,AWB-023,FM Front End
+TX-9500,Tuner,AWB-023-0,AWB-023,Front end
+TX-9500II,Tuner,AWB-023,AWB-023,FM front end
+TX-8500II,Tuner,AWB-028,AWB-028,FM front end
+SX-1980,Receiver,AWB-030,AWB-030,FM front end
+F-28,Tuner,AWB-036,AWB-036,FM front end (KU type)
+F-28,Tuner,AWB-036,AWB-036,FM front end (S/G type)
+SX-202,Receiver,AWB-044,AWB-044,FM Front-end
+TX-9100,Tuner,AWD-002-0,AWD-002,"MPX, AF amplifier assembly"
+TX-9100,Tuner,AWD-002-0,AWD-002,"MPX, AF amplifier assembly"
+TX-9500,Tuner,AWD-007-0,AWD-007,MPX assembly
+TX-9500II,Tuner,AWD-008,AWD-008,MPX AF assembly (HG)
+TX-9500II,Tuner,AWD-009,AWD-009,MPX AF assembly
+TX-9500II,Tuner,AWD-009,AWD-009,MPX AF assembly (KU/KC)
+TX-9500II,Tuner,AWD-010,AWD-010,MPX AF assembly (S)
+F-28,Tuner,AWD-014,AWD-014,MPX AF assembly (KU type)
+F-28,Tuner,AWD-015,AWD-015,MPX AF assembly (S/G type)
+QX-4000,Receiver,AWE-003-D,AWE-003,Tuner unit
+QX-646,Receiver,AWE-003-E,AWE-003,Tuner assembly
+QX-8000,Receiver,AWE-003-C,AWE-003,Tuner Unit
+QX-8000A,Receiver,AWE-003-0,AWE-003,Tuner unit
+SX-525,Receiver,AWE-003-0,AWE-003,Tuner unit
+SX-440,Receiver,AWE-004,AWE-004,Tuner Unit (FVZW)
+SX-424,Receiver,AWE-008-0,AWE-008,Tuner unit
+SX-626 (1971),Receiver,AWE-011-A,AWE-011,FM /AM Unit
+QX-9900,Receiver,AWE-015-B,AWE-015,FM/AM unit
+SX-727,Receiver,AWE-015-A,AWE-015,FM/AM unit
+SX-828,Receiver,AWE-016-A,AWE-016,Tuner unit
+TX-8100,Tuner,AWE-023-0,AWE-023,Tuner assembly
+TX-7100,Tuner,AWE-024-0,AWE-024,Tuner assembly
+TX-6200,Tuner,AWE-025-0,AWE-025,Tuner assembly
+TX-9100,Tuner,AWE-026-0,AWE-026,AM/FM IF amplifier assembly
+TX-9100,Tuner,AWE-026-0,AWE-026,AM/FM IF amplifier assembly
+QX-949,Receiver,AWE-027-0,AWE-027,Tuner assembly
+QX-747,Receiver,AWE-028-0,AWE-028,Tuner assembly
+SX-626 (1973),Receiver,AWE-031-0,AWE-031,Tuner assembly
+SX-434,Receiver,AWE-037-0,AWE-037,Tuner assembly
+SX-1010,Receiver,AWE-040-0,AWE-040,Tuner assembly
+QX-949A,Receiver,AWE-041,AWE-041,Tuner assembly
+SX-838,Receiver,AWE-041-A,AWE-041,Tuner assembly
+SX-939,Receiver,AWE-041-0,AWE-041,Tuner assembly
+SX-737,Receiver,AWE-043-0,AWE-043,Tuner assembly
+SX-535,Receiver,AWE-046-0,AWE-046,Tuner assembly
+SX-636,Receiver,AWE-046-0,AWE-046,Tuner assembly
+TX-5300,Tuner,AWE-048-0,AWE-048,Tuner assembly
+TX-9500,Tuner,AWE-055-A,AWE-055,AM-FM IF assembly
+QX-747A,Receiver,AWE-056,AWE-056,Tuner assembly
+TX-6500II,Tuner,AWE-062,AWE-062,"Tuner assembly (KU,KC)"
+SX-950,Receiver,AWE-066,AWE-066,Tuner assembly
+SX-1050,Receiver,AWE-067,AWE-067,Tuner assembly
+SX-1250,Receiver,AWE-068,AWE-068,TUNER ASSEMBLY
+TX-8500II,Tuner,AWE-069,AWE-069,Tuner assembly (HG)
+TX-9500II,Tuner,AWE-070,AWE-070,AM FM IF assembly
+SX-850,Receiver,AWE-071,AWE-071,Tuner assembly
+SX-550,Receiver,AWE-072,AWE-072,RF assembly
+SX-750,Receiver,AWE-073,AWE-073,"Tuner, AF & control assembly"
+SX-450,Receiver,AWE-074,AWE-074,RF assembly
+SX-650,Receiver,AWE-075,AWE-075,Tuner and AF assembly e/w TA7136P IC in the phono EQ
+SX-650,Receiver,AWE-075-A,AWE-075,Tuner and AF assembly e/w AWK-165 EQ amplifier
+TX-8500II,Tuner,AWE-084,AWE-084,"Tuner assembly (KU,KC)"
+TX-8500II,Tuner,AWE-085,AWE-085,Tuner assembly (S)
+TX-6500II,Tuner,AWE-087,AWE-087,Tuner assembly (HG)
+TX-6500II,Tuner,AWE-088,AWE-088,Tuner assembly (S)
+SX-1080,Receiver,AWE-092,AWE-092,Tuner assembly
+SX-1280,Receiver,AWE-092,AWE-092,Tuner assembly
+SX-1980,Receiver,AWE-093,AWE-093,Tuner assembly
+SX-980,Receiver,AWE-094,AWE-094,Tuner assembly
+F-28,Tuner,AWE-097,AWE-097,IF assembly (KU type)
+F-28,Tuner,AWE-097,AWE-097,IF assembly (S/G type)
+SX-780,Receiver,AWE-099,AWE-099,Tuner assembly
+SX-880/890,Receiver,AWE-099,AWE-099,Tuner assembly
+SX-7,Receiver,AWE-114,AWE-114,Tuner assembly
+QC-800,Pre-Amplifier,AWF-002-0,AWF-002,Head amp unit
+QC-800A,Pre-Amplifier,AWF-002-0,AWF-002,Head amp unit
+QX-4000,Receiver,AWF-003-0,AWF-003,Head amp unit
+QX-8000,Receiver,AWF-003-0,AWF-003,Head Amp Unit
+QX-8000A,Receiver,AWF-003-0,AWF-003,Head amp unit
+SX-525,Receiver,AWF-003-0,AWF-003,Head amp unit
+SA-7100,Integrated Amplifier,AWF-005-0,AWF-005,Equalizer amp unit
+SA-8100,Integrated Amplifier,AWF-006-0,AWF-006,Equalizer amp unit
+SA-9100,Integrated Amplifier,AWF-007-0,AWF-007,Equalizer amp ass'y
+SA-5200,Integrated Amplifier,AWF-008-0,AWF-008,Equalizer amplifier assembly
+QX-747,Receiver,AWF-010-0,AWF-010,Equalizer amplifier assembly
+QX-949,Receiver,AWF-010-0,AWF-010,Equalizer amplifier assembly
+SX-737,Receiver,AWF-011-0,AWF-011,Equalizer amplifier assembly
+SX-838,Receiver,AWF-011-0,AWF-011,Equalizer amplifier assembly
+SX-850,Receiver,AWF-011,AWF-011,Equalizer amplifier assembly
+SX-950,Receiver,AWF-011,AWF-011,Equalizer amplifier assembly
+SX-1010,Receiver,AWF-013-0,AWF-013,Equalizer ampliﬁer assembly
+SX-939,Receiver,AWF-013-0,AWF-013,Equalizer amplifier assembly
+SX-535,Receiver,AWF-014-0,AWF-014,Equalizer amplifier assembly
+SX-636,Receiver,AWF-014-0,AWF-014,Equalizer amplifier assembly
+SA-7500,Integrated Amplifier,AWF-015-B,AWF-015,Equalizer amplifier assembly
+SA-8500,Integrated Amplifier,AWF-016-A,AWF-016,Equalizer amplifier assembly
+SPEC-1,Pre-Amplifier,AWF-017,AWF-017,Input circuit assembly
+SX-1050,Receiver,AWF-020,AWF-020,Equalizer amplifier assembly
+SX-1250,Receiver,AWF-021,AWF-021,EQUALIZER AMPLIFIER ASSEMBLY
+SA-8500II,Integrated Amplifier,AWF-023,AWF-023,Equalizer amplifier assembly
+SA-9500II,Integrated Amplifier,AWF-024,AWF-024,Equalizer amplifier assembly
+C-21,Pre-Amplifier,AWF-025,AWF-025,Input Assembly
+SX-1980,Receiver,AWF-030,AWF-030,EQ ampliﬁer assembly
+SX-1280,Receiver,AWF-031,AWF-031,EQ amplifier assembly
+A-27,Integrated Amplifier,AWF-034,AWF-034,Head amplifier assembly
+SX-D7000,Receiver,AWF-046,AWF-046,EQUALIZER Ass'y
+SX-D5000,Receiver,AWF-047,AWF-047,Equalizer assembly
+A-7,Integrated Amplifier,AWF-048,AWF-048,EQ assembly (HE)
+A-8,Integrated Amplifier,AWF-049,AWF-049,Equalizer assembly
+A-9,Integrated Amplifier,AWF-052,AWF-052,EQ ampliﬁer assembly
+A-7,Integrated Amplifier,AWF-054,AWF-054,EQ assembly (HEZ)
+A-90,Integrated Amplifier,AWF-058,AWF-058,MC arm. assembly
+SA-1040,Integrated Amplifier,AWF-059,AWF-059,Equalizer amp ass'y
+SA-1050,Integrated Amplifier,AWF-059,AWF-059,Equalizer amp ass'y
+A-60,Integrated Amplifier,AWF-060,AWF-060,Equalizer amp. ass’y
+A-66X,Integrated Amplifier,AWF-073,AWF-073,Equalizer assembly (HEZ)
+A-66X,Integrated Amplifier,AWF-076,AWF-076,Equalizer assembly (HB)
+A-66X,Integrated Amplifier,AWF-076,AWF-076,Equalizer assembly (HE)
+QA-800,Integrated Amplifier,AWG-001-0,AWG-001,Control amp unit
+QA-800A,Integrated Amplifier,AWG-001-0,AWG-001,Control amp unit
+QC-800,Pre-Amplifier,AWG-002-0,AWG-002,Control amp unit
+QC-800A,Pre-Amplifier,AWG-002-0,AWG-002,Control amp unit
+QX-8000,Receiver,AWG-003-0,AWG-003,Control Amp Unit
+QX-8000A,Receiver,AWG-003-A,AWG-003,Control amp unit
+SX-6000,Receiver,AWG-006-0,AWG-006,Control Unit
+SX-626 (1971),Receiver,AWG-008-0,AWG-008,Control amp unit
+SX-626 (1973),Receiver,AWG-008-A,AWG-008,Control amplifier assembly
+QL-600,Integrated Amplifier,AWG-009-0,AWG-009,Control Amp Unit
+QL-600A,Integrated Amplifier,AWG-009-0,AWG-009,Control amp unit
+SA-500A,Integrated Amplifier,AWG-010-O,AWG-010,Control Amp Unit
+SX-525,Receiver,AWG-011-0,AWG-011,Control amp unit
+QX-9900,Receiver,AWG-013-0,AWG-013,Control amp unit
+QX-9900,Receiver,AWG-013-0,AWG-013,Control amp unit
+QX-9900,Receiver,AWG-014-0,AWG-014,Tone control unit
+QX-4000,Receiver,AWG-015-0,AWG-015,Control amp unit
+QX-646,Receiver,AWG-015-0,AWG-015,Control amplifier assembly
+SA-7100,Integrated Amplifier,AWG-016-0,AWG-016,Control amp unit
+SA-8100,Integrated Amplifier,AWG-017-0,AWG-017,Control amp unit
+SA-9100,Integrated Amplifier,AWG-018-A,AWG-018,Control amp ass‘v
+SA-5200,Integrated Amplifier,AWG-021-0,AWG-021,Control amplifier assembly
+QX-949,Receiver,AWG-023-0,AWG-023,Control amplifier assembly
+QX-949A,Receiver,AWG-023,AWG-023,Control amplifier assembly
+QX-747,Receiver,AWG-024-0,AWG-024,Control amplifier assembly
+QX-747,Receiver,AWG-024-0,AWG-024,Control amplifier assembly
+QX-747A,Receiver,AWG-024,AWG-024,"Control amplifier assembly (for CH1, CH3)"
+QX-747A,Receiver,AWG-024,AWG-024,"Control amplifier assembly (for CH2, CH4)"
+SX-1010,Receiver,AWG-027-0,AWG-027,Control ampliﬁer assembly
+SX-939,Receiver,AWG-027-0,AWG-027,Control amplifier assembly
+SX-838,Receiver,AWG-029-0,AWG-029,Control amplifier assembly
+SX-737,Receiver,AWG-030-0,AWG-030,Control amplifier assembly
+SA-9900,Integrated Amplifier,AWG-031-0,AWG-031,Control amplifier assembly
+SA-9500,Integrated Amplifier,AWG-032-0,AWG-032,Control amplifier assembly
+SA-7500,Integrated Amplifier,AWG-033-0,AWG-033,Control amplifier assembly
+SA-8500,Integrated Amplifier,AWG-034-A,AWG-034,Control amplifier assembly
+SPEC-1,Pre-Amplifier,AWG-035,AWG-035,Tone amplifier assembly
+SG-9500,Equalizer,AWG-036,AWG-036,Graphic EQ assembly
+SX-850,Receiver,AWG-038,AWG-038,Flat amplifier assembly
+SX-950,Receiver,AWG-038,AWG-038,Flat amplifier assembly
+SX-850,Receiver,AWG-039,AWG-039,Tone amplifier assembly
+SX-950,Receiver,AWG-039,AWG-039,Tone amplifier assembly
+SX-1050,Receiver,AWG-040,AWG-040,Flat amplifier assembly
+SX-1050,Receiver,AWG-041,AWG-041,Control amplifier assembly
+SX-1250,Receiver,AWG-041,AWG-041,CONTROL AMPLIFIER ASSEMBLY
+SX-1250,Receiver,AWG-042,AWG-042,FLAT AMPLIFIER ASSEMBLY
+SA-8500II,Integrated Amplifier,AWG-044,AWG-044,Control amplifier assembly
+SA-9500II,Integrated Amplifier,AWG-045,AWG-045,Control amplifier assembly
+SX-750,Receiver,AWG-046,AWG-046,Tone control assembly
+SA-7500II,Integrated Amplifier,AWG-047,AWG-047,Control amplifier assembly
+SX-650,Receiver,AWG-049,AWG-049,Tone control assembly
+SX-1080,Receiver,AWG-056,AWG-056,Tone control assembly
+SX-980,Receiver,AWG-056,AWG-056,Tone control assembly
+SX-1980,Receiver,AWG-058,AWG-058,Flat amplifier assembly
+SX-1280,Receiver,AWG-059,AWG-059,Tone amplifier assembly
+SX-1980,Receiver,AWG-059,AWG-059,Tone control assembly
+SX-1280,Receiver,AWG-060,AWG-060,Flat amplifier assembly
+SA-930,Integrated Amplifier,AWG-080,AWG-080,Control assembly
+SA-530,Integrated Amplifier,AWG-084,AWG-084,Control assembly
+A-90,Integrated Amplifier,AWG-088,AWG-088,Tone control ssernbly
+SA-1040,Integrated Amplifier,AWG-090,AWG-090,Control ass’y
+SA-1050,Integrated Amplifier,AWG-090,AWG-090,Control ass’y
+SA-940,Integrated Amplifier,AWG-091,AWG-091,Control ass‘y
+SA-950,Integrated Amplifier,AWG-091,AWG-091,Control ass‘y
+SA-970,Integrated Amplifier,AWG1002,AWG1002,Control assembly
+SX-626 (1971),Receiver,AWH -013-0,AWH -013,Main amp unit (NBW)
+SA-7100,Integrated Amplifier,AWH -021-0,AWH -021,Power amp unit
+QA-800,Integrated Amplifier,AWH-002-B,AWH-002,Main amp unit
+QA-800A,Integrated Amplifier,AWH-002-0,AWH-002,Main amp unit
+SX-626 (1971),Receiver,AWH-002-C,AWH-002,"Main amp unit (KUW,KCW,FVZW,FW)"
+SX-626 (1973),Receiver,AWH-002-E,AWH-002,"Power amplifier assembly    KUW, KCW, FVZW, FW"
+QL-600,Integrated Amplifier,AWH-005-A,AWH-005,Main Amp Unit
+QL-600A,Integrated Amplifier,AWH-005-A,AWH-005,Main amp unit
+SA-500A,Integrated Amplifier,AWH-005-A,AWH-005,Main Amp Unit
+SX-525,Receiver,AWH-006-A,AWH-006,"Main amp unit (KUW,KCW,FVZW)"
+SX-828,Receiver,AWH-010-0,AWH-010,Main amp unit
+SX-727,Receiver,AWH-011-0,AWH-011,Power amp unit
+SX-525,Receiver,AWH-012-0,AWH-012,Main amp unit (NBW)
+SX-626 (1973),Receiver,AWH-013-B,AWH-013,Power amplifier assembly    NBW
+QM-800A,Amplifier,AWH-015-A,AWH-015,Power amp unit
+QX-9900,Receiver,AWH-015-B,AWH-015,Main amp unit
+QX-9900,Receiver,AWH-015-B,AWH-015,Main amp unit
+QX-4000,Receiver,AWH-019-C,AWH-019,Main amp unit
+QX-4000,Receiver,AWH-019-C,AWH-019,Main amp unit
+QX-646,Receiver,AWH-019-F,AWH-019,Power amplifier assembly
+SA-5200,Integrated Amplifier,AWH-019-E,AWH-019,Power amplifier assembly
+SA-8100,Integrated Amplifier,AWH-022-A,AWH-022,Power amp unit
+SA-9100,Integrated Amplifier,AWH-023-B,AWH-023,Power amp ass'v
+SA-9100,Integrated Amplifier,AWH-023-B,AWH-023,Power amp ass’y
+QX-949,Receiver,AWH-027-0,AWH-027,Power amplifier assembly
+QX-949,Receiver,AWH-027-0,AWH-027,Power amplifier assembly
+QX-949A,Receiver,AWH-027,AWH-027,"Power amplifier assembly (for CH1, CH4)"
+QX-949A,Receiver,AWH-027,AWH-027,"Power amplifier assembly (for CH2, CH3)"
+QX-747,Receiver,AWH-028-0,AWH-028,Power amplifier assembly
+QX-747A,Receiver,AWH-028,AWH-028,Power amplifier assembly
+Exclusive M3,Amplifier,AWH-029-0,AWH-029,Power amplifier assembly
+Exclusive M3,Amplifier,AWH-029-0,AWH-029,Power amplifier assembly
+SX-939,Receiver,AWH-030-0,AWH-030,Power amplifier assembly
+SX-838,Receiver,AWH-031-A,AWH-031,Power ampliﬁer assembly
+SX-1010,Receiver,AWH-032-0,AWH-032,Power amplifier assembly
+SX-737,Receiver,AWH-033-0,AWH-033,Power amplifier assembly
+SX-636,Receiver,AWH-034-0,AWH-034,Power amplifier assembly
+SX-535,Receiver,AWH-035-0,AWH-035,Power amplifier assembly
+SA-9900,Integrated Amplifier,AWH-037-A,AWH-037,Power Amplifier Assembly
+SA-7500,Integrated Amplifier,AWH-040-0,AWH-040,Power amplifier assembly
+SA-9500,Integrated Amplifier,AWH-041-0,AWH-041,Power amplifier assembly
+SA-8500,Integrated Amplifier,AWH-042-0,AWH-042,Power amplifier assembly
+SPEC-2,Amplifier,AWH-045,AWH-045,Power amplifier assembly (LEFT CHANNEL)
+SPEC-2,Amplifier,AWH-045,AWH-045,Power amplifier assembly (RIGHT CHANNEL)
+SX-750,Receiver,AWH-046,AWH-046,Power amplifier assembly
+SX-1050,Receiver,AWH-047,AWH-047,Power amplifier assembly
+SX-1250,Receiver,AWH-048,AWH-048,POWER AMPLIFIER ASSEMBLY
+SX-950,Receiver,AWH-050,AWH-050,Power amplifier assembly
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-KC
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-KU
+SA-8500II,Integrated Amplifier,AWH-051,AWH-051,Power amplifier assembly-S
+SA-9500II,Integrated Amplifier,AWH-052,AWH-052,Power amplifier assembly
+SA-9500II,Integrated Amplifier,AWH-052,AWH-052,Power amplifier assembly (KU/KC/S)
+SX-850,Receiver,AWH-059,AWH-059,Power amplifier assembly
+SA-8500II,Integrated Amplifier,AWH-061,AWH-061,Power amplifier assembly-HG
+SA-9500II,Integrated Amplifier,AWH-062,AWH-062,Power amplifier assembly (HG)
+SPEC-4,Amplifier,AWH-065,AWH-065,Power amplifier assembly
+SX-1080,Receiver,AWH-071,AWH-071,Power amplifier assembly
+SX-980,Receiver,AWH-073,AWH-073,Power amplifier assembly
+SX-1280,Receiver,AWH-074,AWH-074,Power amplifier assembly
+A-27,Integrated Amplifier,AWH-079,AWH-079,Power amplifier assembly
+SX-3900,Receiver,AWH-097,AWH-097,Power ampifier assembly
+SX-D7000,Receiver,AWH-097,AWH-097,Power amplifier assembly (KU)
+SX-D7000,Receiver,AWH-099,AWH-099,Power amplifier assembly (KC)
+A-7,Integrated Amplifier,AWH-104,AWH-104,Power amplifier assembly (HE)
+A-8,Integrated Amplifier,AWH-108,AWH-108,Power amp assembly (KU)
+A-8,Integrated Amplifier,AWH-108,AWH-108,"Power amp assembly (S, S/G)"
+A-8,Integrated Amplifier,AWH-110,AWH-110,Power amp assembly (KC)
+A-8,Integrated Amplifier,AWH-112,AWH-112,"Power amp assembly (HE, HB)"
+SX-8,Receiver,AWH-113,AWH-113,Power amplifier assembly
+A-7,Integrated Amplifier,AWH-117,AWH-117,Power amplifier assembly (HEZ)
+A-90,Integrated Amplifier,AWH-121,AWH-121,Power amp. assembly
+A-80,Integrated Amplifier,AWH-124,AWH-124,Power amp. assembly
+QC-800,Pre-Amplifier,AWK-001-A,AWK-001,Headphone amp unit
+SX-727,Receiver,AWK-010-A,AWK-010,AF unit
+SX-828,Receiver,AWK-012-0,AWK-012,AF unit
+SX-424,Receiver,AWK-014-A,AWK-014,AF unit
+QC-800A,Pre-Amplifier,AWK-016-0,AWK-016,Headphone amp unit
+TX-7100,Tuner,AWK-019-A,AWK-019,AF amplifier assembly
+TX-8100,Tuner,AWK-019-A,AWK-019,AF amplifier assembly
+SA-8100,Integrated Amplifier,AWK-020-0,AWK-020,Filter amp unit
+SA-9100,Integrated Amplifier,AWK-021-0,AWK-021,Filter amp ass'y
+TX-6200,Tuner,AWK-023-C,AWK-023,AF amplifier assembly
+QX-646,Receiver,AWK-025-0,AWK-025,AF amplifier assembly
+SX-434,Receiver,AWK-034-0,AWK-034,AF amplifier assembly
+SX-636,Receiver,AWK-035-0,AWK-035,AF amplifier assembly
+SA-9900,Integrated Amplifier,AWK-038-C,AWK-038,Input circuit assembly
+SA-9500,Integrated Amplifier,AWK-039-C,AWK-039,Input circuit assembly
+TX-9500,Tuner,AWK-040-0,AWK-040,AF oscillator assembly
+SA-6500,Integrated Amplifier,AWK-052,AWK-052,AF Amplifier Assembly
+SA-6500,Integrated Amplifier,AWK-052,AWK-052,AF assembly assembly
+SX-550,Receiver,AWK-054,AWK-054,AF Amplifier Assembly (KU)
+C-21,Pre-Amplifier,AWK-055,AWK-055,Flat amplifier assembly
+SX-550,Receiver,AWK-056,AWK-056,AF assembly (KC)
+M-22,Amplifier,AWK-057,AWK-057,AF POWER ASSEMBLY (L)
+M-22,Amplifier,AWK-058,AWK-058,AF POWER ASSEMBLY (R)
+SX-550,Receiver,AWK-059,AWK-059,AF Amplifier Assembly (S)
+SX-450,Receiver,AWK-060,AWK-060,AF assembly (KU)
+SX-550,Receiver,AWK-061,AWK-061,AF Amplifier Assembly (HG)
+SX-450,Receiver,AWK-064,AWK-064,AF assembly (KC)
+SX-650,Receiver,AWK-065,AWK-065,Equalizer Amplifier Assembly (used only with AWE-075-A)
+SX-750,Receiver,AWK-065,AWK-065,Amplifier Assembly
+SX-450,Receiver,AWK-067,AWK-067,AF assembly (S)
+SX-450,Receiver,AWK-069,AWK-069,AF assembly (HG)
+SA-7500II,Integrated Amplifier,AWK-079,AWK-079,AF amplifier assembly
+SA-6500II,Integrated Amplifier,AWK-083,AWK-083,AF assembly
+M-25,Amplifier,AWK-087,AWK-087,AF power assembly
+M-25,Amplifier,AWK-088,AWK-088,AF power assembly
+SA-530,Integrated Amplifier,AWK-199,AWK-199,"AF assembly - KU,S,YP,HE,HB"
+SA-930,Integrated Amplifier,AWK-200,AWK-200,AF assembly (HEZ)
+SA-930,Integrated Amplifier,AWK-201,AWK-201,"AF assembly (KU, S, S/G, YP, HE, HB)"
+SA-530,Integrated Amplifier,AWK-202,AWK-202,AF assembly - HEZ
+C-72,Pre-Amplifier,AWK1301,AWK1301,AF assembly
+QX-4000,Receiver,AWM -033-0,AWM -033,Muting unit
+QX-646,Receiver,AWM -045-0,AWM -045,Equalizer and matrix circuit assembly
+QA-800,Integrated Amplifier,AWM-001-A,AWM-001,Q unit
+QC-800,Pre-Amplifier,AWM-001-A,AWM-001,Q unit
+QL-600,Integrated Amplifier,AWM-001-A,AWM-001,Q Unit
+QX-8000,Receiver,AWM-001 -A,AWM-001 ,Q Unit
+QM-800,Amplifier,AWM-003-0,AWM-003,Protection unit
+SX-2500,Receiver,AWM-004,AWM-004,Protector Unit
+QL-600,Integrated Amplifier,AWM-009-0,AWM-009,Output Unit
+QM-800,Amplifier,AWM-011-0,AWM-011,Protection unit
+SX-727,Receiver,AWM-011-0,AWM-011,Protector unit
+QL-600,Integrated Amplifier,AWM-012-A,AWM-012,Meter Amp Unit
+QL-600A,Integrated Amplifier,AWM-020-0,AWM-020,Meter amp unit
+SA-9100,Integrated Amplifier,AWM-025-A,AWM-025,Protection circuit ass'y
+SX-737,Receiver,AWM-025-C,AWM-025,Protection circuit assembly
+SX-828,Receiver,AWM-025,AWM-025,Protector unit (later)
+SX-838,Receiver,AWM-025-C,AWM-025,Protection circuit assembly
+QL-600A,Integrated Amplifier,AWM-026-0,AWM-026,Input-output unit
+SA-7100,Integrated Amplifier,AWM-027-A,AWM-027,Protection unit
+SA-8100,Integrated Amplifier,AWM-027-A,AWM-027,Protection unit
+SX-727,Receiver,AWM-027,AWM-027,Protector Unit (Later)
+QM-800A,Amplifier,AWM-028-0,AWM-028,Protection unit
+QX-9900,Receiver,AWM-028-0,AWM-028,Protection unit
+QM-800A,Amplifier,AWM-029-0,AWM-029,Protection unit
+QX-9900,Receiver,AWM-029-0,AWM-029,Protection unit
+QA-800A,Integrated Amplifier,AWM-031-0,AWM-031,Decoder unit
+QC-800A,Pre-Amplifier,AWM-031-0,AWM-031,Decoder unit
+QL-600A,Integrated Amplifier,AWM-031-0,AWM-031,Decoder unit
+QX-4000,Receiver,AWM-031-0,AWM-031,Decoder unit
+QX-646,Receiver,AWM-031-A,AWM-031,Decoder circuit assembly
+QX-747,Receiver,AWM-031-0,AWM-031,Decoder circuit assembly
+QX-8000A,Receiver,AWM-031-0,AWM-031,Decoder unit
+QX-949,Receiver,AWM-031-0,AWM-031,Decoder circuit assembly
+QX-9900,Receiver,AWM-031-0,AWM-031,Decoder unit
+QA-800A,Integrated Amplifier,AWM-032-A,AWM-032,Logic unit
+QC-800A,Pre-Amplifier,AWM-032-A,AWM-032,Logic unit
+QL-600A,Integrated Amplifier,AWM-032-0,AWM-032,Logic unit
+QX-8000A,Receiver,AWM-032-0,AWM-032,Logic unit
+QX-9900,Receiver,AWM-032-A,AWM-032,Logic unit
+SD-1100,Other,AWM-034-0,AWM-034,Complex unit
+QX-9900,Receiver,AWM-036-0,AWM-036,Reverb amp unit
+QX-9900,Receiver,AWM-037-A,AWM-037,Reverb unit
+TX-9100,Tuner,AWM-038-0,AWM-038,"Volume, headphone amplifier assembly"
+SX-1010,Receiver,AWM-039-A,AWM-039,Muting circuit assembly
+TX-8100,Tuner,AWM-039-0,AWM-039,Muting circuit assembly
+TX-8100,Tuner,AWM-041-B,AWM-041,Headphone amplifier assembly
+TX-9100,Tuner,AWM-044-0,AWM-044,Muting circuit assembly
+QX-646,Receiver,AWM-045-0,AWM-045,Equalizer and matrix circuit assembly
+QX-646,Receiver,AWM-046-0,AWM-046,Muting circuit assembly
+QX-747,Receiver,AWM-048-0,AWM-048,Matrix circuit assembly
+QX-949,Receiver,AWM-048-0,AWM-048,Matrix circuit assembly
+QX-747,Receiver,AWM-049-A,AWM-049,Protection circuit assembly
+QX-949,Receiver,AWM-049-A,AWM-049,Protection circuit assembly
+SX-626 (1973),Receiver,AWM-050-0,AWM-050,CR & meter drive assembly
+Exclusive M3,Amplifier,AWM-057-A,AWM-057,Buffer amplifier assembly
+Exclusive M3,Amplifier,AWM-059-A,AWM-059,Mater amplifier assembly
+SX-1010,Receiver,AWM-062-0,AWM-062,Protection circuit assembly
+SX-850,Receiver,AWM-062,AWM-062,Protection circuit assembly
+SX-939,Receiver,AWM-062-0,AWM-062,Protection circuit assembly
+SX-950,Receiver,AWM-062,AWM-062,Protection circuit assembly
+SX-939,Receiver,AWM-063-0,AWM-063,Muting circuit assembly
+SX-838,Receiver,AWM-064-0,AWM-064,Microphone amplifier assembly
+SX-737,Receiver,AWM-066-0,AWM-066,Microphone amplifier assembly
+SX-535,Receiver,AWM-068-0,AWM-068,SW & control assembly
+SA-9900,Integrated Amplifier,AWM-071-0,AWM-071,Protection circuit assembly
+SA-7500,Integrated Amplifier,AWM-072-C,AWM-072,"Switch circuit assembly (KCU, FV)"
+Exclusive M3,Amplifier,AWM-073-0,AWM-073,Protection circuit assembly
+SA-9500,Integrated Amplifier,AWM-074-0,AWM-074,Protection circuit assembly
+QX-747A,Receiver,AWM-076,AWM-076,CD-4 assembly
+QX-949A,Receiver,AWM-076,AWM-076,CD-4 assembly
+QX-747A,Receiver,AWM-077,AWM-077,SQ/RM decoder assembly
+QX-949A,Receiver,AWM-077,AWM-077,SQ/RM decoder assembly
+SA-7500,Integrated Amplifier,AWM-078-B,AWM-078,Switch circuit assembly (GN)
+QX-747A,Receiver,AWM-079,AWM-079,Protection circuit assembly
+QX-949A,Receiver,AWM-079,AWM-079,Protection circuit assembly
+SPEC-2,Amplifier,AWM-081,AWM-081,Meter amplifier assembly
+SPEC-1,Pre-Amplifier,AWM-082,AWM-082,Filter amplifier assembly
+SPEC-1,Pre-Amplifier,AWM-083,AWM-083,Mixing amplifier assembiy
+RG-1,Dynamic Range Expander,AWM-086,AWM-086,Processor assembly
+SX-1050,Receiver,AWM-089,AWM-089,Filter amplifier assembly
+SX-1250,Receiver,AWM-089,AWM-089,FILTER AMPLIFIER ASSEMBLY
+SX-1050,Receiver,AWM-090,AWM-090,Protection Assembly
+SX-1250,Receiver,AWM-091,AWM-091,PROTECTION CIRCUIT ASSEMBLY
+SX-750,Receiver,AWM-094,AWM-094,Filter & muting assembly
+SX-550,Receiver,AWM-101,AWM-101,AF MUTING assembly
+SPEC-4,Amplifier,AWM-113,AWM-113,Meter amplifier assembiy
+SX-1280,Receiver,AWM-119,AWM-119,Filter amplifier assembly
+SX-1980,Receiver,AWM-119,AWM-119,Filter assembly
+SX-1080,Receiver,AWM-120,AWM-120,Protection and surge killer assembly
+SX-1280,Receiver,AWM-121,AWM-121,Meter amplifier assembly
+SX-1980,Receiver,AWM-122,AWM-122,Meter amplifier assembly
+SX-1980,Receiver,AWM-122,AWM-122,Meter amplifier assembly (KU/S/SG)
+SX-1280,Receiver,AWM-123,AWM-123,Protection circuit assembly
+SX-980,Receiver,AWM-124,AWM-124,Protection assembly
+SX-1980,Receiver,AWM-126,AWM-126,Meter amplifier assembly (HG)
+SA-3000,Integrated Amplifier,AWM-162,AWM-162,"Protection Control Assembly (HE, HB)"
+SA-9800,Integrated Amplifier,AWM-163,AWM-163,Protection assembly
+SA-3000,Integrated Amplifier,AWM-179,AWM-179,Protection assembly (KU)
+SX-3900,Receiver,AWM-226,AWM-226,Equalizer assembly
+SX-3800,Receiver,AWM-227,AWM-227,Equalizer assembly
+SX-4,Receiver,AWM-351,AWM-351,"Complex assembly (Nos.111,114,117 and 118)"
+TX-930,Tuner,AWM-433,AWM-433,"Complex assembly (composed of Control assembly, Switch assembly, Battery assembly, De-emphasis switch assembly and AM CH. step switch assembly)"
+TX-930,Tuner,AWM-439,AWM-439,Tuner assembly
+A-80,Integrated Amplifier,AWP-014,AWP-014,Output assembly
+SA-9500,Integrated Amplifier,AWR -089-0,AWR -089,Power supply circuit assembly-1 (GN)
+SA-9800,Integrated Amplifier,AWR -191,AWR -191,Power supply assembly
+QM-800,Amplifier,AWR-001-0,AWR-001,Power supply unit
+QM-800A,Amplifier,AWR-001-0,AWR-001,Power supply unit
+QA-800,Integrated Amplifier,AWR-002-0,AWR-002,Power supply unit
+QC-800,Pre-Amplifier,AWR-003-0,AWR-003,Power supply unit
+QX-8000,Receiver,AWR-004-0,AWR-004,Power Supply Unit
+QX-8000A,Receiver,AWR-004-A,AWR-004,Power supply unit
+SX-626 (1971),Receiver,AWR-006-A,AWR-006,"Power supply unit (KUW,KCW,FVZW,FW)"
+SX-525,Receiver,AWR-007-0,AWR-007,"Power supply unit (KUW,KUC,FVZW)"
+SX-828,Receiver,AWR-010-0,AWR-010,Power supply unit
+SX-727,Receiver,AWR-011-0,AWR-011,Power supply unit
+SX-626 (1971),Receiver,AWR-012-A,AWR-012,Power supply unit (NBW)
+SX-525,Receiver,AWR-013-0,AWR-013,Power supply unit (NBW)
+QL-600A,Integrated Amplifier,AWR-016-0,AWR-016,Power supply unit
+QA-800A,Integrated Amplifier,AWR-018-0,AWR-018,Power supply unit
+QC-800A,Pre-Amplifier,AWR-019-0,AWR-019,Power supply unit
+QX-4000,Receiver,AWR-021-0,AWR-021,Power supply unit
+SD-1100,Other,AWR-022-0,AWR-022,Power supply unit
+SD-1100,Other,AWR-023-0,AWR-023,Power supply Unit
+QX-9900,Receiver,AWR-024-B,AWR-024,Power supply unit
+SA-7100,Integrated Amplifier,AWR-026-A,AWR-026,Power supply unit
+TX-7100,Tuner,AWR-027-0,AWR-027,Power supply circuit assembly
+TX-9100,Tuner,AWR-028-0,AWR-028,Power supply circuit assembly
+SX-626 (1973),Receiver,AWR-029-A,AWR-029,Power supply circuit assembly
+SA-8100,Integrated Amplifier,AWR-030-0,AWR-030,Power supply unit
+SA-9100,Integrated Amplifier,AWR-031-0,AWR-031,Power supply circuit-A ass'y
+SA-9100,Integrated Amplifier,AWR-032-0,AWR-032,Power supply circuit-B ass’y
+TX-8100,Tuner,AWR-033-0,AWR-033,Power supply circuit assembly
+SA-5200,Integrated Amplifier,AWR-034-B,AWR-034,Power supply circuit assembly
+QX-646,Receiver,AWR-035-0,AWR-035,Power supply circuit assembly
+QX-949,Receiver,AWR-038-0,AWR-038,Power supply circuit-A assembly
+QX-949,Receiver,AWR-039-0,AWR-039,Power supply circuit-B assembly
+QX-949A,Receiver,AWR-039,AWR-039,Power supply circuit B assembly
+QX-747,Receiver,AWR-040-0,AWR-040,Power supply circuit assembly
+SX-434,Receiver,AWR-049-0,AWR-049,Power supply circuit assembly (FV)
+Exclusive M3,Amplifier,AWR-050-B,AWR-050,Power supply circuit assembly
+SX-939,Receiver,AWR-052-0,AWR-052,"Power supply circuit assembly (KSC,F)"
+SX-1010,Receiver,AWR-053-0,AWR-053,Power supply circuit assembly (KCU. F)
+SX-1010,Receiver,AWR-054-A,AWR-054,Power supply circuit assembly
+SX-838,Receiver,AWR-055-A,AWR-055,"Power supply circuit assembly (KCU,F)"
+SX-939,Receiver,AWR-056-0,AWR-056,Power supply circuit assembly (GN)
+SX-737,Receiver,AWR-057-0,AWR-057,"Power supply circuit assembly (KCU,F)"
+SX-737,Receiver,AWR-058-0,AWR-058,Power supply circuit assembly (GN)
+SX-434,Receiver,AWR-059-0,AWR-059,Power supply circuit assembly (GN)
+SX-636,Receiver,AWR-060-0,AWR-060,"Power supply circuit assembly (KCU,FV)"
+SX-636,Receiver,AWR-061-0,AWR-061,Power supply circuit assembly (GN)
+SX-434,Receiver,AWR-062-0,AWR-062,"Power supply circuit assembly (KCU,FV)"
+SX-1010,Receiver,AWR-063-0,AWR-063,Power supply circuit assembly (GN)
+SX-838,Receiver,AWR-064-0,AWR-064,Power supply circuit assembly (GN)
+SX-535,Receiver,AWR-065-0,AWR-065,"Power supply circuit assembly (KCU,FV)"
+SX-535,Receiver,AWR-065-0,AWR-065,"Power supply circuit assembly (KCU,FV)"
+SX-535,Receiver,AWR-067-0,AWR-067,Power supply circuit assembly (GN)
+SA-9900,Integrated Amplifier,AWR-069-A,AWR-069,Power supply circuit assembly (KCU)
+SA-9900,Integrated Amplifier,AWR-069-B,AWR-069,Power supply circuit assembly-1 (D)
+SA-9900,Integrated Amplifier,AWR-070-A,AWR-070,Power supply circuit assembly-2 (KCU)
+SA-9900,Integrated Amplifier,AWR-070-B,AWR-070,Power supply circuit assembly-2 (D)
+SA-9500,Integrated Amplifier,AWR-074-A,AWR-074,Power supply circuit assembly-1  (KCU/D)
+SA-9500,Integrated Amplifier,AWR-075-A,AWR-075,Power supply circuit assembly-2 (KCU/D)
+TX-9500,Tuner,AWR-076-0,AWR-076,Power supply circuit assembly
+SA-9900,Integrated Amplifier,AWR-077-0,AWR-077,Power supply circuit assembly-3
+TX-5300,Tuner,AWR-079-0,AWR-079,Power supply circuit assembly
+QX-949A,Receiver,AWR-080,AWR-080,Power supply circuit A assembly
+QX-747A,Receiver,AWR-086,AWR-086,Power supply circuit assembly
+SA-9900,Integrated Amplifier,AWR-087-0,AWR-087,Power supply circuit assembly-1 (GN)
+SA-9900,Integrated Amplifier,AWR-088-0,AWR-088,Power supply circuit assembly-2 (GN)
+SA-9500,Integrated Amplifier,AWR-090-0,AWR-090,Power supply circuit assembly-2 (GN)
+SPEC-2,Amplifier,AWR-093,AWR-093,Power supply circuit assembly
+SPEC-1,Pre-Amplifier,AWR-094,AWR-094,Power supply circuit assembly
+SG-9500,Equalizer,AWR-095,AWR-095,Power supply assembly
+TX-6500II,Tuner,AWR-097,AWR-097,Power supply assembly (KU)
+SX-750,Receiver,AWR-099,AWR-099,Power supply & Protection assembly
+SX-750,Receiver,AWR-100,AWR-100,Power supply assembly
+SX-850,Receiver,AWR-101,AWR-101,Power supply assembly (KC/KU/S)
+SX-950,Receiver,AWR-101,AWR-101,Power supply assembly
+SX-850,Receiver,AWR-102,AWR-102,Power supply assembly (HG)
+SX-1050,Receiver,AWR-103,AWR-103,Power supply assembly-A
+SX-1050,Receiver,AWR-104,AWR-104,Power supply assembly-B
+SX-1250,Receiver,AWR-106,AWR-106,STABILIZER ASSEMBLY
+SX-1250,Receiver,AWR-107,AWR-107,Power supply assembly (KCU/S)
+SX-1250,Receiver,AWR-108,AWR-108,Power supply assembly (HG)
+SX-650,Receiver,AWR-117,AWR-117,Power supply assembly (KCU/S)
+SX-650,Receiver,AWR-118,AWR-118,Power supply assembly (HG)
+TX-8500II,Tuner,AWR-119,AWR-119,Power supply assembly (KU)
+TX-6500II,Tuner,AWR-124,AWR-124,Power supply assembly (HG)
+TX-9500II,Tuner,AWR-128,AWR-128,Power supply assembly (KU)
+TX-9500II,Tuner,AWR-129,AWR-129,Power supply assembly (KC)
+TX-9500II,Tuner,AWR-130,AWR-130,Power supply assembly (HG)
+TX-9500II,Tuner,AWR-131,AWR-131,Power supply assembly (S)
+TX-8500II,Tuner,AWR-132,AWR-132,Power supply assembly (S)
+TX-8500II,Tuner,AWR-133,AWR-133,Power supply assembly (HG)
+TX-6500II,Tuner,AWR-134,AWR-134,Power supply assembly (S)
+TX-8500II,Tuner,AWR-135,AWR-135,Power supply assembly (KC)
+TX-6500II,Tuner,AWR-137,AWR-137,Power supply assembly (KC)
+SPEC-4,Amplifier,AWR-139,AWR-139,Power supply assembly
+SPEC-4,Amplifier,AWR-140,AWR-140,Power supply assembly
+SPEC-4,Amplifier,AWR-143,AWR-143,Fuse assembly
+SX-1080,Receiver,AWR-152,AWR-152,Power supply assernbly
+SX-1980,Receiver,AWR-154,AWR-154,Power supply assembly (KU/S/SG)
+SX-1980,Receiver,AWR-155,AWR-155,Power supply assembly (HG)
+SX-980,Receiver,AWR-156,AWR-156,Power supply assembly
+SX-1280,Receiver,AWR-157,AWR-157,Power supply assembly
+SX-780,Receiver,AWR-169,AWR-169,Fuse assembly
+SX-880/890,Receiver,AWR-171,AWR-171,Fuse assembly (SX-880/KU)
+SX-880/890,Receiver,AWR-174,AWR-174,Fuse assembly (SX-880/KC)
+SX-780,Receiver,AWR-175,AWR-175,Fuse assembly (S/G)
+SX-880/890,Receiver,AWR-175,AWR-175,Fuse assembly (SX-880/SG)
+A-27,Integrated Amplifier,AWR-176,AWR-176,Power supply assemby
+F-28,Tuner,AWR-177,AWR-177,Power supply assembly (KU type)
+F-28,Tuner,AWR-178,AWR-178,Power supply assembly (S/G type)
+SA-3000,Integrated Amplifier,AWR-181,AWR-181,"Fuse Assembly (HE, HB)"
+SA-8800,Integrated Amplifier,AWR-182,AWR-182,Power supply assembly (KU)
+TX-7800,Tuner,AWR-185,AWR-185,Power supply assembly (HG)
+TX-7800,Tuner,AWR-186,AWR-186,Power supply assembly (S/SG)
+SA-9800,Integrated Amplifier,AWR-192,AWR-192,Rectifier assembly
+SA-8800,Integrated Amplifier,AWR-193,AWR-193,Power supply assembly (S)
+SA-8800,Integrated Amplifier,AWR-193,AWR-193,Power supply assembly (S/G)
+SA-8800,Integrated Amplifier,AWR-198,AWR-198,Power supply assembly (KC)
+TX-6800/608,Tuner,AWR-200,AWR-200,Fuse assembly
+SA-3000,Integrated Amplifier,AWR-201,AWR-201,Terminal assembly (KU)
+SX-3900,Receiver,AWR-210,AWR-210,Power supply assembly
+SX-3900,Receiver,AWR-211,AWR-211,Rectifier assembly (KU)
+SX-D7000,Receiver,AWR-211,AWR-211,RECTIFIER Ass'y
+SX-3900,Receiver,AWR-214,AWR-214,Rectifier assembly (S/G)
+SX-D7000,Receiver,AWR-216,AWR-216,POWER SUPPLY Ass'y
+SX-D7000,Receiver,AWR-217,AWR-217,FUSE Ass’y
+F-7,Tuner,AWR-218,AWR-218,"Terminal assembly (KU, KC)"
+A-9,Integrated Amplifier,AWR-226,AWR-226,Regulator assembly
+F-7,Tuner,AWR-227,AWR-227,Fuse assembly (KC)
+SX-8,Receiver,AWR-236,AWR-236,Rectifier assembly
+A-90,Integrated Amplifier,AWR-243,AWR-243,Output msembly
+A-90,Integrated Amplifier,AWR-244,AWR-244,Power supply assembly
+QC-800,Pre-Amplifier,AWS-001-0,AWS-001,"Lever switch unit (OUTPUT,FILTERS)"
+QC-800A,Pre-Amplifier,AWS-001-0,AWS-001,"Lever switch unit (OUTPUT,FILTERS)"
+QA-800,Integrated Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,QUADRALIZER,MUTING)"
+QA-800A,Integrated Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,MATRIX,MUTING)"
+QC-800,Pre-Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,QUADRALIZER,MUTING)"
+QC-800A,Pre-Amplifier,AWS-002-0,AWS-002,"Lever switch unit (TAPE1,TAPE2,MATRIX,MUTING)"
+QA-800,Integrated Amplifier,AWS-003-0,AWS-003,"Lever switch unit (LOUDNESS,FILTERS)"
+QA-800A,Integrated Amplifier,AWS-003-0,AWS-003,"Lever switch unit (LOUDNESS,FILTERS)"
+QX-8000,Receiver,AWS-004-B,AWS-004,"Switch Unit (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000A,Receiver,AWS-004-B,AWS-004,"Switch Unit (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000,Receiver,AWS-005-0,AWS-005,Switch Unit (Speakers)
+QX-8000A,Receiver,AWS-005-0,AWS-005,Switch Unit (Speakers)
+QX-8000,Receiver,AWS-006-0,AWS-006,Switch Unit (QUADRILIZER)
+SX-6000,Receiver,AWS-007-A,AWS-007,Switch Unit
+SA-500A,Integrated Amplifier,AWS-009-O,AWS-009,Switch Unit
+SX-626 (1971),Receiver,AWS-013-0,AWS-013,Switch unit
+SX-626 (1973),Receiver,AWS-013-A,AWS-013,Switch circuit assembly
+SX-626 (1971),Receiver,AWS-014-0,AWS-014,Switch unit
+SX-626 (1973),Receiver,AWS-014-0,AWS-014,Switch circuit assembly
+SX-525,Receiver,AWS-015-0,AWS-015,Switch unit
+SD-1100,Other,AWS-016-0,AWS-016,Switch unit
+SX-828,Receiver,AWS-017-0,AWS-017,Switch unit
+QX-4000,Receiver,AWS-023-0,AWS-023,Switch unit
+QX-646,Receiver,AWS-023-0,AWS-023,Switch circuit assembly
+QX-4000,Receiver,AWS-024-0,AWS-024,SP switch unit
+QX-646,Receiver,AWS-024-0,AWS-024,Speaker switch circuit assembly
+QX-9900,Receiver,AWS-025-0,AWS-025,Mini-switch unit
+QX-9900,Receiver,AWS-026-0,AWS-026,Speaker switch unit (A)
+QX-9900,Receiver,AWS-027-0,AWS-027,Speaker switch unit (B)
+QX-9900,Receiver,AWS-028-0,AWS-028,Level meter switch unit
+SA-7100,Integrated Amplifier,AWS-029-0,AWS-029,Lever switch unit
+SA-7100,Integrated Amplifier,AWS-030-0,AWS-030,Push switch unit
+TX-7100,Tuner,AWS-031-0,AWS-031,Switch circuit assembly
+TX-9100,Tuner,AWS-032-0,AWS-032,Lever switch circuit assembly
+SA-8100,Integrated Amplifier,AWS-035-0,AWS-035,Switch unit - A
+SA-8100,Integrated Amplifier,AWS-036-0,AWS-036,Switch unit - B
+SA-8100,Integrated Amplifier,AWS-037-0,AWS-037,Push switch unit
+SA-9100,Integrated Amplifier,AWS-038-0,AWS-038,Switch-A ass'y
+SA-9100,Integrated Amplifier,AWS-039-0,AWS-039,Switch-B ass’y
+SA-9100,Integrated Amplifier,AWS-040-0,AWS-040,Switch-C ass'y
+SA-5200,Integrated Amplifier,AWS-046-0,AWS-046,Switch circuit-A assembly
+SA-5200,Integrated Amplifier,AWS-047-0,AWS-047,Switch circuit-B assembly
+QX-949,Receiver,AWS-048-A,AWS-048,Switch circuit assembly
+QX-747,Receiver,AWS-049-A,AWS-049,Switch circuit assembly
+Exclusive M3,Amplifier,AWS-062-0,AWS-062,Switch circuit-A assembly
+SX-1010,Receiver,AWS-064-0,AWS-064,Switch circuit assembly (speaker)
+SX-939,Receiver,AWS-064-0,AWS-064,Switch circuit assembly (speakers)
+SX-838,Receiver,AWS-065-0,AWS-065,"Switch circuit assembly (mode, loudness)"
+SX-939,Receiver,AWS-065-0,AWS-065,"Switch circuit assembly (mode, loudness)"
+SX-838,Receiver,AWS-066-0,AWS-066,"Switch circuit assembly (filter,AF muting)"
+SX-939,Receiver,AWS-066-0,AWS-066,"Switch circuit assembly (filters,AF muting)"
+SX-939,Receiver,AWS-067-0,AWS-067,Switch circuit assembly (tape monitor)
+SX-1010,Receiver,AWS-068-0,AWS-068,Switch circuit assembly (dirnmer)
+SX-939,Receiver,AWS-068-0,AWS-068,Switch circuit assembly (dimmer)
+SX-1010,Receiver,AWS-069-A,AWS-069,Switch circuit assembly (function)
+SX-939,Receiver,AWS-069-0,AWS-069,Switch circuit assembly (function)
+SX-1010,Receiver,AWS-070-A,AWS-070,"Switch circuit assembly (mode, loudness)"
+SX-1010,Receiver,AWS-071-0,AWS-071,"Switch circuit assembly (filter, -20dB)"
+SX-1010,Receiver,AWS-072-0,AWS-072,Switch circuit assembly
+SX-838,Receiver,AWS-073-0,AWS-073,Switch circuit assembly (function)
+SX-838,Receiver,AWS-074-0,AWS-074,Switch circuit assembly (speakers)
+SX-838,Receiver,AWS-075-0,AWS-075,Switch circuit assembly (FM muting]
+SX-737,Receiver,AWS-076-0,AWS-076,Speaker switch circuit assembly
+SX-737,Receiver,AWS-077-0,AWS-077,Push switch circuit assembly
+SA-9900,Integrated Amplifier,AWS-079-0,AWS-079,Tone switch circuit assembly
+SA-9900,Integrated Amplifier,AWS-080-0,AWS-080,Switch circuit assembly
+Exclusive M3,Amplifier,AWS-081-0,AWS-081,Switch circuit-B assembly
+SA-9500,Integrated Amplifier,AWS-082-0,AWS-082,Switch circuit assembly
+SA-8500,Integrated Amplifier,AWS-083-D,AWS-083,Switch circuit assembly (KCU/FV)
+SA-8500,Integrated Amplifier,AWS-085-B,AWS-085,Switch circuit assembly (GN)
+RG-1,Dynamic Range Expander,AWS-089,AWS-089,Switch assembly A
+RG-1,Dynamic Range Expander,AWS-090,AWS-090,Switch assembly B
+SG-9500,Equalizer,AWS-091,AWS-091,SW assembly (EQUALIZER)
+SG-9500,Equalizer,AWS-092,AWS-092,SW assembly (TAPE MONITOR)
+SX-850,Receiver,AWS-093,AWS-093,FM Muting Switch assembly
+SX-950,Receiver,AWS-093,AWS-093,Switch assembly
+SX-1050,Receiver,AWS-094,AWS-094,Function switch assembly
+SX-1250,Receiver,AWS-094,AWS-094,FUNCTION SWITCH ASSEMBLY
+SX-850,Receiver,AWS-094,AWS-094,Function Switch assembly
+SX-950,Receiver,AWS-094,AWS-094,Switch assembly
+SX-1050,Receiver,AWS-095,AWS-095,Speaker switch assembly
+SX-1250,Receiver,AWS-095,AWS-095,Speakers switch assembly (KCU/S)
+SX-950,Receiver,AWS-095,AWS-095,Switch assembly
+SX-1250,Receiver,AWS-098,AWS-098,Speakers switch assembly (HG)
+SX-850,Receiver,AWS-099,AWS-099,Speaker Switch assembly
+SA-8500II,Integrated Amplifier,AWS-108,AWS-108,Switch assembly-KU
+SA-9500II,Integrated Amplifier,AWS-109,AWS-109,Switch assembly
+SA-9500II,Integrated Amplifier,AWS-109,AWS-109,Switch assembly (KU)
+SA-8500II,Integrated Amplifier,AWS-110,AWS-110,Switch assembly-KC
+SA-9500II,Integrated Amplifier,AWS-111,AWS-111,Switch assembly (KC)
+SA-8500II,Integrated Amplifier,AWS-112,AWS-112,Switch assembly-HG
+SA-8500II,Integrated Amplifier,AWS-113,AWS-113,Switch assembly-S
+SA-9500II,Integrated Amplifier,AWS-114,AWS-114,Switch assembly (HG)
+SA-9500II,Integrated Amplifier,AWS-115,AWS-115,Switch assembly (S)
+SX-1980,Receiver,AWS-125,AWS-125,Slide switch assembly
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (KC)
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (S)
+SA-8800,Integrated Amplifier,AWS-134,AWS-134,Switch assembly (S/G)
+SX-3800,Receiver,AWS-146,AWS-146,Switch assembly (DE-EMPHASIS KU)
+SX-3900,Receiver,AWS-147,AWS-147,De-emphasis assembly (S/G)
+SX-3800,Receiver,AWS-148,AWS-148,"Switch assembly (DE-EMPHASIS S/G,S)"
+SX-3700,Receiver,AWS-149,AWS-149,Function switch assembly
+SX-820,Receiver,AWS-149,AWS-149,Function switch assembly
+A-7,Integrated Amplifier,AWS-154,AWS-154,Switch assembly
+A-7,Integrated Amplifier,AWS-154,AWS-154,Switch assembly
+A-7,Integrated Amplifier,AWS-154,AWS-154,Switch assembly (HE)
+A-8,Integrated Amplifier,AWS-154,AWS-154,Switch assembly A
+A-7,Integrated Amplifier,AWS-159,AWS-159,Switch assembly (HEZ)
+A-90,Integrated Amplifier,AWS-160,AWS-160,Switch assembly
+TX-950,Tuner,AWS-163,AWS-163,Switch assembly
+SX-1080,Receiver,AWT-001,AWT-001,Filter assembly
+SX-980,Receiver,AWT-002,AWT-002,Filter assembly
+SA-7800,Integrated Amplifier,AWV-001,AWV-001,Indicator assembly
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (KU)
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (S)
+SA-8800,Integrated Amplifier,AWV-001,AWV-001,lndlcator assembly (S/G)
+SA-9800,Integrated Amplifier,AWV-002,AWV-002,Indicator assembly
+SA-8800,Integrated Amplifier,AWV-003,AWV-003,lndlcator assembly (KC)
+SA-5800/508,Integrated Amplifier,AWV-004,AWV-004,Indicator assembly
+SA-6800/608,Integrated Amplifier,AWV-004,AWV-004,Indicator assembly
+SA-708,Integrated Amplifier,AWV-004,AWV-004,lndicator assembly
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (HB Type)
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (HE Type)
+SA-710,Integrated Amplifier,AWV-007,AWV-007,F.L assembly (KU Type)
+SX-3900,Receiver,AWV-008,AWV-008,Indicator assembly
+SX-3800,Receiver,AWV-009,AWV-009,FL Indicator assembly
+SX-3500,Receiver,AWV-010,AWV-010,FL assembly
+SX-3600/720,Receiver,AWV-010,AWV-010,FL assembly (SX-3600 KU)
+SX-3700,Receiver,AWV-011,AWV-011,Lead out assembly
+SX-820,Receiver,AWV-011,AWV-011,Lead out assembly
+SX-3700,Receiver,AWV-012,AWV-012,FL assembly
+SX-820,Receiver,AWV-013,AWV-013,FL asssmbly
+SX-3600/720,Receiver,AWV-014,AWV-014,FL assembly (SX-3600 KU)
+SX-D5000,Receiver,AWV-015,AWV-015,Counter FL assembly
+SX-D7000,Receiver,AWV-015,AWV-015,COUNTER FL Ass‘y
+SX-D5000,Receiver,AWV-017,AWV-017,Power FL assembly
+SA-5200,Integrated Amplifier,AWW-004-0,AWW-004,Compound part for REC jack
+SA-7100,Integrated Amplifier,AWW-004-0,AWW-004,Compound part for REC terminal
+QX-949,Receiver,AWX -052-0,AWX -052,Lamp holder assembly
+SA-5500II,Integrated Amplifier,AWX- 110,AWX- 110,Earth assembly
+QA-800,Integrated Amplifier,AWX-001-0,AWX-001,Volume unit
+QA-800A,Integrated Amplifier,AWX-001-0,AWX-001,Volume unit
+QX-8000,Receiver,AWX-002-0,AWX-002,VR Unit
+QX-8000A,Receiver,AWX-002-0,AWX-002,VR unit
+QX-8000,Receiver,AWX-003-0,AWX-003,CR Unit
+QX-8000A,Receiver,AWX-003-A,AWX-003,CR unit
+QX-4000,Receiver,AWX-004-C,AWX-004,CR unit FW model
+QX-8000,Receiver,AWX-004-B,AWX-004,CR Unit
+QX-8000A,Receiver,AWX-004-C,AWX-004,"CR unit (FW,FSAW)"
+QA-800,Integrated Amplifier,AWX-005-0,AWX-005,R unit
+QA-800A,Integrated Amplifier,AWX-005-0,AWX-005,R unit
+SX-626 (1971),Receiver,AWX-007-0,AWX-007,R unit - resistor network
+SX-828,Receiver,AWX-009-0,AWX-009,MPX filter unit
+SX-525,Receiver,AWX-010-A,AWX-010,Lamp unit
+SX-626 (1971),Receiver,AWX-010-A,AWX-010,Lamp unit
+SX-626 (1973),Receiver,AWX-010-A,AWX-010,Lamp board assembly
+QX-4000,Receiver,AWX-012-A,AWX-012,CR unit KLUW model
+QX-8000A,Receiver,AWX-012-A,AWX-012,CR unit (KUW)
+SX-525,Receiver,AWX-012-0,AWX-012,CR unit
+SX-727,Receiver,AWX-014-A,AWX-014,"CR unit (KUW,FVZW)"
+SX-727,Receiver,AWX-016-0,AWX-016,Lamp box unit
+SX-828,Receiver,AWX-016-0,AWX-016,Lamp box unit
+SX-727,Receiver,AWX-017-0,AWX-017,CR unit (FW)
+QX-8000A,Receiver,AWX-022-A,AWX-022,Lug unit
+QX-4000,Receiver,AWX-028-0,AWX-028,Volume unit
+QX-646,Receiver,AWX-028-0,AWX-028,Balance volume assembly
+QX-4000,Receiver,AWX-029-0,AWX-029,Lamp unit
+QX-646,Receiver,AWX-029-0,AWX-029,Lamp board assembly
+SD-1100,Other,AWX-030-0,AWX-030,Volume unit
+SD-1100,Other,AWX-032-0,AWX-032,V. H. amp. unit
+SD-1100,Other,AWX-033-0,AWX-033,AF OSC unit
+QX-9900,Receiver,AWX-034-0,AWX-034,Level control unit
+QX-9900,Receiver,AWX-035-0,AWX-035,Balance volume unit
+QX-9900,Receiver,AWX-036-0,AWX-036,Headphone unit
+QX-9900,Receiver,AWX-037-0,AWX-037,CR unit
+QX-9900,Receiver,AWX-038-0,AWX-038,Lamp holder unit (A)
+QX-9900,Receiver,AWX-039-0,AWX-039,Lamp holder unit (B)
+QX-9900,Receiver,AWX-040-0,AWX-040,Lamp holder unit (C)
+SD-1100,Other,AWX-041-0,AWX-041,AF sweep unit
+TX-7100,Tuner,AWX-042-0,AWX-042,Lamp board assembly
+TX-8100,Tuner,AWX-042-0,AWX-042,Lamp board assembly
+TX-9100,Tuner,AWX-042-0,AWX-042,Lamp board assembly (A)
+SA-8100,Integrated Amplifier,AWX-044-0,AWX-044,Volume unit
+TX-6200,Tuner,AWX-046-A,AWX-046,Lamp board assembly
+SA-9100,Integrated Amplifier,AWX-048-0,AWX-048,Volume ass'y
+QX-646,Receiver,AWX-051-A,AWX-051,Sub channel circuit assembly
+QX-747,Receiver,AWX-051-B,AWX-051,Sub-channel circuit assembly
+QX-949,Receiver,AWX-051-B,AWX-051,Sub-channel circuit assembly
+QX-747,Receiver,AWX-052-0,AWX-052,Lamp assembly
+QX-949,Receiver,AWX-052-0,AWX-052,Lamp board assembly
+QX-949,Receiver,AWX-053-0,AWX-053,Fuse holder assembly
+QX-747,Receiver,AWX-054-0,AWX-054,Headphone jack assembly
+QX-747A,Receiver,AWX-054,AWX-054,Headphone jack assembly
+QX-949,Receiver,AWX-054-0,AWX-054,Headphone jack assembly
+QX-949A,Receiver,AWX-054,AWX-054,Head phone jack assembly
+SA-8500II,Integrated Amplifier,AWX-062,AWX-062,5P connector assembly-HG
+SA-8500II,Integrated Amplifier,AWX-062,AWX-062,5P connector assembly-S
+SX-1010,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-1250,Receiver,AWX-062,AWX-062,SP CONNECTOR ASSEMBLY
+SX-1280,Receiver,AWX-062,AWX-062,5P connector assembly (S/SG)
+SX-1980,Receiver,AWX-062,AWX-062,5P connector assembly (HG/S/SG)
+SX-535,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-636,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-737,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-838,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-850,Receiver,AWX-062,AWX-062,5P Connector Assembly
+SX-880/890,Receiver,AWX-062,AWX-062,SP connector assembly (SX-880/S)
+SX-880/890,Receiver,AWX-062,AWX-062,SP connector assembly (SX-880/SG)
+SX-939,Receiver,AWX-062-0,AWX-062,5P connector assembly
+Exclusive M3,Amplifier,AWX-063-0,AWX-063,Lamp board assembly
+SX-1010,Receiver,AWX-069-0,AWX-069,Lamp board assembly
+SX-838,Receiver,AWX-069-0,AWX-069,Lamp board assembly
+SX-939,Receiver,AWX-069-0,AWX-069,Lamp board assembly
+SX-838,Receiver,AWX-070-0,AWX-070,Switch & volume circuit assembly
+SX-737,Receiver,AWX-071-0,AWX-071,Switch & volume circuit assembly
+SX-535,Receiver,AWX-072-0,AWX-072,Lamp board assembly
+SX-636,Receiver,AWX-072-0,AWX-072,Lamp board assembly
+SX-737,Receiver,AWX-072-0,AWX-072,Lamp board assembly
+SA-9500,Integrated Amplifier,AWX-073-A,AWX-073,Volume assembly
+SA-9900,Integrated Amplifier,AWX-073-A,AWX-073,Volume circuit assembly
+TX-9500,Tuner,AWX-081-0,AWX-081,Lamp board assembly
+SA-9900,Integrated Amplifier,AWX-083-0,AWX-083,Fuse board assembly
+SA-9500,Integrated Amplifier,AWX-085-0,AWX-085,Fuse assembly (GN)
+SA-9500,Integrated Amplifier,AWX-086-0,AWX-086,Fuse assembly (KCU)
+SA-9900,Integrated Amplifier,AWX-087-0,AWX-087,Fuse board assembly - D
+SA-9500,Integrated Amplifier,AWX-088-0,AWX-088,Fuse assembly (D)
+SA-9900,Integrated Amplifier,AWX-089-0,AWX-089,Fuse board assembly - GN
+SPEC-1,Pre-Amplifier,AWX-091,AWX-091,Fuse board assembly
+SG-9500,Equalizer,AWX-092,AWX-092,VR assembly
+SX-650,Receiver,AWX-095,AWX-095,De-emphasis switch assembly (KCU)
+SX-850,Receiver,AWX-095,AWX-095,De-Emphasis Switch Assembly (KC/KU)
+SX-850,Receiver,AWX-096,AWX-096,Lamp board assembly
+SX-950,Receiver,AWX-096,AWX-096,Lamp board assembly
+SX-1250,Receiver,AWX-097,AWX-097,MICROPHONE JACK ASSEMBLY
+SX-1050,Receiver,AWX-098,AWX-098,Surge current suppressor assembly
+SX-1050,Receiver,AWX-099,AWX-099,De-emphasis SW Assembly (KCU model)
+SX-1250,Receiver,AWX-099,AWX-099,De-emphasis switch assembly 2-position (25us/75us) (KCU)
+SX-650,Receiver,AWX-100,AWX-100,De-emphasis switch assembly (S)
+SX-1050,Receiver,AWX-101,AWX-101,De-emphasis SW Assembly (S model)
+SX-1250,Receiver,AWX-101,AWX-101,De-emphasis switch assembly 3-position (25us/50us/75us) (S)
+SX-850,Receiver,AWX-101,AWX-101,De-Emphasis Assembly (S)
+TX-8500II,Tuner,AWX-104,AWX-104,Lamp board assembly
+TX-9500II,Tuner,AWX-104,AWX-104,Lamp board assembly
+SX-650,Receiver,AWX-106,AWX-106,Phone jack assembly
+TX-7800,Tuner,AWX-113,AWX-113,Switch assembly (De-emphasis) S/SG
+TX-8500II,Tuner,AWX-113,AWX-113,Switch assembly (S)
+TX-6500II,Tuner,AWX-114,AWX-114,Switch assembly (S)
+SX-1980,Receiver,AWX-124,AWX-124,AFC assembly
+SX-1080,Receiver,AWX-125,AWX-125,Power transistor connector assembly
+SX-1280,Receiver,AWX-126,AWX-126,Fuse assembly (For KU type)
+SX-1280,Receiver,AWX-127,AWX-127,Resistor assembly
+F-28,Tuner,AWX-132,AWX-132,Lamp assembly (KU type)
+F-28,Tuner,AWX-132,AWX-132,Lamp assembly (S/G type)
+SX-1280,Receiver,AWX-134,AWX-134,Fuse assembly (S/SG)
+SA-606,Integrated Amplifier,AWX-135,AWX-135,"Tone and indicator assembly (S,S/G,HG)"
+SA-6700,Integrated Amplifier,AWX-136,AWX-136,Tone and indicator assembly
+SA-606,Integrated Amplifier,AWX-137,AWX-137,DIN connector assembly (HG)
+SA-706,Integrated Amplifier,AWX-137,AWX-137,DIN connector assembly (HG)
+SX-1280,Receiver,AWX-139,AWX-139,Fuse assembly (For KC type)
+A-27,Integrated Amplifier,AWX-145,AWX-145,Surge killer assembly - KU
+F-28,Tuner,AWX-146,AWX-146,Synthesizer assembly (KU type)
+F-28,Tuner,AWX-146,AWX-146,Synthesizer assembly (S/G type)
+F-28,Tuner,AWX-147,AWX-147,Switch assembly (S/G type)
+TX-7800,Tuner,AWX-159,AWX-159,VR assembly
+SR-303,Reverb,AWX-164,AWX-164,Lamp assembly
+SX-600,Receiver,AWX-200,AWX-200,AM IF assembly - KU
+SX-700,Receiver,AWX-200,AWX-200,AM IF assembly
+A-9,Integrated Amplifier,AWX-205,AWX-205,Capacitors assembly
+A-6,Integrated Amplifier,AWX-212,AWX-212,Composition assembly (Function switch ass’y + Tone control assembly)
+SX-6,Receiver,AWX-220,AWX-220,Control assembly
+SX-7,Receiver,AWX-223,AWX-223,Control assembly
+SA-970,Integrated Amplifier,AWZ1002,AWZ1002,AF assembly
+GR-551,Equalizer,AWZ1087,AWZ1087,AF assembly
+GR-555,Equalizer,AWZ1087,AWZ1087,AF assembly
+GR-551,Equalizer,AWZ1091,AWZ1091,BAND PASS assembly
+GR-555,Equalizer,AWZ1091,AWZ1091,BAND PASS assembly
+GR-777,Equalizer,AWZ1856,AWZ1856,FL (L) assembly
+GR-777,Equalizer,AWZ1857,AWZ1857,FL (R) assembly
+GR-777,Equalizer,AWZ2006,AWZ2006,Main assembly
+A-858,Integrated Amplifier,AWZ2324,AWZ2324,Power amp assembly
+A-858,Integrated Amplifier,AWZ2325,AWZ2325,Power supply assembly
+A-858,Integrated Amplifier,AWZ2326,AWZ2326,Speaker term. assembly
+A-858,Integrated Amplifier,AWZ2327,AWZ2327,Phono amp assembly
+A-858,Integrated Amplifier,AWZ2328,AWZ2328,Headphone assembly
+A-858,Integrated Amplifier,AWZ2340,AWZ2340,Speaker switch assembly
+A-858,Integrated Amplifier,AWZ2341,AWZ2341,Tone amp assembly
+A-858,Integrated Amplifier,AWZ2342,AWZ2342,Rec out assembly
+A-858,Integrated Amplifier,AWZ2343,AWZ2343,Input selector assembly
+C-72,Pre-Amplifier,AWZ2898,AWZ2898,Control assembly
+C-72,Pre-Amplifier,AWZ2900,AWZ2900,Video assembly
+QX-4000,Receiver,AXA-003-B,AXA-003,Tuning pulley ass'y
+QX-646,Receiver,AXA-003-B,AXA-003,Dial pulley assembly
+QX-8000,Receiver,AXA-003-A,AXA-003,Dial Pulley Ass'y
+QX-8000A,Receiver,AXA-003-C,AXA-003,Dial pulley ass’y
+SX-450,Receiver,AXA-006,AXA-006,Tuning drum assembly
+SX-6000,Receiver,AXA-007-A,AXA-007,Dial Shaft Ass'y
+SX-727,Receiver,AXA-013-0,AXA-013,Dial shaft ass'y
+SX-828,Receiver,AXA-013-0,AXA-013,Dial shaft ass'y
+QX-747,Receiver,AXA-015-A,AXA-015,Tuning pulley
+QX-747A,Receiver,AXA-015,AXA-015,Tuning drum assembly
+QX-949,Receiver,AXA-015-A,AXA-015,Tuning pulley
+QX-949A,Receiver,AXA-015,AXA-015,Tuning drum assembly
+QX-9900,Receiver,AXA-015-0,AXA-015,Tuning pulley
+SX-1010,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-434,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-535,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-626 (1973),Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-636,Receiver,AXA-015-A,AXA-015,Tuning pulley
+SX-838,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-939,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+TX-6200,Tuner,AXA-015-A,AXA-015,Dial pulley assembly
+TX-7100,Tuner,AXA-015-A,AXA-015,Tuning pulley assembly
+TX-8100,Tuner,AXA-015-A,AXA-015,Tuning pulley assembly
+TX-9100,Tuner,AXA-015-A,AXA-015,Tuning pulley assembly
+QX-9900,Receiver,AXA-016-0,AXA-016,Tuning shaft ass'y
+SX-434,Receiver,AXA-021-0,AXA-021,Tuning shaft assembly
+TX-7100,Tuner,AXA-021-0,AXA-021,Tuning shaft assembly
+TX-8100,Tuner,AXA-021-0,AXA-021,Tuning shaft assembly
+SX-535,Receiver,AXA-025-0,AXA-025,Tuning shaft assembly
+SX-636,Receiver,AXA-025-0,AXA-025,Tuning shaft assembly
+TX-6200,Tuner,AXA-025-0,AXA-025,Dial shaft assembly
+TX-6200,Tuner,AXA-025-0,AXA-025,Tuning shaft assembly
+TX-9100,Tuner,AXA-027-A,AXA-027,Tuning shaft assembly
+SX-626 (1973),Receiver,AXA-032-0,AXA-032,Tuning shaft assembly
+QX-747,Receiver,AXA-039-0,AXA-039,Tuning shaft assembly
+QX-747A,Receiver,AXA-039,AXA-039,Tuning shaft assembly
+QX-949,Receiver,AXA-039-0,AXA-039,Tuning shaft assembly
+QX-949A,Receiver,AXA-039,AXA-039,DIAL SHAFT ASSY
+QX-949A,Receiver,AXA-039,AXA-039,Tuning shaft assembly
+SX-1010,Receiver,AXA-056-0,AXA-056,Tuning shaft assembly
+SX-838,Receiver,AXA-056-0,AXA-056,Tuning shaft assembly
+SX-939,Receiver,AXA-056-0,AXA-056,Tuning shaft assembly
+SX-737,Receiver,AXA-057-0,AXA-057,Tuning shaft assembly
+SX-737,Receiver,AXA-058-A,AXA-058,Tuning pulley assembly
+TX-5300,Tuner,AXA-061-C,AXA-061,Tuning drum assembly
+SX-550,Receiver,AXA-066,AXA-066,Dial pulley assembly
+TX-5300,Tuner,AXA-066-0,AXA-066,Tuning shaft assembly
+SX-650,Receiver,AXA-070,AXA-070,Tuning drum assembly
+SX-750,Receiver,AXA-070,AXA-070,Tuning drum assembly
+TX-8500II,Tuner,AXA-070,AXA-070,Dial drum assembly
+TX-9500,Tuner,AXA-070-C,AXA-070,Dial drum assembly
+TX-9500II,Tuner,AXA-070,AXA-070,Dial drum assembly
+TX-9500,Tuner,AXA-071-A,AXA-071,Tuning shaft assembly
+TX-6500II,Tuner,AXA-105,AXA-105,Dial shaft assembly
+TX-6500II,Tuner,AXA-106,AXA-106,Tuning drum assembly
+SX-1050,Receiver,AXA-111,AXA-111,Tuning shaft assembly
+SX-850,Receiver,AXA-111,AXA-111,Tuning shaft assembly
+SX-950,Receiver,AXA-111,AXA-111,Tuning shaft assembly
+SX-1050,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-1980,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-3400,Receiver,AXA-113,AXA-113,Dial pulley assembly
+SX-580/590,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-680/690,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-780,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-850,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-880/890,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-950,Receiver,AXA-113,AXA-113,Tuning drum assembly
+TX-8500II,Tuner,AXA-114,AXA-114,Dial shaft assembly
+TX-9500II,Tuner,AXA-114,AXA-114,Dial shaft assembly
+SX-450,Receiver,AXA-117,AXA-117,Tuning shaft assembly
+SX-550,Receiver,AXA-117,AXA-117,Tuning shaft assembly
+SX-650,Receiver,AXA-124,AXA-124,Tuning shaft assembly
+SX-750,Receiver,AXA-124,AXA-124,Tuning shaft assembly
+SX-1080,Receiver,AXA-180,AXA-180,Dial shaft assembly
+SX-1980,Receiver,AXA-184,AXA-184,Tuning shaft assembly
+SX-1280,Receiver,AXA-188,AXA-188,Tuning shaft assembly
+F-28,Tuner,AXA-191,AXA-191,Tuning drum assembly
+SX-580/590,Receiver,AXA-208,AXA-208,Dial shaft assembly
+SX-680/690,Receiver,AXA-208,AXA-208,Tuning shaft assembly
+SX-780,Receiver,AXA-211,AXA-211,Tuning shaft assembly
+SX-880/890,Receiver,AXA-211,AXA-211,Tuning Shaft
+F-28,Tuner,AXA-215,AXA-215,Tuning shaft assembly
+TX-6800/608,Tuner,AXA-228,AXA-228,Tuning shaft assembly
+SX-3400,Receiver,AXA-240,AXA-240,Dial shaft assembly
+SX-3900,Receiver,AXA-260,AXA-260,Tuning shaft assembly
+SX-3800,Receiver,AXA-264,AXA-264,Dial shaft assembly
+SX-600,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-600L,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-700,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-700L,Receiver,AXA-274,AXA-274,Tuning shaft assembly
+SX-3500,Receiver,AXA-290,AXA-290,Tuning shaft assembly
+SX-3600/720,Receiver,AXA-290 (AXA-270),AXA-290 (AXA-270),Dial shaft assembly
+TX-130L,Tuner,AXA-350,AXA-350,Tuning shaft assembly
+TX-530L,Tuner,AXA-350,AXA-350,Tuning shaft assembly
+SX-202,Receiver,AXA-373,AXA-373,Tuning shaft
+QX-4000,Receiver,AXB-001-0,AXB-001,AM ferrite loopstick antenna holder ass'y
+QX-646,Receiver,AXB-001-0,AXB-001,AM antenna holder assembly
+QX-747,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder assembly
+QX-747A,Receiver,AXB-001,AXB-001,Antenna holder assembly
+QX-8000,Receiver,AXB-001-0,AXB-001,AM Antenna Holder Ass'y
+QX-8000A,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder
+QX-949A,Receiver,AXB-001,AXB-001,Antenna holder assembly
+SX-424,Receiver,AXB-001-0,AXB-001,AM ferrite loopstick antenna holder ass'y
+SX-434,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-525,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder ass'y
+SX-535,Receiver,AXB-001-0,AXB-001,Antenna holder assembly
+SX-6000,Receiver,AXB-001-0,AXB-001,AM Antenna Holder Ass'y
+SX-626 (1971),Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder ass'y
+SX-626 (1973),Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder assembly
+SX-636,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-727,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder ass'y
+SX-737,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-838,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-939,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+TX-5300,Tuner,AXB-001-0,AXB-001,Antenna holder assembly
+TX-6200,Tuner,AXB-001-0,AXB-001,AM antenna holder assembly
+TX-7100,Tuner,AXB-001-0,AXB-001,Bar antenna holder assembly
+TX-7500,Tuner,AXB-001,AXB-001,ANTENNA HOLDER
+TX-900,Tuner,AXB-001,AXB-001,ANTENNA HOLDER
+SX-650,Receiver,AXB-004,AXB-004,Ferrite bar-antenna
+SX-750,Receiver,AXB-004,AXB-004,Ferrite bar antenna
+SX-450,Receiver,AXB-006,AXB-006,"Ferrite bar antenna (KU,KC)"
+SX-550,Receiver,AXB-006,AXB-006,Bar-antenna assembly (KC)
+SX-550,Receiver,AXB-006,AXB-006,Ferrite bar-antenna
+SX-850,Receiver,AXB-009,AXB-009,Bar-antenna assembly
+SX-450,Receiver,AXB-010,AXB-010,Ferrite Bar antenna (HG)
+SX-550,Receiver,AXB-010,AXB-010,Bar-antenna Assembly (HG)
+TX-6500II,Tuner,AXB-011,AXB-011,Antenna hoIder
+TX-8500II,Tuner,AXB-011,AXB-011,Antenna holder
+TX-9500II,Tuner,AXB-011,AXB-011,Antenna holder
+SX-1080,Receiver,AXB-012,AXB-012,Bar antenna holder
+SX-1980,Receiver,AXB-012,AXB-012,Antenna holder
+SX-680/690,Receiver,AXB-012,AXB-012,Antenna holder
+SX-780,Receiver,AXB-012,AXB-012,Bar antenna holder
+SX-880/890,Receiver,AXB-012,AXB-012,Antenna holder
+SX-980,Receiver,AXB-012,AXB-012,Bar antenna holder
+TX-6700,Tuner,AXB-012,AXB-012,BRACKET F/ANTENNA SX750
+TX-6800/608,Tuner,AXB-012,AXB-012,Antenna holder
+TX-7800,Tuner,AXB-012,AXB-012,BRACKET F/ANTENNA SX750
+TX-9800,Tuner,AXB-012,AXB-012,BRACKET F/ANTENNA SX750
+A-7,Integrated Amplifier,AXC-001,AXC-001,Door mechanical assembly
+A-9,Integrated Amplifier,AXC-003,AXC-003,Door mechanism assembly
+A-8,Integrated Amplifier,AXC-008,AXC-008,DOOR
+SA-530,Integrated Amplifier,AXC-012,AXC-012,Slide knob assembly
+SX-4,Receiver,AXC-013,AXC-013,Battery case
+SX-5,Receiver,AXC-013,AXC-013,Battery case
+SX-6,Receiver,AXC-013,AXC-013,Battery case assembly
+SX-50,Receiver,AXC-019,AXC-019,Battery case
+SX-60,Receiver,AXC-019,AXC-019,Battery case
+GR-777,Equalizer,AXD1049,AXD1049,Remote control unit
+C-72,Pre-Amplifier,AXD1171,AXD1171,Remote control unit
+C-90,Pre-Amplifier,AXX1003,AXX1003,REMOTE SENSOR SDP40
+GR-777,Equalizer,AXX1005,AXX1005,Remote control sensor unit
+GR-777,Equalizer,AZN1744,AZN1744,Bonnet
+QX-646,Receiver,B-21-011-0,B-21-011,External tooth lock washer
+H-R99,8-Track Tape,B01-263-A,B01-263,"Screw, M3x 6"
+H-R9000,8-Track Tape,B01-267-A,B01-267,"Screw, M3 x 14"
+H-R99,8-Track Tape,B01-267-A,B01-267,"Screw, M3 x 14"
+H-R9000,8-Track Tape,B01-862-A,B01-862,"Screw, M3 X 5"
+H-R9000,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R99,8-Track Tape,B01-863-A,B01-863,"Screw, M3 x 6"
+H-R99,8-Track Tape,B01-863-A,B01-863,"Screw, M3x 6"
+H-R9000,8-Track Tape,B01-864-A,B01-864,"Screw, M3 x 8"
+H-R99,8-Track Tape,B01-864-A,B01-864,"Screw, M3 x 8"
+H-R9000,8-Track Tape,B01-875-A,B01-875,"Screw, M4 x6"
+H-R99,8-Track Tape,B01-875-A,B01-875,"Screw, M4 x 6"
+H-R99,8-Track Tape,B02-013-A,B02-013,"Screw, M3.1 X 10"
+H-R9000,8-Track Tape,B03-008-A,B03-008,"Screw, M215 X 4"
+H-R9000,8-Track Tape,B06-109-A,B06-109,"Screw, M25 x 4"
+H-R99,8-Track Tape,B06-109-A,B06-109,"Screw, M2.6 x 4"
+H-R9000,8-Track Tape,B06-111-A,B06-111,"Screw, M2.6 x 6"
+H-R99,8-Track Tape,B06-111-A,B06-111,"Screw, M2.6 X 6"
+H-R9000,8-Track Tape,B06-162-A,B06-162,"Screw, M3 x 5"
+H-R99,8-Track Tape,B06-162-A,B06-162,"Screw, M3 x 5"
+H-R99,8-Track Tape,B06-168-A,B06-168,"Screw, M3 X 6"
+H-R9000,8-Track Tape,B08-219-A,B08-219,"Screw, M2.6 X 6"
+H-R99,8-Track Tape,B08-219-A,B08-219,"Screw, M2.6 x 6"
+H-R9000,8-Track Tape,B08-220-A,B08-220,"Screw, M2.6 x 8"
+H-R9000,8-Track Tape,B09-382-E,B09-382,"Screw, M4 x 20"
+H-R99,8-Track Tape,B09-382-E,B09-382,"Screw, M4 x 20"
+QX-8000,Receiver,B1 l-012-A,B1 l-012,Screw for Grounding
+H-R9000,8-Track Tape,B10-203-A,B10-203,"Screw, M2 x 5"
+H-R99,8-Track Tape,B10-203-A,B10-203,"Screw, M2 X 5"
+H-R9000,8-Track Tape,B10-204-A,B10-204,"Screw, M2 X 6"
+H-R99,8-Track Tape,B10-205-A,B10-205,"Screw, M2 x 8"
+H-R9000,8-Track Tape,B10-264-A,B10-264,"Screw, M3 x 8"
+H-R99,8-Track Tape,B10-802-A,B10-802,"Screw, M2 x 4"
+H-R9000,8-Track Tape,B10-863-A,B10-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B10-863-A,B10-863,"Screw, M3 x 6"
+H-R9000,8-Track Tape,B10-863-A,B10-863,"Screw, M3 x6"
+H-R99,8-Track Tape,B10-863-A,B10-863,"Screw, M3 X 6"
+H-R9000,8-Track Tape,B10-864-A,B10-864,"Screw, M3 x 8"
+H-R99,8-Track Tape,B10-864-A,B10-864,"Screw, M3 x 8"
+SA-500,Integrated Amplifier,B11-005-A,B11-005,"Screw, to fix Metal Cover"
+SA-700,Integrated Amplifier,B11-005-A,B11-005,"Screw, to Fix Metal Cover"
+SA-900,Integrated Amplifier,B11-005-A,B11-005,"Screw, to fix Metal case"
+CT-F6161,Cassette Tape,B11-012-A,B11-012,Binding post (for ground)
+CT-F7171,Cassette Tape,B11-012-A,B11-012,Binding post (for ground)
+CT-F7272,Cassette Tape,B11-012,B11-012,Binding post
+CT-F8282,Cassette Tape,B11-012,B11-012,Binding post
+CT-F9191,Cassette Tape,B11-012,B11-012,Binding post
+H-R9000,8-Track Tape,B11-012-A,B11-012,"Screw, Grounding"
+H-R99,8-Track Tape,B11-012-A,B11-012,"Screw, Grounding"
+QA-800,Integrated Amplifier,B11-012-A,B11-012,Screw for grounding
+QA-800A,Integrated Amplifier,B11-012-A,B11-012,Screw for grounding
+QC-800,Pre-Amplifier,B11-012-A,B11-012,Screw for grounding
+QC-800A,Pre-Amplifier,B11-012-A,B11-012,Screw for grounding
+QL-600,Integrated Amplifier,B11-012-A,B11-012,Screw for Grounding Washer (Square)
+QL-600A,Integrated Amplifier,B11-012-A,B11-012,Screw for grounding
+QM-800A,Amplifier,B11-012-A,B11-012,Screw for grounding
+QT-6100,Reel To Reel Tape,B11-012-A,B11-012,Screw for grouding
+QT-6600,Reel To Reel Tape,B11-012-A,B11-012,Screw for ground termianl
+QT-74,Reel To Reel Tape,B11-012-A,B11-012,Screw for grounding
+QX-4000,Receiver,B11-012-A,B11-012,Screw for grounding
+QX-8000A,Receiver,B11-012-A,B11-012,Screw for grounding
+QX-9900,Receiver,B11-012-A,B11-012,Screw for grounding
+RT-1011L,Reel To Reel Tape,B11-012-A,B11-012,Binding post
+RT-1020L,Reel To Reel Tape,B11-012-A,B11-012,Screw (GND)
+SA-1000,Integrated Amplifier,B11-012-A,B11-012,Screw for ground
+SA-500A,Integrated Amplifier,B11-012-A,B11-012,Screw for Grounding
+SA-600,Integrated Amplifier,B11-012-A,B11-012,Screw for GND
+SX-1500TD,Receiver,B11-012-A,B11-012,Screw for GND Terminal
+SX-2500,Receiver,B11-012-A,B11-012,Screw for GND Termmal
+SX-424,Receiver,B11-012-A,B11-012,Screw for ground
+SX-525,Receiver,B11-012-A,B11-012,Screw for grounding
+SX-6000,Receiver,B11-012-A,B11-012,Screw for Grounding
+SX-626 (1971),Receiver,B11-012-A,B11-012,Screw for grounding
+SX-727,Receiver,B11-012-A,B11-012,Screw for grounding
+SX-828,Receiver,B11-012-A,B11-012,Screw for grounding
+QC-800,Pre-Amplifier,B11-015-B,B11-015,Screw to fix wooden case
+SA-1000,Integrated Amplifier,B11-015-B,B11-015,Screw
+SA-500A,Integrated Amplifier,B11-015-B,B11-015,Screw to fix Metal Cover
+SA-800,Integrated Amplifier,B11-015-B,B11-015,"Screw, to fix wooden case"
+SX-1500TD,Receiver,B11-015-0,B11-015,"Screw, to fix Wooden Case"
+SX-626 (1971),Receiver,B11-016-B,B11-016,Screw to fix wooden case
+SX-727,Receiver,B11-016-B,B11-016,Screw to ﬁx wooden case
+SX-828,Receiver,B11-016-B,B11-016,Screw to fix wooden case
+SX-2500,Receiver,B11-017-A,B11-017,Screw to fix Wooden Case
+SX-1500T,Receiver,B11-021-A,B11-021,"Screw, to fix metal case"
+SX-700T,Receiver,B11-021-B,B11-021,Screw to Fix Metal Cover
+SX-1000TA (Later),Receiver,B11-022-B,B11-022,"Screw, to fix metal cover"
+SX-1000TD,Receiver,B11-022-B,B11-022,Screw to fix metal case
+SX-1000TW,Receiver,B11-022-E,B11-022,Screw. to fix metal case
+SX-440,Receiver,B11-022-B,B11-022,Screw to fix Wooden Case
+SA-5200,Integrated Amplifier,B11-034-0,B11-034,Metal cover fixing screw
+SD-1100,Other,B11-034-A,B11-034,Screw to fix bottom plate
+PL-50,Turntable,B11-037-0,B11-037,Screw
+TX-9500,Tuner,B11-037-0,B11-037,Pan head screw M3x6 (pit-shaped)
+QA-800,Integrated Amplifier,B11-041-A,B11-041,Screw to fix wooden case
+QM-800,Amplifier,B11-041-A,B11-041,Screw to fix wooden case
+SA-600,Integrated Amplifier,B11-041-A,B11-041,Set screws for wooden case
+SX-424,Receiver,B11-041-A,B11-041,Screw to fix wooden case
+SX-525,Receiver,B11-041-A,B11-041,Screw to fix wooden case
+PL-A25,Turntable,B11-043-0,B11-043,Adjusting screw
+PL-51,Turntable,B11-044-C,B11-044,Screw
+PL-51A,Turntable,B11-044-C,B11-044,Screw
+PL-71,Turntable,B11-044-C,B11-044,Cartridge mounting screw 13mm
+PL-A45D,Turntable,B11-044-C,B11-044,Screw
+PL-15D,Turntable,B11-054-0,B11-054,Screw
+PL-A45,Turntable,B11-054-C,B11-054,Screw
+PL-A35,Turntable,B11-055-0,B11-055,Screw
+PL-A45D,Turntable,B11-055-C,B11-055,Screw
+PL-A505,Turntable,B11-055-C,B11-055,Screw
+PL-25/F,Turntable,B11-603-0,B11-603,Screw
+H-R99,8-Track Tape,B11-607-0,B11-607,"Screw, M2.6 x 5"
+PL-25/F,Turntable,B11-646-0,B11-646,Screw
+PL-50,Turntable,B11-657-0,B11-657,Screw
+PL-50,Turntable,B11-657-A,B11-657,Screw
+PL-510,Turntable,B11-657,B11-657,Screw
+PL-510S,Turntable,B11-657,B11-657,Screw
+PL-71,Turntable,B11-657-C,B11-657,Cartridge mounting screw 11.5mm
+PL-A35,Turntable,B11-657-C,B11-657,Screw
+PL-A45D,Turntable,B11-657-C,B11-657,Screw
+PL-A505,Turntable,B11-657-0,B11-657,Screw
+PL-A505,Turntable,B11-657-C,B11-657,Screw
+H-R9000,8-Track Tape,B11-678-0,B11-678,"Screw, M2.6 x 14"
+H-R99,8-Track Tape,B11-678-0,B11-678,"Screw, M2.6 x 14"
+PL-50,Turntable,B13-601-0,B13-601,Screw
+H-R9000,8-Track Tape,B20-002-A,B20-002,"Flat Washer, M25"
+H-R99,8-Track Tape,B20-002-A,B20-002,"Flat Washer, M2.6"
+H-R99,8-Track Tape,B20-003-A,B20-003,"Flat Washer, M3"
+H-R9000,8-Track Tape,B20-010-A,B20-010,"Spring Washer, M2"
+H-R99,8-Track Tape,B20-010-A,B20-010,"Spring Washer, M2"
+H-22,8-Track Tape,B20-012-B,B20-012,Spring Lock Washer M3
+H-R9000,8-Track Tape,B20-013-A,B20-013,"Screw, M3.1 x 10"
+H-R9000,8-Track Tape,B20-013-A,B20-013,"Spring Washer, M4"
+H-R99,8-Track Tape,B20-013-A,B20-013,"Spring Washer, M4"
+H-R9000,8-Track Tape,B20-074-L,B20-074,"Fiber Washer, M3"
+H-R99,8-Track Tape,B20-074-L,B20-074,"Fiber Washer, M3"
+H-R9000,8-Track Tape,B20-103-B,B20-103,"E Ring, 2.5mm"
+H-R99,8-Track Tape,B20-103-B,B20-103,"E Fling, 2.5mm"
+H-R9000,8-Track Tape,B20-105-B,B20-105,"E Ring, 3.2mm"
+H-R99,8-Track Tape,B20-105-B,B20-105,"E Ring, 3.2rnm"
+H-R9000,8-Track Tape,B20-111-B,B20-111,"E Ring, 1.5mm"
+H-R99,8-Track Tape,B20-111-B,B20-111,"E Ring, 1.5mm"
+H-R9000,8-Track Tape,B20-126-A,B20-126,"E Ring, 8mm"
+H-R9000,8-Track Tape,B20-508-E,B20-508,Stop Pin
+H-R99,8-Track Tape,B20-508-E,B20-508,Stop Pin
+QM-800A,Amplifier,B21-001-0,B21-001,Special washer
+PL-A35,Turntable,B21-008-A,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-0,B21-008,Boss
+QX-4000,Receiver,B21-008-A,B21-008,Boss
+QX-4000,Receiver,B21-008-A,B21-008,Boss
+QX-747,Receiver,B21-008-A,B21-008,Boss
+QX-747,Receiver,B21-008-A,B21-008,P.C. board holder
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+SD-1100,Other,B21-008-A,B21-008,Boss
+SD-1100,Other,B21-008-A,B21-008,Boss
+SX-2500,Receiver,B21-008-0,B21-008,Boss for Printed Clrcuit Board
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NBW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW, NNW"
+SX-626 (1973),Receiver,B21-008-A,B21-008,"P.C. board holder    KCW, FW, FVZW. NBW"
+QA-800A,Integrated Amplifier,B21-011-A,B21-011,Special washer (square)
+QC-800A,Pre-Amplifier,B21-011-0,B21-011,Washer (square)
+QX-747,Receiver,B21-011-0,B21-011,Washer
+QX-949,Receiver,B21-011-0,B21-011,Washer
+SA-1000,Integrated Amplifier,B21-011-O,B21-011,Tooth washer
+SA-5200,Integrated Amplifier,B21-011-0,B21-011,Washer
+SX-1010,Receiver,B21-011-0,B21-011,Washer
+SX-434,Receiver,B21-011-A,B21-011,Washer
+SX-535,Receiver,B21-011-0,B21-011,Claw washer
+SX-626 (1973),Receiver,B21-011-0,B21-011,Washer
+SX-636,Receiver,B21-011-0,B21-011,Washer
+SX-737,Receiver,B21-011-0,B21-011,Washer
+SX-838,Receiver,B21-011-0,B21-011,Washer
+SX-939,Receiver,B21-011-0,B21-011,Washer
+TX-5300,Tuner,B21-011-0,B21-011,Claw washer
+PL-25/F,Turntable,B21-601-0,B21-601,Washer
+PL-A25,Turntable,B21-659-0,B21-659,Spacer
+PL-A35,Turntable,B21-659-0,B21-659,Spacer
+PL-A45,Turntable,B21-659-0,B21-659,Spacer
+PL-A45D,Turntable,B21-659-0,B21-659,Spacer
+PL-A25,Turntable,B21-660-A,B21-660,Tray type washer
+PL-A25,Turntable,B21-661-0,B21-661,Washer special
+PL-A35,Turntable,B21-661-0,B21-661,Washer
+PL-A45,Turntable,B21-661-0,B21-661,Washer
+PL-A45D,Turntable,B21-661-0,B21-661,Washer
+PL-A25,Turntable,B21-667-0,B21-667,Hinge plate
+SA-5200,Integrated Amplifier,B22-009-0,B22-009,Washer (11ø)
+TX-5300,Tuner,B22-012 -0,B22-012 ,Flat washer
+TX-6800/608,Tuner,B22-013,B22-013,Flat washer
+SA-5200,Integrated Amplifier,B22-016-0,B22-016,Washer
+SA-5200,Integrated Amplifier,B22-016-0,B22-016,Washer
+SX-535,Receiver,B22-016-0,B22-016,Washer (0.5t)
+TX-9500,Tuner,B22-016-0,B22-016,Flat washer 9ɸ
+TX-9500,Tuner,B22-017-0,B22-017,Flat washer 11ɸ
+PL-15D,Turntable,B22-026-0,B22-026,Washer
+PL-500,Turntable,B22-026,B22-026,Washer
+PL-500X,Turntable,B22-026,B22-026,Washer
+PL-A35,Turntable,B22-026-0,B22-026,Washer
+PL-A45,Turntable,B22-026-0,B22-026,Washer
+PL-A45D,Turntable,B22-026-0,B22-026,Washer
+PL-A505,Turntable,B22-026-0,B22-026,Washer
+PL-L1000,Turntable,B22-026,B22-026,Washer
+QX-4000,Receiver,B22-032-0,B22-032,Pilot lamp
+QT-74,Reel To Reel Tape,B22-420-0,B22-420,Washer (3ɸ) BN 1
+RT-1011L,Reel To Reel Tape,B22-420-0,B22-420,Washer 3ɸ BN1
+CT-F6161,Cassette Tape,B22-422-0,B22-422,Nylon washer 4.2øx80x0.5t mm
+CT-F6161,Cassette Tape,B22-422-0,B22-422,Nylon washer 4.2øx8øx 0.5t mm
+RT-1011L,Reel To Reel Tape,B22-422-0,B22-422,Washer 4ɸ BN1
+QT-74,Reel To Reel Tape,B22-423-0,B22-423,Washer (5ɸ) BN 2
+QT-74,Reel To Reel Tape,B22-423-0,B22-423,Washer (5ɸ) BN2
+QT-6600,Reel To Reel Tape,B22-424-0,B22-424,Nylon washer
+QT-6600,Reel To Reel Tape,B22-424-0,B22-424,Nylon washer
+QT-74,Reel To Reel Tape,B22-424-0,B22-424,Washer (54)) BN 1
+QT-74,Reel To Reel Tape,B22-424-0,B22-424,Washer (5ɸ) BN 1
+QT-74,Reel To Reel Tape,B22-424-0,B22-424,Washer (5ɸ) BN1
+RT-909,Reel To Reel Tape,B22-424,B22-424,Washer 5o
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN 2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer BN2
+RT-1020L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN 2
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer ɸ6 BN 1
+PL-50,Turntable,B22-602-0,B22-602,Washer (A)
+PL-55/55D,Turntable,B22-602-0,B22-602,Washer (A)
+PL-50,Turntable,B22-603-0,B22-603,Washer (B)
+PL-55/55D,Turntable,B22-603-0,B22-603,Washer (B)
+PL-25/F,Turntable,B22-604-0,B22-604,Washer (A)
+PL-25/F,Turntable,B22-605-0,B22-605,Washer (B)
+PL-25/F,Turntable,B22-606-0,B22-606,Washer (C)
+PL-25/F,Turntable,B22-607-0,B22-607,Washer (G)
+PL-25/F,Turntable,B22-607-0,B22-607,Washer (P)
+PL-25/F,Turntable,B22-610-0,B22-610,Washer (H)
+PL-25/F,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A25,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A35,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A35,Turntable,B22-612-0,B22-612,Washer (M)
+PL-A45,Turntable,B22-612-0,B22-612,Retaining washer E-type
+PL-A45,Turntable,B22-612-0,B22-612,Washer (M)
+PL-25/F,Turntable,B22-614-0,B22-614,Washer (F)
+PL-50,Turntable,B22-632-0,B22-632,Washer
+PL-55/55D,Turntable,B22-632-0,B22-632,Nut
+PL-A25,Turntable,B22-640-0,B22-640,Washer
+PL-A25,Turntable,B22-641-0,B22-641,Washer special
+PL-A25,Turntable,B22-642-0,B22-642,Washer
+PL-A35,Turntable,B22-642-0,B22-642,Washer
+PL-A45,Turntable,B22-642-0,B22-642,Washer
+PL-A45D,Turntable,B22-642-0,B22-642,Washer
+PL-A25,Turntable,B22-643-0,B22-643,Washer
+PL-A35,Turntable,B22-643-0,B22-643,Washer
+PL-A45,Turntable,B22-643-0,B22-643,Washer
+PL-A45D,Turntable,B22-643-0,B22-643,Washer
+PL-50,Turntable,B22-646-0,B22-646,Washer
+PL-71,Turntable,B22-646-0,B22-646,Washer ring
+PL-12E,Turntable,B22-650-0,B22-650,Washer
+PL-15D,Turntable,B22-650-0,B22-650,Washer
+PL-A25,Turntable,B22-650-0,B22-650,Flat washer for center shaft
+PL-A35,Turntable,B22-650-0,B22-650,Washer
+PL-A45,Turntable,B22-650-0,B22-650,Washer
+PL-A45D,Turntable,B22-650-0,B22-650,Washer
+RT-1020L,Reel To Reel Tape,B23-405-A,B23-405,Bushing
+PL-50,Turntable,B23-601-0,B23-601,Washer (C)
+PL-55/55D,Turntable,B23-601-0,B23-601,Washer (C)
+PL-50,Turntable,B23-602-0,B23-602,Washer (D)
+PL-55/55D,Turntable,B23-602-0,B23-602,Washer (D)
+PL-25/F,Turntable,B23-613-0,B23-613,Washer (N)
+PL-50,Turntable,B23-614-0,B23-614,Washer (SPEED SELECTOR SWITCH)
+PL-50,Turntable,B23-615-0,B23-615,Washer (SPEED SELECTOR SWITCH)
+PL-A25,Turntable,B23-629-0,B23-629,Washer teflon
+PL-A35,Turntable,B23-629-0,B23-629,Teflon washer
+PL-A45,Turntable,B23-629-0,B23-629,Teflon washer
+PL-A45D,Turntable,B23-629-0,B23-629,Teflon washer
+PL-55/55D,Turntable,B23-635-0,B23-635,Teflon washer
+PL-12E,Turntable,B23-642-0,B23-642,Washer
+PL-200/200X,Turntable,B23-642,B23-642,Cartridge mounting washer (PL-200X)
+PL-50,Turntable,B23-642-0,B23-642,Washer
+PL-50,Turntable,B23-642-A,B23-642,Washer
+PL-51,Turntable,B23-642-0,B23-642,Washer
+PL-510,Turntable,B23-642,B23-642,Washer
+PL-510S,Turntable,B23-642,B23-642,Washer
+PL-51A,Turntable,B23-642-0,B23-642,Washer
+PL-71,Turntable,B23-642-0,B23-642,Washer
+PL-A35,Turntable,B23-642-0,B23-642,Washer
+PL-A45,Turntable,B23-642-0,B23-642,Washer
+PL-A45,Turntable,B23-642-0,B23-642,Washer
+PL-A45D,Turntable,B23-642-0,B23-642,Washer
+PL-A45D,Turntable,B23-642-0,B23-642,Washer
+PL-A505,Turntable,B23-642-0,B23-642,Washer
+PL-L800,Turntable,B23-642,B23-642,Washer
+H-R9000,8-Track Tape,B23-644-0,B23-644,Insulating Washer
+H-R99,8-Track Tape,B23-644-0,B23-644,Insulating Washer
+H-R9000,8-Track Tape,B23-657-0,B23-657,Nylon Washer
+H-R99,8-Track Tape,B23-657-0,B23-657,Nylon Washer
+QT-74,Reel To Reel Tape,B23-854-0,B23-854,Teflon washer 6.5x4.2x0.3(t)mm
+QT-74,Reel To Reel Tape,B23-854-0,B23-854,Teflon washer 6.5x4.2x0.3(t)mm
+QT-6100,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer
+QT-6100,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer
+QT-6600,Reel To Reel Tape,B23-865-0,B23-865,Teflon wahser
+QT-6600,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer
+QT-74,Reel To Reel Tape,B23-865-0,B23-865,Teflon washer 7x5.2x0.8(t)mm
+QT-6100,Reel To Reel Tape,B23-866-0,B23-866,Teflon washer
+QT-6100,Reel To Reel Tape,B23-866-0,B23-866,Teflon Washer
+QT-6600,Reel To Reel Tape,B23-866-0,B23-866,Teflon washer
+QT-6600,Reel To Reel Tape,B23-866-0,B23-866,Teflon washer
+SX-9000,Receiver,B28-002-0,B28-002,Shaft
+QT-6100,Reel To Reel Tape,B28-851-0,B28-851,Slot pin
+QT-6600,Reel To Reel Tape,B28-851-0,B28-851,Slot pin
+QT-74,Reel To Reel Tape,B28-851-0,B28-851,Slot pin
+QT-6600,Reel To Reel Tape,B31 -858-A,B31 -858,Pinch roller return spring
+QT-6100,Reel To Reel Tape,B31 -865-0,B31 -865,Tension adjusting spring
+SX-9000,Receiver,B31-0160,B31-0160,Spring for Front Cover
+PL-A35,Turntable,B31-026-8,B31-026,Spring
+PL-A45,Turntable,B31-026-B,B31-026,Spring
+PL-A45D,Turntable,B31-026-B,B31-026,Spring
+PL-A35,Turntable,B31-028-B,B31-028,Spring
+PL-A45,Turntable,B31-028-B,B31-028,Spﬂng
+PL-A45D,Turntable,B31-028-B,B31-028,Spring
+PL-A35,Turntable,B31-029-A,B31-029,Spring
+PL-A45,Turntable,B31-029-B,B31-029,Spring
+PL-A45D,Turntable,B31-029-B,B31-029,Spﬂng
+PL-A35,Turntable,B31-030-A,B31-030,Spring (A)
+PL-A35,Turntable,B31-031-A,B31-031,Spring (B)
+PL-A35,Turntable,B31-032-A,B31-032,Spring (C)
+PL-A35,Turntable,B31-033-A,B31-033,Spring (D)
+PL-50,Turntable,B31-034-A,B31-034,Return lever spring
+PL-50,Turntable,B31-035-0,B31-035,Spring (SPEED SELECTOR SWITCH)
+PL-50,Turntable,B31-036-A,B31-036,Spring
+PL-50,Turntable,B31-036-A,B31-036,Spring
+PL-50,Turntable,B31-036-A,B31-036,Spring
+PL-50,Turntable,B31-042-0,B31-042,Spring
+QT-6100,Reel To Reel Tape,B31-443-A,B31-443,Pause lever spring
+QT-6600,Reel To Reel Tape,B31-443-A,B31-443,Pause lever spring
+QT-74,Reel To Reel Tape,B31-443-A,B31-443,Pause lever spring
+QT-6100,Reel To Reel Tape,B31-444-0,B31-444,Pause cam spring
+QT-6600,Reel To Reel Tape,B31-444-0,B31-444,Pause cam spring
+QT-74,Reel To Reel Tape,B31-444-0,B31-444,Pause cam spring
+PL-50,Turntable,B31-607-A,B31-607,Spring
+PL-50,Turntable,B31-612-0,B31-612,Lever spring
+PL-55/55D,Turntable,B31-612-A,B31-612,Spring (Lever spring)
+PL-50,Turntable,B31-613-A,B31-613,Spring (Return spring)
+PL-25/F,Turntable,B31-616-0,B31-616,Spring
+PL-25/F,Turntable,B31-617-0,B31-617,Spring
+PL-25/F,Turntable,B31-617-0,B31-617,Spring
+PL-25/F,Turntable,B31-621-0,B31-621,Spring
+PL-25/F,Turntable,B31-622-0,B31-622,Spring
+PL-25/F,Turntable,B31-623-0,B31-623,Spring
+PL-25/F,Turntable,B31-645-A,B31-645,Spring
+PL-A25,Turntable,B31-645-A,B31-645,Spring
+PL-A35,Turntable,B31-645-A,B31-645,Spring
+PL-A45,Turntable,B31-645-A,B31-645,Spring
+PL-50,Turntable,B31-696-0,B31-696,Spring
+PL-55/55D,Turntable,B31-696-0,B31-696,Spring
+PL-50,Turntable,B31-698-0,B31-698,Ring
+PL-50,Turntable,B31-700-0,B31-700,Spring
+PL-50,Turntable,B31-701-0,B31-701,Spring
+PL-A25,Turntable,B31-744-0,B31-744,Lever spring
+PL-A25,Turntable,B31-744-0,B31-744,Spring for reset lever
+PL-15D,Turntable,B31-745-B,B31-745,Spring
+PL-A25,Turntable,B31-745-A,B31-745,Fixed spring
+PL-A35,Turntable,B31-745-B,B31-745,Spring
+PL-A45,Turntable,B31-745-B,B31-745,Spring
+PL-A45D,Turntable,B31-745-B,B31-745,Spring
+PL-A505,Turntable,B31-745-B,B31-745,Spring
+PL-A505,Turntable,B31-745-B,B31-745,Spring
+PL-A25,Turntable,B31-746-0,B31-746,Function lever spring
+PL-A35,Turntable,B31-746-0,B31-746,Spring
+PL-A45,Turntable,B31-746-0,B31-746,Spring
+PL-A45D,Turntable,B31-746-0,B31-746,Spring
+PL-A25,Turntable,B31-747-C,B31-747,Spring helical
+PL-A25,Turntable,B31-748-0,B31-748,Spring
+PL-A35,Turntable,B31-748-0,B31-748,Spring
+PL-A45,Turntable,B31-748-0,B31-748,Spring
+PL-A45D,Turntable,B31-748-0,B31-748,Spring
+PL-A25,Turntable,B31-749-0,B31-749,Spring
+PL-A35,Turntable,B31-749-B,B31-749,Spring
+PL-A45,Turntable,B31-749-B,B31-749,Sprng
+PL-A505,Turntable,B31-749-B,B31-749,Spring
+PL-A25,Turntable,B31-778-0,B31-778,Cancel spring
+QT-6100,Reel To Reel Tape,B31-854-0,B31-854,Contact lever spring
+QT-6600,Reel To Reel Tape,B31-854-0,B31-854,Contact lever spring
+QT-74,Reel To Reel Tape,B31-854-0,B31-854,Contact lever spring
+QT-6100,Reel To Reel Tape,B31-858-A,B31-858,Pinch roller return spring
+QT-74,Reel To Reel Tape,B31-858-A,B31-858,Pinch roller return spring
+QT-6100,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6100,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6600,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6600,Reel To Reel Tape,B31-860-0,B31-860,Brake roller spring
+QT-6100,Reel To Reel Tape,B31-864-0,B31-864,Slide metal spring
+QT-6600,Reel To Reel Tape,B31-864-0,B31-864,Slide metal spring
+QT-74,Reel To Reel Tape,B31-864-0,B31-864,Slide metal spring
+QT-6100,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+QT-6600,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+QT-6600,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+QT-74,Reel To Reel Tape,B31-865-0,B31-865,Tension adjusting spring
+PL-50,Turntable,B32-010-C,B32-010,Spring (plate) ‘
+PL-50,Turntable,B32-044-0,B32-044,Arm rest spring
+PL-510,Turntable,B32-056,B32-056,Strain relief
+PL-510S,Turntable,B32-056,B32-056,Strain relief
+QT-6600,Reel To Reel Tape,B32-419-0,B32-419,Slide metal lever (B)
+PL-50,Turntable,B32-605-0,B32-605,Return guide plate holder
+PL-A25,Turntable,B32-650-A,B32-650,Plate spring (C)
+PL-25/F,Turntable,B32-667-0,B32-667,Microswitch spring
+PL-A25,Turntable,B32-678-0,B32-678,Locking lever
+QT-6100,Reel To Reel Tape,B32-853-0,B32-853,Slide stepper spring
+QT-6600,Reel To Reel Tape,B32-853-0,B32-853,Slide stepper spring
+QT-74,Reel To Reel Tape,B32-853-0,B32-853,Slide stopper spring
+PL-A25,Turntable,B33-603-A,B33-603,Linking wire
+PL-A35,Turntable,B33-603-0,B33-603,Shaft
+PL-A45,Turntable,B33-603-0,B33-603,Shaft
+PL-A45D,Turntable,B33-603-0,B33-603,Shaft
+PL-A25,Turntable,B33-604-A,B33-604,Return lever spring
+PL-A25,Turntable,B33-606-0,B33-606,Spring
+PL-A25,Turntable,B33-607-0,B33-607,Wire spring
+PL-A25,Turntable,B33-608-A,B33-608,Wire spring
+PL-A35,Turntable,B33-608-8,B33-608,Spring
+PL-A45,Turntable,B33-608-B,B33-608,Spring
+PL-A45D,Turntable,B33-608-B,B33-608,Spring
+PL-A25,Turntable,B33-609-A,B33-609,Return lever spring
+PL-A35,Turntable,B33-609-A,B33-609,Spring
+PL-A45,Turntable,B33-609-A,B33-609,Spring
+PL-A45D,Turntable,B33-609-A,B33-609,Spring
+H-R9000,8-Track Tape,B33-613-A,B33-613,Door Shaft
+H-R99,8-Track Tape,B33-613-A,B33-613,Door Shaft
+PL-A25,Turntable,B33-616-0,B33-616,Wire spring
+PL-A25,Turntable,B33-635-A,B33-635,Lock lever spring
+PL-A35,Turntable,B33-635-A,B33-635,Spring
+PL-A45,Turntable,B33-635-A,B33-635,Spring
+PL-A45D,Turntable,B33-635-C,B33-635,Spring
+H-R9000,8-Track Tape,B33-671-B,B33-671,Spring (Lock Plate Assembly)
+H-R99,8-Track Tape,B33-671-B,B33-671,Spring (Lock Plate Assembly)
+H-R9000,8-Track Tape,B33-673-A,B33-673,Spring (Door)
+H-R99,8-Track Tape,B33-673-A,B33-673,Spring (Door)
+H-R9000,8-Track Tape,B33-726-0,B33-726,Spring (Head Base)
+H-R99,8-Track Tape,B33-726-0,B33-726,Spring (Head Base)
+H-R9000,8-Track Tape,B33-727-0,B33-727,Spring (Azimuth Adj.)
+H-R99,8-Track Tape,B33-727-0,B33-727,Spring (Azimuth Adj.)
+PL-71,Turntable,B71-004-0,B71-004,Nut M9
+QT-6100,Reel To Reel Tape,B71-004-0,B71-004,M9 Nut
+SA-5200,Integrated Amplifier,B71-004-0,B71-004,Nut (9ø)
+SA-9900,Integrated Amplifier,B71-004-0,B71-004,Nut (9φ)
+SA-9900,Integrated Amplifier,B71-004-0,B71-004,Nut (9φ)
+SR-303,Reverb,B71-004,B71-004,Nut M9
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-535,Receiver,B71-004-0,B71-004,Nut (9Φ)
+SX-636,Receiver,B71-004-0,B71-004,Nut 9ϕ
+TX-5300,Tuner,B71-004-0,B71-004,Nut (9ɸ)
+TX-9500,Tuner,B71-004-0,B71-004,Hex. nut 9:1:
+SA-5200,Integrated Amplifier,B71-005-0,B71-005,Nut (11ø)
+TX-9500,Tuner,B71-005-0,B71-005,Hex. nut 11ɸ
+A-9,Integrated Amplifier,B71-010,B71-010,Nut M7
+A-90,Integrated Amplifier,B71-010,B71-010,Nul
+SA-9900,Integrated Amplifier,B71-010-0,B71-010,Nut (7φ)
+TX-6800/608,Tuner,B71-010,B71-010,Nut 7 ɸ
+H-R99,8-Track Tape,B71-031-0,B71-031,Insulating Nut
+QX-9900,Receiver,B71-031-0,B71-031,Insulating nut
+SX-434,Receiver,B71-031-0,B71-031,Nut (insulator)
+SX-838,Receiver,B71-031-0,B71-031,Nut (insulator)
+QT-6100,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-6100,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-6600,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-6600,Reel To Reel Tape,B71-403-A,B71-403,Special nut
+QT-74,Reel To Reel Tape,B71-403-A,B71-403,Special nut (U)
+QT-74,Reel To Reel Tape,B71-403-A,B71-403,Special nut (U)
+PL-50,Turntable,B71-602-0,B71-602,Nut
+PL-55/55D,Turntable,B71-602-0,B71-602,Nut
+PL-25/F,Turntable,B71-603-0,B71-603,Nut
+PL-50,Turntable,B71-619-0,B71-619,Nut
+PL-55/55D,Turntable,B71-619-0,B71-619,Washer
+PL-A45,Turntable,B71-625-A,B71-625,Nut
+PL-A25,Turntable,B71-635-0,B71-635,Nut special
+PL-A25,Turntable,B71-636-0,B71-636,Nut special
+PL-A35,Turntable,B71-636-0,B71-636,Nut
+PL-A45,Turntable,B71-636-0,B71-636,Nut
+PL-A45D,Turntable,B71-636-0,B71-636,Nut
+PL-A25,Turntable,B71-642-0,B71-642,Nut special
+PL-50,Turntable,B71-646-0,B71-646,Nut
+PL-510,Turntable,B71-652,B71-652,Nut
+PL-510S,Turntable,B71-652,B71-652,Nut
+PL-A505,Turntable,B71-652-A,B71-652,Nut
+PL-50,Turntable,B71-653-A,B71-653,Nut
+PL-50,Turntable,B71-653-A,B71-653,Nut
+PL-51,Turntable,B71-653-A,B71-653,Nut
+PL-51A,Turntable,B71-653-A,B71-653,Nut
+PL-71,Turntable,B71-653-0,B71-653,Nut
+PL-A35,Turntable,B71-653-0,B71-653,Nut
+PL-A45D,Turntable,B71-653-A,B71-653,Nut
+PL-12E,Turntable,B71-656-B,B71-656,Nut
+PL-15D,Turntable,B71-656-B,B71-656,Nut
+PL-A25,Turntable,B71-656-0,B71-656,Hexagon nut for center shaft
+PL-A35,Turntable,B71-656-A,B71-656,Nut
+PL-A45,Turntable,B71-656-B,B71-656,Nut
+PL-A45D,Turntable,B71-656-B,B71-656,Nut
+H-R9000,8-Track Tape,B71-673-A,B71-673,Hex. Nut (with Nylon Ring)
+H-R99,8-Track Tape,B71-673-A,B71-673,Hex. Nut (with Nylon Ring)
+QT-6600,Reel To Reel Tape,B71-856-0,B71-856,Special nut
+QT-74,Reel To Reel Tape,B71-856-0,B71-856,Special nut
+H-R9000,8-Track Tape,B90-002-A,B90-002,Screw (Dial Pulley A)
+RT-707,Reel To Reel Tape,BBH-352,BBH-352,Shut off spring
+SX-6,Receiver,BBT30P080FZK,BBT30P080FZK,Screw (3X8)
+A-9,Integrated Amplifier,BBT3OPU80FZK,BBT3OPU80FZK,Screw 3X8
+A-66X,Integrated Amplifier,BBZ30P060FMC,BBZ30P060FMC,Screw
+A-66X,Integrated Amplifier,BBZ30P060FZK,BBZ30P060FZK,Screw (3 x 6)
+SX-6,Receiver,BBZ30P060FZK,BBZ30P060FZK,Screw (3X6)
+A-66X,Integrated Amplifier,BBZ30P080FZK,BBZ30P080FZK,Screw (3 x 8)
+RT-707,Reel To Reel Tape,BEB-219,BEB-219,Cushion rubber
+CT-F750,Cassette Tape,BG-30,BG-30,Indicator
+CT-F850,Cassette Tape,BG-30,BG-30,Flourescent indicator tube
+TX-05,Tuner,BG5724S,BG5724S,LED CT730
+SX-6,Receiver,BMZ40P080FZB,BMZ40P080FZB,Screw (4X8)
+SX-828,Receiver,BT5B 151 K,BT5B 151 K,Wire wound  150 5W
+SA-600,Integrated Amplifier,C15-001-O,C15-001,Oil paper 0.01 450V
+SA-800,Integrated Amplifier,C15-001-0,C15-001,Oil paper 0.01 800V (KCW)
+QT-6100,Reel To Reel Tape,C22-403-A,C22-403,MP capacitor
+QT-6600,Reel To Reel Tape,C22-403-A,C22-403,MP capacitor
+QT-74,Reel To Reel Tape,C22-403-A,C22-403,MP capacitor 1uF+3uF 250V
+SX-9000,Receiver,C35-055-0,C35-055,Volume Control with switch (50k-HB)
+CT-F1050,Cassette Tape,C43-003,C43-003,Capacitor
+CT-F1050,Cassette Tape,C43-003,C43-003,Capacitor (0.01 /1.4k)
+CT-F700,Cassette Tape,C43-003,C43-003,Capacitor 0.01uF
+CT-F9191,Cassette Tape,C43-003,C43-003,Ceramic 0.01 1.4kV
+PL-51,Turntable,C43-003-0,C43-003,Capacitor 0.01uF 1.4kV
+PL-51A,Turntable,C43-003-0,C43-003,Capacitor 0.01uF 1.4kV
+PL-55/55D,Turntable,C43-003-0,C43-003,Ceramic capacitor 0.01uF
+PL-71,Turntable,C43-003-0,C43-003,Capacitor 0.01uF 1.4kV
+QT-6100,Reel To Reel Tape,C43-003-0,C43-003,Ceramic capacitor 0.01uF DC 1.4kV
+QT-6600,Reel To Reel Tape,C43-003-0,C43-003,Ceramic capacitor 0.01uF DC 1.4kV
+QT-74,Reel To Reel Tape,C43-003-0,C43-003,Ceramic capacitor 0.01uF 1.4kV
+RT-909,Reel To Reel Tape,C43-003,C43-003,Capacitor 0.01 (D/G)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (KU/KC)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.21 DC 1.4kV (FVW)
+SA-600,Integrated Amplifier,C43-003-O,C43-003,Ceramic 0.01 DC 1.4kV
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic    1.4kV FVW model only
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic  0.01  1 .4kV FVW model
+SA-7100,Integrated Amplifier,C43-003-0,C43-003,Ceramic  0.01  1.4kV FVW model
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FVW)
+SA-800,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FWV)
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SA-8100,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 1.4kV  FVW model only
+SD-1100,Other,C43-003-0,C43-003,Ceramic capacitor 0.01 uF DC1.4kV
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV (FVZW)
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV (FVZW)
+SX-525,Receiver,C43-003-0,C43-003,Ceramic 0.01  DC 1.4kV
+SX-6000,Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-6000,Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-6000,Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-626 (1971),Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-626 (1971),Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-626 (1971),Receiver,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV
+SX-727,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC .4kV
+SX-727,Receiver,C43-003-0,C43-003,"Ceramic 0.01 DC 1 4kV (FVZW,FW)"
+SX-727,Receiver,C43-003-0,C43-003,"Ceramic 0.01 DC l.4kV (FVZW,FW)"
+SX-828,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4kV
+SX-828,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4kV
+SX-828,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4kV
+SX-1500T,Receiver,C45-004-B,C45-004,Cylinder trimmer
+SX-440,Receiver,C51-021-0,C51-021,Electrolytic 1000 16V
+SX-440,Receiver,C51-021-0,C51-021,Electrolytic 1000 16V
+SX-9000,Receiver,C52-045-A,C52-045,Electrolytic 2200 50V
+SX-9000,Receiver,C52-045-A,C52-045,Electrolytic 2200 50V
+SX-440,Receiver,C52-046-A,C52-046,Electrolytic 1000 35V
+SA-500A,Integrated Amplifier,C52-066-B,C52-066,Electrolytic 3300 50V (FV)
+SA-500A,Integrated Amplifier,C52-066-B,C52-066,Electrolytic 3300 50V (KU/KC)
+SX-1500TD,Receiver,C52-071-0,C52-071,Electrolytic 2200uf  80V
+SX-990,Receiver,C52-071-0,C52-071,Electrolytic  2200 80V
+SX-424,Receiver,C52-074-B,C52-074,Electrolytic  2200  50V
+SX-525,Receiver,C52-075-B,C52-075,Electrolytic 2200  35V
+SX-525,Receiver,C52-075-B,C52-075,Electrolytic 2200  35V
+SX-9000,Receiver,C52-075-0,C52-075,Electrolytic 2200 35V
+SX-9000,Receiver,C52-076-A,C52-076,Electrolytic 2200 100V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (FVW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (FVW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (KCW)
+SA-600,Integrated Amplifier,C52-077-A,C52-077,Electrolytic 2200 35V (KCW)
+SA-800,Integrated Amplifier,C52-083-B,C52-083,Electrolytic 4700 50V (FVW)
+SX-6000,Receiver,C52-084-B,C52-084,Electrolytic 1000 50V
+SX-6000,Receiver,C52-084-B,C52-084,Electrolytic 1000 50V
+SA-600,Integrated Amplifier,C52-085-B,C52-085,Electrolytic 3300 80V (FVW)
+SA-600,Integrated Amplifier,C52-085-O,C52-085,Electrolytic 3300 80V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800,Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QM-800A,Amplifier,C52-088-C,C52-088,Electrolytic 4700 50V
+QX-4000,Receiver,C52-088-C,C52-088,Electrolytic capacitor 4700uF 50V
+QX-646,Receiver,C52-088-C,C52-088,"Electrolytic capacitor 4,700 uF 50V"
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electroiytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-800,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V (FVW)
+SX-1000TW,Receiver,C64-030-0,C64-030,AM variable capacitor
+SX-2500,Receiver,C64-030-O,C64-030,AM Tuning Capacitor
+SX-6000,Receiver,C64-030-0,C64-030,AM Tuning Capacitor
+SX-9000,Receiver,C64-030-0,C64-030,AM Variable Capacitor
+SX-1000TA (Later),Receiver,C64-033,C64-033,Variable Capacitor
+SX-1500T,Receiver,C64-036-0,C64-036,4 gang air variable capacitor
+SX-1500TD,Receiver,C64-036-B,C64-036,Variable Capacitor for FM tuner unit 4-gang
+SX-828,Receiver,C64-045-0,C64-045,AM tuning capacitor
+SX-1500TD,Receiver,C81-013-0,C81-013,30kΩ MIC LEVEL
+SX-2500,Receiver,C81-013-0,C81-013,"30kΩ ,FM MUTlNG"
+TX-1000,Tuner,C81-017,C81-017,CONTROL(AM OUTPUT LEVEL)
+T-6100,Reel To Reel Tape,C81-433,C81-433,CONTROL(REC LEVEL)
+T-3300,Cassette Tape,C81-435,C81-435,CONTROL(REC/PLAYBACK LEVEL)
+T-3500,Cassette Tape,C81-435,C81-435,CONTROL(REC/PLAYBACK LEVEL)
+T-8800,Reel To Reel Tape,C81-436,C81-436,CONTROL(RECORD LEVEL)
+SX-440,Receiver,C82-033-0,C82-033,"100K dual, Bass"
+SX-440,Receiver,C82-033-0,C82-033,"100K dual, Treble"
+SA-600,Integrated Amplifier,C82-038-O,C82-038,Dual type Volume control 250k
+SX-1000TD,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-1000TW,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-1500T,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-770,Receiver,C82-038-0,C82-038,"250kΩ dual,Volume"
+QL-600,Integrated Amplifier,C82-040-A,C82-040,"100k-B (BASS), dual"
+QL-600,Integrated Amplifier,C82-040-A,C82-040,"100k-B (TREBLE), dual"
+QL-600A,Integrated Amplifier,C82-040,C82-040,"100k-B, dual variable (BASS,TREBLE)"
+SA-500,Integrated Amplifier,C82-040-O,C82-040,100K dual Bass control
+SA-500,Integrated Amplifier,C82-040-O,C82-040,100K dual Treble control
+SX-6000,Receiver,C82-040-A,C82-040,"100k dual, Bass Control"
+SX-6000,Receiver,C82-040-A,C82-040,"100k dual, Treble Control"
+SX-770,Receiver,C82-040-0,C82-040,"100kΩ dual, BASS Control"
+SX-770,Receiver,C82-040-0,C82-040,"100kΩ dual, TREBLE Control"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-REAR)"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-FRONT)"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-REAR)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-FRONT)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-REAR)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-FRONT)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-REAR)"
+SX-9000,Receiver,C82-045,C82-045,BASS CONTROL (I00K-A)
+SX-9000,Receiver,C82-045,C82-045,TREBLE CONTROL (100K-A)
+QX-8000,Receiver,C82-045 0,C82-045 0,"100k B, dual (BASS-FRONT)"
+SX-424,Receiver,C82-046-A,C82-046,100k dual Bass
+SX-424,Receiver,C82-046-A,C82-046,100k dual Treble
+SX-525,Receiver,C82-046-A,C82-046,"Dual, bass"
+SX-525,Receiver,C82-046-A,C82-046,"Dual, treble"
+QX-9900,Receiver,C82-049-0,C82-049,500k B dual balance (FRONT)
+QX-9900,Receiver,C82-049-0,C82-049,"500k-B dual, balance (REAR)"
+SX-727,Receiver,C82-049-0,C82-049,Dual  100k-B (Balance)
+SX-828,Receiver,C82-049-0,C82-049,"500k,dual, Balance"
+QA-800,Integrated Amplifier,C82-050-0,C82-050,"Bass control, 100k - B"
+QA-800,Integrated Amplifier,C82-050-0,C82-050,"Treble control, 100k- B"
+QA-800A,Integrated Amplifier,C82-050-0,C82-050,100k-B Bass control
+QA-800A,Integrated Amplifier,C82-050-0,C82-050,100k-B Treble control
+SX-626 (1971),Receiver,C82-050-0,C82-050,100k-B dual (Bass)
+SX-626 (1971),Receiver,C82-050-0,C82-050,100k-B dual (Treble)
+SX-626 (1973),Receiver,C82-050-0,C82-050,Variable resistor 100k-B (Bass)
+SX-626 (1973),Receiver,C82-050-0,C82-050,Variable resistor 100k-B (Treble)
+TX-1000,Tuner,C82-051,C82-051,CONTROL(FM OUTPUT LEVEL)
+QX-9900,Receiver,C82-056-B,C82-056,Mic mixing control
+QX-9900,Receiver,C82-056-B,C82-056,Mic mixing control
+SX-9000,Receiver,C85-010-0,C85-010,Volume Control (250k-A2)
+SA-1000,Integrated Amplifier,C85-048-B,C85-048,Dual-potentiometer 500k (HB BALANCE)
+SA-700,Integrated Amplifier,C85-048-0,C85-048,"500k, Dual, Balance"
+SA-800,Integrated Amplifier,C85-048-B,C85-048,"500k dual, BALANCE"
+SA-900,Integrated Amplifier,C85-048-B,C85-048,500K Dual BALANCE Control
+SX-6000,Receiver,C85-048-B,C85-048,"500k HB, dual, BALANCE"
+SX-990,Receiver,C85-048-O,C85-048,500KΩ dual BALANCE
+SA-600,Integrated Amplifier,C85-052-O,C85-052,Dual type Balance Volume control 50k
+SX-1000TA (Later),Receiver,C85-052,C85-052,50K dual. Balance
+SX-1000TD,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-1000TW,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-1500T,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-700T,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-770,Receiver,C85-052-0,C85-052,"50kΩ dual, Balance"
+SA-1000,Integrated Amplifier,C85-054-0,C85-054,Dual-potentiometer 500k (B1 VOLUME)
+SA-700,Integrated Amplifier,C85-054-0,C85-054,"500K, Dual, Volume"
+SA-800,Integrated Amplifier,C85-054-0,C85-054,"500k dual, VOLUME"
+SA-900,Integrated Amplifier,C85-054-0,C85-054,500K Dual VOLUME Control
+SX-1000TA (Later),Receiver,C85-054,C85-054,500K dual. Volume
+SX-6000,Receiver,C85-054-0,C85-054,"500k B, dual, VOLUME"
+SX-700T,Receiver,C85-054-0,C85-054,500K dual Volume
+SX-990,Receiver,C85-054-0,C85-054,500KΩ dual VOLUME
+QX-9900,Receiver,C85-056-B,C85-056,"50k-A2, Mic mixing control"
+QX-9900,Receiver,C85-056-B,C85-056,"50k-A2, Mic mixing control"
+SX-9000,Receiver,C85-056-0,C85-056,Volume Control with switch (50k-A2)
+SX-9000,Receiver,C85-056-0,C85-056,Volume Control with switch (50k-A2)
+TX-1000,Tuner,C85-058,C85-058,CONTROL(MUTING LEVEL)
+SX-1000TA (Later),Receiver,C87-018,C87-018,100K dual. Bass
+SX-1000TA (Later),Receiver,C87-018,C87-018,100K dual. Treble
+SX-1000TD,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-1000TD,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-1000TW,Receiver,C87-018-0,C87-018,100K dual  Bass
+SX-1000TW,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-1500T,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-1500T,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-700T,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-700T,Receiver,C87-018-0,C87-018,100K dual Treble
+SA-500,Integrated Amplifier,C87-021-O,C87-021,"250K Dual, Volume Control"
+SX-440,Receiver,C87-021-0,C87-021,"250k dual, Volume"
+SX-990,Receiver,C87-024-0,C87-024,"100KΩ, dual (Bass Control)"
+SX-990,Receiver,C87-024-0,C87-024,"100KΩ, dual (Treble Control)"
+SX-424,Receiver,C87-025-0,C87-025,250k dual Volume
+T-8800,Reel To Reel Tape,C87-401,C87-401,CONTROL(PLAYBACK LEVEL)
+SX-1500TD,Receiver,C88-009-0,C88-009,500kΩ dual. VOLUME. BALANCE
+SX-2500,Receiver,C88-009-0,C88-009,"500kΩ 4-gang, VOLUME and BALANCE"
+SX-9000,Receiver,C88-010-0,C88-010,Volume Control (250k-A2)
+SX-1000TA (Later),Receiver,C92-004,C92-004,10K MPX Separatian Control
+SX-1000TA (Later),Receiver,C92-022-0,C92-022,"1K,L and R Level adjust"
+SX-1000TD,Receiver,C92-022-0,C92-022,1kΩ Left and Right Level Adjust
+SX-1500T,Receiver,C92-022-0,C92-022,1kΩ Left and Right Level Adjust
+TX-900,Tuner,C92-022,C92-022,"CONTROL(LEVEL ADJUSTMENT ""L""/""R"
+SX-1000TA (Later),Receiver,C92-026,C92-026,300Ω Current control
+SX-1000TA (Later),Receiver,C92-026,C92-026,300Ω Current control
+SX-1000TA (Later),Receiver,C92-026-0,C92-026,300Ω Auto Level adjust
+SX-1000TD,Receiver,C92-026-0,C92-026,300Ω Auto Level Adjust
+SX-1500T,Receiver,C92-026-0,C92-026,300Ω Auto Level Adjust
+SX-1000TD,Receiver,C92-028-0,C92-028,10k MPX Separation Control
+SX-1000TW,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-1500T,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-700T,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-700T,Receiver,C92-032-0,C92-032,100 ohm Current Control
+SX-700T,Receiver,C92-032-0,C92-032,100 ohm Current Control
+SX-1000TD,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TD,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TW,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TW,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1500T,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1500T,Receiver,C92-037-0,C92-037,300Ω Current Control
+TX-7800,Tuner,C92-051,C92-051,VCO adjust 4.7k
+SX-1000TW,Receiver,CA-20-1,CA-20,Wooden case
+H-R9000,8-Track Tape,CAA-035-0,CAA-035,"Knob, internal"
+H-R9000,8-Track Tape,CAA-036-0,CAA-036,"Knob, External"
+H-R100,8-Track Tape,CAA-037-C,CAA-037,"KNOB, REC LEVEL"
+H-R9000,8-Track Tape,CAA-037-0,CAA-037,Knob (REC LEVEL)
+H-R99,8-Track Tape,CAA-037-0,CAA-037,Knob (REC Level)
+H-R100,8-Track Tape,CAB-003-B,CAB-003,"KNOB, FUNCTION"
+H-R9000,8-Track Tape,CAB-003-0,CAB-003,Knob (SELECTOR)
+H-R99,8-Track Tape,CAB-003-0,CAB-003,Knob (Function)
+H-R9000,8-Track Tape,CAB-004-0,CAB-004,Knob (Tuning)
+H-R9000,8-Track Tape,CAB-005-0,CAB-005,Knob (FUNCTlON)
+H-R100,8-Track Tape,CAC-036-B,CAC-036,"BUTTON, FFWD,PROGRAM,PAUSE"
+H-R9000,8-Track Tape,CAC-036-0,CAC-036,"Push Button (ALC, F. FWD,PROGRAM, PAUSE)"
+H-R99,8-Track Tape,CAC-036-0,CAC-036,"Push Button (ALC, F. FWD, Program, Pause)"
+H-R100,8-Track Tape,CAC-037-A,CAC-037,"BUTTON, REC"
+H-R9000,8-Track Tape,CAC-037-0,CAC-037,Push Button (REC)
+H-R99,8-Track Tape,CAC-037-0,CAC-037,Push Button (REC)
+H-R9000,8-Track Tape,CAC-061-0,CAC-061,Push Button (POWER)
+H-22,8-Track Tape,CAC-075-0,CAC-075,Program Selector Button
+H-R100,8-Track Tape,CAC-087-A,CAC-087,"BUTTON, DOLBY"
+H-R9000,8-Track Tape,CAG-017-A,CAG-017,Dial Scaie
+H-22,8-Track Tape,CAT-013-0,CAT-013,Cartridge Door
+H-R9000,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R9000,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R99,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R99,8-Track Tape,CAW-005-0,CAW-005,Level Meter
+H-R9000,8-Track Tape,CAW-006-0,CAW-006,Tuning Meter
+H-R100,8-Track Tape,CAW-007-A,CAW-007,COUNTER
+H-R9000,8-Track Tape,CAW-007-0,CAW-007,Counter
+H-R99,8-Track Tape,CAW-007-0,CAW-007,Counter
+H-R100,8-Track Tape,CAW-013-0,CAW-013,Level Meter (Lch.)
+H-R100,8-Track Tape,CAW-013-0,CAW-013,Level Meter (Rch.)
+H-R9000,8-Track Tape,CBE-003-0,CBE-003,Dish Washer
+H-R99,8-Track Tape,CBE-003-0,CBE-003,Dish Washer
+H-R9000,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R9000,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R99,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R99,8-Track Tape,CBE-012-0,CBE-012,"Flat Washer, M7"
+H-R9000,8-Track Tape,CBE-013-0,CBE-013,"Flat Washer, M8"
+H-R9000,8-Track Tape,CBE-013-0,CBE-013,"Flat Washer, M8"
+H-R9000,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R9000,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R99,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R99,8-Track Tape,CBE-014-0,CBE-014,"Flat Washer, M9"
+H-R9000,8-Track Tape,CBE-019-0,CBE-019,Spacer
+H-R99,8-Track Tape,CBE-019-0,CBE-019,Spacer
+H-R9000,8-Track Tape,CBF-021-0,CBF-021,Teflon Washer
+H-R9000,8-Track Tape,CBF-034-0,CBF-034,Teflon Washer
+H-R99,8-Track Tape,CBF-034-0,CBF-034,Teﬂon Washer
+H-R9000,8-Track Tape,CBH-001-0,CBH-001,Spring (Solenoid)
+H-R99,8-Track Tape,CBH-001-0,CBH-001,Spring (Solenoid)
+H-R9000,8-Track Tape,CBH-002-0,CBH-002,Spring (Cam)
+H-R99,8-Track Tape,CBH-002-0,CBH-002,Spring (Cam)
+H-R99,8-Track Tape,CBH-048-0,CBH-048,Spring
+H-R9000,8-Track Tape,CBH-074-A,CBH-074,Spring (Dial Pulley B)
+H-R9000,8-Track Tape,CBH-102-0,CBH-102,Spring (Recording Lock Lever)
+H-R99,8-Track Tape,CBH-102-0,CBH-102,Spring (Recording Lock Lever)
+H-R9000,8-Track Tape,CBH-103-0,CBH-103,Spring (Program Lever Return)
+H-R99,8-Track Tape,CBH-103-0,CBH-103,Spring (Program Lever Return)
+H-22,8-Track Tape,CBH-122-0,CBH-122,Spring - Head Azimuth Adjusting
+H-22,8-Track Tape,CBH-122-0,CBH-122,Spring - Head Base
+H-22,8-Track Tape,CBH-123-0,CBH-123,Spring - Cam Height
+H-22,8-Track Tape,CBH-124-0,CBH-124,Spring - Pressure
+H-R99,8-Track Tape,CBH-131-0,CBH-131,Spring (Recording Lever)
+H-22,8-Track Tape,CBH-177-0,CBH-177,Spring (Cartridge Door Shaft)
+H-R9000,8-Track Tape,CBL-045-0,CBL-045,"Leaf Spring, Button Lock"
+H-22,8-Track Tape,CBL-046-0,CBL-046,Spring - Tension
+H-R9000,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R9000,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R99,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R99,8-Track Tape,CBN-003-0,CBN-003,"Hex. Nut, M7"
+H-R9000,8-Track Tape,CBN-004-0,CBN-004,"Hex. Nut, M8"
+H-R9000,8-Track Tape,CBN-004-0,CBN-004,"Hex. Nut, M8"
+H-R9000,8-Track Tape,CBN-005-0,CBN-005,"Hex Nut, M9"
+H-R9000,8-Track Tape,CBN-005-0,CBN-005,"Hex. Nut, M9"
+H-R99,8-Track Tape,CBN-005-0,CBN-005,"Hex. Nut, M9"
+SX-6000,Receiver,CCDSL 030D 50,CCDSL 030D 50,Ceramic 3P 50V
+SA-8100,Integrated Amplifier,CCDSL 101Z 50,CCDSL 101Z 50,Ceramic 100p 50V
+SA-8100,Integrated Amplifier,CCDSL 101Z 50,CCDSL 101Z 50,Ceramic 100p 50V
+SX-6000,Receiver,CCDSL 150K 50,CCDSL 150K 50,Ceramic 15p 50V
+SA-8100,Integrated Amplifier,CCDSL 680K 50,CCDSL 680K 50,Ceramic 68p 50V
+SA-8100,Integrated Amplifier,CCDSL 680k 50,CCDSL 680k 50,Ceramic 68p 50V
+SX-1250,Receiver,CCDSL560K50,CCDSL560K50,Ceramic 56p 50V (HG)
+H-R100,8-Track Tape,CCG-003-0,CCG-003,Capacitor 0.01uF
+H-R99,8-Track Tape,CCG-003-0,CCG-003,Capacitor 0.01 uF  +80/-20% 250V
+H-R9000,8-Track Tape,CCS-038-0,CCS-038,Gain Control
+H-R9000,8-Track Tape,CCS-039-0,CCS-039,Tone Control with Switch Treble and Bass
+H-R100,8-Track Tape,CCS-040-0,CCS-040,Volume (Record Level)
+H-R100,8-Track Tape,CCS-040-0,CCS-040,Volume (Record Level)
+H-R9000,8-Track Tape,CCS-040-0,CCS-040,Volume (REC LEVEL)
+H-R9000,8-Track Tape,CCS-040-0,CCS-040,Volume (REC LEVEL)
+H-R9000,8-Track Tape,CCS-040-0,CCS-040,Volume (REC LEVEL)
+H-R99,8-Track Tape,CCS-040-0,CCS-040,Volume (Rec Level)
+H-R99,8-Track Tape,CCS-040-0,CCS-040,Volume (Rec Level)
+H-R9000,8-Track Tape,CDE-045-0,CDE-045,Connecting Cord
+H-R99,8-Track Tape,CDE-045-0,CDE-045,Connecting Cord
+H-R9000,8-Track Tape,CDE-052-0,CDE-052,Speaker Cord
+H-22,8-Track Tape,CDE-094-0,CDE-094,Patch Cord
+H-R9000,8-Track Tape,CDG-002-0,CDG-002,AC Power Cord
+H-R99,8-Track Tape,CDG-002-0,CDG-002,AC Power Cord
+H-22,8-Track Tape,CDG-012-0,CDG-012,Power Supply Cord
+SX-1080,Receiver,CEA  010P 80,CEA  010P 80,Electrolytic  1  80V
+SA-9800,Integrated Amplifier,CEA 010P 50,CEA 010P 50,Electrolytic 1/50V (KU)
+SA-9800,Integrated Amplifier,CEA 010P 50,CEA 010P 50,"Electrolytic 1/50V (S, S/G)"
+QX-949,Receiver,CEA 100P 50,CEA 100P 50,Electrolytic 10 50V
+QX-646,Receiver,CEA 101 P 16,CEA 101 P 16,Electrolytic 100 16V
+QX-646,Receiver,CEA 101 P 16,CEA 101 P 16,Electrolytic 100 16V
+QX-747A,Receiver,CEA 101 P 16,CEA 101 P 16,Electrolytic 100 16V
+SX-525,Receiver,CEA 101 P 6,CEA 101 P 6,Electrolytic 100  6V
+SX-424,Receiver,CEA 101P 10,CEA 101P 10,Electrolytic  100  10V
+QX-949,Receiver,CEA 101P 16,CEA 101P 16,Electrolytic 100 16V
+SX-525,Receiver,CEA 101P 16,CEA 101P 16,Electrolytic 100  16V
+SX-1250,Receiver,CEA 101P 6,CEA 101P 6,"Electrolytic, 100 uf, 6V"
+SX-636,Receiver,CEA 101P 6,CEA 101P 6,Electrolytic  100  6V
+SPEC-1,Pre-Amplifier,CEA 102P 25,CEA 102P 25,"Electrolytic 1,000 25V"
+SX-727,Receiver,CEA 221M 10,CEA 221M 10,Electrolytic  220  10V
+SX-828,Receiver,CEA 221P 6,CEA 221P 6,Electrolytic  220  6V
+SX-727,Receiver,CEA 331M 16,CEA 331M 16,Electrolytic  330  16V
+SX-535,Receiver,CEA 331P 35,CEA 331P 35,Electrolytic  330  35V
+QT-6600,Reel To Reel Tape,CEB 101P 50,CEB 101P 50,Electrolytic capacitor 100uF  50V
+QT-74,Reel To Reel Tape,CEB 101P 50,CEB 101P 50,Electrolytic capacitor 100uF 50V
+QX-747,Receiver,CEB 102P 25,CEB 102P 25,"Electrolytic 1,000 25V"
+QX-747,Receiver,CEB 102P 50,CEB 102P 50,"Electrolytic 1,000 50V"
+SX-626 (1971),Receiver,CEB 221P 10,CEB 221P 10,Electrolytic 220 10V
+SA-500A,Integrated Amplifier,CEB 471 P35,CEB 471 P35,Electrolytic 470 35V (FV)
+SX-828,Receiver,CEB 471P 16,CEB 471P 16,Electrolytic  470  16V
+SA-500A,Integrated Amplifier,CEB 471P 35,CEB 471P 35,Electrolytic 470 35V (KU/KC)
+SX-6000,Receiver,CEB 4R7P 16,CEB 4R7P 16,Electrolytic 4.7 16V
+H-R9000,8-Track Tape,CEG-004-0,CEG-004,Polyethylene Bag for Set
+H-22,8-Track Tape,CEG-013-0,CEG-013,Polyethylene Bag
+H-R9000,8-Track Tape,CEK-002-0,CEK-002,"Fuse, 2A"
+H-R9000,8-Track Tape,CEK-002-0,CEK-002,"Fuse, 2A"
+H-R9000,8-Track Tape,CEK-002-0,CEK-002,"Fuse, 2A"
+H-R99,8-Track Tape,CEK-008-0,CEK-008,"Fuse, 0.5A"
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Counter)
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Dial Pointer)
+H-R9000,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Stereo indicator)
+H-R99,8-Track Tape,CEL-002-0,CEL-002,Indicator Lamp (Counter)
+H-R100,8-Track Tape,CEL-020-B,CEL-020,"Lamp, 60mA 14V (Counter Ind.)"
+H-R100,8-Track Tape,CEL-020-B,CEL-020,"Lamp, 60mA 14V (Dolby Ind.)"
+H-R100,8-Track Tape,CEL-020-B,CEL-020,"Lamp, 60mA 14V (Rec. Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (End Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-021-0,CEL-021,"Lamp, 60mA 14V (Program Ind.)"
+H-R100,8-Track Tape,CEL-024-0,CEL-024,"Lamp, 150mA 8V (Level Meter Ind)"
+H-R100,8-Track Tape,CEL-024-0,CEL-024,"Lamp, 150mA 8V (Level Meter Ind)"
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pilot Lamp 6.3V 50mA - Program
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pilot Lamp 6.3V 50rnA - Program
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pilut Lamp 6.3V 50mA - Program
+H-22,8-Track Tape,CEL-027-0,CEL-027,Pllot Lamp 6.3V 50mA - Program
+SX-9000,Receiver,CETG 100MF 100V,CETG 100MF 100V,Electrolytic 100 100V
+H-R9000,8-Track Tape,CHA-227-0,CHA-227,Carton
+H-R9000,8-Track Tape,CHA-228-0,CHA-228,Styro Foam
+H-R99,8-Track Tape,CHA-255-0,CHA-255,Carton
+H-R99,8-Track Tape,CHA-256-0,CHA-256,Styro Foam
+H-22,8-Track Tape,CHA-415-0,CHA-415,Packing Case
+H-22,8-Track Tape,CHA-416-0,CHA-416,Styrofoam
+H-R9000,8-Track Tape,CKB-002-0,CKB-002,"Pin Jack, 6P (REC., PHONO and AUX)"
+H-R100,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Line Input)
+H-R100,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Line Output)
+H-R99,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Input Jack)
+H-R99,8-Track Tape,CKB-003-0,CKB-003,4P Pin Jack (Output Jack)
+H-R99,8-Track Tape,CKB-003-0,CKB-003,"Pin Jack, 4P"
+H-22,8-Track Tape,CKB-007-0,CKB-007,Pin Jacks (Output Termnals 2-P)
+H-R9000,8-Track Tape,CKC-002-0,CKC-002,Lug Terminal
+H-R9000,8-Track Tape,CKC-003-0,CKC-003,Lug Terminal
+H-R99,8-Track Tape,CKC-003-0,CKC-003,Lug Terminal
+H-22,8-Track Tape,CKC-018-0,CKC-018,Lug Terminal - 3-P
+H-22,8-Track Tape,CKC-019-0,CKC-019,Lug Terminal - 7-F
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-980,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic 0.1  25V
+SX-939,Receiver,CKDVF 103Z 50,CKDVF 103Z 50,Ceramic  0.01  50V
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-450,Receiver,CKDYA912J 50,CKDYA912J 50,Ceramic 9100pF 50V (HG)
+QX-949,Receiver,CKDYB 562K 50,CKDYB 562K 50,Ceramic 0.0056 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-6000,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+CT-F600/605,Cassette Tape,CKDYF 103Z 50,CKDYF 103Z 50,Capacitor C501
+QX-646,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-747,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-747A,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-949,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-949,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SA-7100,Integrated Amplifier,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SA-7100,Integrated Amplifier,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-424,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V (GN)
+SX-525,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01  50V
+SX-535,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-550,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-626 (1971),Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-626 (1971),Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-626 (1971),Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-636,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-636,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,"Ceramic  0.01  50V (GN,FV)"
+SX-727,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-727,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-737,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-828,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-828,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-838,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-850,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-939,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-939,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-950,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+TX-6500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic 0.04 50V (HG)
+TX-6500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,"Ceramic 0.04 50V (KU,KC)"
+TX-6500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic 0.04 50V (S)
+TX-9500II,Tuner,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic 0.04 50V

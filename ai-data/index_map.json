@@ -1,54 +1,143 @@
 {
   "source": "../Pioneer_Parts_Database.csv",
-  "description": "Automatically generated AI search indexes derived from Pioneer_Parts_Database.csv.",
+  "description": "AI retrieval indexes automatically generated from Pioneer_Parts_Database.csv.",
   "record_count": 23040,
-  "target_records_per_file": 8000,
-  "normalization_rule": "The normalized_part_number is the canonical search key. Pioneer part-number suffixes such as -0, -O, -A, -B, etc. are treated as variants of the same base part number.",
+  "target_records_per_file": 2500,
+  "lookup_strategy": {
+    "model_to_part": "For a model-based query, use the model index. Locate the model in the appropriate models_XX.csv file and identify the relevant part number.",
+    "part_to_model": "For a part-number query, use the part-number index. Search using normalized_part_number and return all models associated with that normalized part number.",
+    "normalization": "Use normalized_part_number as the canonical part-number search key. Part-number suffix variants such as -0, -O, -A, -B, etc. are treated as variants of the same base part number.",
+    "cross_reference": "For a model-to-part question followed by a compatibility question, first use the model index to identify the part number, then use the part-number index to identify other models using that part."
+  },
   "indexes": {
     "part_number": {
-      "purpose": "Use this index when searching by Pioneer part number or normalized part number to identify associated models.",
+      "purpose": "Model cross-reference by normalized Pioneer part number.",
       "sort_field": "normalized_part_number",
       "files": [
         {
           "file": "parts_01.csv",
-          "records": 8001,
+          "records": 2547,
           "first": "100-PLX500-2017",
-          "last": "ANR-020"
+          "last": "ACG-003"
         },
         {
           "file": "parts_02.csv",
-          "records": 8024,
-          "first": "ANR-026",
-          "last": "M49-025"
+          "records": 2512,
+          "first": "ACG-004",
+          "last": "AEL-067"
         },
         {
           "file": "parts_03.csv",
-          "records": 7015,
-          "first": "M49-052",
+          "records": 2500,
+          "first": "AEL-068",
+          "last": "ANE-108"
+        },
+        {
+          "file": "parts_04.csv",
+          "records": 2503,
+          "first": "ANE-115",
+          "last": "ATB-015"
+        },
+        {
+          "file": "parts_05.csv",
+          "records": 2505,
+          "first": "ATB-021",
+          "last": "CKDYF 403Z 50"
+        },
+        {
+          "file": "parts_06.csv",
+          "records": 2500,
+          "first": "CKDYF 4732 50",
+          "last": "KLA-226"
+        },
+        {
+          "file": "parts_07.csv",
+          "records": 2501,
+          "first": "KLA-231",
+          "last": "PNW-379"
+        },
+        {
+          "file": "parts_08.csv",
+          "records": 2500,
+          "first": "PNW-384",
+          "last": "RKR-017"
+        },
+        {
+          "file": "parts_09.csv",
+          "records": 2500,
+          "first": "RKR-019",
+          "last": "TLR-113P"
+        },
+        {
+          "file": "parts_10.csv",
+          "records": 472,
+          "first": "VBZ30P060FMC",
           "last": "ZMR30H120FZK"
         }
       ]
     },
     "model": {
-      "purpose": "Use this index when searching by Pioneer model to identify its associated parts.",
+      "purpose": "Part lookup by Pioneer model.",
       "sort_field": "model",
       "files": [
         {
           "file": "models_01.csv",
-          "records": 8087,
+          "records": 2601,
           "first": "A-27",
-          "last": "PL-A45D"
+          "last": "CT-F7171"
         },
         {
           "file": "models_02.csv",
-          "records": 8126,
-          "first": "PL-A505",
-          "last": "SX-1010"
+          "records": 2520,
+          "first": "CT-F7272",
+          "last": "PL-15D"
         },
         {
           "file": "models_03.csv",
-          "records": 6827,
-          "first": "SX-1050",
+          "records": 2613,
+          "first": "PL-200/200X",
+          "last": "PL-A35"
+        },
+        {
+          "file": "models_04.csv",
+          "records": 2622,
+          "first": "PL-A45",
+          "last": "QX-747"
+        },
+        {
+          "file": "models_05.csv",
+          "records": 2515,
+          "first": "QX-747A",
+          "last": "SA-5200"
+        },
+        {
+          "file": "models_06.csv",
+          "records": 2559,
+          "first": "SA-530",
+          "last": "SD-1100"
+        },
+        {
+          "file": "models_07.csv",
+          "records": 2529,
+          "first": "SG-9",
+          "last": "SX-450"
+        },
+        {
+          "file": "models_08.csv",
+          "records": 2568,
+          "first": "SX-5",
+          "last": "SX-838"
+        },
+        {
+          "file": "models_09.csv",
+          "records": 2508,
+          "first": "SX-850",
+          "last": "TX-9800"
+        },
+        {
+          "file": "models_10.csv",
+          "records": 5,
+          "first": "TX-D1000",
           "last": "TX-D1000"
         }
       ]

@@ -1,0 +1,2530 @@
+model,category,part_number,normalized_part_number,description
+SG-9,Equalizer,AAD-178,AAD-178,Knob (POWER)
+SG-9,Equalizer,AAD-179,AAD-179,"Knob (ATTENUATOR,EQUALIZER,TAPE MONITOR)"
+SG-9,Equalizer,AAD-181,AAD-181,Knob (OCTAVE CONTROL)
+SG-9,Equalizer,ACG-001,ACG-001,Ceramic capacitor (0.01/AC 250V) - KU
+SG-9,Equalizer,ACG-001,ACG-001,Ceramic capacitor (0.01/AC 250V) - R
+SG-9,Equalizer,ACG-001,ACG-001,Ceramic capacitor (0.01/AC 250V) - R/G
+SG-9,Equalizer,ACG-017,ACG-017,Ceramic capacitor (0.01/AC125V) - KC
+SG-9,Equalizer,ACX-005,ACX-005,Variable resistor 8k (with LED)
+SG-9,Equalizer,ACX-005,ACX-005,Variable resistor 8k (with LED)
+SG-9,Equalizer,ADE-005,ADE-005,Connection cord
+SG-9,Equalizer,ADG-046,ADG-046,AC power cord - R
+SG-9,Equalizer,ADG-046,ADG-046,AC power cord - R/G
+SG-9,Equalizer,ADG-052,ADG-052,AC power cord - KC
+SG-9,Equalizer,ADG-052,ADG-052,AC power cord - KU
+SG-9,Equalizer,AEC-178,AEC-178,Foot assembly
+SG-9,Equalizer,AEC-327,AEC-327,Strain relief
+SG-9,Equalizer,AEL-324,AEL-324,LED (OVERLOAD)
+SG-9,Equalizer,AEL-324,AEL-324,LED (TAPE MONITOR)
+SG-9,Equalizer,AEL-324,AEL-324,LED(SPEAKER/TAPE MONITOR)
+SG-9,Equalizer,AEL-325,AEL-325,LED (POWER)
+SG-9,Equalizer,AEL-325,AEL-325,LED(POWER)
+SG-9,Equalizer,AHA-295,AHA-295,Side pad
+SG-9,Equalizer,AHB-103,AHB-103,Spacer - R/G
+SG-9,Equalizer,AHD-941,AHD-941,Packing case - KU
+SG-9,Equalizer,AHD-941,AHD-941,Packing case - R
+SG-9,Equalizer,AHD-942,AHD-942,Packing case - R/G
+SG-9,Equalizer,AHD-958,AHD-958,Packing case - KC
+SG-9,Equalizer,AKB-063,AKB-063,"Terminal (EQUALIZER,TAPE)"
+SG-9,Equalizer,AKP-038,AKP-038,AC socket (AC OUTLET)
+SG-9,Equalizer,AKX-063,AKX-063,Line voltage selector - R
+SG-9,Equalizer,AKX-063,AKX-063,Line voltage selector - R/G
+SG-9,Equalizer,ANE-351,ANE-351,Top cover
+SG-9,Equalizer,ANM-055,ANM-055,Front panel assembly
+SG-9,Equalizer,ARB-428,ARB-428,Operating instructions  SG-9 - KC
+SG-9,Equalizer,ARB-428,ARB-428,Operating instructions  SG-9 - KU
+SG-9,Equalizer,ARB-433,ARB-433,Operating instructions  SG-9 - R/G
+SG-9,Equalizer,ARE-019,ARE-019,Operating instructions  SG-9 - R
+SG-9,Equalizer,ARP-030,ARP-030,Service manual  SG-9
+SG-9,Equalizer,ASG-212,ASG-212,Push switch 3-ganged (EQUALIZER)
+SG-9,Equalizer,ASG-213,ASG-213,Push switch dual (ATTENUATOR)
+SG-9,Equalizer,ASG-214,ASG-214,Push switch (TAPE MONITOR)
+SG-9,Equalizer,ASG-520,ASG-520,Push switch (POWER)  - R
+SG-9,Equalizer,ASG-520,ASG-520,Push switch (POWER)  - R/G
+SG-9,Equalizer,ASG-521,ASG-521,Push switch (POWER)  - KC
+SG-9,Equalizer,ASG-521,ASG-521,Push switch (POWER)  - KU
+SG-9,Equalizer,ATT-591,ATT-591,Power transformer (120V) - KU
+SG-9,Equalizer,ATT-592,ATT-592,"Power transformer (110V-120V,220V-240V) - R"
+SG-9,Equalizer,ATT-592,ATT-592,"Power transformer (110V-120V,220V-240V) - R/G"
+SG-9,Equalizer,ATT-597,ATT-597,Power transformer (120V) - KC
+SG-9,Equalizer,GWM-132,GWM-132,AF amplifier assembly
+SG-9,Equalizer,GWX-298,GWX-298,Volume assembly 1
+SG-9,Equalizer,GWX-299,GWX-299,Volume assembly 2
+SG-90,Equalizer,AAB-345,AAB-345,Knob (INPUT LEVEL)
+SG-90,Equalizer,AAD-302,AAD-302,"Knob (EQ LEVEL,EQ CHRACTER)"
+SG-90,Equalizer,AAD-700,AAD-700,Knob (POWER)
+SG-90,Equalizer,AAD-701,AAD-701,"Knob A (LINE OUT SELECTOR, INPUT SELCTOR)"
+SG-90,Equalizer,AAD-702,AAD-702,Knob B (AUTO FADER)
+SG-90,Equalizer,AAD-703,AAD-703,Knob (SLIDER)
+SG-90,Equalizer,ACG-001,ACG-001,"Ceramic 0.01/AC250V (S,S/G)"
+SG-90,Equalizer,ACG-502,ACG-502,Ceramic 0.01/AC125V (KU)
+SG-90,Equalizer,ACT-185,ACT-185,Variable 10k (INPUT LEVEL)
+SG-90,Equalizer,ACX-017,ACX-017,"Variable 300k (GRAPHIC EQUALIZER CONTROLS L,R)"
+SG-90,Equalizer,ADG-052,ADG-052,AC power cord (KU)
+SG-90,Equalizer,ADG-060,ADG-060,"AC power cord (S,S/G)"
+SG-90,Equalizer,AEL-383,AEL-383,LED (Green)
+SG-90,Equalizer,AEL-388,AEL-388,LED (Red)
+SG-90,Equalizer,AEL-388,AEL-388,LED(STEREO/POWER)
+SG-90,Equalizer,AEL-420,AEL-420,LED (C range)
+SG-90,Equalizer,AEL-420,AEL-420,LED (Orange)
+SG-90,Equalizer,AHE-246,AHE-246,"Packing case (KU,S)"
+SG-90,Equalizer,AHE-247,AHE-247,Packing case (SG)
+SG-90,Equalizer,AKB-095,AKB-095,"Terminal (EQUALIZER,TAPE 1, TAPE 2)"
+SG-90,Equalizer,AKP-038,AKP-038,AC socket
+SG-90,Equalizer,AKX-063,AKX-063,"Line voltage selector (S,S/G)"
+SG-90,Equalizer,ANE-458,ANE-458,Bonnet
+SG-90,Equalizer,ANM-451,ANM-451,Front panel assembly
+SG-90,Equalizer,ANR-295,ANR-295,Switch rod
+SG-90,Equalizer,ARC-060,ARC-060,Operating instructions (S - Spanish)
+SG-90,Equalizer,ARP-342,ARP-342,Service manual SG90
+SG-90,Equalizer,ASG-345,ASG-345,Push switch (INPUT SELECTOR)
+SG-90,Equalizer,ASG-346,ASG-346,Push switch (AUTO FADER)
+SG-90,Equalizer,ASG-541,ASG-541,Push switch (POWER)
+SG-90,Equalizer,ATS-042,ATS-042,Power transformer (KU - 120V)
+SG-90,Equalizer,ATS-047,ATS-047,"Power transformer (S,S/G - 110, 120, 220, 240V)"
+SG-90,Equalizer,GWM-312,GWM-312,Mother board assembly
+SG-90,Equalizer,GWX-918,GWX-918,Equalizer assembly
+SG-90,Equalizer,SUN6L4444LF,SUN6L4444LF,Push switch (LINE OUT SELECTOR)
+SG-90,Equalizer,SUN6L54SF,SUN6L54SF,"Push switch (EQ CHARACTER, EQ LEVEL)"
+SG-90,Equalizer,SUN6L66SF,SUN6L66SF,Push switch (EQUALIZER)
+SG-9500,Equalizer,AAD-040,AAD-040,Knob (EQUALIZER)
+SG-9500,Equalizer,AAD-040,AAD-040,Knob (POWER)
+SG-9500,Equalizer,AAD-040,AAD-040,Knob (TAPE MONITOR)
+SG-9500,Equalizer,AAD-111,AAD-111,Knob (LEFT octave control)
+SG-9500,Equalizer,AAD-111,AAD-111,Knob (RIGHT octave control)
+SG-9500,Equalizer,ACG-001,ACG-001,"Ceramic capacitor (C1, 0.01/1F 250V)"
+SG-9500,Equalizer,ACG-003,ACG-003,Ceramic capacitor (0.01uF 150V)
+SG-9500,Equalizer,ACX-004,ACX-004,"Variable resistor (10k-B, slide-type)"
+SG-9500,Equalizer,ADG-005,ADG-005,AC power cord
+SG-9500,Equalizer,AEB-064,AEB-064,Rubber bracket
+SG-9500,Equalizer,AEK-107,AEK-107,Fuse 0.5A (lamp circuit)
+SG-9500,Equalizer,AEK-107,AEK-107,Fuse 0.5A (primary)
+SG-9500,Equalizer,AEK-107,AEK-107,Fuse 0.5A (secondary)
+SG-9500,Equalizer,AEL-063,AEL-063,Lamp with leads (8V 50mA)
+SG-9500,Equalizer,AHD-298,AHD-298,Packing case
+SG-9500,Equalizer,AKB-014,AKB-014,Terminal (INPUT-OUTPUT)
+SG-9500,Equalizer,AKB-014,AKB-014,Terminal (TAPE REC-PLAY)
+SG-9500,Equalizer,AKE-017,AKE-017,Screw for ground (GND)
+SG-9500,Equalizer,AKP-002,AKP-002,AC socket (AC OUTLET)
+SG-9500,Equalizer,ANB-367,ANB-367,Front panel assembly
+SG-9500,Equalizer,ANE-079,ANE-079,BONNET
+SG-9500,Equalizer,ARB-159,ARB-159,Operating instructions SG-9500
+SG-9500,Equalizer,ART-147-0,ART-147,Service Manual SG-9500
+SG-9500,Equalizer,ASK-044,ASK-044,Lever switch (TAPE MONITOR)
+SG-9500,Equalizer,ASK-066,ASK-066,Lever switch (POWER)
+SG-9500,Equalizer,ASK-082,ASK-082,Lever switch (EQUALIZER)
+SG-9500,Equalizer,ATT-270,ATT-270,Power transformer
+SG-9500,Equalizer,AWG-036,AWG-036,Graphic EQ assembly
+SG-9500,Equalizer,AWR-095,AWR-095,Power supply assembly
+SG-9500,Equalizer,AWS-091,AWS-091,SW assembly (EQUALIZER)
+SG-9500,Equalizer,AWS-092,AWS-092,SW assembly (TAPE MONITOR)
+SG-9500,Equalizer,AWX-092,AWX-092,VR assembly
+SG-9500,Equalizer,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic capacitor (0.047uF 50V)
+SG-9500,Equalizer,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic capacitor (0.047uF 50V)
+SG-9800,Equalizer,AAD-178,AAD-178,Knob A (POWER)
+SG-9800,Equalizer,AAD-179,AAD-179,Knob B (ATTENUATOR)
+SG-9800,Equalizer,AAD-179,AAD-179,Knob B (EQUALIZER)
+SG-9800,Equalizer,AAD-179,AAD-179,Knob B (TAPE MONITOR)
+SG-9800,Equalizer,AAD-181,AAD-181,Knob assembly (octave control)
+SG-9800,Equalizer,ACG-001,ACG-001,Ceramic capacitor (0.01/250V)
+SG-9800,Equalizer,ACX-005,ACX-005,Variable resistor (with LED)
+SG-9800,Equalizer,ADG-023,ADG-023,AC power cord
+SG-9800,Equalizer,AEL-322,AEL-322,LED (EQ SLIDER)
+SG-9800,Equalizer,AEL-324,AEL-324,LED (OVERLOAD indicator)
+SG-9800,Equalizer,AEL-324,AEL-324,LED (TAPE MONITOR indicator)
+SG-9800,Equalizer,AEL-324,AEL-324,LED(SPEAKER/TAPE MONITOR)
+SG-9800,Equalizer,AEL-325,AEL-325,LED (POWER indicator)
+SG-9800,Equalizer,AEL-325,AEL-325,LED(POWER)
+SG-9800,Equalizer,AHD-678,AHD-678,Packing case
+SG-9800,Equalizer,AKB-063,AKB-063,Terminal (EQUALIZER)
+SG-9800,Equalizer,AKB-063,AKB-063,Terminal (TAPE)
+SG-9800,Equalizer,AKP-002,AKP-002,AC socket (AC OUTLET)
+SG-9800,Equalizer,ANB-714,ANB-714,Front panel assembly
+SG-9800,Equalizer,ANE-245,ANE-245,CABINET
+SG-9800,Equalizer,ARB-315,ARB-315,Operating instructions SG-9800
+SG-9800,Equalizer,ART-363,ART-363,Service manual SG9800
+SG-9800,Equalizer,ASG-212,ASG-212,3-gang push switch (EQUALIZER)
+SG-9800,Equalizer,ASG-213,ASG-213,2-gang push switch (ATTENUATOR)
+SG-9800,Equalizer,ASG-214,ASG-214,Push switch (TAPE MONITOR)
+SG-9800,Equalizer,ASG-511,ASG-511,Push switch (POWER)
+SG-9800,Equalizer,ATT-591,ATT-591,Power transformer
+SG-9800,Equalizer,GWM-132,GWM-132,AF amplifier assembly
+SG-9800,Equalizer,GWX-298,GWX-298,Volume assembly 1
+SG-9800,Equalizer,GWX-299,GWX-299,Volume assembly 2
+SG-9800,Equalizer,GWX-300,GWX-300,LED assembly 1
+SG-9800,Equalizer,GWX-301,GWX-301,LED assembly 2
+SG-9800,Equalizer,GWX-302,GWX-302,LED assembly 3
+SPEC-1,Pre-Amplifier,AAB-095,AAB-095,Knob (VOLUME)
+SPEC-1,Pre-Amplifier,AAB-096,AAB-096,Knob (FUNCTION)
+SPEC-1,Pre-Amplifier,AAB-097,AAB-097,Knob (BALANCE)
+SPEC-1,Pre-Amplifier,AAB-097,AAB-097,Knob (BASS 100Hz)
+SPEC-1,Pre-Amplifier,AAB-097,AAB-097,Knob (BASS 50Hz)
+SPEC-1,Pre-Amplifier,AAB-097,AAB-097,Knob (MODE)
+SPEC-1,Pre-Amplifier,AAB-097,AAB-097,Knob (SPEAKERS)
+SPEC-1,Pre-Amplifier,AAB-097,AAB-097,Knob (TREBLE 10kHz)
+SPEC-1,Pre-Amplifier,AAB-097,AAB-097,Knob (TREBLE 20kHz)
+SPEC-1,Pre-Amplifier,AAB-098,AAB-098,Knob (MIC MIXING)
+SPEC-1,Pre-Amplifier,AAB-098,AAB-098,Knob (PHONO 2 LEVEL)
+SPEC-1,Pre-Amplifier,AAD-109,AAD-109,Knob (ATTENUATOR)
+SPEC-1,Pre-Amplifier,AAD-109,AAD-109,Knob (HIGH FILTER)
+SPEC-1,Pre-Amplifier,AAD-109,AAD-109,Knob (LOW FILTER)
+SPEC-1,Pre-Amplifier,AAD-109,AAD-109,Knob (POWER)
+SPEC-1,Pre-Amplifier,AAD-109,AAD-109,Knob (TAPE DUPLICATE)
+SPEC-1,Pre-Amplifier,AAD-109,AAD-109,Knob (TAPE MONITOR)
+SPEC-1,Pre-Amplifier,AAD-109,AAD-109,Knob (TONE)
+SPEC-1,Pre-Amplifier,ACG-003,ACG-003,Ceramic 0.01 150V
+SPEC-1,Pre-Amplifier,ACT-305,ACT-305,"Variable resistor 10kΩ-HB, 2kΩ-HB (PHONO 2 LEVEL)"
+SPEC-1,Pre-Amplifier,ACV-145,ACV-145,Variable resistor 50kΩ-AC (BALANCE)
+SPEC-1,Pre-Amplifier,ACV-314,ACV-314,Variable resistor 50kΩ (VOLUME)
+SPEC-1,Pre-Amplifier,ACV-507,ACV-507,"Variable resistor with pull-push switch 50kΩ-20A,50kΩ-20C (MIC MIXING)"
+SPEC-1,Pre-Amplifier,AEB-075,AEB-075,Spacer
+SPEC-1,Pre-Amplifier,AEK-107,AEK-107,Fuse 0.5A (FU1)
+SPEC-1,Pre-Amplifier,AEK-107,AEK-107,Fuse 0.5A (FU2)
+SPEC-1,Pre-Amplifier,AEK-107,AEK-107,Fuse 0.5A (FU3)
+SPEC-1,Pre-Amplifier,AEK-107,AEK-107,Fuse 0.5A (FU4)
+SPEC-1,Pre-Amplifier,AEK-107,AEK-107,Fuse 0.5A (FU5)
+SPEC-1,Pre-Amplifier,AEL-057,AEL-057,Lamp with wire 8V 50mA (PL1)
+SPEC-1,Pre-Amplifier,AKB-014,AKB-014,Phono jack (4P)
+SPEC-1,Pre-Amplifier,AKB-018,AKB-018,Phono jack (6P)
+SPEC-1,Pre-Amplifier,AKE-010,AKE-010,Speaker output terminal (dual)
+SPEC-1,Pre-Amplifier,AKE-015,AKE-015,Speaker input terminal
+SPEC-1,Pre-Amplifier,AKE-019,AKE-019,Binding post (for ground)
+SPEC-1,Pre-Amplifier,AKP-004,AKP-004,AC outlet socket (dual)
+SPEC-1,Pre-Amplifier,AKP-005,AKP-005,AC outlet socket (triple)
+SPEC-1,Pre-Amplifier,ANB-348,ANB-348,Front panel assembly
+SPEC-1,Pre-Amplifier,ANK-084,ANK-084,Handle
+SPEC-1,Pre-Amplifier,ARB-169,ARB-169,Operating Instructions SPEC-1
+SPEC-1,Pre-Amplifier,ART-142,ART-142,Service Manual SPEC-1
+SPEC-1,Pre-Amplifier,ASD-039,ASD-039,Rotary switch (FUNCTION)
+SPEC-1,Pre-Amplifier,ASD-040,ASD-040,Rotary switch (SPEAKERS)
+SPEC-1,Pre-Amplifier,ASD-041,ASD-041,Rotary switch (BASS 50Hz)
+SPEC-1,Pre-Amplifier,ASD-042,ASD-042,Rotary switch (BASS 100Hz)
+SPEC-1,Pre-Amplifier,ASD-043,ASD-043,Rotary switch (TREBLE 10kHz)
+SPEC-1,Pre-Amplifier,ASD-044,ASD-044,Rotary switch (TREBLE 20kHz)
+SPEC-1,Pre-Amplifier,ASD-046,ASD-046,Rotary switch (MODE)
+SPEC-1,Pre-Amplifier,ASK-080,ASK-080,Lever switch (POWER)
+SPEC-1,Pre-Amplifier,ASK-084,ASK-084,Lever switch (TAPE DUPLICATE)
+SPEC-1,Pre-Amplifier,ASK-085,ASK-085,Lever switch (HIGH FILTER)
+SPEC-1,Pre-Amplifier,ASK-085,ASK-085,Lever switch (LOW FILTER)
+SPEC-1,Pre-Amplifier,ASK-086,ASK-086,Lever switch (TAPE MONITOR)
+SPEC-1,Pre-Amplifier,ASK-087,ASK-087,Lever switch (ATTENUATOR)
+SPEC-1,Pre-Amplifier,ASK-091,ASK-091,Lever switch (TONE)
+SPEC-1,Pre-Amplifier,ASR-016,ASR-016,Relay
+SPEC-1,Pre-Amplifier,ASR-016,ASR-016,Relay
+SPEC-1,Pre-Amplifier,ATT-248,ATT-248,Power transformer
+SPEC-1,Pre-Amplifier,AWF-017,AWF-017,Input circuit assembly
+SPEC-1,Pre-Amplifier,AWG-035,AWG-035,Tone amplifier assembly
+SPEC-1,Pre-Amplifier,AWM-082,AWM-082,Filter amplifier assembly
+SPEC-1,Pre-Amplifier,AWM-083,AWM-083,Mixing amplifier assembiy
+SPEC-1,Pre-Amplifier,AWR-094,AWR-094,Power supply circuit assembly
+SPEC-1,Pre-Amplifier,AWX-091,AWX-091,Fuse board assembly
+SPEC-1,Pre-Amplifier,CEA 102P 25,CEA 102P 25,"Electrolytic 1,000 25V"
+SPEC-1,Pre-Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SPEC-1,Pre-Amplifier,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic 0.047 50V
+SPEC-1,Pre-Amplifier,K72-020,K72-020,Phone jack (PHONES)
+SPEC-1,Pre-Amplifier,K72-021,K72-021,Phone jack (MIC)
+SPEC-1,Pre-Amplifier,RTEB 151K,RTEB 151K,Wire wound 150 5W
+SPEC-1,Pre-Amplifier,RTSB 151K,RTSB 151K,Wire wound 150 5W
+SPEC-1,Pre-Amplifier,SIB01-04,SIB01-04,Diode
+SPEC-1,Pre-Amplifier,SIB01-04,SIB01-04,Diode
+SPEC-2,Amplifier,75104Y31,75104Y31,Service Manual SPEC-2 (75104Y31F)
+SPEC-2,Amplifier,AAB-097,AAB-097,Knob (LEFT LEVEL)
+SPEC-2,Amplifier,AAD-109,AAD-109,KNOB(POWER)
+SPEC-2,Amplifier,AAW-051,AAW-051,Peak level meter (LEFT CHANNEL)
+SPEC-2,Amplifier,AAW-051,AAW-051,Peak level meter (RIGHT CHANNEL)
+SPEC-2,Amplifier,ACG-001,ACG-001,Ceramic 0.01 150V
+SPEC-2,Amplifier,ACG-001,ACG-001,Ceramic 0.01 150V
+SPEC-2,Amplifier,ACG-001,ACG-001,Ceramic 0.01 150V
+SPEC-2,Amplifier,ACG-001,ACG-001,Ceramic 0.01 150V
+SPEC-2,Amplifier,ACG-003,ACG-003,Ceramic 0.01 150V
+SPEC-2,Amplifier,ACG-003,ACG-003,Ceramic 0.01 150V
+SPEC-2,Amplifier,ACH-052,ACH-052,Electrolytic 15000 100V
+SPEC-2,Amplifier,ACH-052,ACH-052,Electrolytic 15000 100V
+SPEC-2,Amplifier,ACH-052,ACH-052,Electrolytic 15000 100V
+SPEC-2,Amplifier,ACH-052,ACH-052,Electrolytic 15000 100V
+SPEC-2,Amplifier,ACV-009,ACV-009,Variable resistor 100k-B (LEFT LEVEL)
+SPEC-2,Amplifier,ACV-009,ACV-009,Variable resistor 100k-B (RIGHT LEVEL)
+SPEC-2,Amplifier,AEB-075,AEB-075,Spacer
+SPEC-2,Amplifier,AEK-103,AEK-103,Fuse 2A (Secondary)
+SPEC-2,Amplifier,AEK-103,AEK-103,Fuse 2A (Secondary)
+SPEC-2,Amplifier,AEK-103,AEK-103,Fuse 2A (Secondary)
+SPEC-2,Amplifier,AEK-106,AEK-106,Fuse 1A (Secondary)
+SPEC-2,Amplifier,AEK-106,AEK-106,Fuse 1A (Secondary)
+SPEC-2,Amplifier,AEK-301,AEK-301,Fuse 12A (Primary)
+SPEC-2,Amplifier,AEL-042,AEL-042,"Lamp with wire 8V, 50mA"
+SPEC-2,Amplifier,AEL-058,AEL-058,"Lamp (bar type) 8V, 0.3A"
+SPEC-2,Amplifier,AEL-058,AEL-058,"Lamp (bar type) 8V, 0.3A"
+SPEC-2,Amplifier,AEL-058,AEL-058,"Lamp (bar type) 8V, 0.3A"
+SPEC-2,Amplifier,AEL-058,AEL-058,Lamp (bar type) 8V. 0.3A
+SPEC-2,Amplifier,AKB-013,AKB-013,Input terminal
+SPEC-2,Amplifier,AKE-019,AKE-019,Ground terminal
+SPEC-2,Amplifier,AKE-020,AKE-020,Output terminal (A)
+SPEC-2,Amplifier,AKE-021,AKE-021,Output terminal (B)
+SPEC-2,Amplifier,ANB-358,ANB-358,Front panel assembly
+SPEC-2,Amplifier,ANK-084,ANK-084,Handle
+SPEC-2,Amplifier,ARB-167,ARB-167,Operating Instructions SPEC-2
+SPEC-2,Amplifier,ASH-014,ASH-014,Slide switch (IMPEDANCE)
+SPEC-2,Amplifier,ASH-014,ASH-014,SWITCH (IMPEDANCE)
+SPEC-2,Amplifier,ASK-080,ASK-080,Lever switch (POWER)
+SPEC-2,Amplifier,ASR-013-0,ASR-013,Relay (Power Supply Assembly - Secondary Surge Current Control)
+SPEC-2,Amplifier,ASR-013-0,ASR-013,Relay (Power Supply Assembly - Secondary Surge Current Control)
+SPEC-2,Amplifier,ASR-015,ASR-015,Relay (Meter Amplifier Assembly - Primary Surge Current Control)
+SPEC-2,Amplifier,ASR-016,ASR-016,Relay (Output Cut-off Relay)
+SPEC-2,Amplifier,ATT-249,ATT-249,Power transformer
+SPEC-2,Amplifier,AWH-045,AWH-045,Power amplifier assembly (LEFT CHANNEL)
+SPEC-2,Amplifier,AWH-045,AWH-045,Power amplifier assembly (RIGHT CHANNEL)
+SPEC-2,Amplifier,AWM-081,AWM-081,Meter amplifier assembly
+SPEC-2,Amplifier,AWR-093,AWR-093,Power supply circuit assembly
+SPEC-2,Amplifier,KBH-2504,KBH-2504,Diode
+SPEC-2,Amplifier,RS3P 472K,RS3P 472K,Metal oxide 4.7k 3W
+SPEC-2,Amplifier,RS3P 472K,RS3P 472K,Metal oxide 4.7k 3W
+SPEC-2,Amplifier,SIBO1-02,SIBO1-02,Diode
+SPEC-4,Amplifier,2SB554-H or O (2SB600-R or S),2SB554-H or O (2SB600-R or S),Transistor
+SPEC-4,Amplifier,2SB554-R or O (2SB600-R or S),2SB554-R or O (2SB600-R or S),Transistor
+SPEC-4,Amplifier,2SB554-R or O (2SB600-R or S),2SB554-R or O (2SB600-R or S),Transistor
+SPEC-4,Amplifier,2SB554-R or O (2SB600-R or S),2SB554-R or O (2SB600-R or S),Transistor
+SPEC-4,Amplifier,2SD424-H or O (2SD555-R or S),2SD424-H or O (2SD555-R or S),Transistor
+SPEC-4,Amplifier,2SD424-R or O (2SD555-R or S),2SD424-R or O (2SD555-R or S),Transistor
+SPEC-4,Amplifier,2SD424-R or O (2SD555-R or S),2SD424-R or O (2SD555-R or S),Transistor
+SPEC-4,Amplifier,2SD424-R or O (2SD555-R or S),2SD424-R or O (2SD555-R or S),Transistor
+SPEC-4,Amplifier,AAB-153,AAB-153,Knob (LEFT LEVEL)
+SPEC-4,Amplifier,AAB-153,AAB-153,Knob (RIGHT LEVEL)
+SPEC-4,Amplifier,AAD-109,AAD-109,KNOB(POWER)
+SPEC-4,Amplifier,AAD-109,AAD-109,Lever knob assembly (POWER)
+SPEC-4,Amplifier,AAW-068,AAW-068,Peak meter (LEFT)
+SPEC-4,Amplifier,AAW-068,AAW-068,Peak meter (RIGHT)
+SPEC-4,Amplifier,ACG-001,ACG-001,Ceramic 0.01 250V
+SPEC-4,Amplifier,ACG-001,ACG-001,Ceramic capacitor 0.01uF/250V
+SPEC-4,Amplifier,ACG-001,ACG-001,Ceramlc 0.01 250V
+SPEC-4,Amplifier,ACH-056,ACH-056,"Electrolytic capacitor 22,000uF/80V"
+SPEC-4,Amplifier,ACV-021,ACV-021,Variable resistor 100kΩ ( RIGHT LEVEL)
+SPEC-4,Amplifier,ACV-021,ACV-021,Variable resistor 100kΩ LEFT (LEVEL)
+SPEC-4,Amplifier,ADG-013,ADG-013,AC power cord
+SPEC-4,Amplifier,AEC-379,AEC-379,Spacer
+SPEC-4,Amplifier,AEK-104,AEK-104,Fuse 1.5A
+SPEC-4,Amplifier,AEK-106,AEK-106,Fuse 1A
+SPEC-4,Amplifier,AEK-109,AEK-109,Fuse 6A
+SPEC-4,Amplifier,AEL-077,AEL-077,"Lamp (bar type) BV, 300mA"
+SPEC-4,Amplifier,AKB-034,AKB-034,2P terminal (INPUT)
+SPEC-4,Amplifier,AKE-019,AKE-019,Terminal (GND)
+SPEC-4,Amplifier,AKE-037,AKE-037,Terminal (OUTPUT)
+SPEC-4,Amplifier,AKF-028,AKF-028,Contact piece
+SPEC-4,Amplifier,AKP-002,AKP-002,AC socket (AC OUTLET)
+SPEC-4,Amplifier,AKX-017,AKX-017,5P housing
+SPEC-4,Amplifier,AKX-018,AKX-018,6P housing
+SPEC-4,Amplifier,ANB-508,ANB-508,Front panel assembly
+SPEC-4,Amplifier,ANK-084,ANK-084,Handle
+SPEC-4,Amplifier,ARB-235,ARB-235,Operating Instructions SPEC-4
+SPEC-4,Amplifier,ART-224,ART-224,Service Manual SPEC-4
+SPEC-4,Amplifier,ASK-080,ASK-080,Lever switch (POWER)
+SPEC-4,Amplifier,ASR-041,ASR-041,Relay
+SPEC-4,Amplifier,ATT-416,ATT-416,Power transformer (LEFT)
+SPEC-4,Amplifier,ATT-417,ATT-417,Power transformer (RIGHT)
+SPEC-4,Amplifier,AWH-065,AWH-065,Power amplifier assembly
+SPEC-4,Amplifier,AWM-113,AWM-113,Meter amplifier assembiy
+SPEC-4,Amplifier,AWR-139,AWR-139,Power supply assembly
+SPEC-4,Amplifier,AWR-140,AWR-140,Power supply assembly
+SPEC-4,Amplifier,AWR-143,AWR-143,Fuse assembly
+SPEC-4,Amplifier,CQSB 330K 50,CQSB 330K 50,Polypropylene 33p 50V
+SPEC-4,Amplifier,CQSB 680K 50,CQSB 680K 50,Polypropylene 68p 50V
+SR-202W,Reverb,A12-144-0,A12-144,"Knob, Reverberation Mode and Tape Mode and Power"
+SR-202W,Reverb,A12-201-0,A12-201,"Knob, Reverberation Time"
+SR-202W,Reverb,A59-026-0,A59-026,Lens (Red) for Power
+SR-202W,Reverb,A59-040-A,A59-040,Lens for Indicatur
+SR-202W,Reverb,A62-044-0,A62-044,Indicator Board
+SR-202W,Reverb,ACE-003-0,ACE-003,Screen Board
+SR-202W,Reverb,ACV-001-0,ACV-001,50kΩ Reverberation time control
+SR-202W,Reverb,AMN-001-0,AMN-001,Wooden Case
+SR-202W,Reverb,ANB-001-A,ANB-001,Front Panel Ass'y
+SR-202W,Reverb,ASC-001-0,ASC-001,Tape Mode Selector
+SR-202W,Reverb,ASC-002-0,ASC-002,Reverberation Mode Selector
+SR-202W,Reverb,E21-016-0,E21-016,Fuse 0.2A
+SR-202W,Reverb,E22-013-0,E22-013,Pilot Lamp
+SR-202W,Reverb,E32-031-B,E32-031,Arm
+SR-202W,Reverb,K21-010-C,K21-010,Terminal 4p
+SR-202W,Reverb,K42-003-A,K42-003,Pilot Lamp Socket
+SR-202W,Reverb,K82-014-0,K82-014,AC Outlet
+SR-202W,Reverb,M42-009-0,M42-009,Pulley
+SR-202W,Reverb,M45-032-0,M45-032,Pulley (A)
+SR-202W,Reverb,R42-152-0,R42-152,Service manual  SR-202W
+SR-202W,Reverb,S11-016-A,S11-016,Power Switch
+SR-202W,Reverb,S11-018-0,S11-018,Line Voltage Selector
+SR-202W,Reverb,T52-135-0,T52-135,Power Transformer
+SR-202W,Reverb,W15-045-A,W15-045,Drive Amp Unit
+SR-202W,Reverb,W36-004-0,W36-004,A.F. Amp-unit
+SR-202W,Reverb,W38-001-0,W38-001,Reverb Unit
+SR-303,Reverb,AAB-201,AAB-201,"Knob (TIME, DEPTH)"
+SR-303,Reverb,AAD-015,AAD-015,Knob (ATTENUATOR)
+SR-303,Reverb,AAD-178,AAD-178,Knob (POWER)
+SR-303,Reverb,AAD-179,AAD-179,"Knob (REVERB, MONITOR)"
+SR-303,Reverb,ABA-003,ABA-003,Screw 3x10
+SR-303,Reverb,ABA-048,ABA-048,Screw 3x6
+SR-303,Reverb,ABA-049,ABA-049,Screw 3x8
+SR-303,Reverb,ABA-050,ABA-050,Screw 3x10
+SR-303,Reverb,ABA-065,ABA-065,Screw 3x6
+SR-303,Reverb,ABA-069,ABA-069,Screw 4x8
+SR-303,Reverb,ABA-071,ABA-071,Screw 4x16
+SR-303,Reverb,ABA-082,ABA-082,Screw 3x10
+SR-303,Reverb,ABA-115,ABA-115,Special screw
+SR-303,Reverb,ABA-228,ABA-228,Screw 3x6
+SR-303,Reverb,ACV-125,ACV-125,Variable resistor (DEPTH)
+SR-303,Reverb,ACV-508,ACV-508,Variable resistor with switch (REVERB TIME)
+SR-303,Reverb,ADE-005,ADE-005,Connection cord
+SR-303,Reverb,ADG-023,ADG-023,AC power cord
+SR-303,Reverb,AEB-151,AEB-151,Cap
+SR-303,Reverb,AEC-327,AEC-327,Strain relief
+SR-303,Reverb,AEC-351,AEC-351,Font
+SR-303,Reverb,AEL-103,AEL-103,PL1 -PL8 Lamp 8V 70mA (bar-type)
+SR-303,Reverb,AEL-324,AEL-324,LED (MONITOR)
+SR-303,Reverb,AEL-325,AEL-325,LED (POWER)
+SR-303,Reverb,AHA-201,AHA-201,Side pad
+SR-303,Reverb,AHD-681,AHD-681,Packing case
+SR-303,Reverb,AKB-063,AKB-063,"Terminal (REVERB, TAPE)"
+SR-303,Reverb,AKP-002,AKP-002,AC socket (AC OUTLET)
+SR-303,Reverb,ANB-715,ANB-715,Front panel
+SR-303,Reverb,ANE-246,ANE-246,Top cover
+SR-303,Reverb,ARB-316,ARB-316,Operating instructions
+SR-303,Reverb,ART-365,ART-365,Service manual  SR-303
+SR-303,Reverb,ASG-150,ASG-150,Push switch (ATTENUATOR)
+SR-303,Reverb,ASG-212,ASG-212,3-gang push switch (REVERBERATION)
+SR-303,Reverb,ASG-214,ASG-214,Push switch (TAPE MONITOR)
+SR-303,Reverb,ASG-215,ASG-215,Push switch (POWER)
+SR-303,Reverb,ASG-316,ASG-316,SWITCH(TAPE MONITOR) Replacement part
+SR-303,Reverb,ATT-595,ATT-595,Power transformer
+SR-303,Reverb,AWX-164,AWX-164,Lamp assembly
+SR-303,Reverb,B71-004,B71-004,Nut M9
+SR-303,Reverb,GWM-133,GWM-133,Reverberation assembly
+SR-303,Reverb,GWS-185,GWS-185,Switch assembly
+SR-303,Reverb,GWX-303,GWX-303,LED assembly 1
+SR-303,Reverb,GWX-304,GWX-304,LED assembly 2
+SR-303,Reverb,M45-086,M45-086,Washer M9
+SR-60,Reverb,ASE-006,ASE-006,SWITCH(EFF SELECT CONT)
+SR-60,Reverb,ASG-347,ASG-347,SWITCH(SPEAKER)
+SR-60,Reverb,SUNLYSF,SUNLYSF,SWITCH(POWER)SR60
+SR-9,Reverb,ARP-055,ARP-055,"S/M SR-9/KC,S"
+SR-9,Reverb,ASG-214,ASG-214,PUSH SWITCH(TAPE MON) ASG-316
+SR-9,Reverb,ASG-215,ASG-215,SWITCH(POWER)
+SX-1000TA (Early),Receiver,AA11009,AA11009,Knob Selector
+SX-1000TA (Early),Receiver,AA11012,AA11012,"Knob Volume, Balance P0wer"
+SX-1000TA (Early),Receiver,AA11015,AA11015,Knob Mode
+SX-1000TA (Early),Receiver,AA11019,AA11019,Knob Tuning
+SX-1000TA (Early),Receiver,AA11035,AA11035,Knob Bass Treble(L)
+SX-1000TA (Early),Receiver,AA11038,AA11038,Knob Bass Treble(R)
+SX-1000TA (Early),Receiver,AA3180,AA3180,Dial Pointer
+SX-1000TA (Early),Receiver,AA3323,AA3323,Dial Scale
+SX-1000TA (Early),Receiver,AA5030,AA5030,Bracket (Orange)
+SX-1000TA (Early),Receiver,AA9105,AA9105,Tuning Meter
+SX-1000TA (Early),Receiver,AB1016,AB1016,"Screw, to fix metal cover"
+SX-1000TA (Early),Receiver,AC6433,AC6433,Variable Capacitor
+SX-1000TA (Early),Receiver,AE4102,AE4102,Dial Spring
+SX-1000TA (Early),Receiver,AJ-0189,AJ-0189,Instruction/Service manual SX-1000TA (Early)
+SX-1000TA (Early),Receiver,AK4102,AK4102,Pilot Lamp Socket
+SX-1000TA (Early),Receiver,AK5403,AK5403,Concent for Speaker
+SX-1000TA (Early),Receiver,AK5803,AK5803,Connector 5P for Tape Recorder
+SX-1000TA (Early),Receiver,AK7204,AK7204,Headphone Jack
+SX-1000TA (Early),Receiver,AK8209,AK8209,AC Concent
+SX-1000TA (Early),Receiver,AK9606,AK9606,Fuse Holder
+SX-1000TA (Early),Receiver,AM0127,AM0127,FM Frontend
+SX-1000TA (Early),Receiver,AM0146,AM0146,AM Unit
+SX-1000TA (Early),Receiver,AM0147,AM0147,FM IF Unit
+SX-1000TA (Early),Receiver,AM0148,AM0148,Pre amp Unit
+SX-1000TA (Early),Receiver,AM0149,AM0149,Control amp Unit
+SX-1000TA (Early),Receiver,AM0150,AM0150,Main amp Unit
+SX-1000TA (Early),Receiver,AM0151,AM0151,Power supply Unit
+SX-1000TA (Early),Receiver,AM0152,AM0152,MPX Unit
+SX-1000TA (Early),Receiver,AM21060,AM21060,Front Panel
+SX-1000TA (Early),Receiver,AM3382,AM3382,Metal Case
+SX-1000TA (Early),Receiver,AM4185,AM4185,Dial Drum
+SX-1000TA (Early),Receiver,AM4209,AM4209,Dial Pulley
+SX-1000TA (Early),Receiver,AM6103,AM6103,Foot
+SX-1000TA (Early),Receiver,AP2109,AP2109,Terminal 2P
+SX-1000TA (Early),Receiver,AP2213,AP2213,Terminal 6P
+SX-1000TA (Early),Receiver,AP3111,AP3111,Terminal 3P antenna
+SX-1000TA (Early),Receiver,AR0004,AR0004,10K MPX Separation Control
+SX-1000TA (Early),Receiver,AR0015,AR0015,50K Muting Level Adjust
+SX-1000TA (Early),Receiver,AR0022,AR0022,1K Left Right Level Adjust
+SX-1000TA (Early),Receiver,AR0024,AR0024,30K Auto Level Adjust
+SX-1000TA (Early),Receiver,AR0026,AR0026,300Ω Current control
+SX-1000TA (Early),Receiver,AR0026,AR0026,300Ω Current control
+SX-1000TA (Early),Receiver,AR8549,AR8549,500K dual. Volume
+SX-1000TA (Early),Receiver,AR8552,AR8552,50K dual. Balance
+SX-1000TA (Early),Receiver,AR8718,AR8718,100K dual. Bass
+SX-1000TA (Early),Receiver,AR8718,AR8718,100K dual. Treble
+SX-1000TA (Early),Receiver,AS0214,AS0214,Power Switch
+SX-1000TA (Early),Receiver,AS1637,AS1637,Selector Switch
+SX-1000TA (Early),Receiver,AS1638,AS1638,Mode Selector Switch
+SX-1000TA (Early),Receiver,AS6216,AS6216,Slide Switch
+SX-1000TA (Early),Receiver,AS9001,AS9001,"Toggle Switches (SPEAKER, FILTER LOW, FILTER HIGH, MUTING, AFC, LOUDNESS, PHONO)"
+SX-1000TA (Early),Receiver,AT4214,AT4214,AM Ferrite Loopstick antenna coil
+SX-1000TA (Early),Receiver,AT5263,AT5263,Power transformer
+SX-1000TA (Early),Receiver,AV0212,AV0212,Pilot Lamp
+SX-1000TA (Early),Receiver,AV7211,AV7211,Pilot Lamp for FM Stereo
+SX-1000TA (Early),Receiver,AV7305,AV7305,Fuse 2A
+SX-1000TA (Later),Receiver,A11-109-0,A11-109,"Knob, Selector"
+SX-1000TA (Later),Receiver,A11-112-0,A11-112,"Knob, Volume, Balance, Power"
+SX-1000TA (Later),Receiver,A11-115-0,A11-115,"Knob, Mode"
+SX-1000TA (Later),Receiver,A11-119-0,A11-119,"Knob, Tuning"
+SX-1000TA (Later),Receiver,A11-135-0,A11-135,"Knob, Bass. Treble(L)"
+SX-1000TA (Later),Receiver,A11-138-0,A11-138,"Knob, Bass. Treble(R)"
+SX-1000TA (Later),Receiver,A31-080-0,A31-080,Dial Pointer
+SX-1000TA (Later),Receiver,A33-023-0,A33-023,Dial Scale
+SX-1000TA (Later),Receiver,A59-030-0,A59-030,Bracket (Orange)
+SX-1000TA (Later),Receiver,A91-005-D,A91-005,Tuning Meter
+SX-1000TA (Later),Receiver,B11-022-B,B11-022,"Screw, to fix metal cover"
+SX-1000TA (Later),Receiver,C64-033,C64-033,Variable Capacitor
+SX-1000TA (Later),Receiver,C85-052,C85-052,50K dual. Balance
+SX-1000TA (Later),Receiver,C85-054,C85-054,500K dual. Volume
+SX-1000TA (Later),Receiver,C87-018,C87-018,100K dual. Bass
+SX-1000TA (Later),Receiver,C87-018,C87-018,100K dual. Treble
+SX-1000TA (Later),Receiver,C92-004,C92-004,10K MPX Separatian Control
+SX-1000TA (Later),Receiver,C92-022-0,C92-022,"1K,L and R Level adjust"
+SX-1000TA (Later),Receiver,C92-026,C92-026,300Ω Current control
+SX-1000TA (Later),Receiver,C92-026,C92-026,300Ω Current control
+SX-1000TA (Later),Receiver,C92-026-0,C92-026,300Ω Auto Level adjust
+SX-1000TA (Later),Receiver,E21-005-0,E21-005,Fuse 2A
+SX-1000TA (Later),Receiver,E22-002-0,E22-002,Pilot Lamp 8V
+SX-1000TA (Later),Receiver,E22-011-A,E22-011,Pilot Lamp for FM Stereo
+SX-1000TA (Later),Receiver,E22-012-0,E22-012,Pilot Lamp
+SX-1000TA (Later),Receiver,E41-002-0,E41-002,Dial spring
+SX-1000TA (Later),Receiver,K21-009-0,K21-009,Terminal 2p
+SX-1000TA (Later),Receiver,K22-013-0,K22-013,Terminal 6p
+SX-1000TA (Later),Receiver,K31-011-0,K31-011,Terminal 3p
+SX-1000TA (Later),Receiver,K41-002-0,K41-002,Pilot Lamp Socket
+SX-1000TA (Later),Receiver,K54-003-0,K54-003,Concent for Speaker
+SX-1000TA (Later),Receiver,K72-004-0,K72-004,Head phone jack
+SX-1000TA (Later),Receiver,K82-009-0,K82-009,AC Concent
+SX-1000TA (Later),Receiver,K93-003-0,K93-003,Connector 5P for Tape Recorder
+SX-1000TA (Later),Receiver,K96-006-C,K96-006,Fuse Holder
+SX-1000TA (Later),Receiver,M21-060-0,M21-060,Front Panel
+SX-1000TA (Later),Receiver,M33-082-E,M33-082,Metal Case
+SX-1000TA (Later),Receiver,M42-009-0,M42-009,Dial Pulley
+SX-1000TA (Later),Receiver,M42-027-0,M42-027,Dial Pulley (for tuning capacitor)
+SX-1000TA (Later),Receiver,M61-003-0,M61-003,Foot
+SX-1000TA (Later),Receiver,R19-189-A,R19-189,Operating instructions/service manual  SX-1000TA (Later)
+SX-1000TA (Later),Receiver,S11-014,S11-014,Power Switch
+SX-1000TA (Later),Receiver,S16-037-C,S16-037,Selector Switch
+SX-1000TA (Later),Receiver,S16-038,S16-038,Mode Selector Switch
+SX-1000TA (Later),Receiver,S41-022-A,S41-022,Slide Switch
+SX-1000TA (Later),Receiver,S42-001,S42-001,"Toggle Switches (SPEAKER, FILTER LOW, FILTER HIGH, MUTING, AFC, LOUDNESS, PHONO)"
+SX-1000TA (Later),Receiver,T42-014,T42-014,AM Ferrite Loopstick antenna coil
+SX-1000TA (Later),Receiver,T52-063,T52-063,Power transformer
+SX-1000TA (Later),Receiver,W11-013-B,W11-013,FM Frontend
+SX-1000TA (Later),Receiver,W12-006-D,W12-006,FM IF unit
+SX-1000TA (Later),Receiver,W13-019-0,W13-019,MPX Unit
+SX-1000TA (Later),Receiver,W14-004-C,W14-004,AM Unit
+SX-1000TA (Later),Receiver,W15-005-D,W15-005,Pre amp Unit
+SX-1000TA (Later),Receiver,W15-006-D,W15-006,Control amp Unit
+SX-1000TA (Later),Receiver,W15-007-D,W15-007,Main amp Unit
+SX-1000TA (Later),Receiver,W15-010-0,W15-010,P.T.F Unit
+SX-1000TA (Later),Receiver,W16-006-A,W16-006,Power Supply Unit
+SX-1000TD,Receiver,A11-109-0,A11-109,Knob Selector
+SX-1000TD,Receiver,A11-112-A,A11-112,"Knob. Volume, Balance"
+SX-1000TD,Receiver,A11-115-A,A11-115,"Knob, Mode Output Selector"
+SX-1000TD,Receiver,A11-119-0,A11-119,Knob Tuning
+SX-1000TD,Receiver,A11-135-0,A11-135,"Knob, Bass, Treble (L)"
+SX-1000TD,Receiver,A11-138-0,A11-138,"Knob, Bass, Treble (R)"
+SX-1000TD,Receiver,A31-080-A,A31-080,Dial Pointer
+SX-1000TD,Receiver,A33-065-0,A33-065,Dial Scale
+SX-1000TD,Receiver,A59-030-0,A59-030,Bracket
+SX-1000TD,Receiver,A91-007-0,A91-007,Tuning Meter
+SX-1000TD,Receiver,B11-022-B,B11-022,Screw to fix metal case
+SX-1000TD,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-1000TD,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-1000TD,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-1000TD,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-1000TD,Receiver,C92-022-0,C92-022,1kΩ Left and Right Level Adjust
+SX-1000TD,Receiver,C92-026-0,C92-026,300Ω Auto Level Adjust
+SX-1000TD,Receiver,C92-028-0,C92-028,10k MPX Separation Control
+SX-1000TD,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TD,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TD,Receiver,E21-006-0,E21-006,3A Fuse
+SX-1000TD,Receiver,E21-012-0,E21-012,1.5A Fuse
+SX-1000TD,Receiver,E22-006-0,E22-006,Pilot Lamp 6.3V 150mA
+SX-1000TD,Receiver,E22-011-A,E22-011,Pilot Lamp for FM stereo
+SX-1000TD,Receiver,E22-013-0,E22-013,Pilot Lamp 6.3V 250mA
+SX-1000TD,Receiver,E31-066-A,E31-066,Dial Spring
+SX-1000TD,Receiver,K31-018-0,K31-018,Power Transistor Socket
+SX-1000TD,Receiver,K42-003-0,K42-003,Pilot lamp Socket
+SX-1000TD,Receiver,K72-006-A,K72-006,Head phone jack
+SX-1000TD,Receiver,K73-003-A,K73-003,Outlet for Speaker
+SX-1000TD,Receiver,K82-007-B,K82-007,A.C. Outlet
+SX-1000TD,Receiver,K93-003-B,K93-003,Connector 5p for Tape Recorder
+SX-1000TD,Receiver,M21-224-C,M21-224,Front Panel
+SX-1000TD,Receiver,M33-082-E,M33-082,Metal case
+SX-1000TD,Receiver,M42-009-A,M42-009,Dial Pully
+SX-1000TD,Receiver,M42-027-0,M42-027,Dial Pully (for tuning capacitor)
+SX-1000TD,Receiver,M61-003-0,M61-003,Foot
+SX-1000TD,Receiver,R12-010-C,R12-010,Service manual  SX-1000TD
+SX-1000TD,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR
+SX-1000TD,Receiver,S11-020-0,S11-020,Output Selector
+SX-1000TD,Receiver,S16-037-C,S16-037,Input Setector
+SX-1000TD,Receiver,S16-038-B,S16-038,Mode/Tape Mon Selector
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (AFC)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (HIGH RLTER)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (LOUDNESS)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (LOW RLTER)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (MUTING)
+SX-1000TD,Receiver,S42-001-C,S42-001,Toggle Switch (PHONO)
+SX-1000TD,Receiver,T42-014-A,T42-014,AM Ferrite loopstick Antenna coil
+SX-1000TD,Receiver,T42-025-A,T42-025,Heater choke CON
+SX-1000TD,Receiver,T42-025-A,T42-025,Heater choke CON
+SX-1000TD,Receiver,T52-131-A,T52-131,Power transformer
+SX-1000TD,Receiver,W11-028-0,W11-028,FM Front end
+SX-1000TD,Receiver,W12-020-0,W12-020,FM IF unit
+SX-1000TD,Receiver,W13-021-C,W13-021,MPX unit
+SX-1000TD,Receiver,W14-004-0,W14-004,AM Tuner unit
+SX-1000TD,Receiver,W15-005-D,W15-005,Head amp unit
+SX-1000TD,Receiver,W15-027-A,W15-027,Main amp unit
+SX-1000TD,Receiver,W15-047-B,W15-047,Control amp unit
+SX-1000TD,Receiver,W16-010-0,W16-010,Power Supply unit
+SX-1000TD,Receiver,W52-004-0,W52-004,TAPE REC terminal
+SX-1000TW,Receiver,A11-109-0,A11-109,Knob Selector
+SX-1000TW,Receiver,A11-112-A,A11-112,"Knob, Volume. Balance"
+SX-1000TW,Receiver,A11-115-A,A11-115,"Knob. Mode, Output Selector"
+SX-1000TW,Receiver,A11-119-0,A11-119,Knob Tuning
+SX-1000TW,Receiver,A11-135-0,A11-135,"Knob, Bass. Treble (L)"
+SX-1000TW,Receiver,A11-138-0,A11-138,"Knob, Bass Treble (R)"
+SX-1000TW,Receiver,A31-080-A,A31-080,Dlal Pointer
+SX-1000TW,Receiver,A33-065-0,A33-065,Dlal Scale
+SX-1000TW,Receiver,A59-030-0,A59-030,Bracket
+SX-1000TW,Receiver,A91-007-0,A91-007,Tumng Meter
+SX-1000TW,Receiver,B11-022-E,B11-022,Screw. to fix metal case
+SX-1000TW,Receiver,C64-030-0,C64-030,AM variable capacitor
+SX-1000TW,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-1000TW,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-1000TW,Receiver,C87-018-0,C87-018,100K dual  Bass
+SX-1000TW,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-1000TW,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-1000TW,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TW,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1000TW,Receiver,CA-20-1,CA-20,Wooden case
+SX-1000TW,Receiver,E21-006-0,E21-006,3A Fuse
+SX-1000TW,Receiver,E21-012-0,E21-012,1.5A Fuse
+SX-1000TW,Receiver,E22-006-0,E22-006,Pilot Lamp 6.3V 150mA
+SX-1000TW,Receiver,E22-011-0,E22-011,Pilot lamp for FM Stereo
+SX-1000TW,Receiver,E22-013-0,E22-013,Pilot Lamp 6.3V 250mA
+SX-1000TW,Receiver,E31-066-A,E31-066,Dual Spring
+SX-1000TW,Receiver,K31-018-0,K31-018,Power Transistor Socket
+SX-1000TW,Receiver,K42-003-0,K42-003,Pilot lamp socket
+SX-1000TW,Receiver,K72-006-A,K72-006,Head phone jack
+SX-1000TW,Receiver,K73-003-0,K73-003,Outlet for Speaker
+SX-1000TW,Receiver,K82-007-B,K82-007,A. C. Outlet
+SX-1000TW,Receiver,K93-003-0,K93-003,Connector 5p for Tape Recorder
+SX-1000TW,Receiver,M21-224-C,M21-224,Front Panel
+SX-1000TW,Receiver,M33-086-F,M33-086,Metal Case
+SX-1000TW,Receiver,M42-009-A,M42-009,Dial Pully
+SX-1000TW,Receiver,M42-027-0,M42-027,Dial pully (for tuning capacitor)
+SX-1000TW,Receiver,M61-003-0,M61-003,Foot
+SX-1000TW,Receiver,R12-056-B,R12-056,"Installation, Operation and Service Manual SX-1000TW"
+SX-1000TW,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR
+SX-1000TW,Receiver,S11-020-0,S11-020,Output Selector
+SX-1000TW,Receiver,S16-037-C,S16-037,lnput Selector
+SX-1000TW,Receiver,S16-038-B,S16-038,Mode Selector
+SX-1000TW,Receiver,S42-001-C,S42-001,"Toggle Switch (LOUDNESS, LOW FILTER, HIGH FILTER, MUTING, AFC, PHONO)"
+SX-1000TW,Receiver,T42-014-A,T42-014,AM Ferrite loopstick Antenna coil
+SX-1000TW,Receiver,T42-025-A,T42-025,Heater chock coil
+SX-1000TW,Receiver,T42-025-A,T42-025,Heater chock coil
+SX-1000TW,Receiver,T52-131-A,T52-131,Power transformer
+SX-1000TW,Receiver,W11-028-0,W11-028,FM Front end
+SX-1000TW,Receiver,W12-020-0,W12-020,FM IF unit
+SX-1000TW,Receiver,W13-021-F,W13-021,MPX unit
+SX-1000TW,Receiver,W14-004-0,W14-004,AM Tuner unit
+SX-1000TW,Receiver,W15-089-0,W15-089,Head amp unit
+SX-1000TW,Receiver,W15-090-0,W15-090,Control amp umit
+SX-1000TW,Receiver,W15-091-0,W15-091,Main amp unit
+SX-1000TW,Receiver,W16-010-0,W16-010,Power Supply umt
+SX-1000TW,Receiver,W52-004-0,W52-004,TAPE REC terminal
+SX-1010,Receiver,"2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M","2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M",Transistor
+SX-1010,Receiver,"2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M","2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M",Transistor
+SX-1010,Receiver,"2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M","2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M",Transistor
+SX-1010,Receiver,"2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M","2SA747A-R, O or Y/2SA679S-R or Y/2SB539P-K, L or M",Transistor
+SX-1010,Receiver,"2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M","2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M",Transistor
+SX-1010,Receiver,"2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M","2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M",Transistor
+SX-1010,Receiver,"2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M","2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M",Transistor
+SX-1010,Receiver,"2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M","2SC1116A-R, O or Y/2SC1079S-R or Y/2SD287P-K, L or M",Transistor
+SX-1010,Receiver,AAA-026-0,AAA-026,Knob (Tuning)
+SX-1010,Receiver,AAB-068-A,AAB-068,Knob (Bass-main)
+SX-1010,Receiver,AAB-068-A,AAB-068,"Knob (Treble-main, Volume, Balance)"
+SX-1010,Receiver,AAB-069-A,AAB-069,Knob (Bass-sub)
+SX-1010,Receiver,AAB-069-A,AAB-069,Knob (Treble-sub)
+SX-1010,Receiver,AAC-034-A,AAC-034,Ornamental ring
+SX-1010,Receiver,AAD-040-0,AAD-040,"Knob (Power, Tone, Duplicate, Monitor,4 CH adaptor, NR adaptor)"
+SX-1010,Receiver,AAD-064-A,AAD-064,"Knob (SPKR A,B,C)"
+SX-1010,Receiver,AAD-065-A,AAD-065,"Knob (Low cut, High cut, -20dB)"
+SX-1010,Receiver,AAD-066-A,AAD-066,Knob (Function)
+SX-1010,Receiver,AAD-067-A,AAD-067,"Knob (Mode, Loudness)"
+SX-1010,Receiver,AAD-082-A,AAD-082,"Knob (Dimmer, FM muting)"
+SX-1010,Receiver,AAE-007-0,AAE-007,Coupler (knob-to-switch)
+SX-1010,Receiver,AAF-031-A,AAF-031,Dial pointer
+SX-1010,Receiver,AAG-072-A,AAG-072,Dial scale
+SX-1010,Receiver,AAL-200-A,AAL-200,Model name plate (KCU)
+SX-1010,Receiver,AAL-204-0,AAL-204,Model name plate (F)
+SX-1010,Receiver,AAL-205-0,AAL-205,Model name plate (GN)
+SX-1010,Receiver,AAW-029-0,AAW-029,Meter (Signal Bt tuning)
+SX-1010,Receiver,ABA-010-A,ABA-010,Screw M4X15
+SX-1010,Receiver,ACG-001-0,ACG-001,Ceramic 0.01 250V
+SX-1010,Receiver,ACG-001-0,ACG-001,Ceramic 0.01 250V (F)
+SX-1010,Receiver,ACG-003-0,ACG-003,Ceramic 0.01 250V (KCU)
+SX-1010,Receiver,ACH-001-0,ACH-001,Ceramic 0.01 250V (F)
+SX-1010,Receiver,ACH-037-0,ACH-037,Electrolytic 18000 63V
+SX-1010,Receiver,ACH-037-0,ACH-037,Electrolytic 18000 63V
+SX-1010,Receiver,ACV-130-0,ACV-130,Variable resistor (Bass-main)
+SX-1010,Receiver,ACV-131-0,ACV-131,Variable resistor (Treble-main)
+SX-1010,Receiver,ACV-132-0,ACV-132,Variable resistor (Bass-sub)
+SX-1010,Receiver,ACV-133-0,ACV-133,Variable resistor (Treble-sub)
+SX-1010,Receiver,ACV-134-0,ACV-134,Variable resistor 250k-B1 (Volume)
+SX-1010,Receiver,ACV-135-0,ACV-135,Variable resistor 250k-HB (Balance)
+SX-1010,Receiver,ADG-005-A,ADG-005,"AC power cord (KCU, F)"
+SX-1010,Receiver,AEB-019-0,AEB-019,P.C. board holder
+SX-1010,Receiver,AEB-031-0,AEB-031,Rubber bracket
+SX-1010,Receiver,AEB-057-A,AEB-057,Rubber bracket
+SX-1010,Receiver,AEB-058-A,AEB-058,Rubber bracket
+SX-1010,Receiver,AEC-004-0,AEC-004,Wire clip
+SX-1010,Receiver,AEC-027-B,AEC-027,Foot
+SX-1010,Receiver,AEC-064-0,AEC-064,Wire clip
+SX-1010,Receiver,AEC-079-0,AEC-079,"AC cord grommet (KCU, F)"
+SX-1010,Receiver,AEC-085-0,AEC-085,Nut (insulator)
+SX-1010,Receiver,AEC-101-0,AEC-101,Pulley
+SX-1010,Receiver,AEC-151-0,AEC-151,Wire supporter
+SX-1010,Receiver,AEC-152-A,AEC-152,Spacer
+SX-1010,Receiver,AEC-153-0,AEC-153,Pulley
+SX-1010,Receiver,AEC-160-0,AEC-160,Bush
+SX-1010,Receiver,AED-018-0,AED-018,Shading plate
+SX-1010,Receiver,AEL-014-0,AEL-014,"Pilot lamp 6V, 30mA (stereo indicator)"
+SX-1010,Receiver,AEL-015-0,AEL-015,"Pilot lamp 8V, 0.3A (meter)"
+SX-1010,Receiver,AEL-023-0,AEL-023,Pilot lamp 8V 50 mA (Position)
+SX-1010,Receiver,AKA-002-0,AKA-002,Antenna terminal board
+SX-1010,Receiver,AKB-014-0,AKB-014,Phono jack-A (4 jacks)
+SX-1010,Receiver,AKB-017-0,AKB-017,Phono jack-B (6 jacks)
+SX-1010,Receiver,AKB-019-0,AKB-019,Phono jack (1 jack)
+SX-1010,Receiver,AKE-012-A,AKE-012,Binding post for ground
+SX-1010,Receiver,AKE-014-0,AKE-014,Speaker output terminal
+SX-1010,Receiver,AKK-002-0,AKK-002,Pilot lamp socket
+SX-1010,Receiver,AKP-005-0,AKP-005,"AC socket (KCU, F)"
+SX-1010,Receiver,AKP-008-0,AKP-008,Connector (AC Power) (GN)
+SX-1010,Receiver,AKR-001-0,AKR-001,Fuse holder (AC power) (F)
+SX-1010,Receiver,AKR-012-0,AKR-012,Fuse holder (AC power) (KCU)
+SX-1010,Receiver,AMM-034-A,AMM-034,Wooden cabinet assembly
+SX-1010,Receiver,ANA-067-C,ANA-067,Chassis
+SX-1010,Receiver,ANB-255-B,ANB-255,Front panel assembly
+SX-1010,Receiver,ANC-105-B,ANC-105,Rear panel (KCU)
+SX-1010,Receiver,ANC-111-0,ANC-111,Rear panel (F)
+SX-1010,Receiver,ANC-113-0,ANC-113,Rear panel (GN)
+SX-1010,Receiver,AND-072-A,AND-072,Sub-chassis
+SX-1010,Receiver,AND-073-B,AND-073,Sub-panel
+SX-1010,Receiver,ANE-056-0,ANE-056,Bottom plate
+SX-1010,Receiver,ANF-231-0,ANF-231,Heat sink-held metal
+SX-1010,Receiver,ANF-232-0,ANF-232,Heat sink-held metal
+SX-1010,Receiver,ANF-242-A,ANF-242,Sub-chassis
+SX-1010,Receiver,ANF-243-A,ANF-243,Dial scale-held metal
+SX-1010,Receiver,ANF-244-A,ANF-244,Tuner assernbly-held metal
+SX-1010,Receiver,ANF-249-0,ANF-249,Shading metal
+SX-1010,Receiver,ANG-097-0,ANG-097,Lamp holder
+SX-1010,Receiver,ANG-099-0,ANG-099,Lamp holder
+SX-1010,Receiver,ANG-100-0,ANG-100,P.C. board cover
+SX-1010,Receiver,ANG-102-A,ANG-102,Pulley-held metal
+SX-1010,Receiver,ANH-205-0,ANH-205,Heat sink
+SX-1010,Receiver,ANH-206-0,ANH-206,Shield cover
+SX-1010,Receiver,ANH-208-A,ANH-208,Shield cover
+SX-1010,Receiver,ANH-210-A,ANH-210,Lamp box
+SX-1010,Receiver,ANH-211-B,ANH-211,Lamp Box
+SX-1010,Receiver,ANH-212-0,ANH-212,Shield cover
+SX-1010,Receiver,ANH-213-A,ANH-213,Shield cover
+SX-1010,Receiver,ASG-064-0,ASG-064,"Push switch (dimmer, FM muting)"
+SX-1010,Receiver,ASK-070-0,ASK-070,Lever switch (Tone)
+SX-1010,Receiver,ASK-072-0,ASK-072,Lever switch (4 CH adaptor)
+SX-1010,Receiver,ASK-072-0,ASK-072,Lever switch (Duplicate)
+SX-1010,Receiver,ASK-072-0,ASK-072,Lever switch (NR adaptor)
+SX-1010,Receiver,ASK-072-0,ASK-072,Lever switch (Tape 1)
+SX-1010,Receiver,ASK-072-0,ASK-072,Lever switch (Tape 2)
+SX-1010,Receiver,ASK-080-0,ASK-080,Lever switch (Power) (KCU)
+SX-1010,Receiver,ASK-081-0,ASK-081,"Lever switch (Power) (F, GN)"
+SX-1010,Receiver,ASR-002-0,ASR-002,Relay
+SX-1010,Receiver,ATB-027-0,ATB-027,Ferrite loopstick antenna
+SX-1010,Receiver,ATT-166-A,ATT-166,Power transformer (KCU)
+SX-1010,Receiver,ATT-174-0,ATT-174,Power transformer (F)
+SX-1010,Receiver,ATT-179-0,ATT-179,Power transformer (GN)
+SX-1010,Receiver,AWB-017-0,AWB-017,FM front end
+SX-1010,Receiver,AWE-040-0,AWE-040,Tuner assembly
+SX-1010,Receiver,AWF-013-0,AWF-013,Equalizer ampliﬁer assembly
+SX-1010,Receiver,AWG-027-0,AWG-027,Control ampliﬁer assembly
+SX-1010,Receiver,AWH-032-0,AWH-032,Power amplifier assembly
+SX-1010,Receiver,AWM-039-A,AWM-039,Muting circuit assembly
+SX-1010,Receiver,AWM-062-0,AWM-062,Protection circuit assembly
+SX-1010,Receiver,AWR-053-0,AWR-053,Power supply circuit assembly (KCU. F)
+SX-1010,Receiver,AWR-054-A,AWR-054,Power supply circuit assembly
+SX-1010,Receiver,AWR-063-0,AWR-063,Power supply circuit assembly (GN)
+SX-1010,Receiver,AWS-064-0,AWS-064,Switch circuit assembly (speaker)
+SX-1010,Receiver,AWS-068-0,AWS-068,Switch circuit assembly (dirnmer)
+SX-1010,Receiver,AWS-069-A,AWS-069,Switch circuit assembly (function)
+SX-1010,Receiver,AWS-070-A,AWS-070,"Switch circuit assembly (mode, loudness)"
+SX-1010,Receiver,AWS-071-0,AWS-071,"Switch circuit assembly (filter, -20dB)"
+SX-1010,Receiver,AWS-072-0,AWS-072,Switch circuit assembly
+SX-1010,Receiver,AWX-062-0,AWX-062,5P connector assembly
+SX-1010,Receiver,AWX-069-0,AWX-069,Lamp board assembly
+SX-1010,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-1010,Receiver,AXA-056-0,AXA-056,Tuning shaft assembly
+SX-1010,Receiver,B21-011-0,B21-011,Washer
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CKDYF 1032 50,CKDYF 1032 50,Ceramic 0.01 50V
+SX-1010,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+SX-1010,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+SX-1010,Receiver,E22-032-0,E22-032,"Pilot lamp 8V, 0.3A (dial scale)"
+SX-1010,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-1010,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+SX-1010,Receiver,K72-024-0,K72-024,Phone jack (Microphone)
+SX-1010,Receiver,K72-026-0,K72-026,Phone jack (Headphone)
+SX-1010,Receiver,M49-025-E,M49-025,Pulley shaft
+SX-1010,Receiver,PS2P 332J,PS2P 332J,Metal oxide 3.3k 2W
+SX-1010,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KCU)
+SX-1010,Receiver,RS2P 332J,RS2P 332J,Metal oxide 3.3k 2W
+SX-1010,Receiver,W72-092-0,W72-092,Ferrite antenna holder assembly
+SX-1050,Receiver,2SB539C-S,2SB539C,Transistor
+SX-1050,Receiver,2SB539C-S,2SB539C,Transistor
+SX-1050,Receiver,2SB539C-S,2SB539C,Transistor
+SX-1050,Receiver,2SB539C-S,2SB539C,Transistor
+SX-1050,Receiver,2SD287C-S,2SD287C,Transistor
+SX-1050,Receiver,2SD287C-S,2SD287C,Transistor
+SX-1050,Receiver,2SD287C-S,2SD287C,Transistor
+SX-1050,Receiver,2SD287C-S,2SD287C,Transistor
+SX-1050,Receiver,AAA-034,AAA-034,Knob (TUNING)
+SX-1050,Receiver,AAB-100,AAB-100,Knob (BALANCE)
+SX-1050,Receiver,AAB-100,AAB-100,Knob (BASS 100HZ)
+SX-1050,Receiver,AAB-100,AAB-100,Knob (BASS 50Hz)
+SX-1050,Receiver,AAB-100,AAB-100,Knob (TREBLE 10kHz)
+SX-1050,Receiver,AAB-100,AAB-100,Knob (TREBLE 20kHz)
+SX-1050,Receiver,AAB-104,AAB-104,Knob (VOLUME)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (ADAPTOR)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (LOUDNESS)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (MODE)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (MUTING)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (POWER)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (TAPE DUPLICATE)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (TAPE MONITOR 1)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (TAPE MONITOR 2)
+SX-1050,Receiver,AAD-113,AAD-113,Knob (TONE)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (AM)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (AUX)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (FILTER 80HZ)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (FILTER 8kHz)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (FM MULTIPATH)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (FM MUTING OFF)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (FM)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (PHONO 1)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (PHONO 2/MIC)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (SPEAKERS A)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (SPEAKERS B)
+SX-1050,Receiver,AAD-114,AAD-114,Knob (SPEAKERS C)
+SX-1050,Receiver,AAF-051,AAF-051,Dial pointer
+SX-1050,Receiver,AAG-105,AAG-105,Dial panel
+SX-1050,Receiver,AAT-025,AAT-025,Shaft cover
+SX-1050,Receiver,AAW-040,AAW-040,Double meter (SIGNAL/TUNING)
+SX-1050,Receiver,ABN-024,ABN-024,Washer faced nut 9ɸ
+SX-1050,Receiver,ACG-003,ACG-003,Ceramic 0.01 150V
+SX-1050,Receiver,ACG-003,ACG-003,Ceramic 0.01 150V
+SX-1050,Receiver,ACH-056,ACH-056,Electrolytic 22000 80V
+SX-1050,Receiver,ACH-056,ACH-056,Electrolytic 22000 80V
+SX-1050,Receiver,ACK-016,ACK-016,Tuning Capacitor
+SX-1050,Receiver,ACV-163,ACV-163,Variable resistor (BALANCE) 100kΩ-HB
+SX-1050,Receiver,ACV-165,ACV-165,Variable resistor (BASS 50Hz) 102kΩ
+SX-1050,Receiver,ACV-166,ACV-166,Variable resistor (BASS 100Hz) 102.6kΩ
+SX-1050,Receiver,ACV-167,ACV-167,Variable resistor (TREBLE 10kHz) 99kΩ
+SX-1050,Receiver,ACV-168,ACV-168,Variable resistor (TREBLE 20kHz) 102kΩ
+SX-1050,Receiver,ACV-169,ACV-169,Variable resistor (VOLUME) 50kΩ
+SX-1050,Receiver,ADG-013,ADG-013,AC power cord
+SX-1050,Receiver,AEK-104,AEK-104,Fuse 1.5A
+SX-1050,Receiver,AEK-106,AEK-106,Fuse 1A
+SX-1050,Receiver,AEK-106,AEK-106,Fuse 1A (FU1~FU4)
+SX-1050,Receiver,AEK-302,AEK-302,Fuse 10A
+SX-1050,Receiver,AEL-056,AEL-056,PL1 Lamp assembly 8V
+SX-1050,Receiver,AEL-056,AEL-056,PL2 Lamp assembly 8V
+SX-1050,Receiver,AEL-056,AEL-056,PL3 Lamp assembly 8V
+SX-1050,Receiver,AEL-056,AEL-056,PL4 Lamp assembly 8V
+SX-1050,Receiver,AEL-069,AEL-069,PL13 Lamp with wire 8V
+SX-1050,Receiver,AEL-072,AEL-072,PL11 Lamp with wire 8V
+SX-1050,Receiver,AEL-072,AEL-072,PL6 Lamp with wire 8V
+SX-1050,Receiver,AEL-073,AEL-073,PL12 Lamp with wire 8V
+SX-1050,Receiver,AEL-073,AEL-073,PL7 Lamp with wire 8V
+SX-1050,Receiver,AEL-074,AEL-074,PL10 Lamp with wire 8V
+SX-1050,Receiver,AEL-074,AEL-074,PL5 Lamp with wire 8V
+SX-1050,Receiver,AEL-075,AEL-075,PL9 Lamp with wire 8V
+SX-1050,Receiver,AEL-076,AEL-076,PL8 Lamp with wire 8v
+SX-1050,Receiver,AKA-004,AKA-004,Terminal (ANTENNA)
+SX-1050,Receiver,AKB-019,AKB-019,Terminal (FM DET.OUT)
+SX-1050,Receiver,AKB-030,AKB-030,Terminal (ADAPTOR)
+SX-1050,Receiver,AKB-030,AKB-030,Terminal (PRE/POWER AMP)
+SX-1050,Receiver,AKB-030,AKB-030,Terminal (TAPE 1)
+SX-1050,Receiver,AKB-030,AKB-030,Terminal (TAPE 2)
+SX-1050,Receiver,AKB-033,AKB-033,Terminal (INPUT)
+SX-1050,Receiver,AKE-012,AKE-012,Terminal (GND)
+SX-1050,Receiver,AKE-014,AKE-014,Terminal (SPEAKERS)
+SX-1050,Receiver,AKH-031,AKH-031,Voltage selector switch (S)
+SX-1050,Receiver,AKM-004,AKM-004,Jumper plug
+SX-1050,Receiver,AKN-010,AKN-010,Phone jack (PHONES)
+SX-1050,Receiver,AKN-013,AKN-013,Phone jack (MIC)
+SX-1050,Receiver,AKP-005,AKP-005,AC socket (AC OUTLETS)
+SX-1050,Receiver,AKP-007,AKP-007,REC-PB connector socket (5P)
+SX-1050,Receiver,AMM-050,AMM-050,Cabinet
+SX-1050,Receiver,ANB-388,ANB-388,Front panel assembly
+SX-1050,Receiver,ASG-094,ASG-094,Push switch (SPEAKERS)
+SX-1050,Receiver,ASG-095,ASG-095,Push switch (FUNCTION)
+SX-1050,Receiver,ASG-098,ASG-098,Push switch (FILTER / FM MUTING / MULTIPATH)
+SX-1050,Receiver,ASH-015,ASH-015,Slide switch (DE-EMPHASIS)
+SX-1050,Receiver,ASK-080,ASK-080,Lever switch (POWER)
+SX-1050,Receiver,ASK-080,ASK-080,Lever switch-POWER (S)
+SX-1050,Receiver,ASK-090,ASK-090,Lever switch (ADAPTOR)
+SX-1050,Receiver,ASK-090,ASK-090,Lever switch (LOUDNESS)
+SX-1050,Receiver,ASK-090,ASK-090,Lever switch (MODE)
+SX-1050,Receiver,ASK-090,ASK-090,Lever switch (MUTING)
+SX-1050,Receiver,ASK-090,ASK-090,Lever switch (TAPE MONITOR 1)
+SX-1050,Receiver,ASK-090,ASK-090,Lever switch (TAPE MONITOR 2)
+SX-1050,Receiver,ASK-090,ASK-090,Lever switch (TONE)
+SX-1050,Receiver,ASK-092,ASK-092,Lever switch (TAPE DUPLICATE)
+SX-1050,Receiver,ASR-015,ASR-015,Relay
+SX-1050,Receiver,ASR-015,ASR-015,Relay (S)
+SX-1050,Receiver,ATB-050,ATB-050,Ferrite bar-antenna
+SX-1050,Receiver,ATT-266,ATT-266,Power transformer
+SX-1050,Receiver,ATT-290,ATT-290,Power transformer (S)
+SX-1050,Receiver,AWE-067,AWE-067,Tuner assembly
+SX-1050,Receiver,AWF-020,AWF-020,Equalizer amplifier assembly
+SX-1050,Receiver,AWG-040,AWG-040,Flat amplifier assembly
+SX-1050,Receiver,AWG-041,AWG-041,Control amplifier assembly
+SX-1050,Receiver,AWH-047,AWH-047,Power amplifier assembly
+SX-1050,Receiver,AWM-089,AWM-089,Filter amplifier assembly
+SX-1050,Receiver,AWM-090,AWM-090,Protection Assembly
+SX-1050,Receiver,AWR-103,AWR-103,Power supply assembly-A
+SX-1050,Receiver,AWR-104,AWR-104,Power supply assembly-B
+SX-1050,Receiver,AWS-094,AWS-094,Function switch assembly
+SX-1050,Receiver,AWS-095,AWS-095,Speaker switch assembly
+SX-1050,Receiver,AWX-098,AWX-098,Surge current suppressor assembly
+SX-1050,Receiver,AWX-099,AWX-099,De-emphasis SW Assembly (KCU model)
+SX-1050,Receiver,AWX-101,AWX-101,De-emphasis SW Assembly (S model)
+SX-1050,Receiver,AXA-111,AXA-111,Tuning shaft assembly
+SX-1050,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+SX-1050,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+SX-1050,Receiver,T22-025,T22-025,Ferrite balun (S)
+SX-1050,Receiver,W72-092,W72-092,Bar-antenna holder
+SX-1080,Receiver,2SB701/A/-5 or C,2SB701/A/-5 or C,Transistor
+SX-1080,Receiver,2SB701/A/-B or C,2SB701/A/-B or C,Transistor
+SX-1080,Receiver,2SB701/A/-B or C,2SB701/A/-B or C,Transistor
+SX-1080,Receiver,2SB701/A/-B or C,2SB701/A/-B or C,Transistor
+SX-1080,Receiver,2SD737/A/-B or C,2SD737/A/-B or C,Transistor
+SX-1080,Receiver,2SD737/A/-B Or C,2SD737/A/-B Or C,Transistor
+SX-1080,Receiver,2SD737/A/-B Or C,2SD737/A/-B Or C,Transistor
+SX-1080,Receiver,2SD737/A/-B or C,2SD737/A/-B or C,Transistor
+SX-1080,Receiver,AAA-047,AAA-047,Knob (TUNING)
+SX-1080,Receiver,AAB-174,AAB-174,Knob (VOLUME)
+SX-1080,Receiver,AAB-175,AAB-175,Knob (BASS)
+SX-1080,Receiver,AAB-175,AAB-175,Knob (TREBLE)
+SX-1080,Receiver,AAB-176,AAB-176,Knob (BALANCE)
+SX-1080,Receiver,AAD-138,AAD-138,"Lever knob (DUPLICATE, MONITOR 1, 2,MODE, LOUDNESS)"
+SX-1080,Receiver,AAD-138,AAD-138,Lever knob (MUTING)
+SX-1080,Receiver,AAD-138,AAD-138,Lever knob (TONE)
+SX-1080,Receiver,AAD-139,AAD-139,Lever knob assembly (POWER)
+SX-1080,Receiver,AAD-140,AAD-140,"Push knob (FM, AM, AUX, PHONO 2,MIC, PHONO 1)"
+SX-1080,Receiver,AAD-140,AAD-140,"Push knob (SPEAKERS, FILTER, FM)"
+SX-1080,Receiver,AAF-065,AAF-065,Dial pointer assembly
+SX-1080,Receiver,AAW-074,AAW-074,Power meter
+SX-1080,Receiver,AAW-075,AAW-075,Double meter
+SX-1080,Receiver,ACG-001,ACG-001,Ceramic  0.01  250V
+SX-1080,Receiver,ACG-003,ACG-003,Ceramic  0.01  125V
+SX-1080,Receiver,ACH-085,ACH-085,Electrolytic  22000  71V
+SX-1080,Receiver,ACH-085,ACH-085,Electrolytic  22000  71V
+SX-1080,Receiver,ACK-022,ACK-022,Tuning Capacitor
+SX-1080,Receiver,ACV-136,ACV-136,"Variable resistor (BASS, TREBLE)"
+SX-1080,Receiver,ACV-162,ACV-162,Variable resistor (VOLUME)
+SX-1080,Receiver,ACV-190,ACV-190,Variable resistor (BALANCE)
+SX-1080,Receiver,ADG-013,ADG-013,Power cord
+SX-1080,Receiver,AEK-104,AEK-104,FUSE (1.5A)
+SX-1080,Receiver,AEK-106,AEK-106,Fuse (1A)
+SX-1080,Receiver,AEK-106,AEK-106,Fuse (1A)
+SX-1080,Receiver,AEK-106,AEK-106,Fuse (IA)
+SX-1080,Receiver,AEK-106,AEK-106,Fuse (IA)
+SX-1080,Receiver,AEK-302,AEK-302,FUSE (10A)
+SX-1080,Receiver,AEL-029,AEL-029,Wedge typa pilot lamp (Dial scale)
+SX-1080,Receiver,AEL-029,AEL-029,Wedge type pilot lamp (Dial scale)
+SX-1080,Receiver,AEL-029,AEL-029,Wedge type pilot lamp (Dial scale)
+SX-1080,Receiver,AEL-067,AEL-067,Piiot lamp with wire (AM)
+SX-1080,Receiver,AEL-067,AEL-067,Pilot lamp with wire (AUX)
+SX-1080,Receiver,AEL-067,AEL-067,Pilot lamp with wire (PHONO)
+SX-1080,Receiver,AEL-069,AEL-069,Pilot lamp with wire (FM)
+SX-1080,Receiver,AEL-069,AEL-069,Pilot lamp with wire (STEREO IND.)
+SX-1080,Receiver,AKA-002,AKA-002,Antenna terminal
+SX-1080,Receiver,AKB-035,AKB-035,4P pin-jack
+SX-1080,Receiver,AKE-031,AKE-031,Terminal (GND)
+SX-1080,Receiver,AKM-004,AKM-004,Jumper plug
+SX-1080,Receiver,AKN-010,AKN-010,Headphones jack
+SX-1080,Receiver,AKN-012,AKN-012,MIC jack
+SX-1080,Receiver,AKP-005,AKP-005,AC socket
+SX-1080,Receiver,AMM-066,AMM-066,Wooden Bonnet
+SX-1080,Receiver,ANB-543,ANB-543,Front panel assembly
+SX-1080,Receiver,ANR-020,ANR-020,Acrylic board
+SX-1080,Receiver,ASE-105,ASE-105,"Rotary slide switch (BASS, TURNOVER)"
+SX-1080,Receiver,ASE-106,ASE-106,"Rotary slide switch (TREBLE, TURNOVER)"
+SX-1080,Receiver,ASG-126,ASG-126,"Push switch (FM, AM, AUX,PHONO 2/MIC, PHONO 1)"
+SX-1080,Receiver,ASG-128,ASG-128,"Push switch (FILTER, FM)"
+SX-1080,Receiver,ASG-133,ASG-133,Push switch (SPEAKERS)
+SX-1080,Receiver,ASK-080,ASK-080,Lever Switch (POWER)
+SX-1080,Receiver,ASK-144,ASK-144,Lever switch (MUTING)
+SX-1080,Receiver,ASK-144,ASK-144,"Lever switch (TAPE, MODE, LOUDNESS)"
+SX-1080,Receiver,ASK-145,ASK-145,Lever switch (DUPLlCATE)
+SX-1080,Receiver,ASR-046,ASR-046,Relay
+SX-1080,Receiver,ATB-505,ATB-505,Bar antenna
+SX-1080,Receiver,ATT-448,ATT-448,Power transformer
+SX-1080,Receiver,AWE-092,AWE-092,Tuner assembly
+SX-1080,Receiver,AWG-056,AWG-056,Tone control assembly
+SX-1080,Receiver,AWH-071,AWH-071,Power amplifier assembly
+SX-1080,Receiver,AWM-120,AWM-120,Protection and surge killer assembly
+SX-1080,Receiver,AWR-152,AWR-152,Power supply assernbly
+SX-1080,Receiver,AWT-001,AWT-001,Filter assembly
+SX-1080,Receiver,AWX-125,AWX-125,Power transistor connector assembly
+SX-1080,Receiver,AXA-180,AXA-180,Dial shaft assembly
+SX-1080,Receiver,AXB-012,AXB-012,Bar antenna holder
+SX-1080,Receiver,CEA  010P 80,CEA  010P 80,Electrolytic  1  80V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,CKDBC 104Z 25,CKDBC 104Z 25,Ceramic  0.1  25V
+SX-1080,Receiver,GWG-112,GWG-112,Flat amplifier assembly
+SX-1080,Receiver,GWS-124,GWS-124,Speaker switch assembly
+SX-1080,Receiver,GWS-125,GWS-125,Function and equalizer assembly
+SX-1080,Receiver,GWS-126,GWS-126,Input terminal assembly
+SX-1080,Receiver,GWS-127,GWS-127,Input terminal essembly
+SX-1080,Receiver,GWS-128,GWS-128,Speaker terminal assembly
+SX-1080,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W
+SX-1080,Receiver,RS 2P 122J,RS 2P 122J,Metal dxide 1.2k 2W
+SX-1080,Receiver,RS 2P 122J,RS 2P 122J,Metal oxide 1.2k 2W
+SX-1080,Receiver,T22-025,T22-025,Balun transformer
+SX-1080,Receiver,T24-030,T24-030,Ferry inductor
+SX-1250,Receiver,2SB600-R,2SB600,Transistor
+SX-1250,Receiver,2SB600-R,2SB600,Transistor
+SX-1250,Receiver,2SB600-R,2SB600,Transistor
+SX-1250,Receiver,2SB600-R,2SB600,Transistor
+SX-1250,Receiver,2SD555-R,2SD555,Transistor
+SX-1250,Receiver,2SD555-R,2SD555,Transistor
+SX-1250,Receiver,2SD555-R,2SD555,Transistor
+SX-1250,Receiver,2SD555-R,2SD555,Transistor
+SX-1250,Receiver,AAA-034,AAA-034,Knob (TUNING)
+SX-1250,Receiver,AAB-100,AAB-100,Knob (BALANCE)
+SX-1250,Receiver,AAB-100,AAB-100,"Knob (BASS 50Hz, 100Hz)"
+SX-1250,Receiver,AAB-100,AAB-100,"Knob (TREBLE 10kHz, 20kHz)"
+SX-1250,Receiver,AAB-104,AAB-104,Knob (VOLUME)
+SX-1250,Receiver,AAD-113,AAD-113,"Knob (MUTING, LOUDNESS, MODE)"
+SX-1250,Receiver,AAD-113,AAD-113,"Knob (POWER, TONE, ADAPTOR)"
+SX-1250,Receiver,AAD-113,AAD-113,"Knob (TAPE DUPLICATE, MONITOR)"
+SX-1250,Receiver,AAD-114,AAD-114,"Knob (AM FM PHONO 1 PHONO 2/MIC,AUX)"
+SX-1250,Receiver,AAD-114,AAD-114,"Knob (FILTER 30HZ, 8kHz)"
+SX-1250,Receiver,AAD-114,AAD-114,"Knob (FM MULTIPATH, MUTING)"
+SX-1250,Receiver,AAD-114,AAD-114,"Knob (SPEAKERS A, B, C)"
+SX-1250,Receiver,AAF-051,AAF-051,Dial pointer
+SX-1250,Receiver,AAG-106,AAG-106,Dial scale board
+SX-1250,Receiver,AAW-040,AAW-040,Double meter (SIGNAL/TUNING)
+SX-1250,Receiver,ABN-024,ABN-024,Washer faced nut
+SX-1250,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V (HG/S)
+SX-1250,Receiver,ACG-003,ACG-003,Ceramic 0.01 150V  DC 1.4kV (KCU)
+SX-1250,Receiver,ACG-003,ACG-003,Ceramic 0.01 150V  DC 1.4kV (KCU)
+SX-1250,Receiver,ACG-003,ACG-003,"Ceramic, 0.01 uf, 150V(DC1.4kV)"
+SX-1250,Receiver,ACG-003,ACG-003,"Ceramic, 0.01 uf, 150V(DC1.4kV)"
+SX-1250,Receiver,ACH-056,ACH-056,"Electrolytic, 22000 uf, 80V"
+SX-1250,Receiver,ACH-056,ACH-056,"Electrolytic, 22000 uf, 80V"
+SX-1250,Receiver,ACH-056,ACH-056,"Electrolytic, 22000 uf, 80V"
+SX-1250,Receiver,ACH-056,ACH-056,"Electrolytic, 22000 uf, 80V"
+SX-1250,Receiver,ACV-163,ACV-163,Variable (100k-HB BALANCE)
+SX-1250,Receiver,ACV-165,ACV-165,"Variable resistor (102k, 5-step, BASS 50Hz)"
+SX-1250,Receiver,ACV-166,ACV-166,"Variable resistor (102.6k, 11-step, BASS 100Hz)"
+SX-1250,Receiver,ACV-167,ACV-167,"Variable resistor (99k,11-step,TREBLE 10kHz)"
+SX-1250,Receiver,ACV-168,ACV-168,"Variable resistor (102k, 5-step, TREBLE 20kHz)"
+SX-1250,Receiver,ACV-169,ACV-169,Variable (50k-B2 VOLUME)
+SX-1250,Receiver,ADG-013,ADG-013,AC powercord (KCU)
+SX-1250,Receiver,ADG-015,ADG-015,AC powercord (S)
+SX-1250,Receiver,AEK-104,AEK-104,1.5A Lamp circuits (KCU)
+SX-1250,Receiver,AEK-104,AEK-104,1.5A Lamp circuits (S)
+SX-1250,Receiver,AEK-104,AEK-104,Fuse 1.5A
+SX-1250,Receiver,AEK-106,AEK-106,1A Fuse Secondary (KCU)
+SX-1250,Receiver,AEK-106,AEK-106,1A Fuse Secondary (S)
+SX-1250,Receiver,AEK-106,AEK-106,Fuse 1A
+SX-1250,Receiver,AEK-106,AEK-106,Fuse 1A
+SX-1250,Receiver,AEK-106,AEK-106,Fuse 1A
+SX-1250,Receiver,AEK-106,AEK-106,Fuse 1A
+SX-1250,Receiver,AEK-109,AEK-109,6A Primary voltage : 220V/240V (S)
+SX-1250,Receiver,AEK-301,AEK-301,12A Primary voltage : 110V/120V (KCU)
+SX-1250,Receiver,AEK-301,AEK-301,12A Primary voltage : 110V/120V (S)
+SX-1250,Receiver,AEK-301,AEK-301,Fuse 12A (primary)
+SX-1250,Receiver,AEK-402,AEK-402,1A Fuse Secondary (HG)
+SX-1250,Receiver,AEK-404,AEK-404,6.3A Primary voltage : 220V/240V (HG)
+SX-1250,Receiver,AEK-405,AEK-405,1.6A Lamp circuits (HG)
+SX-1250,Receiver,AEL-056,AEL-056,"Lamp assembly (8V, 0.3A)"
+SX-1250,Receiver,AEL-056,AEL-056,"Lamp assembly (8V, 0.3A)"
+SX-1250,Receiver,AEL-056,AEL-056,"Lamp assembly (8V, 0.3Al"
+SX-1250,Receiver,AEL-056,AEL-056,"Lamp assembly (8V, 0.3A]"
+SX-1250,Receiver,AEL-069,AEL-069,"Lamp with leads (8V, 50mA, STEREO)"
+SX-1250,Receiver,AEL-072,AEL-072,"Lamp with leads (8V, 50mA, PH-2)"
+SX-1250,Receiver,AEL-072,AEL-072,"Lamp with leads (8V, 50mA, SP-B)"
+SX-1250,Receiver,AEL-073,AEL-073,"Lamp with leads (8V, 50mA, AUX)"
+SX-1250,Receiver,AEL-073,AEL-073,"Lamp with leads (8V, 50mA, SP-C)"
+SX-1250,Receiver,AEL-074,AEL-074,"Lamp with leads (8V, 50mA, PH-1)"
+SX-1250,Receiver,AEL-074,AEL-074,"Lamp with leads (8V, 50mA, SP-A)"
+SX-1250,Receiver,AEL-075,AEL-075,"Lamp with leads (8V, 50mA, FM)"
+SX-1250,Receiver,AEL-076,AEL-076,"Lamp with leads (8V, 50mA, AM)"
+SX-1250,Receiver,AKA-004,AKA-004,Terminal (ANTENNA)
+SX-1250,Receiver,AKB-019,AKB-019,Terminal (FM DET OUT)
+SX-1250,Receiver,AKB-030,AKB-030,Terminal (ADAPTOR)
+SX-1250,Receiver,AKB-030,AKB-030,Terminal (PRE/POWER AMP)
+SX-1250,Receiver,AKB-030,AKB-030,Terminal (TAPE 1)
+SX-1250,Receiver,AKB-030,AKB-030,Terminal (TAPE 2)
+SX-1250,Receiver,AKB-033,AKB-033,Terminal (INPUT)
+SX-1250,Receiver,AKE-012,AKE-012,Terminal (GND)
+SX-1250,Receiver,AKE-014,AKE-014,Terminal (SPEAKERS)
+SX-1250,Receiver,AKN-010,AKN-010,Phone Jack (PHONES)
+SX-1250,Receiver,AKN-013,AKN-013,Phone jack (MIC)
+SX-1250,Receiver,AKP-005,AKP-005,AC socket (OUTLET) (KCU/S)
+SX-1250,Receiver,AKP-007,AKP-007,Connector socket SP (REC/PLAY)
+SX-1250,Receiver,AKP-008,AKP-008,AC socket (INLET) (HG)
+SX-1250,Receiver,AKR-031,AKR-031,Plug in selector (S) Line voltage selector 4-position with fuse holder
+SX-1250,Receiver,AKX-037,AKX-037,Plug in selector (HG) Line voltage selector 2-position
+SX-1250,Receiver,AMM-049,AMM-049,Cabinet
+SX-1250,Receiver,ANB-386,ANB-386,Front panel assembly
+SX-1250,Receiver,ARB-164,ARB-164,Operating instructions-English SX-1250 (KCU)
+SX-1250,Receiver,ARB-168,ARB-168,Operating instructions-English SX-1250 (S)
+SX-1250,Receiver,ARB-171,ARB-171,Operating instructions-English SX-1250 (HG)
+SX-1250,Receiver,ARD-089,ARD-089,Operating instructions-German/French SX-1250 (HG)
+SX-1250,Receiver,ASG-094,ASG-094,Push switch (SPEAKERS)
+SX-1250,Receiver,ASG-095,ASG-095,Push switch (FUNCTION)
+SX-1250,Receiver,ASG-098,ASG-098,"Push switch (LOW FILTER, HIGH FILTER, MULTIPATH, FM MUTING)"
+SX-1250,Receiver,ASH-015-0,ASH-015,Slide switch (DE-EMPHASIS)
+SX-1250,Receiver,ASK-080,ASK-080,Lever switch POWER (KCU)
+SX-1250,Receiver,ASK-084,ASK-084,Lever switch (DUPLICATE)
+SX-1250,Receiver,ASK-090,ASK-090,Lever switch (LOUDNESS)
+SX-1250,Receiver,ASK-090,ASK-090,Lever switch (MODE)
+SX-1250,Receiver,ASK-090,ASK-090,Lever switch (MUTING)
+SX-1250,Receiver,ASK-092,ASK-092,Lever switch (ADAPTOR)
+SX-1250,Receiver,ASK-092,ASK-092,Lever switch (MONITOR 1)
+SX-1250,Receiver,ASK-092,ASK-092,Lever switch (MONITOR 2)
+SX-1250,Receiver,ASK-099,ASK-099,Lever switch POWER (S)
+SX-1250,Receiver,ASK-105,ASK-105,Lever switch POWER (HG)
+SX-1250,Receiver,ASR-010,ASR-010,Relay
+SX-1250,Receiver,ASR-015,ASR-015,Relay
+SX-1250,Receiver,ATB-051,ATB-051,Ferrite bar-antenna
+SX-1250,Receiver,ATT-267,ATT-267,Power Transformer (KCU)
+SX-1250,Receiver,ATT-291,ATT-291,Power Transformer (S)
+SX-1250,Receiver,ATT-295,ATT-295,Power Transformer (HG)
+SX-1250,Receiver,AWB-023,AWB-023,FM Front End
+SX-1250,Receiver,AWE-068,AWE-068,TUNER ASSEMBLY
+SX-1250,Receiver,AWF-021,AWF-021,EQUALIZER AMPLIFIER ASSEMBLY
+SX-1250,Receiver,AWG-041,AWG-041,CONTROL AMPLIFIER ASSEMBLY
+SX-1250,Receiver,AWG-042,AWG-042,FLAT AMPLIFIER ASSEMBLY
+SX-1250,Receiver,AWH-048,AWH-048,POWER AMPLIFIER ASSEMBLY
+SX-1250,Receiver,AWM-089,AWM-089,FILTER AMPLIFIER ASSEMBLY
+SX-1250,Receiver,AWM-091,AWM-091,PROTECTION CIRCUIT ASSEMBLY
+SX-1250,Receiver,AWR-106,AWR-106,STABILIZER ASSEMBLY
+SX-1250,Receiver,AWR-107,AWR-107,Power supply assembly (KCU/S)
+SX-1250,Receiver,AWR-108,AWR-108,Power supply assembly (HG)
+SX-1250,Receiver,AWS-094,AWS-094,FUNCTION SWITCH ASSEMBLY
+SX-1250,Receiver,AWS-095,AWS-095,Speakers switch assembly (KCU/S)
+SX-1250,Receiver,AWS-098,AWS-098,Speakers switch assembly (HG)
+SX-1250,Receiver,AWX-062,AWX-062,SP CONNECTOR ASSEMBLY
+SX-1250,Receiver,AWX-097,AWX-097,MICROPHONE JACK ASSEMBLY
+SX-1250,Receiver,AWX-099,AWX-099,De-emphasis switch assembly 2-position (25us/75us) (KCU)
+SX-1250,Receiver,AWX-101,AWX-101,De-emphasis switch assembly 3-position (25us/50us/75us) (S)
+SX-1250,Receiver,CCDSL560K50,CCDSL560K50,Ceramic 56p 50V (HG)
+SX-1250,Receiver,CEA 101P 6,CEA 101P 6,"Electrolytic, 100 uf, 6V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CKDY F 103Z 50,CKDY F 103Z 50,"Ceramic, 0.01 uf, 50V"
+SX-1250,Receiver,CQMA 104K 200,CQMA 104K 200,"Mylar, 0.1 uf, 200V"
+SX-1250,Receiver,CQMA 104K 200,CQMA 104K 200,"Mylar, 0.1 uf, 200V"
+SX-1250,Receiver,CQSA511J50,CQSA511J50,Polystyrene 510p 50v (HG)
+SX-1250,Receiver,CQSA511J50,CQSA511J50,Polystyrene 510p 50v (HG)
+SX-1250,Receiver,RD½PS 225J,RD½PS 225J,"Carbon film, 2.2M, ½W"
+SX-1250,Receiver,T22-025,T22-025,Ferrite balun
+SX-1250,Receiver,W72-092,W72-092,Bar antenna holder
+SX-1280,Receiver,"258706-R, S or Q","258706-R, S or Q",Transistor
+SX-1280,Receiver,"2SB706-R, S or Q","2SB706-R, S or Q",Transistor
+SX-1280,Receiver,"2SB706-R, S or Q","2SB706-R, S or Q",Transistor
+SX-1280,Receiver,"2SB706-R, S or Q","2SB706-R, S or Q",Transistor
+SX-1280,Receiver,"2SD746-R, S or Q","2SD746-R, S or Q",Transistor
+SX-1280,Receiver,"2SD746-R, S or Q","2SD746-R, S or Q",Transistor
+SX-1280,Receiver,"2SD746-R, S or Q","2SD746-R, S or Q",Transistor
+SX-1280,Receiver,"2SD746-R, S or Q","2SD746-R, S or Q",Transistor
+SX-1280,Receiver,AAA-047,AAA-047,Knob (TUNING)
+SX-1280,Receiver,AAB-174,AAB-174,Knob (VOLUME)
+SX-1280,Receiver,AAB-175,AAB-175,Knob (BASS)
+SX-1280,Receiver,AAB-175,AAB-175,Knob (TREBLE)
+SX-1280,Receiver,AAB-176,AAB-176,"Knob (BALANCE, PHONO1,CARTRIDGE LOAD)"
+SX-1280,Receiver,AAD-138,AAD-138,Knob (MUTING)
+SX-1280,Receiver,AAD-138,AAD-138,"Knob (TAPE, ADAPTOR, MODE,LOUDNESS)"
+SX-1280,Receiver,AAD-138,AAD-138,Knob (TONE)
+SX-1280,Receiver,AAD-139,AAD-139,Lever knob assembly (POWER)
+SX-1280,Receiver,AAD-140,AAD-140,Knob (FILTER)
+SX-1280,Receiver,AAD-140,AAD-140,Knob (FM)
+SX-1280,Receiver,AAD-140,AAD-140,"Knob (FM, AM, AUX, PHONO 2/MIC,PHONO 1)"
+SX-1280,Receiver,AAD-140,AAD-140,Knob (SPEAKERS)
+SX-1280,Receiver,AAF-065,AAF-065,Dial ponter assembly
+SX-1280,Receiver,AAG-148,AAG-148,Dial panel
+SX-1280,Receiver,AAW-075,AAW-075,Double meter
+SX-1280,Receiver,AAW-080,AAW-080,Power meter
+SX-1280,Receiver,ACG-003,ACG-003,Ceramic (For KU type)  0.01  125V
+SX-1280,Receiver,ACG-014,ACG-014,Ceramic (For KC type)  0.01  125V
+SX-1280,Receiver,ACH-089,ACH-089,Electrolytic  15000  100V
+SX-1280,Receiver,ACH-089,ACH-089,Electrolytic  15000  100V
+SX-1280,Receiver,ACH-089,ACH-089,Electrolytic  15000  100V
+SX-1280,Receiver,ACH-089,ACH-089,Electrolytic  15000  100V
+SX-1280,Receiver,ACK-022,ACK-022,Tuning Capacitor
+SX-1280,Receiver,ACV-190,ACV-190,Variable resistor (BALANCE)
+SX-1280,Receiver,ACW-101 (ACV-165),ACW-101 (ACV-165),Variable resistor (BASS 50Hz)
+SX-1280,Receiver,ACW-102 (ACV-166),ACW-102 (ACV-166),Variable resistor (BASS 100Hz)
+SX-1280,Receiver,ACW-103 (ACV-167),ACW-103 (ACV-167),Variable resistor (TREBLE 10kHz)
+SX-1280,Receiver,ACW-104 (ACV-168),ACW-104 (ACV-168),Variable resistor (TREBLE 20kHz)
+SX-1280,Receiver,ACW-116 (ACV-162),ACW-116 (ACV-162),Variable resistor (VOLUME)
+SX-1280,Receiver,ADG-013,ADG-013,AC power cord (KU/S)
+SX-1280,Receiver,ADG-015,ADG-015,AC power cord (SG)
+SX-1280,Receiver,AEK-103,AEK-103,Fuse  2A
+SX-1280,Receiver,AEK-106,AEK-106,Fuse  1A
+SX-1280,Receiver,AEK-106,AEK-106,Fuse  1A
+SX-1280,Receiver,AEK-301,AEK-301,Fuse 12A
+SX-1280,Receiver,AEL-029,AEL-029,Lamp (wedge type)  0.3A
+SX-1280,Receiver,AEL-029,AEL-029,Lamp (wedge type)  0.3A
+SX-1280,Receiver,AEL-029,AEL-029,Lamp (wedge type)  0.3A
+SX-1280,Receiver,AEL-029,AEL-029,Lamp (wedge type)  0.3A
+SX-1280,Receiver,AEL-067,AEL-067,Lamp with wires  50mA
+SX-1280,Receiver,AEL-067,AEL-067,Lamp with wires  50mA
+SX-1280,Receiver,AEL-067,AEL-067,Lamp with wires  50mA
+SX-1280,Receiver,AEL-069,AEL-069,Lamp with wires  50mA
+SX-1280,Receiver,AEL-069,AEL-069,Lamp with wires  50mA
+SX-1280,Receiver,AEL-072,AEL-072,Lamp with wires  50mA
+SX-1280,Receiver,AKA-004,AKA-004,Terminal (ANTENNA)
+SX-1280,Receiver,AKB-035,AKB-035,Terminal (ADAPTOR)
+SX-1280,Receiver,AKB-035,AKB-035,Terminal (PREOUT/POWER IN)
+SX-1280,Receiver,AKB-035,AKB-035,Terminal (TAPE 1)
+SX-1280,Receiver,AKB-035,AKB-035,Terminal (TAPE 2)
+SX-1280,Receiver,AKB-038,AKB-038,Terminal (INPUT)
+SX-1280,Receiver,AKE-031,AKE-031,Terminal (GND)
+SX-1280,Receiver,AKE-038,AKE-038,Terminal (SPEAKERS)
+SX-1280,Receiver,AKK-005,AKK-005,Lamp socket
+SX-1280,Receiver,AKN-010,AKN-010,Phone jack (PHONES)
+SX-1280,Receiver,AKN-012,AKN-012,Phone jack (MIC)
+SX-1280,Receiver,AKP-005,AKP-005,AC socket
+SX-1280,Receiver,AKP-005,AKP-005,AC socket (KU)
+SX-1280,Receiver,AKP-020,AKP-020,AC socket (S/SG)
+SX-1280,Receiver,AKR-031,AKR-031,Plug in selector (line voltage selector-S/SG)
+SX-1280,Receiver,AMM-067,AMM-067,Wooden Bonnet
+SX-1280,Receiver,ANB-554,ANB-554,Front panel assembly
+SX-1280,Receiver,ASE-001,ASE-001,Rotary switch (CARTRIDGE LOAD)
+SX-1280,Receiver,ASG-126,ASG-126,Push switch (FUNCTION)
+SX-1280,Receiver,ASG-127,ASG-127,"Push switch (LOW FlLTER,HIGH FILTER, MULTIPATH,DE-EMPHASIS, FM MUTING)"
+SX-1280,Receiver,ASG-132,ASG-132,Push switch (SPEAKERS)
+SX-1280,Receiver,ASH-016,ASH-016,Slide switch (DE-EMPHASIS S/SG)
+SX-1280,Receiver,ASK-080,ASK-080,Power switch (POWER)
+SX-1280,Receiver,ASK-144,ASK-144,"Lever switch (LOUDNESS, MODE)"
+SX-1280,Receiver,ASK-144,ASK-144,Lever switch (TONE)
+SX-1280,Receiver,ASK-145,ASK-145,"Lever switch (ADAPTOR, MONITOR)"
+SX-1280,Receiver,ASK-146,ASK-146,Lever switch (DUPLICATE)
+SX-1280,Receiver,ATB-505,ATB-505,Bar antenna assembly
+SX-1280,Receiver,ATT-447,ATT-447,Power transformer (For KU type)
+SX-1280,Receiver,ATT-460,ATT-460,Power transformer (For KC type)
+SX-1280,Receiver,ATT-474,ATT-474,Power transformer (S)
+SX-1280,Receiver,ATT-475,ATT-475,Power transformer (SG)
+SX-1280,Receiver,AWE-092,AWE-092,Tuner assembly
+SX-1280,Receiver,AWF-031,AWF-031,EQ amplifier assembly
+SX-1280,Receiver,AWG-059,AWG-059,Tone amplifier assembly
+SX-1280,Receiver,AWG-060,AWG-060,Flat amplifier assembly
+SX-1280,Receiver,AWH-074,AWH-074,Power amplifier assembly
+SX-1280,Receiver,AWM-119,AWM-119,Filter amplifier assembly
+SX-1280,Receiver,AWM-121,AWM-121,Meter amplifier assembly
+SX-1280,Receiver,AWM-123,AWM-123,Protection circuit assembly
+SX-1280,Receiver,AWR-157,AWR-157,Power supply assembly
+SX-1280,Receiver,AWX-062,AWX-062,5P connector assembly (S/SG)
+SX-1280,Receiver,AWX-126,AWX-126,Fuse assembly (For KU type)
+SX-1280,Receiver,AWX-127,AWX-127,Resistor assembly
+SX-1280,Receiver,AWX-134,AWX-134,Fuse assembly (S/SG)
+SX-1280,Receiver,AWX-139,AWX-139,Fuse assembly (For KC type)
+SX-1280,Receiver,AXA-188,AXA-188,Tuning shaft assembly
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,CKDYF 402Z 50,CKDYF 402Z 50,Ceramic  0.04  50V
+SX-1280,Receiver,GWM-105,GWM-105,Microphone jack assembly
+SX-1280,Receiver,GWS-133,GWS-133,Function switch assembly
+SX-1280,Receiver,GWS-134,GWS-134,Cartridge load assembly
+SX-1280,Receiver,RD½PS 225J,RD½PS 225J,Carbon film resistor 2.2M
+SX-1280,Receiver,T22-025,T22-025,Balun
+SX-1280,Receiver,T24-030,T24-030,Choke coil
+SX-1500T,Receiver,A12-095-A,A12-095,"Knob, Tuning"
+SX-1500T,Receiver,A12-098-A,A12-098,"Knob, Selector"
+SX-1500T,Receiver,A12-100-A,A12-100,"Knob, Volume, Mode, Balance, Output Selector"
+SX-1500T,Receiver,A12-103-B,A12-103,"Knob, Bass, Treble (L)"
+SX-1500T,Receiver,A13-011-A,A13-011,"Knob, Bass, Treble (R)"
+SX-1500T,Receiver,A31-080-A,A31-080,Diat Pointer
+SX-1500T,Receiver,A33-050-A,A33-050,Dial Scale
+SX-1500T,Receiver,A59-030-0,A59-030,Bracket
+SX-1500T,Receiver,A91-007-0,A91-007,Tuning Meter
+SX-1500T,Receiver,B11-021-A,B11-021,"Screw, to fix metal case"
+SX-1500T,Receiver,C45-004-B,C45-004,Cylinder trimmer
+SX-1500T,Receiver,C64-036-0,C64-036,4 gang air variable capacitor
+SX-1500T,Receiver,C82-038-0,C82-038,250K dual Volume
+SX-1500T,Receiver,C85-052-0,C85-052,50K dual Balance
+SX-1500T,Receiver,C87-018-0,C87-018,100K dual Bass
+SX-1500T,Receiver,C87-018-0,C87-018,100K dual Treble
+SX-1500T,Receiver,C92-022-0,C92-022,1kΩ Left and Right Level Adjust
+SX-1500T,Receiver,C92-026-0,C92-026,300Ω Auto Level Adjust
+SX-1500T,Receiver,C92-028-0,C92-028,10K MPX Separation Control
+SX-1500T,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1500T,Receiver,C92-037-0,C92-037,300Ω Current Control
+SX-1500T,Receiver,E21-006-0,E21-006,3A Fuse
+SX-1500T,Receiver,E21-012-0,E21-012,1.5A Fuse
+SX-1500T,Receiver,E22-006-0,E22-006,Pilot Lamp 6.3V 150mA
+SX-1500T,Receiver,E22-011-A,E22-011,Pilot lamp for FM stereo
+SX-1500T,Receiver,E22-013-0,E22-013,Pilot Lamp 6.3V 250mA
+SX-1500T,Receiver,E31-066-A,E31-066,Diat Spring
+SX-1500T,Receiver,K31-018-0,K31-018,Power Transistor Socket
+SX-1500T,Receiver,K42-003-0,K42-003,Pilot lamp socket
+SX-1500T,Receiver,K72-006-A,K72-006,Head phone jack
+SX-1500T,Receiver,K73-003-A,K73-003,Concent for Speaker
+SX-1500T,Receiver,K82-007-B,K82-007,A. C. concent
+SX-1500T,Receiver,K93-003-B,K93-003,Connector 5p for Tape Recorder
+SX-1500T,Receiver,K96-006-C,K96-006,Fuse holder
+SX-1500T,Receiver,M21-219-0,M21-219,Front panel
+SX-1500T,Receiver,M21-228-A,M21-228,Front Panel (F)
+SX-1500T,Receiver,M33-105-D,M33-105,Metal case
+SX-1500T,Receiver,M42-009-A,M42-009,Dial Puily
+SX-1500T,Receiver,M42-027-0,M42-027,Dial Pully (for tuning capacitor)
+SX-1500T,Receiver,M61-003-0,M61-003,Foot
+SX-1500T,Receiver,M64-076-D,M64-076,Side Board (Right)
+SX-1500T,Receiver,M64-077-D,M64-077,Side Board (Left)
+SX-1500T,Receiver,R12-006-D,R12-006,Service manual SX-1500T
+SX-1500T,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR (F)
+SX-1500T,Receiver,S11-019-0,S11-019,Output Selector
+SX-1500T,Receiver,S11-020-0,S11-020,Output Selector (F)
+SX-1500T,Receiver,S16-037-C,S16-037,Input Selector
+SX-1500T,Receiver,S16-038-B,S16-038,Mode Selector
+SX-1500T,Receiver,S42-001-C,S42-001,"Toggle Switch (LOUDNESS, Low Filter, High Filter, Muting, AFC, PHONO)"
+SX-1500T,Receiver,T24-030-0,T24-030,Choke coil (100uH)
+SX-1500T,Receiver,T42-014-A,T42-014,AM Ferrite loopstick Antenna coil
+SX-1500T,Receiver,T42-025-A,T42-025,Heater choke coil
+SX-1500T,Receiver,T42-025-A,T42-025,Heater choke coil
+SX-1500T,Receiver,T52-114-0,T52-114,Power transformer
+SX-1500T,Receiver,T52-115-0,T52-115,Power transformer (F)
+SX-1500T,Receiver,W11-028-0,W11-028,FM Front end
+SX-1500T,Receiver,W12-020-0,W12-020,FM IF unit
+SX-1500T,Receiver,W13-021-D,W13-021,MPX unit
+SX-1500T,Receiver,W14-004-C,W14-004,AM Tuner unit
+SX-1500T,Receiver,W15-089-0,W15-089,Pre amp unit
+SX-1500T,Receiver,W15-090-0,W15-090,Control amp unit
+SX-1500T,Receiver,W15-091-0,W15-091,Main amp unit
+SX-1500T,Receiver,W16-010-0,W16-010,Power Supply unit
+SX-1500T,Receiver,W52-004-0,W52-004,TAPE REC Terminal
+SX-1500TD,Receiver,A12-163-0,A12-163,Knob. Selector
+SX-1500TD,Receiver,A12-165-0,A12-165,Knob. Tuning
+SX-1500TD,Receiver,A12-168-B,A12-168,"Knob. Bass(L), Treble(L), Volume"
+SX-1500TD,Receiver,A13-016-C,A13-016,"Knob. Bass(R), Treble(R), Balance"
+SX-1500TD,Receiver,A19-079-0,A19-079,Knob for Push Switch
+SX-1500TD,Receiver,A31-090-A,A31-090,Dial Pointer
+SX-1500TD,Receiver,A33-084-A,A33-084,Dial Glass
+SX-1500TD,Receiver,A91-008-D,A91-008,Tuning Meter (Upper)
+SX-1500TD,Receiver,A91-009-D,A91-009,Tuning Meter (Lower)
+SX-1500TD,Receiver,AWB-001,AWB-001,FM FRONT END (FVZW)
+SX-1500TD,Receiver,B11-012-A,B11-012,Screw for GND Terminal
+SX-1500TD,Receiver,B11-015-0,B11-015,"Screw, to fix Wooden Case"
+SX-1500TD,Receiver,C52-071-0,C52-071,Electrolytic 2200uf  80V
+SX-1500TD,Receiver,C64-036-B,C64-036,Variable Capacitor for FM tuner unit 4-gang
+SX-1500TD,Receiver,C81-013-0,C81-013,30kΩ MIC LEVEL
+SX-1500TD,Receiver,C88-009-0,C88-009,500kΩ dual. VOLUME. BALANCE
+SX-1500TD,Receiver,E21-006-0,E21-006,Fuse 3A
+SX-1500TD,Receiver,E21-012-0,E21-012,Fuse 1.5A
+SX-1500TD,Receiver,E22-002-0,E22-002,"Pilot Lamp 8V, 0.15A"
+SX-1500TD,Receiver,E22-017-0,E22-017,Pilot Lamp 8V. 0.3A
+SX-1500TD,Receiver,E22-021-0,E22-021,Pilot Lamp 8V. 0.25A
+SX-1500TD,Receiver,K42-003-A,K42-003,Pilot Lamp Socket
+SX-1500TD,Receiver,K71-028-0,K71-028,Short Pin Plug
+SX-1500TD,Receiver,K72-007-8,K72-007,Plug for Speaker
+SX-1500TD,Receiver,K72-015-0,K72-015,Pin Plug
+SX-1500TD,Receiver,K72-020-0,K72-020,Jack for Headphone
+SX-1500TD,Receiver,K72-021-B,K72-021,Jack for Microphone
+SX-1500TD,Receiver,K73-003-B,K73-003,Jack tor Speaker
+SX-1500TD,Receiver,K82-007-B,K82-007,Socket for AC OUTLET
+SX-1500TD,Receiver,K91-005-A,K91-005,Fuse Holder
+SX-1500TD,Receiver,K93-003-B,K93-003,Connector 5P
+SX-1500TD,Receiver,M16-043-0,M16-043,Joint
+SX-1500TD,Receiver,M21-334-J,M21-334,Front Panel Ass'y
+SX-1500TD,Receiver,M21-335-F,M21-335,Front Panel
+SX-1500TD,Receiver,M24-624-B,M24-624,Dial Pulley
+SX-1500TD,Receiver,M42-009-A,M42-009,Dial Pulley
+SX-1500TD,Receiver,M42-027-A,M42-027,"Dial Pulley, for Tuning Capacitor"
+SX-1500TD,Receiver,M52-119-C,M52-119,Wooden case
+SX-1500TD,Receiver,M61-017-0,M61-017,Foot
+SX-1500TD,Receiver,R12-054-C,R12-054,Service manual  SX-1500TD
+SX-1500TD,Receiver,S11-018-0,S11-018,LINE VOLTAGE Selector
+SX-1500TD,Receiver,S11-029A,S11-029A,SPEAKERS Switch
+SX-1500TD,Receiver,S13-029-0,S13-029,SELECTOR Switch
+SX-1500TD,Receiver,S14-035-0,S14-035,MODE Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,FM MUTlNG Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,HIGH CUT RLTER Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,LOUDNESS Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,LOW CUT FlLTER Switch
+SX-1500TD,Receiver,S31-023-0,S31-023,TAPE MONITOR Switch
+SX-1500TD,Receiver,S41-022-A,S41-022,PRE & MAIN Switch
+SX-1500TD,Receiver,T24-026-0,T24-026,Heater Choke Coil
+SX-1500TD,Receiver,T24-030-0,T24-030,Choke Coil
+SX-1500TD,Receiver,T42-024-A,T42-024,AM Ferrite Loopstick Antenna
+SX-1500TD,Receiver,T52-176-0,T52-176,Power Transformer
+SX-1500TD,Receiver,W11-028-C,W11-028,FM Front End
+SX-1500TD,Receiver,W12-025-A,W12-025,FM lF Unit
+SX-1500TD,Receiver,W12-032,W12-032,FM IF UNIT
+SX-1500TD,Receiver,W13-024-A,W13-024,FM MPX Unit
+SX-1500TD,Receiver,W13-026,W13-026,MPX UNIT
+SX-1500TD,Receiver,W14-008-0,W14-008,AM Tuner Unit
+SX-1500TD,Receiver,W15-079-0,W15-079,Control Amp Unit
+SX-1500TD,Receiver,W15-080-0,W15-080,Control Unit
+SX-1500TD,Receiver,W15-081-0,W15-081,Push Switch Unit
+SX-1500TD,Receiver,W15-082-A,W15-082,Push Switch Unit
+SX-1500TD,Receiver,W15-106-0,W15-106,MIC Amp Unit
+SX-1500TD,Receiver,W16-026-A,W16-026,Power Supply Unit
+SX-1500TD,Receiver,W18-012-0,W18-012,Indicator Unit
+SX-1500TD,Receiver,W18-026-0,W18-026,Muting Unit
+SX-1500TD,Receiver,W21-001-0,W21-001,Head Amp Unit
+SX-1500TD,Receiver,W23-002-0,W23-002,Main Amp Unit
+SX-1980,Receiver,"2SB706A-R,S or Q","2SB706A-R,S or Q",Transistor
+SX-1980,Receiver,"2SB706A-R,S or Q","2SB706A-R,S or Q",Transistor
+SX-1980,Receiver,"2SB706A-R,S or Q","2SB706A-R,S or Q",Transistor
+SX-1980,Receiver,"2SB706A-R,S or Q","2SB706A-R,S or Q",Transistor
+SX-1980,Receiver,"2SB706A-R,S or Q","2SB706A-R,S or Q",Transistor
+SX-1980,Receiver,"2SB706A-R,S or Q","2SB706A-R,S or Q",Transistor
+SX-1980,Receiver,"2SD746A-R,S or Q","2SD746A-R,S or Q",Transisior
+SX-1980,Receiver,"2SD746A-R,S or Q","2SD746A-R,S or Q",Transistor
+SX-1980,Receiver,"2SD746A-R,S or Q","2SD746A-R,S or Q",Transistor
+SX-1980,Receiver,"2SD746A-R,S or Q","2SD746A-R,S or Q",Transistor
+SX-1980,Receiver,"2SD746A-R,S or Q","2SD746A-R,S or Q",Transistor
+SX-1980,Receiver,"2SD746A-R,S or Q","2SD746A-R,S or Q",Transistor
+SX-1980,Receiver,AAA-046,AAA-046,Knob (TUNING)
+SX-1980,Receiver,AAB-174,AAB-174,Knob (VOLUME)
+SX-1980,Receiver,AAB-175,AAB-175,"Knob (BASS, TREBLE)"
+SX-1980,Receiver,AAB-176,AAB-176,"Knob (BALANCE, CARTRIDGE - LOAD)"
+SX-1980,Receiver,AAD-138,AAD-138,Knob for lever switch
+SX-1980,Receiver,AAD-139,AAD-139,Knob (POWER)
+SX-1980,Receiver,AAD-140,AAD-140,Knob for push button
+SX-1980,Receiver,AAG-144,AAG-144,Dial panel
+SX-1980,Receiver,AAW-076,AAW-076,Meter (SIGNAL)
+SX-1980,Receiver,AAW-077,AAW-077,Meter (TUNING)
+SX-1980,Receiver,AAW-078,AAW-078,Meter (WATTS 8Ω)
+SX-1980,Receiver,ACG-003,ACG-003,Ceramic  0.01  125V
+SX-1980,Receiver,ACG-003,ACG-003,Ceramic  0.01  125V
+SX-1980,Receiver,ACG-003,ACG-003,Ceramic  0.01  125V
+SX-1980,Receiver,ACG-009,ACG-009,Ceramic  0.047  150V
+SX-1980,Receiver,ACG-009,ACG-009,Ceramic  0.047  150V
+SX-1980,Receiver,ACG-009,ACG-009,Ceramic  0.047  150V
+SX-1980,Receiver,ACG-009,ACG-009,Ceramic  0.047  150V
+SX-1980,Receiver,ACG-009,ACG-009,Ceramic  0.047  150V
+SX-1980,Receiver,ACH-084,ACH-084,Electrolytic  22000  100V
+SX-1980,Receiver,ACH-084,ACH-084,Electrolytic  22000  100V
+SX-1980,Receiver,ACH-084,ACH-084,Electrolytic  22000  100V
+SX-1980,Receiver,ACH-084,ACH-084,Electrolytic  22000  100V
+SX-1980,Receiver,ACN-026,ACN-026,Wire wound 360 10W
+SX-1980,Receiver,ACN-027,ACN-027,Wire wound 470 10W
+SX-1980,Receiver,ACV-190,ACV-190,Variable resistor (BALANCE)
+SX-1980,Receiver,ACW-101 (ACV-165),ACW-101 (ACV-165),Variable resistor (BASS 50Hz)
+SX-1980,Receiver,ACW-102 (ACV-166),ACW-102 (ACV-166),Variable resistor (BASS 100Hz)
+SX-1980,Receiver,ACW-103 (ACV-167),ACW-103 (ACV-167),Variable resistor (TREBLE 10kHz)
+SX-1980,Receiver,ACW-104 (ACV-168),ACW-104 (ACV-168),Variable resistor (TREBLE 20kHz)
+SX-1980,Receiver,ACW-116 (ACV-162),ACW-116 (ACV-162),Variable resistor (VOLUME)
+SX-1980,Receiver,ADG-013,ADG-013,AC power cord (KU)
+SX-1980,Receiver,ADG-015,ADG-015,AC power cord (S/SG)
+SX-1980,Receiver,AEC-099,AEC-099,Capacitor cover (HG)/S/SG
+SX-1980,Receiver,AEC-279,AEC-279,Capacitor cover (KU)
+SX-1980,Receiver,AEC-379,AEC-379,Terminal Guard (Spacer)
+SX-1980,Receiver,AEK-103,AEK-103,Fuse  2A
+SX-1980,Receiver,AEK-104,AEK-104,Fuse  1.5A
+SX-1980,Receiver,AEK-104,AEK-104,Fuse  1.5A
+SX-1980,Receiver,AEK-106,AEK-106,Fuse  1A
+SX-1980,Receiver,AEK-106,AEK-106,Fuse  1A
+SX-1980,Receiver,AEK-303,AEK-303,Fuse  15A
+SX-1980,Receiver,AEL-029,AEL-029,Lamp (wedge type) 8V  0.3A
+SX-1980,Receiver,AEL-029,AEL-029,Lamp (wedge type) 8V  0.3A
+SX-1980,Receiver,AEL-029,AEL-029,Lamp (wedge type) 8V  0.3A
+SX-1980,Receiver,AEL-029,AEL-029,Lamp (wedge type) 8V  0.3A
+SX-1980,Receiver,AEL-067,AEL-067,Lamn with wires 8V  50mA
+SX-1980,Receiver,AEL-067,AEL-067,Lamp (wedge type) 8V  50mA
+SX-1980,Receiver,AEL-067,AEL-067,Lamp with wires 8V  50m A
+SX-1980,Receiver,AEL-067,AEL-067,Lamp with wires 8V  50mA
+SX-1980,Receiver,AEL-067,AEL-067,Lamp with wires 8V  50mA
+SX-1980,Receiver,AEL-069,AEL-069,Lamp with wires 8V  50mA
+SX-1980,Receiver,AEL-069,AEL-069,Lamp with wires 8V  50mA
+SX-1980,Receiver,AEL-095,AEL-095,Lamp with wires 8V  50mA
+SX-1980,Receiver,AEL-309,AEL-309,LED (FINE TUNE)
+SX-1980,Receiver,AEL-309,AEL-309,LED (STEREO)
+SX-1980,Receiver,AEL-310,AEL-310,LED (QUARTZ LOCKED)
+SX-1980,Receiver,AKA-004,AKA-004,Terminal (ANTENNA)
+SX-1980,Receiver,AKA-004,AKA-004,Terminal (ANTENNA-KU/S/SG)
+SX-1980,Receiver,AKA-005,AKA-005,Terminal (ANTENNA-HG)
+SX-1980,Receiver,AKB-035,AKB-035,Terminal (ADAPTOR)
+SX-1980,Receiver,AKB-035,AKB-035,Terminal (PRE/POWER)
+SX-1980,Receiver,AKB-035,AKB-035,Terminal (TAPE 1)
+SX-1980,Receiver,AKB-035,AKB-035,Terminal (TAPE 2)
+SX-1980,Receiver,AKB-038,AKB-038,Terminal (INPUT)
+SX-1980,Receiver,AKC-030,AKC-030,Terminal strip 2P (HG)
+SX-1980,Receiver,AKE-012,AKE-012,Terminal (GND)
+SX-1980,Receiver,AKE-038,AKE-038,Terminal (SPEAKERS)
+SX-1980,Receiver,AKK-005,AKK-005,Lamp socket
+SX-1980,Receiver,AKN-010,AKN-010,Phone jack (PHONES)
+SX-1980,Receiver,AKN-012,AKN-012,Phone jack (MIC)
+SX-1980,Receiver,AKP-005,AKP-005,AC socket (AC OUTLET)
+SX-1980,Receiver,AKP-005,AKP-005,AC socket (AC OUTLETS-KU)
+SX-1980,Receiver,AKP-008,AKP-008,Recessed plug (AC INLET-HG)
+SX-1980,Receiver,AKP-020,AKP-020,AC socket (AC OUTLETS-S/SG)
+SX-1980,Receiver,AKR-031,AKR-031,Plug in selector (4-position with fuse holder-S/SG)
+SX-1980,Receiver,AKR-032,AKR-032,Fuse holder 1P
+SX-1980,Receiver,AKR-032,AKR-032,Fuse holder 1P (KU)
+SX-1980,Receiver,AKX-037,AKX-037,Plug in selector (2-position-HG)
+SX-1980,Receiver,AMM-065,AMM-065,Wooden cover
+SX-1980,Receiver,ANB-525,ANB-525,Front panel assembly
+SX-1980,Receiver,ANE-180,ANE-180,Top plate
+SX-1980,Receiver,ANE-191,ANE-191,Heat sink cover (HG)
+SX-1980,Receiver,ANH-365,ANH-365,Heatsink (KU/S/SG)
+SX-1980,Receiver,ANH-424,ANH-424,Heatsink (HG)
+SX-1980,Receiver,ASA-504,ASA-504,Lever switch (POWER-KU)
+SX-1980,Receiver,ASA-505,ASA-505,Lever switch (POWER-HG)
+SX-1980,Receiver,ASE-001,ASE-001,Slide rotary switch (kΩ)
+SX-1980,Receiver,ASE-001,ASE-001,Slide rotary switch (pF)
+SX-1980,Receiver,ASG-126,ASG-126,Push switch (FUNCTION)
+SX-1980,Receiver,ASG-127,ASG-127,"Push switch (FILTER, FM)"
+SX-1980,Receiver,ASG-130,ASG-130,Push switch (SPEAKERS)
+SX-1980,Receiver,ASH-016,ASH-016,Slide switch (DE-EMPHASIS-S)
+SX-1980,Receiver,ASH-016,ASH-016,Slide switch (DE-EMPHASIS-S/G)
+SX-1980,Receiver,ASH-018,ASH-018,Slide switch
+SX-1980,Receiver,ASK-133,ASK-133,Lever switch (POWER-S)
+SX-1980,Receiver,ASK-133,ASK-133,Lever switch (POWER-S/G)
+SX-1980,Receiver,ASK-144,ASK-144,Lever switch (LOUDNESS)
+SX-1980,Receiver,ASK-144,ASK-144,Lever switch (MODE)
+SX-1980,Receiver,ASK-144,ASK-144,Lever switch (MUTING)
+SX-1980,Receiver,ASK-144,ASK-144,Lever switch (TONE)
+SX-1980,Receiver,ASK-145,ASK-145,Lever switch (ADAPTOR)
+SX-1980,Receiver,ASK-145,ASK-145,Switch (TAPE MONITOR)
+SX-1980,Receiver,ASK-146,ASK-146,Lever switch (DUPLICATE)
+SX-1980,Receiver,ASS-004,ASS-004,Crystal resonator
+SX-1980,Receiver,ATB-507,ATB-507,Ferrite bar-antenna
+SX-1980,Receiver,ATT-446,ATT-446,Power Transformer (KU)
+SX-1980,Receiver,ATT-464,ATT-464,Power Transformer (HG)
+SX-1980,Receiver,ATT-472,ATT-472,Power Transformer (S)
+SX-1980,Receiver,ATT-473,ATT-473,Power Transformer (S/G)
+SX-1980,Receiver,AWB-030,AWB-030,FM front end
+SX-1980,Receiver,AWE-093,AWE-093,Tuner assembly
+SX-1980,Receiver,AWF-030,AWF-030,EQ ampliﬁer assembly
+SX-1980,Receiver,AWG-058,AWG-058,Flat amplifier assembly
+SX-1980,Receiver,AWG-059,AWG-059,Tone control assembly
+SX-1980,Receiver,AWM-119,AWM-119,Filter assembly
+SX-1980,Receiver,AWM-122,AWM-122,Meter amplifier assembly
+SX-1980,Receiver,AWM-122,AWM-122,Meter amplifier assembly (KU/S/SG)
+SX-1980,Receiver,AWM-126,AWM-126,Meter amplifier assembly (HG)
+SX-1980,Receiver,AWR-154,AWR-154,Power supply assembly (KU/S/SG)
+SX-1980,Receiver,AWR-155,AWR-155,Power supply assembly (HG)
+SX-1980,Receiver,AWS-125,AWS-125,Slide switch assembly
+SX-1980,Receiver,AWX-062,AWX-062,5P connector assembly (HG/S/SG)
+SX-1980,Receiver,AWX-124,AWX-124,AFC assembly
+SX-1980,Receiver,AXA-113,AXA-113,Tuning drum assembly
+SX-1980,Receiver,AXA-184,AXA-184,Tuning shaft assembly
+SX-1980,Receiver,AXB-012,AXB-012,Antenna holder
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,CKDYF 403Z 50,CKDYF 403Z 50,Ceramic  0.04  50V
+SX-1980,Receiver,GWH-109,GWH-109,Power amplifier L assembly
+SX-1980,Receiver,GWH-110,GWH-110,Power amplifier R assembly
+SX-1980,Receiver,GWM-104,GWM-104,APC control/MIC assembly
+SX-1980,Receiver,GWR-106,GWR-106,Rectifier L assembly
+SX-1980,Receiver,GWR-107,GWR-107,Rectifier R assembly
+SX-1980,Receiver,GWS-129,GWS-129,Function selector assembly
+SX-1980,Receiver,GWS-130,GWS-130,Cartridge load assembly
+SX-1980,Receiver,K91-008,K91-008,Fuse holder 1P (HG)
+SX-1980,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 22M ½W
+SX-1980,Receiver,T22-025,T22-025,Balun
+SX-1980,Receiver,T24-028,T24-028,RF choke coil
+SX-202,Receiver,AAA-084,AAA-084,Tuning knob
+SX-202,Receiver,AAB-316,AAB-316,Knob A (VOLUME)
+SX-202,Receiver,AAB-317,AAB-317,"Knob B (BASS, TREBLE, BALANCE)"
+SX-202,Receiver,AAD-605,AAD-605,Power knob
+SX-202,Receiver,AAD-606,AAD-606,"Function knob A (TAPE, LOUDNESS)"
+SX-202,Receiver,AAD-607,AAD-607,"Function knob B (PHONO, FM, AM)"
+SX-202,Receiver,AAD-608,AAD-608,Speaker knob
+SX-202,Receiver,AAF-118,AAF-118,Pointer
+SX-202,Receiver,ACG-017,ACG-017,Ceramic (0.01/AC125V)
+SX-202,Receiver,ACN-131,ACN-131,"Wire-wound (0.22x2,2W)"
+SX-202,Receiver,ACN-140,ACN-140,"Carbon composition (2.2M, 1/2W)"
+SX-202,Receiver,ACT-162,ACT-162,Volume (250k)
+SX-202,Receiver,ACT-602,ACT-602,"Volume assembly (100kx2,1M)"
+SX-202,Receiver,ADG-073,ADG-073,AC power card
+SX-202,Receiver,ADH -005,ADH -005,T-type antenna
+SX-202,Receiver,AEC-471,AEC-471,Nylon rivet
+SX-202,Receiver,AEC-784,AEC-784,Cabinet bumper
+SX-202,Receiver,AEK-121,AEK-121,Fuse (T1.6A)
+SX-202,Receiver,AEL-405,AEL-405,(Red) Pointer
+SX-202,Receiver,AEL-406,AEL-406,(Red STEREO)
+SX-202,Receiver,AEL-407,AEL-407,(Green TUNING)
+SX-202,Receiver,AHA-335,AHA-335,Side pad
+SX-202,Receiver,AHE-102,AHE-102,Packing case
+SX-202,Receiver,AKN-045,AKN-045,Phone Jack (PHONES)
+SX-202,Receiver,AKP-039,AKP-039,AC socket
+SX-202,Receiver,AKX-073,AKX-073,Complex terminal
+SX-202,Receiver,ANE-410,ANE-410,Bonnet
+SX-202,Receiver,ANM-292,ANM-292,Front panel assembly
+SX-202,Receiver,ARB-525,ARB-525,Operating instructions (English)
+SX-202,Receiver,ARP-230-0,ARP-230,Service manual  SX-202
+SX-202,Receiver,ASG-412,ASG-412,"Push switch (FUNCTION, TAPE, LOUDNESS)"
+SX-202,Receiver,ASG-541,ASG-541,Push switch (POWER)
+SX-202,Receiver,ATB-076,ATB-076,Loop antenna assembly
+SX-202,Receiver,ATT-942,ATT-942,Power transformer (120V)
+SX-202,Receiver,AWB-044,AWB-044,FM Front-end
+SX-202,Receiver,AXA-373,AXA-373,Tuning shaft
+SX-202,Receiver,GWM-267,GWM-267,Complex assembly
+SX-202,Receiver,SUJSLYXSF,SUJSLYXSF,Push switch (SPEAKERS)
+SX-2500,Receiver,A12-146-0,A12-146,Knob lor TUNING
+SX-2500,Receiver,A12-168-0,A12-168,Knob for VOLUME
+SX-2500,Receiver,A12-204-A,A12-204,Knob for FM MUTING
+SX-2500,Receiver,A12-217-0,A12-217,"Knob for SPEAKERS,MODE and SELECTOR"
+SX-2500,Receiver,A12-244-0,A12-244,Knob for BASS and TREBLE
+SX-2500,Receiver,A13-016-A,A13-016,Knob for BALANCE
+SX-2500,Receiver,A18-003-A,A18-003,Button for AUTO TUNING swltch
+SX-2500,Receiver,A19-085-0,A19-085,"Knob for LOW, HIGH FlLTER,TAPE MONITOR A, B, LOUDNESS.MPX NOISE FlLTER,PHDNO SELECTOR. FM STEREO STATION and LOCAL STATION switch"
+SX-2500,Receiver,A31-095-0,A31-095,Dial Pointer
+SX-2500,Receiver,A33-124-A,A33-124,Dial Glass
+SX-2500,Receiver,A61-216-0,A61-216,Meter Frame
+SX-2500,Receiver,A66-026-A,A66-026,Switch Frame
+SX-2500,Receiver,A91-008-0,A91-008,FM Tuning Meter
+SX-2500,Receiver,A91-009-0,A91-009,Signal Meter
+SX-2500,Receiver,AWM-004,AWM-004,Protector Unit
+SX-2500,Receiver,B11-012-A,B11-012,Screw for GND Termmal
+SX-2500,Receiver,B11-017-A,B11-017,Screw to fix Wooden Case
+SX-2500,Receiver,B21-008-0,B21-008,Boss for Printed Clrcuit Board
+SX-2500,Receiver,C64-030-O,C64-030,AM Tuning Capacitor
+SX-2500,Receiver,C81-013-0,C81-013,"30kΩ ,FM MUTlNG"
+SX-2500,Receiver,C88-009-0,C88-009,"500kΩ 4-gang, VOLUME and BALANCE"
+SX-2500,Receiver,D11-003-E,D11-003,A.C Power Cord
+SX-2500,Receiver,D52-013-O,D52-013,FM Indoor Antenna
+SX-2500,Receiver,D53-002-A,D53-002,AM Indoor Anlerlna
+SX-2500,Receiver,E11-060-O,E11-060,Accessory Pans kit (A-5)
+SX-2500,Receiver,E11-075-O,E11-075,Accessory Parts kit (B-9)
+SX-2500,Receiver,E21-012-O,E21-012,Fuse 1.5A
+SX-2500,Receiver,E22-002-0,E22-002,Pilot Lamp for Meter
+SX-2500,Receiver,E22-015-A,E22-015,Pilot Lamp for STEREO STATION Indicator
+SX-2500,Receiver,E22-021-0,E22-021,Pilot Lamp for Dual Glass
+SX-2500,Receiver,E22-025-0,E22-025,Pilot Lamp for Program lndicator
+SX-2500,Receiver,E22-029-0,E22-029,Pilot Limp for AUTO TUNING Button
+SX-2500,Receiver,E31-064-B,E31-064,Dlal Sping
+SX-2500,Receiver,E31-151-O,E31-151,Rubber Cushion
+SX-2500,Receiver,E31-152-O,E31-152,Rubber Cushion
+SX-2500,Receiver,E32-016-O,E32-016,Cord Band
+SX-2500,Receiver,E32-022-B,E32-022,Smooth Nylon
+SX-2500,Receiver,H11-065-O,H11-065,Pad (Upper)
+SX-2500,Receiver,H11-066-O,H11-066,Pad (Under)
+SX-2500,Receiver,H14-023-O,H14-023,Packing Cloth Bag
+SX-2500,Receiver,H15-114-O,H15-114,Packing Case
+SX-2500,Receiver,K11-018-0,K11-018,4P Antenna Terminal
+SX-2500,Receiver,K21-005-C,K21-005,1P Input Terminal
+SX-2500,Receiver,K21-010-0,K21-010,4P Input Terminal
+SX-2500,Receiver,K22-013-C,K22-013,6P Input Terminal
+SX-2500,Receiver,K23-007-O,K23-007,7P Socket for Cds.Unit
+SX-2500,Receiver,K24-002-A,K24-002,8P Socket for PP-402
+SX-2500,Receiver,K41-002-B,K41-002,Pilot Lamp (for Meter) Socket
+SX-2500,Receiver,K71-02-O,K71-02,Short Pin Plug
+SX-2500,Receiver,K71-030-O,K71-030,8P Plug
+SX-2500,Receiver,K72-026-O,K72-026,Headphone Jack
+SX-2500,Receiver,K73-003-B,K73-003,Speaker Socket
+SX-2500,Receiver,K82-011-O,K82-011,Spare AC Outlet
+SX-2500,Receiver,K85-020-O,K85-020,4P Connector for REMOTE CONTROL
+SX-2500,Receiver,K91-005-A,K91-005,Pilot Lamp (for Dial Glass) Socket
+SX-2500,Receiver,K93-003-B,K93-003,Connector 5P
+SX-2500,Receiver,K96-007-O,K96-007,Fuse Holder
+SX-2500,Receiver,M15-327-A,M15-327,Lamps Box
+SX-2500,Receiver,M22-009-O,M22-009,Washer M11
+SX-2500,Receiver,M42-027-C,M42-027,Dlal Pulley for Tuning Capacitor (large)
+SX-2500,Receiver,M42-056-A,M42-056,Pulley (small)
+SX-2500,Receiver,M42-056-C,M42-056,Dlal Pulley for Tuning Capacitor (small)
+SX-2500,Receiver,M42-058-0,M42-058,AUTO TUNING Mechanism Ass‘y
+SX-2500,Receiver,M45-086-O,M45-086,Washer M9
+SX-2500,Receiver,M52-130-C,M52-130,Wooden Case
+SX-2500,Receiver,M61-017-0,M61-017,Foot
+SX-2500,Receiver,M71-004 O,M71-004 O,Nut M11
+SX-2500,Receiver,M71-005 O,M71-005 O,Nut M9
+SX-2500,Receiver,R12-068-0,R12-068,"Installation, Operation and Service Manual  (FVW)  SX-2500"
+SX-2500,Receiver,S11-018-0,S11-018,LINE VOLTAGE SELECTOR
+SX-2500,Receiver,S11-022-A,S11-022,OUTPUT SELECTOR & POWER Switch
+SX-2500,Receiver,S13-039-A,S13-039,INPUT SELECTOR Switch
+SX-2500,Receiver,S14-035-0,S14-035,MODE SELECTOR Switch
+SX-2500,Receiver,S16-046-0,S16-046,BASS CONTROL Switch
+SX-2500,Receiver,S16-047-0,S16-047,TREBLE CONTROL Swltch
+SX-2500,Receiver,S41-025-0,S41-025,PRE & MAIN Switch
+SX-2500,Receiver,S48-002-A,S48-002,Spring Switch
+SX-2500,Receiver,S48-003-A,S48-003,AUTO TUNING REVERSE Switch
+SX-2500,Receiver,T24-026-0,T24-026,Heater Choke Coil
+SX-2500,Receiver,T24-030-0,T24-030,Choke Coil
+SX-2500,Receiver,T42-024,T42-024,AM Ferrite Loopstick Antanna
+SX-2500,Receiver,T52-186-B,T52-186,Power Transformer
+SX-2500,Receiver,W11-041-0,W11-041,FM Front end
+SX-2500,Receiver,W12-030-0,W12-030,FM IF Unit
+SX-2500,Receiver,W13-026-0,W13-026,MPX Unit
+SX-2500,Receiver,W14-016-0,W14-016,AM Unit
+SX-2500,Receiver,W15-050-A,W15-050,CONTROL AMP Unit
+SX-2500,Receiver,W15-101-0,W15-101,MUTING Unit
+SX-2500,Receiver,W16-027-0,W16-027,POWER SUPPLY Unlt
+SX-2500,Receiver,W18-015-0,W18-015,AUTO TUNING Unit
+SX-2500,Receiver,W18-016-0,W18-016,INDICATOR Unit
+SX-2500,Receiver,W18-029-0,W18-029,PROTECTOR Unit (FVW)
+SX-2500,Receiver,W21-002-0,W21-002,HEAD AMP Unit
+SX-2500,Receiver,W21-371-C,W21-371,Front Panel Ass'y
+SX-2500,Receiver,W23-004-C,W23-004,MAIN AMP Unit
+SX-2500,Receiver,W26-004-A,W26-004,SWITCH Unit
+SX-2500,Receiver,W26-005-0,W26-005,SWITCH Unit
+SX-2500,Receiver,W26-006-0,W26-006,SWITCH Unlt
+SX-2500,Receiver,W26-007-0,W26-007,SWITCH Unit
+SX-2500,Receiver,W42-009-B,W42-009,Dial Pulley
+SX-2500,Receiver,W52-004-O,W52-004,Compound Part for REC Terminal
+SX-2500,Receiver,W72-002-B,W72-002,AM Ferrite Loopstick Antenna Holder
+SX-3400,Receiver,AAA-061,AAA-061,Tuning knob
+SX-3400,Receiver,AAB-214,AAB-214,"Knob (BASS, TREBLE, BALANCE)"
+SX-3400,Receiver,AAB-714,AAB-714,"Knob (VOLUME, FUNCTION)"
+SX-3400,Receiver,AAD-297,AAD-297,"Push knob (MODE/FM MUTE, LOUDNESS)"
+SX-3400,Receiver,AAD-297,AAD-297,Push knob (TAPE MONITOR)
+SX-3400,Receiver,AAD-300,AAD-300,Push knob A (POWER)
+SX-3400,Receiver,AAW-128,AAW-128,Signal meter
+SX-3400,Receiver,ABA-204,ABA-204,Tapping screw
+SX-3400,Receiver,ABN-024,ABN-024,Washer faced nut
+SX-3400,Receiver,ABN-047,ABN-047,Boss
+SX-3400,Receiver,ACG-001,ACG-001,Capacitor  0.01/250V (S)
+SX-3400,Receiver,ACG-017,ACG-017,Capacitor  0.01/125V (KU)
+SX-3400,Receiver,ACT-023,ACT-023,Variable resistor 1M (BALANCE)
+SX-3400,Receiver,ACT-128,ACT-128,Variable resistor 250k (VOLUME)
+SX-3400,Receiver,ACT-129,ACT-129,"Variable resistor 100k (BASS, TREBLE)"
+SX-3400,Receiver,ADG-023,ADG-023,Power cord (KU)
+SX-3400,Receiver,ADG-046,ADG-046,Power cord (S)
+SX-3400,Receiver,ADH-004,ADH-004,FM antenna
+SX-3400,Receiver,AEC-178,AEC-178,Foot assembly
+SX-3400,Receiver,AEC-337,AEC-337,Strain relief (S)
+SX-3400,Receiver,AEC-358,AEC-358,Strain relief (KU)
+SX-3400,Receiver,AEC-441,AEC-441,Rivet
+SX-3400,Receiver,AEC-441,AEC-441,Rivet
+SX-3400,Receiver,AEC-579,AEC-579,Small pulley
+SX-3400,Receiver,AEK-100,AEK-100,Fuse 4A
+SX-3400,Receiver,AEK-103,AEK-103,Fuse 2A
+SX-3400,Receiver,AEL-114,AEL-114,Pilot lamp with wire (S)
+SX-3400,Receiver,AEL-119,AEL-119,Meter Lamp 8V 300mA (wedge type)
+SX-3400,Receiver,AEL-140,AEL-140,Pilot Lamp with wires 8V 100mA (KU)
+SX-3400,Receiver,AHA-253,AHA-253,Side pad
+SX-3400,Receiver,AHD-777,AHD-777,Packing case
+SX-3400,Receiver,AKA-016,AKA-016,Terminal (ANTENNA)
+SX-3400,Receiver,AKB-063,AKB-063,"Terminal (INPUT, TAPE)"
+SX-3400,Receiver,AKE-048,AKE-048,Terminal (SPEAKERS)
+SX-3400,Receiver,AKP-039,AKP-039,AC socker
+SX-3400,Receiver,AKX-063,AKX-063,Line voltage selector - switchable 4-positions (S)
+SX-3400,Receiver,AMS-041,AMS-041,Side board L
+SX-3400,Receiver,AMS-042,AMS-042,Side board R
+SX-3400,Receiver,ANB-904,ANB-904,Front panel assembly
+SX-3400,Receiver,ANE-308,ANE-308,Top plale
+SX-3400,Receiver,ANG-296,ANG-296,Meter holder B
+SX-3400,Receiver,ANG-297,ANG-297,Pulley holder
+SX-3400,Receiver,ANG-298,ANG-298,Meter holder A
+SX-3400,Receiver,ARB-368,ARB-368,Operating instructions  SX-3600 (KU)
+SX-3400,Receiver,ARB-380,ARB-380,Operating instructions  SX-3600 (S)
+SX-3400,Receiver,ASE-009,ASE-009,Slide rotary switch (FUNCTION)
+SX-3400,Receiver,ASG-242,ASG-242,"Push switch (MODE/FM MUTE, LOUDNESS)"
+SX-3400,Receiver,ASG-247,ASG-247,Push switch (TAPE MONITOR)
+SX-3400,Receiver,ASG-510,ASG-510,Push switch (POWER - S)
+SX-3400,Receiver,ASG-511,ASG-511,Push switch (POWER - KU)
+SX-3400,Receiver,ATT-687,ATT-687,Power transformer (KU)
+SX-3400,Receiver,ATT-689,ATT-689,Power transformer (S)
+SX-3400,Receiver,AXA-113,AXA-113,Dial pulley assembly
+SX-3400,Receiver,AXA-240,AXA-240,Dial shaft assembly
+SX-3400,Receiver,GWM-163,GWM-163,Tuner/AF amplifier assembly (KU)
+SX-3400,Receiver,GWM-171,GWM-171,Tuner/AF amplifier assembly (S)
+SX-3400,Receiver,GWX-455,GWX-455,LED assembly
+SX-3400,Receiver,GWX-495,GWX-495,"LED assembly (FM STEREO, TAPE MON - KU)"
+SX-3400,Receiver,GWX-495,GWX-495,"LED assembly (FM STEREO, TAPE MON - S)"
+SX-3400,Receiver,GWX-496,GWX-496,Headphones assembly (KU)
+SX-3400,Receiver,GWX-496,GWX-496,Headphones assembly (S)
+SX-3500,Receiver,2SB616A40 or 2SB616A-R,2SB616A40 or 2SB616A,Transistor
+SX-3500,Receiver,2SD586A-Q or 2SD586A-R,2SD586A-Q or 2SD586A,Transistor
+SX-3500,Receiver,AAA-068,AAA-068,Knob (TUNING)
+SX-3500,Receiver,AAB-243,AAB-243,"Knob (POWER, VOLUME)"
+SX-3500,Receiver,AAD-297,AAD-297,"Knob (SPEAKERS, TAPE MON, MODE, LOUDNESS)"
+SX-3500,Receiver,AAV-010,AAV-010,Fluorescent indicator tube
+SX-3500,Receiver,AAW-124,AAW-124,SIGNAL/TUNING meter
+SX-3500,Receiver,ABN-024,ABN-024,Nut M9
+SX-3500,Receiver,ACG-017,ACG-017,Ceramic capacitor 0.01/125V
+SX-3500,Receiver,ACT-023,ACT-023,Variable resistor 1M (BALANCE)
+SX-3500,Receiver,ACT-128,ACT-128,Variable resistor 250k (VOLUME)
+SX-3500,Receiver,ACT-140,ACT-140,"Variable resistor 150k (BASS, TREBLE)"
+SX-3500,Receiver,ADG-023,ADG-023,AC power cord
+SX-3500,Receiver,AEC-702,AEC-702,Foot assembly
+SX-3500,Receiver,AEK-101,AEK-101,Fuse (3A)
+SX-3500,Receiver,AEK-108,AEK-108,Fuse (5A)
+SX-3500,Receiver,AEL-029,AEL-029,Lamp (wedge type)
+SX-3500,Receiver,AEL-075,AEL-075,Lamp with wires 8V 50mA (STEREO IND)
+SX-3500,Receiver,AEL-119,AEL-119,Lamp assembly
+SX-3500,Receiver,AKA-014,AKA-014,Terminal (ANTENNA)
+SX-3500,Receiver,AKB-063,AKB-063,"Terminal (INPUT, TAPE)"
+SX-3500,Receiver,AKB-076,AKB-076,Terminal (AM STEREO OUT)
+SX-3500,Receiver,AKE-047,AKE-047,Terrninal (SPEAKERS)
+SX-3500,Receiver,AKK-005,AKK-005,Lamp socket (wedge type)
+SX-3500,Receiver,AKN-030,AKN-030,Phone jack (PHONES)
+SX-3500,Receiver,AKP-039,AKP-039,AC socket (AC OUTLETS)
+SX-3500,Receiver,AMS-039,AMS-039,Side panel L
+SX-3500,Receiver,AMS-040,AMS-040,Side panel R
+SX-3500,Receiver,ANB-891,ANB-891,Front panel assembly
+SX-3500,Receiver,ANE-305,ANE-305,Top plate
+SX-3500,Receiver,ASA-507,ASA-507,Rotary switch (POWER)
+SX-3500,Receiver,ASE-007,ASE-007,Slide rotary switch (FUNCTION)
+SX-3500,Receiver,ASG-244,ASG-244,"2-ganged push switch (MODE/FM MUTE, LOUDNESS)"
+SX-3500,Receiver,ASG-245,ASG-245,2-ganged push switch (SPEAKERS)
+SX-3500,Receiver,ASG-246,ASG-246,Push switch (TAPE MONITOR)
+SX-3500,Receiver,ATT-690,ATT-690,Power transformer
+SX-3500,Receiver,AWV-010,AWV-010,FL assembly
+SX-3500,Receiver,AXA-290,AXA-290,Tuning shaft assembly
+SX-3500,Receiver,GWM-161,GWM-161,Tuner/AF assembly
+SX-3500,Receiver,GWX-482,GWX-482,SP terminal assembly
+SX-3500,Receiver,GWX-483,GWX-483,LED assembly A (FUNCTION)
+SX-3500,Receiver,GWX-484,GWX-484,LED assembly B (SPEAKERS)
+SX-3600/720,Receiver,2SB773A-Q (2SB773A-R),2SB773A-Q (2SB773A-R),Transistor
+SX-3600/720,Receiver,2SD883A-Q (2SD883A-R),2SD883A-Q (2SD883A-R),Transistor
+SX-3600/720,Receiver,AAA-068,AAA-068,Tuning knob
+SX-3600/720,Receiver,AAB-243,AAB-243,Rotary knob
+SX-3600/720,Receiver,AAD-297,AAD-297,Push knob
+SX-3600/720,Receiver,AAW-124,AAW-124,Signal/Tuning meter (SX-3600 KU)
+SX-3600/720,Receiver,AAW-129,AAW-129,Signal /Tuning meter (SX-3600 KU)
+SX-3600/720,Receiver,ABA-187,ABA-187,Screw
+SX-3600/720,Receiver,ABA-204,ABA-204,Screw (3 X 6)
+SX-3600/720,Receiver,ABN-024,ABN-024,Nut M9
+SX-3600/720,Receiver,ABN-047,ABN-047,Union unit
+SX-3600/720,Receiver,ACG-017,ACG-017,Ceramic capacitor (0.01 /1 25V)
+SX-3600/720,Receiver,ACT-023,ACT-023,Variable resistor 1M (BALANCE)
+SX-3600/720,Receiver,ACT-128,ACT-128,Variable resistor 250k (VOLUME)
+SX-3600/720,Receiver,ACT-140,ACT-140,"Variable resistor 100k (BASS, TREBLE)"
+SX-3600/720,Receiver,ADG-023,ADG-023,AC power cord
+SX-3600/720,Receiver,ADH-004,ADH-004,T-type FM antenna
+SX-3600/720,Receiver,AEC-288,AEC-288,Mica wafer
+SX-3600/720,Receiver,AEC-327,AEC-327,Strain relief
+SX-3600/720,Receiver,AEC-702,AEC-702,Foot assembly
+SX-3600/720,Receiver,AEK-100,AEK-100,Fuse (4A)
+SX-3600/720,Receiver,AEK-101,AEK-101,Fuse (3A)
+SX-3600/720,Receiver,AEK-109,AEK-109,Fuse (6A)
+SX-3600/720,Receiver,AEL-029,AEL-029,Lamp (wedge type)
+SX-3600/720,Receiver,AEL-075,AEL-075,"Lamp with wire (8V, 50mA)"
+SX-3600/720,Receiver,AEL-119,AEL-119,"Wedge lamp assembly (8V, 300mA)"
+SX-3600/720,Receiver,AEL-119,AEL-119,"Wedge lamp assembly(8V, 300mA)"
+SX-3600/720,Receiver,AEL-318,AEL-318,LED (FUNCTION)
+SX-3600/720,Receiver,AEL-324,AEL-324,LED (SPEAKERS)
+SX-3600/720,Receiver,AHA-197,AHA-197,Side pad L
+SX-3600/720,Receiver,AHA-198,AHA-198,Side pad R
+SX-3600/720,Receiver,AHD-768,AHD-768,Packing case  SX-3600  (KU)
+SX-3600/720,Receiver,AKA-014,AKA-014,Terminal (ANTENNA)
+SX-3600/720,Receiver,AKB-063,AKB-063,Terminal (INPUT)
+SX-3600/720,Receiver,AKB-063,AKB-063,"Terminal (TAPE 1,2)"
+SX-3600/720,Receiver,AKB-076,AKB-076,1P pin jack (AM STEREO OUT)
+SX-3600/720,Receiver,AKE-047,AKE-047,Terminal (SPEAKER)
+SX-3600/720,Receiver,AKH-008,AKH-008,Spacer
+SX-3600/720,Receiver,AKK-005,AKK-005,Lamp socket
+SX-3600/720,Receiver,AKN-030,AKN-030,Phone jack
+SX-3600/720,Receiver,AKP-039,AKP-039,AC socket
+SX-3600/720,Receiver,AMS-039,AMS-039,Side board L
+SX-3600/720,Receiver,AMS-040,AMS-040,Side board R
+SX-3600/720,Receiver,ANB-888,ANB-888,Front panel assembly (SX-3600 KU)
+SX-3600/720,Receiver,ANB-912,ANB-912,From panel assembly (SX-3600 KU)
+SX-3600/720,Receiver,ANE-305,ANE-305,Top plate
+SX-3600/720,Receiver,ANE-305,ANE-305,Top plate
+SX-3600/720,Receiver,ARB-361,ARB-361,Operating instructions  SX-3600 (KU)
+SX-3600/720,Receiver,ARB-370,ARB-370,Operating instructions  SX-720 (KU)
+SX-3600/720,Receiver,ART-538,ART-538,Service manual SX-3600 Additional (S)
+SX-3600/720,Receiver,ASA-507,ASA-507,Rotary switch (POWER)
+SX-3600/720,Receiver,ASE-007,ASE-007,Slide rotary switch (FUNCTION)
+SX-3600/720,Receiver,ASG-242,ASG-242,"Push switch (FM MUTE/MODE,TAPE MONITOR)"
+SX-3600/720,Receiver,ASG-243,ASG-243,Push switch (SPEAKER)
+SX-3600/720,Receiver,ATT-693,ATT-693,Power transformer
+SX-3600/720,Receiver,AWV-010,AWV-010,FL assembly (SX-3600 KU)
+SX-3600/720,Receiver,AWV-014,AWV-014,FL assembly (SX-3600 KU)
+SX-3600/720,Receiver,AXA-290 (AXA-270),AXA-290 (AXA-270),Dial shaft assembly
+SX-3600/720,Receiver,GWM-158,GWM-158,Tuner/AF assembly
+SX-3600/720,Receiver,GWX-482,GWX-482,Speaker terminal assembly
+SX-3600/720,Receiver,GWX-483,GWX-483,LED assembly (A)
+SX-3600/720,Receiver,GWX-484,GWX-484,LED assembly (B)
+SX-3700,Receiver,2SA1075-G (2SA1075-B),2SA1075-G (2SA1075-B),Transistor
+SX-3700,Receiver,2SC2525-G (2SC2525-B),2SC2525-G (2SC2525-B),Transistor
+SX-3700,Receiver,AAA-065,AAA-065,Knob (TUNING)
+SX-3700,Receiver,AAB-239,AAB-239,"Knob (POWER, BASS, TREBLE)"
+SX-3700,Receiver,AAB-239,AAB-239,"Knob (VOLUME, BALANCE)"
+SX-3700,Receiver,AAD-139,AAD-139,"Lever knob assembly (LOW FILTER, TAPE MONITOR, MODE/FM MUTING)"
+SX-3700,Receiver,AAD-226,AAD-226,"Push knob (SPEAKERS FM, AM, AUX PHONO)"
+SX-3700,Receiver,AAN-029,AAN-029,Resistor (2.2MΩ)
+SX-3700,Receiver,AAV-009,AAV-009,Fluorescent indicator tube (POWER)
+SX-3700,Receiver,ACN-116,ACN-116,"Resistor (200Ω, 10w)"
+SX-3700,Receiver,ACN-117,ACN-117,"Resistor (82Ω, 5W)"
+SX-3700,Receiver,ACT-021,ACT-021,Variable resistor 1M (BALANCE)
+SX-3700,Receiver,ACT-126,ACT-126,Variable resistor 250k (VOLUME)
+SX-3700,Receiver,ACT-127,ACT-127,Variable 100K (BASS)
+SX-3700,Receiver,ACT-127,ACT-127,Variable 100K (TREBLE)
+SX-3700,Receiver,ADG-023,ADG-023,AC power cord
+SX-3700,Receiver,ADH-002,ADH-002,T-type FM antenna
+SX-3700,Receiver,AEK-100,AEK-100,Fuse (4A)
+SX-3700,Receiver,AEK-101,AEK-101,Fuse (3A)
+SX-3700,Receiver,AEK-107,AEK-107,Fuse (0.5A)
+SX-3700,Receiver,AEL-029,AEL-029,Lamp (wedge type)
+SX-3700,Receiver,AEL-075,AEL-075,"Lamp with wire (8V,50mA)"
+SX-3700,Receiver,AHA-252,AHA-252,Side pad
+SX-3700,Receiver,AHD-765,AHD-765,Packing case
+SX-3700,Receiver,AKA-014,AKA-014,Terminal (ANTENNA)
+SX-3700,Receiver,AKB-063,AKB-063,Pin jack 4P
+SX-3700,Receiver,AKB-076,AKB-076,Terminal (AM STEREO OUT)
+SX-3700,Receiver,AKE-044,AKE-044,Terminal (SPEAKER)
+SX-3700,Receiver,AKN-030,AKN-030,Phone jack (PHONES)
+SX-3700,Receiver,AKP-039,AKP-039,AC socket (AC OUTLETS)
+SX-3700,Receiver,AMM-089,AMM-089,Bonnet case
+SX-3700,Receiver,ANB-883,ANB-883,Front panel assembly
+SX-3700,Receiver,ARB-360,ARB-360,Operating instructions
+SX-3700,Receiver,ART-535,ART-535,Service Manual SX-3700/SX-820
+SX-3700,Receiver,ASA-507,ASA-507,Lever switch (POWER)
+SX-3700,Receiver,ASG-240,ASG-240,Push switch (AM)
+SX-3700,Receiver,ASG-240,ASG-240,Push switch (AUX)
+SX-3700,Receiver,ASG-240,ASG-240,Push switch (FM)
+SX-3700,Receiver,ASG-240,ASG-240,Push switch (PHONO)
+SX-3700,Receiver,ASG-241,ASG-241,Push switch (SP A)
+SX-3700,Receiver,ASG-241,ASG-241,Push switch (SP B)
+SX-3700,Receiver,ASK-157,ASK-157,Lever switch (LOUDNESS)
+SX-3700,Receiver,ASK-157,ASK-157,Lever switch (LOW FILTER)
+SX-3700,Receiver,ASK-157,ASK-157,Lever switch (TAPE MONITOR 1)
+SX-3700,Receiver,ASK-157,ASK-157,Lever switch (TAPE MONITOR 2)
+SX-3700,Receiver,ASK-159,ASK-159,Lever switch (FM MUTING/MODE)
+SX-3700,Receiver,ASR-033,ASR-033,Relay
+SX-3700,Receiver,ATB-624,ATB-624,Bar-antenna Ass'y
+SX-3700,Receiver,ATT-696,ATT-696,Power transformer
+SX-3700,Receiver,AWS-149,AWS-149,Function switch assembly
+SX-3700,Receiver,AWV-011,AWV-011,Lead out assembly
+SX-3700,Receiver,AWV-012,AWV-012,FL assembly
+SX-3700,Receiver,GWM-159,GWM-159,Power amp/protector assembly
+SX-3700,Receiver,GWM-160,GWM-160,Tuner/AF assembly
+SX-3700,Receiver,GWS-233,GWS-233,Switch assembly (SPEAKERS)
+SX-3700,Receiver,GWX-463,GWX-463,Detector assembly
+SX-3800,Receiver,AAA-066,AAA-066,Knob (TUNING)
+SX-3800,Receiver,AAB-239,AAB-239,"Knob (BASS, TREBLE, BALANCE)"
+SX-3800,Receiver,AAB-240,AAB-240,Knob (VOLUME)
+SX-3800,Receiver,AAD-139,AAD-139,"Lever knob (POWER, MUTING, LOUDNESS)"
+SX-3800,Receiver,AAD-226,AAD-226,"Push knob A (SPEAKERS, FUNCTION SELECTOR)"
+SX-3800,Receiver,AAD-227,AAD-227,"Push knob B (BRIGHTNESS, FM MUTING)"
+SX-3800,Receiver,AAV-007,AAV-007,Fluorescent indicator tube
+SX-3800,Receiver,AAV-009,AAV-009,Fluorescent indicator tube
+SX-3800,Receiver,ACN-029,ACN-029,Resistor 2.2M (KU)
+SX-3800,Receiver,ACN-115,ACN-115,Resistor (4.7/10W)
+SX-3800,Receiver,ACT-021,ACT-021,Variable resistor 1M (BALANCE)
+SX-3800,Receiver,ACT-135,ACT-135,Variable 10k (BASS)
+SX-3800,Receiver,ACT-136,ACT-136,Variable 10k (TREBLE)
+SX-3800,Receiver,ACV-181,ACV-181,Variable resistor 100k (VOLUME)
+SX-3800,Receiver,ADG-023,ADG-023,AC power cord (KU)
+SX-3800,Receiver,ADG-046,ADG-046,"AC power cord (S,S/G)"
+SX-3800,Receiver,ADH-002,ADH-002,Type FM antenna
+SX-3800,Receiver,AEC-178,AEC-178,Foot assembly
+SX-3800,Receiver,AEK-101,AEK-101,Fuse (S)
+SX-3800,Receiver,AEK-101,AEK-101,Fuse (S/G)
+SX-3800,Receiver,AEK-107,AEK-107,Fuse (S)
+SX-3800,Receiver,AEK-109,AEK-109,Fuse (KU)
+SX-3800,Receiver,AEK-109,AEK-109,Fuse (S/G)
+SX-3800,Receiver,AEK-109,AEK-109,Fuse 6A
+SX-3800,Receiver,AHA-246,AHA-246,Side pad
+SX-3800,Receiver,AHB-104,AHB-104,Spacer (S/G)
+SX-3800,Receiver,AHD-755,AHD-755,Packing case (KU)
+SX-3800,Receiver,AHD-755,AHD-755,Packing case (S)
+SX-3800,Receiver,AHD-758,AHD-758,Packing case (S/G)
+SX-3800,Receiver,AKA-013,AKA-013,Terminal (ANTENNA)
+SX-3800,Receiver,AKB-063,AKB-063,"Terminal (INPUT, PRE AMP OUT / POWER AMP IN)"
+SX-3800,Receiver,AKB-063,AKB-063,"Terminal (TAPE1,2)"
+SX-3800,Receiver,AKB-076,AKB-076,Terminal (AM STEREO OUT)
+SX-3800,Receiver,AKE-054,AKE-054,Terminal (SPEAKERS)
+SX-3800,Receiver,AKH-032,AKH-032,Fuse holder (KU)
+SX-3800,Receiver,AKN-030,AKN-030,Phone lack (PHONES)
+SX-3800,Receiver,AKP-042,AKP-042,AC socket (AC OUTLETS)
+SX-3800,Receiver,AKR-031,AKR-031,"Line Voltage selector (S/G,S)"
+SX-3800,Receiver,AMM-086,AMM-086,Bonnet case
+SX-3800,Receiver,AMM-088,AMM-088,Wooden Bonnet
+SX-3800,Receiver,ANB-851,ANB-851,Front panel assembly
+SX-3800,Receiver,ARB-355,ARB-355,Operating instructions SX-3800 (KU)
+SX-3800,Receiver,ARB-357,ARB-357,"Operating instructions SX-3800 (S,S/G)"
+SX-3800,Receiver,ASG-230,ASG-230,Push switch (BRIGHTNESS)
+SX-3800,Receiver,ASG-230,ASG-230,Push switch (FM MUTING)
+SX-3800,Receiver,ASG-231,ASG-231,Push switch (FUNCTION - AM)
+SX-3800,Receiver,ASG-231,ASG-231,Push switch (FUNCTION - AUX)
+SX-3800,Receiver,ASG-231,ASG-231,Push switch (FUNCTION - FM)
+SX-3800,Receiver,ASG-231,ASG-231,Push switch (FUNCTION - PHONO)
+SX-3800,Receiver,ASH-015,ASH-015,Slide switch (DE-EMPHASIS)
+SX-3800,Receiver,ASK-152,ASK-152,"Lever switch (MODE,LOW FILTER)"
+SX-3800,Receiver,ASK-152,ASK-152,"Lever switch (MUTlNG,LOUDNESS)"
+SX-3800,Receiver,ASK-507,ASK-507,Lever switch (POWER - KU)
+SX-3800,Receiver,ASK-508,ASK-508,"Lever switch (POWER - S/G,S)"
+SX-3800,Receiver,ASX-128,ASX-128,Remote lever switch (TAPE MONITOR)
+SX-3800,Receiver,ASX-130,ASX-130,Remote lever switch (TAPE)
+SX-3800,Receiver,ASX-135,ASX-135,Remote push switch (SPEAKER IND SP-A)
+SX-3800,Receiver,ASX-135,ASX-135,Remote push switch (SPEAKER IND SP-B)
+SX-3800,Receiver,ASX-137,ASX-137,Remote slide switch (SPEAKER SP-A)
+SX-3800,Receiver,ASX-137,ASX-137,Remote slide switch (SPEAKER SP-B)
+SX-3800,Receiver,ATB-624,ATB-624,Bar -antenna assembly
+SX-3800,Receiver,ATT-677,ATT-677,Power transformer (KU)
+SX-3800,Receiver,ATT-678,ATT-678,Heater transformer
+SX-3800,Receiver,ATT-683,ATT-683,"Power transformer (S/G,S)"
+SX-3800,Receiver,AWM-227,AWM-227,Equalizer assembly
+SX-3800,Receiver,AWS-146,AWS-146,Switch assembly (DE-EMPHASIS KU)
+SX-3800,Receiver,AWS-148,AWS-148,"Switch assembly (DE-EMPHASIS S/G,S)"
+SX-3800,Receiver,AWV-009,AWV-009,FL Indicator assembly
+SX-3800,Receiver,AXA-264,AXA-264,Dial shaft assembly
+SX-3800,Receiver,GWE-133,GWE-133,Tuner assembly
+SX-3800,Receiver,GWG-141,GWG-141,Tone control assembly
+SX-3800,Receiver,GWH-139,GWH-139,Power amplifier assembly
+SX-3800,Receiver,GWK-146,GWK-146,Headphones jack assembly
+SX-3800,Receiver,GWR-122,GWR-122,Power supply assembly
+SX-3800,Receiver,GWS-222,GWS-222,Speaker Terminal Assembly
+SX-3800,Receiver,GWS-223,GWS-223,Switch assembly (Speakers)
+SX-3800,Receiver,GWS-224,GWS-224,Switch assembly (Brightness)
+SX-3800,Receiver,GWS-226,GWS-226,Switch assembly (Muting)
+SX-3800,Receiver,GWX-463,GWX-463,Detector assembly
+SX-3800,Receiver,N/A,N/A,Service Manual SX-3800
+SX-3900,Receiver,2SA1076,2SA1076,Transistor
+SX-3900,Receiver,2SC2526,2SC2526,Transistor
+SX-3900,Receiver,AAA-065,AAA-065,Knob (TUNING)
+SX-3900,Receiver,AAB-238,AAB-238,Knob (VOLUME)
+SX-3900,Receiver,AAB-239,AAB-239,Knob (BALANCE)
+SX-3900,Receiver,AAB-239,AAB-239,"Knob (BASS, TREBLE, TURN0VER)"
+SX-3900,Receiver,AAD-139,AAD-139,"Knob (MODE, MUTING)"
+SX-3900,Receiver,AAD-139,AAD-139,"Knob (POWER, TONE, ADAPTOR,DUPLICATE, TAPE MONITOR)"
+SX-3900,Receiver,AAD-226,AAD-226,Knob (FUNCTION)
+SX-3900,Receiver,AAD-226,AAD-226,Knob (SPEAKERS)
+SX-3900,Receiver,AAD-227,AAD-227,"Knob (FILTER, FM,BRIGHT/DIM)"
+SX-3900,Receiver,AAD-227,AAD-227,Knob (LOUDNESS)
+SX-3900,Receiver,AAV-007,AAV-007,Fluorescent indicator tube
+SX-3900,Receiver,AAV-008,AAV-008,Fluorescent indicator tube
+SX-3900,Receiver,ACG-001,ACG-001,Ceramic capacitor 0.01/250V
+SX-3900,Receiver,ACH-210,ACH-210,"Electrolytic capacitor 15,000uF, 71V"
+SX-3900,Receiver,ACT-133,ACT-133,2-gang variable resistor (BALANCE)
+SX-3900,Receiver,ACT-134,ACT-134,2-gang variable resistor (BASS)
+SX-3900,Receiver,ACT-134,ACT-134,2-gang variable resistor (TREBLE)
+SX-3900,Receiver,ACW-304,ACW-304,4-gang variable resistor (VOLUME)
+SX-3900,Receiver,ADG-029,ADG-029,AC power cord (KU)
+SX-3900,Receiver,ADG-049,ADG-049,AC power cord (S/G)
+SX-3900,Receiver,ADH-002,ADH-002,T-type FM amenna
+SX-3900,Receiver,AEK-102,AEK-102,Fuse 2.5A
+SX-3900,Receiver,AEK-106,AEK-106,Fuse 1A
+SX-3900,Receiver,AEK-106,AEK-106,Fuse 1A
+SX-3900,Receiver,AEK-305,AEK-305,Fuse 10A
+SX-3900,Receiver,AEL-029,AEL-029,Lamp (wedge type)
+SX-3900,Receiver,AEL-047,AEL-047,Lamp with wires (SPEAKERS)
+SX-3900,Receiver,AEL-065,AEL-065,Lamp wlth wires
+SX-3900,Receiver,AEL-069,AEL-069,"Lamp with wires (FM, AM,PHONO 2, PHONO 1)"
+SX-3900,Receiver,AEL-075,AEL-075,Lamp with wlres
+SX-3900,Receiver,AEL-095,AEL-095,Lamp with wires (AUX)
+SX-3900,Receiver,AEX-001,AEX-001,Temperature-sensitive fuse
+SX-3900,Receiver,AHA-247,AHA-247,Side pad
+SX-3900,Receiver,AHA-251,AHA-251,Rear pad
+SX-3900,Receiver,AHC-042,AHC-042,Inside packlng
+SX-3900,Receiver,AHD-756,AHD-756,Packing case (KU)
+SX-3900,Receiver,AHD-757,AHD-757,Packing case (S/G)
+SX-3900,Receiver,AKA-013,AKA-013,Terminal (ANTENNA)
+SX-3900,Receiver,AKB-063,AKB-063,Terminal (PRE AMP OUT/POWER AMP IN)
+SX-3900,Receiver,AKB-063,AKB-063,"Terminal (TAPE, ADAPTOR)"
+SX-3900,Receiver,AKB-064,AKB-064,Terminal (INPUT)
+SX-3900,Receiver,AKB-076,AKB-076,Terminal (AM STEREO OUT)
+SX-3900,Receiver,AKE-054,AKE-054,Terminal (SPEAKERS)
+SX-3900,Receiver,AKH-010,AKH-010,Transistor socket
+SX-3900,Receiver,AKK-005,AKK-005,Lamp socket
+SX-3900,Receiver,AKM-004,AKM-004,Jumper plug
+SX-3900,Receiver,AKN-030,AKN-030,Phone jack (PHONES)
+SX-3900,Receiver,AKP-041,AKP-041,AC socket (AC OUTLETS)
+SX-3900,Receiver,AKX-063,AKX-063,Line voltage selector (S/G)
+SX-3900,Receiver,AMM-087,AMM-087,Wooden cover
+SX-3900,Receiver,ANB-861,ANB-861,Front panel assembly
+SX-3900,Receiver,ARB-354,ARB-354,Operating instructions SX-3900 (KU)
+SX-3900,Receiver,ARB-356,ARB-356,Operating instructions SX-3900 (S/G)
+SX-3900,Receiver,ART-457-0,ART-457,Service Manual SX-3900
+SX-3900,Receiver,ASE-125,ASE-125,Slide rotary switch (BASS TURNOVER)
+SX-3900,Receiver,ASE-126,ASE-126,Slide rotary switch (TREBLE TURNOVER)
+SX-3900,Receiver,ASG-228,ASG-228,"5-gang push switch (FM, AM, AUX, PHONO2, PHONO1)"
+SX-3900,Receiver,ASG-229,ASG-229,Dual push switch
+SX-3900,Receiver,ASG-230,ASG-230,Push switch (BRIGHT/DIM)
+SX-3900,Receiver,ASG-230,ASG-230,Push switch (LOUDNESS)
+SX-3900,Receiver,ASH-015,ASH-015,Slide switch (De-emphasis - S/G)
+SX-3900,Receiver,ASK-152,ASK-152,"Lever (MODE,MUTlNG)"
+SX-3900,Receiver,ASK-152,ASK-152,Lever switch (MODE)
+SX-3900,Receiver,ASK-152,ASK-152,Lever switch (MUTING -20dB)
+SX-3900,Receiver,ASK-152,ASK-152,Lever switch (TONE)
+SX-3900,Receiver,ASK-507,ASK-507,Lever switch (POWER - KU)
+SX-3900,Receiver,ASK-508,ASK-508,Lever (POWER - S/G)
+SX-3900,Receiver,ASR-069,ASR-069,Relay
+SX-3900,Receiver,ASX-128,ASX-128,"Remote lever (ADAPTOR, DUPLICATE)"
+SX-3900,Receiver,ASX-128,ASX-128,"Remote lever switch (ADAPTOR, DUPLICATE)"
+SX-3900,Receiver,ASX-130,ASX-130,Remote slide (ADAPTOR)
+SX-3900,Receiver,ASX-131,ASX-131,Remote lever (TAPE MONITOR)
+SX-3900,Receiver,ASX-131,ASX-131,Remote lever switch (TAPE MONITOR)
+SX-3900,Receiver,ASX-133,ASX-133,Remote slide (TAPE MONITOR)
+SX-3900,Receiver,ASX-134,ASX-134,Remote slide (DUPLICATE)
+SX-3900,Receiver,ASX-135,ASX-135,"Remote push switch (SP-A, SP-B)"
+SX-3900,Receiver,ASX-137,ASX-137,Remote slide switch
+SX-3900,Receiver,ASX-137,ASX-137,Remote switch (SPEAKERS)
+SX-3900,Receiver,ATB-624,ATB-624,Bar-antenna assembly
+SX-3900,Receiver,ATT-675,ATT-675,Power transformer (KU)
+SX-3900,Receiver,ATT-676,ATT-676,Power transformer (KU)
+SX-3900,Receiver,ATT-678,ATT-678,Heater transformer
+SX-3900,Receiver,ATT-681,ATT-681,Power transformer (S/G)
+SX-3900,Receiver,ATT-682,ATT-682,Power transformer (S/G)
+SX-3900,Receiver,AWH-097,AWH-097,Power ampifier assembly
+SX-3900,Receiver,AWM-226,AWM-226,Equalizer assembly
+SX-3900,Receiver,AWR-210,AWR-210,Power supply assembly
+SX-3900,Receiver,AWR-211,AWR-211,Rectifier assembly (KU)
+SX-3900,Receiver,AWR-214,AWR-214,Rectifier assembly (S/G)
+SX-3900,Receiver,AWS-147,AWS-147,De-emphasis assembly (S/G)
+SX-3900,Receiver,AWV-008,AWV-008,Indicator assembly
+SX-3900,Receiver,AXA-260,AXA-260,Tuning shaft assembly
+SX-3900,Receiver,GWE-132,GWE-132,Tuner assembly
+SX-3900,Receiver,GWG-140,GWG-140,Tone amplifier assembly
+SX-3900,Receiver,GWK-146,GWK-146,Headphones jack assembly
+SX-3900,Receiver,GWS-220,GWS-220,Switch assembly (LOUDNESS)
+SX-3900,Receiver,GWS-221,GWS-221,"Switch assembly (FILTER, FM MUTING,BRIGHT/DIM)"
+SX-3900,Receiver,GWS-222,GWS-222,Speakers terminal assembly
+SX-3900,Receiver,GWS-223,GWS-223,Switch assembly (SPEAKERS)
+SX-3900,Receiver,GWX-463,GWX-463,Detector assembly
+SX-4,Receiver,AAB-273,AAB-273,Knob (VOLUME)
+SX-4,Receiver,AAB-274,AAB-274,"Knob (BASS,TREBLE,BALANCE)"
+SX-4,Receiver,AAD-399,AAD-399,Knob (INPUT)
+SX-4,Receiver,AAD-400,AAD-400,Knob (TUNING)
+SX-4,Receiver,AAD-402,AAD-402,Knob (FM)
+SX-4,Receiver,AAD-403,AAD-403,Knob (AM)
+SX-4,Receiver,AAD-404,AAD-404,Knob (MEMORY/STOP)
+SX-4,Receiver,AAD-405,AAD-405,"Knob  (TAPE/ADPT, MONO, LOUDNESS)"
+SX-4,Receiver,AAD-406,AAD-406,Knob (POWER)
+SX-4,Receiver,ABE-072,ABE-072,CS-type washer
+SX-4,Receiver,ABH-088,ABH-088,Coiled spring
+SX-4,Receiver,ABN-047,ABN-047,Union nut
+SX-4,Receiver,ACG-017,ACG-017,Ceramic capacitor
+SX-4,Receiver,ACG-017,ACG-017,Ceramic capacitor
+SX-4,Receiver,ACT-023,ACT-023,Variable resistor 1M (BALANCE)
+SX-4,Receiver,ACT-128,ACT-128,Variable 250k (VOLUME)
+SX-4,Receiver,ACT-140,ACT-140,Variable resistor 100k (BASS)
+SX-4,Receiver,ACT-140,ACT-140,Variable resistor 100k (TREBLE)
+SX-4,Receiver,ADG-052,ADG-052,AC Power cord
+SX-4,Receiver,ADH-004,ADH-004,T-type FM antenna
+SX-4,Receiver,AEC-358,AEC-358,Strain relief
+SX-4,Receiver,AEC-838,AEC-838,Foot assembly
+SX-4,Receiver,AEK-101,AEK-101,Fuse (3A)
+SX-4,Receiver,AEK-108,AEK-108,Fuse (5A)
+SX-4,Receiver,AEL-379,AEL-379,LED array
+SX-4,Receiver,AHA-294,AHA-294,Side pad
+SX-4,Receiver,AHD-961,AHD-961,Packing case
+SX-4,Receiver,AKA-017,AKA-017,Terminal (ANTENNA)
+SX-4,Receiver,AKB-076,AKB-076,Terminal (AM STEREO OUT)
+SX-4,Receiver,AKB-077,AKB-077,Terminal (PLAY)
+SX-4,Receiver,AKB-079,AKB-079,"Terminal (PHONO,AUX/VIDEO,REC)"
+SX-4,Receiver,AKE-101,AKE-101,Terminal (SPEAKERS)
+SX-4,Receiver,AKN-029,AKN-029,Phones jack (PHONES)
+SX-4,Receiver,AKP-039,AKP-039,AC socket (AC OUTPUTS)
+SX-4,Receiver,ANE-362,ANE-362,Top cover
+SX-4,Receiver,ANM-075,ANM-075,Front panel assemb)y
+SX-4,Receiver,ANR-432,ANR-432,Case cover
+SX-4,Receiver,ANR-454,ANR-454,Display cover
+SX-4,Receiver,ARB-439,ARB-439,Operating instructions  SX-4
+SX-4,Receiver,ARP-015-0,ARP-015,Service manual  SX-4
+SX-4,Receiver,ASG-177,ASG-177,Tact switch (STATION)
+SX-4,Receiver,ASG-301,ASG-301,"3-ganged push switch (TAPE/ADPT, MONO, LOUDNESS)"
+SX-4,Receiver,ASG-521,ASG-521,Push switch (POWER)
+SX-4,Receiver,ASH-015,ASH-015,Slide switch (AM CHANNEL STEP)
+SX-4,Receiver,ASS-016,ASS-016,Crystal resonator
+SX-4,Receiver,ATB-636,ATB-636,Bar-antenna assembly
+SX-4,Receiver,ATF-125,ATF-125,Ceramic resonator
+SX-4,Receiver,ATT-839,ATT-839,Power transformer
+SX-4,Receiver,AWM-351,AWM-351,"Complex assembly (Nos.111,114,117 and 118)"
+SX-4,Receiver,AXC-013,AXC-013,Battery case
+SX-4,Receiver,GWX-717,GWX-717,Control assembly B
+SX-4,Receiver,GWX-721,GWX-721,Control assembly
+SX-424,Receiver,AAA-004-B,AAA-004,Knob for tuning
+SX-424,Receiver,AAB-007-B,AAB-007,"Knob for selector, output selector, bass, and treble"
+SX-424,Receiver,AAB-013-0,AAB-013,Knob for volume (L)
+SX-424,Receiver,AAB-014-0,AAB-014,Knob for volume (R)
+SX-424,Receiver,AAD-029-0,AAD-029,"Knob for mode, tape monitor and loudness"
+SX-424,Receiver,AAF-007-B,AAF-007,Dial pointer
+SX-424,Receiver,AAG-035-0,AAG-035,Dial scale
+SX-424,Receiver,AAW-003-A,AAW-003,Signal meter
+SX-424,Receiver,ACE-001-A,ACE-001,Oil paper  0.01  800V (KUW)
+SX-424,Receiver,AEC-012-0,AEC-012,Foot
+SX-424,Receiver,AEL-006-0,AEL-006,Pilot lamp for signal meter
+SX-424,Receiver,AHA-019-0,AHA-019,Side pad
+SX-424,Receiver,AHD-088-0,AHD-088,Packing case
+SX-424,Receiver,AKB-005-0,AKB-005,4P input terminal board
+SX-424,Receiver,AKP-002-0,AKP-002,Spare AC ouﬂet
+SX-424,Receiver,AKR-001-0,AKR-001,Line Voltage Selector (FVZW)
+SX-424,Receiver,AKR-005-0,AKR-005,Fuse holder (KUW)
+SX-424,Receiver,AMM-014-A,AMM-014,Wooden case
+SX-424,Receiver,ANB-127-A,ANB-127,Front panel ass'y
+SX-424,Receiver,ARB-054-0,ARB-054,Operanng instructions
+SX-424,Receiver,ASA-017-0,ASA-017,Output selector (KUW)
+SX-424,Receiver,ASA-028-0,ASA-028,Output selector (FVZW)
+SX-424,Receiver,ASC-021-0,ASC-021,Selector switch
+SX-424,Receiver,ASG-017-0,ASG-017,Push switch (Loudness)
+SX-424,Receiver,ASG-017-0,ASG-017,Push switch (Mode)
+SX-424,Receiver,ASG-017-0,ASG-017,Push switch (Tape Mon)
+SX-424,Receiver,ATB-010-0,ATB-010,AM ferrite loopstick antenna
+SX-424,Receiver,ATT-063-0,ATT-063,Power transformer (KUW)
+SX-424,Receiver,ATT-064-0,ATT-064,Power transformer (FVZW)
+SX-424,Receiver,AWE-008-0,AWE-008,Tuner unit
+SX-424,Receiver,AWK-014-A,AWK-014,AF unit
+SX-424,Receiver,AXB-001-0,AXB-001,AM ferrite loopstick antenna holder ass'y
+SX-424,Receiver,B11-012-A,B11-012,Screw for ground
+SX-424,Receiver,B11-041-A,B11-041,Screw to fix wooden case
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV (FVZW)
+SX-424,Receiver,C43-003-0,C43-003,Ceramic  0.01  DC 1.4 kV (FVZW)
+SX-424,Receiver,C52-074-B,C52-074,Electrolytic  2200  50V
+SX-424,Receiver,C82-046-A,C82-046,100k dual Bass
+SX-424,Receiver,C82-046-A,C82-046,100k dual Treble
+SX-424,Receiver,C87-025-0,C87-025,250k dual Volume
+SX-424,Receiver,CEA 101P 10,CEA 101P 10,Electrolytic  100  10V
+SX-424,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-424,Receiver,CQMA 152K 50,CQMA 152K 50,Mylar  0.0015  50V
+SX-424,Receiver,CQMA 152K 50,CQMA 152K 50,Mylar  0.0015  50V
+SX-424,Receiver,CQMA 182K 50,CQMA 182K 50,Mylar  0.0018  50V
+SX-424,Receiver,CQMA 562K 50,CQMA 562K 50,Mylar  0.0056  50V (KUW)
+SX-424,Receiver,CQMA 562K 50,CQMA 562K 50,Mylar  0.0056  50V (KUW)
+SX-424,Receiver,D11-003-E,D11-003,AC power cord
+SX-424,Receiver,D52-013-0,D52-013,FM T-type antenna
+SX-424,Receiver,E21 -033-0,E21 -033,Fuse 1A (KUW)
+SX-424,Receiver,E21-004-0,E21-004,Fuse 1A (FVZW)
+SX-424,Receiver,E21-022-0,E21-022,Fuse 3A for protection
+SX-424,Receiver,E22-017-0,E22-017,Pilot lamp for dial scale
+SX-424,Receiver,K11-043-A,K11-043,Antenna Input terminal board
+SX-424,Receiver,K13-047-0,K13-047,4P ground terminal
+SX-424,Receiver,K72-007-B,K72-007,Speaker plug
+SX-424,Receiver,K72-015-A,K72-015,Pin plug
+SX-424,Receiver,K72-020-0,K72-020,Microphone jack
+SX-424,Receiver,K72-026-0,K72-026,Headphones jack
+SX-424,Receiver,K72-031-0,K72-031,Speaker socket
+SX-424,Receiver,K91-005-A,K91-005,Pilot lamp (for dial scale) socket
+SX-424,Receiver,K93-003-B,K93-003,5P connector (DIN)
+SX-424,Receiver,M42-071-F,M42-071,Dial shaft ass'y
+SX-424,Receiver,M42-080-A,M42-080,Dial pulley
+SX-424,Receiver,RD¼PS 473J,RD¼PS 473J,Carbon film  47k
+SX-424,Receiver,RD¼PS 474J,RD¼PS 474J,Carbon film  470k
+SX-424,Receiver,RD½PS 220J,RD½PS 220J,Carbon film  22  ½W
+SX-424,Receiver,RD½PS 225J,RD½PS 225J,Carbon film  2.2M  ½W
+SX-424,Receiver,RD½PS 821J,RD½PS 821J,Carbon film  820  ½W
+SX-424,Receiver,RD½PS 821J,RD½PS 821J,Carbon film  820  ½W
+SX-424,Receiver,RM2P 151 K,RM2P 151 K,Wire wound  150  2W
+SX-424,Receiver,RM2P 151K,RM2P 151K,Wire wound  150  2W
+SX-424,Receiver,RM2P 151K,RM2P 151K,Wire wound  150  2W
+SX-424,Receiver,RM2P 151K,RM2P 151K,Wire wound  150  2W
+SX-424,Receiver,T24-030-0,T24-030,Choke coil
+SX-424,Receiver,W52-004-0,W52-004,Compound part for REC jack
+SX-434,Receiver,AAA-024-0,AAA-024,Knob (Tuning)
+SX-434,Receiver,AAB-068-A,AAB-068,"Knob (Speaker, Bass, Treble, Balance,Volume, Function)"
+SX-434,Receiver,AAD-050-B,AAD-050,"Knob (FM muting, Mono, Tape monitor,Loudness)"
+SX-434,Receiver,AAF-028-0,AAF-028,Dial pointer
+SX-434,Receiver,AAG-076-A,AAG-076,Dial scale
+SX-434,Receiver,AAL-211-0,AAL-211,Model name plate (KCU)
+SX-434,Receiver,AAL-212-0,AAL-212,Model name plate (GN)
+SX-434,Receiver,AAL-213-0,AAL-213,Model name plate (FV)
+SX-434,Receiver,AAW-026-A,AAW-026,Tuning meter
+SX-434,Receiver,ABA-010-A,ABA-010,Screw M4x15
+SX-434,Receiver,ACG-001-0,ACG-001,Ceramic  0.01  250V (FV)
+SX-434,Receiver,ACG-001-0,ACG-001,Ceramic  0.01  250V (FV)
+SX-434,Receiver,ACG-001-0,ACG-001,"Ceramic  0.01  250V (KCU,FV)"
+SX-434,Receiver,ACG-003-0,ACG-003,Ceramic  0.01  250V (KCU)
+SX-434,Receiver,ACH-040-0,ACH-040,"Electrolytic capacitor 3,300 uF, 25V"
+SX-434,Receiver,ACV-111-B,ACV-111,Variable resistor 250k-HB (Balance)
+SX-434,Receiver,ACV-124-0,ACV-124,Variable resistor 250k-B1 (Volume)
+SX-434,Receiver,ACV-137-0,ACV-137,Variable resistor 100k-A2 (Bass)
+SX-434,Receiver,ACV-137-0,ACV-137,Variable resistor 100k-A2 (Treble)
+SX-434,Receiver,ADG-004-0,ADG-004,AC power cord (FV)
+SX-434,Receiver,ADG-005-A,ADG-005,AC power cord (KCU)
+SX-434,Receiver,ADH-002-0,ADH-002,FM T-type antenna
+SX-434,Receiver,AEB-014-A,AEB-014,Rubber bracket
+SX-434,Receiver,AEC-004-0,AEC-004,Wire clip
+SX-434,Receiver,AEC-004-0,AEC-004,Wire clip
+SX-434,Receiver,AEC-058-0,AEC-058,Plastic cover
+SX-434,Receiver,AEC-061-A,AEC-061,Foot
+SX-434,Receiver,AEC-079-0,AEC-079,"AC cord grommet (KCU,FV)"
+SX-434,Receiver,AEC-090-0,AEC-090,Spacer
+SX-434,Receiver,AEC-101-0,AEC-101,Pulley
+SX-434,Receiver,AEF-002-C,AEF-002,Spring
+SX-434,Receiver,AEK-009-0,AEK-009,Fuse  1.5A (AC power - FV)
+SX-434,Receiver,AEK-031-0,AEK-031,Fuse  0.8A (protection - GN)
+SX-434,Receiver,AEK-042-0,AEK-042,Fuse  3.15A (protection - GN)
+SX-434,Receiver,AEK-042-0,AEK-042,Fuse  3.15A (protection - GN)
+SX-434,Receiver,AEK-042-0,AEK-042,Fuse  3.15A (protection - GN)
+SX-434,Receiver,AEK-042-0,AEK-042,Fuse  3.15A (protection - GN)
+SX-434,Receiver,AEK-042-0,AEK-042,Fuse  3.15A (protection - GN)
+SX-434,Receiver,AEK-042-0,AEK-042,Fuse 3.15A (protection - GN)
+SX-434,Receiver,AEK-101 -0,AEK-101 ,Fuse  3A (protection - KCU)
+SX-434,Receiver,AEK-101-0,AEK-101,Fuse  3A (protection - KCU)
+SX-434,Receiver,AEK-101-0,AEK-101,Fuse  3A (protection - KCU)
+SX-434,Receiver,AEK-106-0,AEK-106,Fuse  1A (protection - KCU)
+SX-434,Receiver,AEK-200-0,AEK-200,Fuse  3A (AC power - KCU)
+SX-434,Receiver,AEL-017-0,AEL-017,"Pilot lamp 6V, 30mA (stereo indicator)"
+SX-434,Receiver,AHA-019-0,AHA-019,Side pad
+SX-434,Receiver,AHB-102-0,AHB-102,Operating instructions SX-434 (English)
+SX-434,Receiver,AHD-064-0,AHD-064,"Operating instructions SX-434 (French/German - FV,GN)"
+SX-434,Receiver,AHD-215-0,AHD-215,Packing case
+SX-434,Receiver,AKA-001 -0,AKA-001 ,Speaker output terminal
+SX-434,Receiver,AKA-001-0,AKA-001,Speaker output terminal
+SX-434,Receiver,AKB-014-0,AKB-014,Phono jack-A (4 jacks)
+SX-434,Receiver,AKB-015-0,AKB-015,Phono jack-B (4jacks)
+SX-434,Receiver,AKC-015-0,AKC-015,Terminal strip (2P)
+SX-434,Receiver,AKC-016-0,AKC-016,Terminal strip (4P)
+SX-434,Receiver,AKE-017-0,AKE-017,Binding post for ground
+SX-434,Receiver,AKK-002-0,AKK-002,Pilot lamp socket
+SX-434,Receiver,AKK-002-0,AKK-002,Pilot lamp socket
+SX-434,Receiver,AKP-004-0,AKP-004,"AC socket (KCU,FV)"
+SX-434,Receiver,AKP-008-0,AKP-008,Connector (AC power - GN)
+SX-434,Receiver,AKR-001-0,AKR-001,Fuse holder (AC power - FV)
+SX-434,Receiver,AKR-011-0,AKR-011,"Fuse holder (protection - KCU,FV)"
+SX-434,Receiver,AKR-017-0,AKR-017,Fuse holder (protection - GN)
+SX-434,Receiver,ALA-008-0,ALA-008,Special nut
+SX-434,Receiver,AMM-031-A,AMM-031,Wooden cabinet
+SX-434,Receiver,ANA-062-B,ANA-062,Chassis
+SX-434,Receiver,ANB-265-0,ANB-265,Front panel assembly
+SX-434,Receiver,ANC-108-A,ANC-108,Rear panel (KCU)
+SX-434,Receiver,ANC-109-A,ANC-109,Rear panel (GN)
+SX-434,Receiver,ANC-110-A,ANC-110,Rear panel (FV)
+SX-434,Receiver,ANE-016-C,ANE-016,Bottom plate
+SX-434,Receiver,ANF-202-0,ANF-202,P.C. board holder
+SX-434,Receiver,ANF-204-0,ANF-204,Reinforced metal
+SX-434,Receiver,ANG-043-0,ANG-043,Pulley-held metal
+SX-434,Receiver,ANG-096-0,ANG-096,Dial scale-held metal
+SX-434,Receiver,ANH-078-B,ANH-078,Lamp box
+SX-434,Receiver,ANH-192-0,ANH-192,Heat sink
+SX-434,Receiver,ANK-017-A,ANK-017,Meter-held metal
+SX-434,Receiver,ASA-039-0,ASA-039,Rotary switch (Power - KCU)
+SX-434,Receiver,ASA-039-0,ASA-039,Rotary switch (Power - KCU)
+SX-434,Receiver,ASA-040-0,ASA-040,"Rotary switch (Power - FV,GN)"
+SX-434,Receiver,ASC-059-0,ASC-059,Rotary switch (Function)
+SX-434,Receiver,ASG-055-0,ASG-055,"Push switch (Loudness, Mono,Tape monitor, FM muting)"
+SX-434,Receiver,ASH-008-0,ASH-008,Slide switch (De-emphasis - FV)
+SX-434,Receiver,ATB-015-A,ATB-015,Ferrite loopstick antenna
+SX-434,Receiver,ATB-015-A,ATB-015,Ferrite loopstick antenna
+SX-434,Receiver,ATT-169-0,ATT-169,Power transformer (KCU)
+SX-434,Receiver,ATT-170-A,ATT-170,Power transformer (GN)
+SX-434,Receiver,ATT-171-0,ATT-171,Power transformer (FV)
+SX-434,Receiver,AWE-037-0,AWE-037,Tuner assembly
+SX-434,Receiver,AWK-034-0,AWK-034,AF amplifier assembly
+SX-434,Receiver,AWR-049-0,AWR-049,Power supply circuit assembly (FV)
+SX-434,Receiver,AWR-059-0,AWR-059,Power supply circuit assembly (GN)
+SX-434,Receiver,AWR-062-0,AWR-062,"Power supply circuit assembly (KCU,FV)"
+SX-434,Receiver,AXA-015-A,AXA-015,Tuning pulley assembly
+SX-434,Receiver,AXA-021-0,AXA-021,Tuning shaft assembly
+SX-434,Receiver,AXB-001-A,AXB-001,Ferrite antenna holder assembly
+SX-434,Receiver,B21-011-A,B21-011,Washer
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-434,Receiver,B71-004-0,B71-004,Nut 9Φ
+SX-434,Receiver,B71-031-0,B71-031,Nut (insulator)
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V
+SX-434,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic  0.01  50V (GN)
+SX-434,Receiver,CQMA 103K 50,CQMA 103K 50,"Mylar  0.01  50V (KCU,FV)"
+SX-434,Receiver,CQMA 103K 50,CQMA 103K 50,"Mylar  0.01  50V (KCU,FV)"
+SX-434,Receiver,CQMA 122K 50,CQMA 122K 50,Mylar  0.0012  50V
+SX-434,Receiver,CQMA 822K 50,CQMA 822K 50,Mylar  0.0082  50V
+SX-434,Receiver,E21 -036-A,E21 -036,"Fuse  3A (protection - KCU,FV)"
+SX-434,Receiver,E21-034-A,E21-034,Fuse  1A (protection FV)
+SX-434,Receiver,E21-036-A,E21-036,Fuse  3A (protection - FV)
+SX-434,Receiver,E21-036-A,E21-036,Fuse  3A (protection - FV)
+SX-434,Receiver,E21-036-A,E21-036,Fuse  3A (protection - FV)
+SX-434,Receiver,E21-036-A,E21-036,"Fuse  3A (protection - KCU,FV)"
+SX-434,Receiver,E21-036-A,E21-036,"Fuse 3A (protection - KCU,FV)"
+SX-434,Receiver,E22-032-0,E22-032,"Pilot lamp 8V, 0.3A (dial scale)"
+SX-434,Receiver,E22-032-0,E22-032,"Pilot lamp 8V, 0.3A (meter)"
+SX-434,Receiver,K11-043-0,K11-043,Antenna terminal board
+SX-434,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-434,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+SX-434,Receiver,K72-020-0,K72-020,Phone jack (Microphone)
+SX-434,Receiver,K72-026-0,K72-026,Phone jack (Headphone)
+SX-434,Receiver,K93-003-B,K93-003,Connector (DIN type 5P)
+SX-434,Receiver,M45-086-A,M45-086,Spacer 1t
+SX-434,Receiver,M45-086-A,M45-086,Washer 1t
+SX-434,Receiver,M45-086-A,M45-086,Washer 1t
+SX-434,Receiver,M45-086-A,M45-086,Washer 1t
+SX-434,Receiver,M45-105-C,M45-105,Wire supporter
+SX-434,Receiver,M46-138-0,M46-138,Wire supporter
+SX-434,Receiver,M49-025-E,M49-025,Pulley shaft
+SX-434,Receiver,RD¼PS 823J,RD¼PS 823J,Carbon film  82k
+SX-434,Receiver,RD½PS 151J,RD½PS 151J,Carbon film  150 ½W
+SX-434,Receiver,RD½PS 151J,RD½PS 151J,Carbon film  150 ½W
+SX-434,Receiver,RD½PW 225J,RD½PW 225J,Carbon film  2.2M ½W (KCU)
+SX-434,Receiver,T22-025-A,T22-025,Balun
+SX-434,Receiver,W52-004-A,W52-004,Compound part for REC terminal
+SX-440,Receiver,2SD226 or 2SD130,2SD226 or 2SD130,Transistor
+SX-440,Receiver,2SD226 or 2SD130,2SD226 or 2SD130,Transistor
+SX-440,Receiver,2SD226 or 2SD130,2SD226 or 2SD130,Transistor
+SX-440,Receiver,2SD226 or 2SD130,2SD226 or 2SD130,Transistor
+SX-440,Receiver,A12-131-0,A12-131,"Knob Bass, Treble, Power"
+SX-440,Receiver,A12-134-0,A12-134,Knob Volume (L)
+SX-440,Receiver,A12-136-0,A12-136,Knob Selector
+SX-440,Receiver,A12-139-0,A12-139,Knob Tuning
+SX-440,Receiver,A13-013-0,A13-013,Knob Volume (R)
+SX-440,Receiver,A31-087 0,A31-087 0,Dial Pointer
+SX-440,Receiver,A33-074-0,A33-074,Dial Glass
+SX-440,Receiver,A91-007-0,A91-007,Tuning Meter
+SX-440,Receiver,AWE-004,AWE-004,Tuner Unit (FVZW)
+SX-440,Receiver,B11-022-B,B11-022,Screw to fix Wooden Case
+SX-440,Receiver,C51-021-0,C51-021,Electrolytic 1000 16V
+SX-440,Receiver,C51-021-0,C51-021,Electrolytic 1000 16V
+SX-440,Receiver,C52-046-A,C52-046,Electrolytic 1000 35V
+SX-440,Receiver,C82-033-0,C82-033,"100K dual, Bass"
+SX-440,Receiver,C82-033-0,C82-033,"100K dual, Treble"
+SX-440,Receiver,C87-021-0,C87-021,"250k dual, Volume"
+SX-440,Receiver,E21-004-0,E21-004,Fuse 1A
+SX-440,Receiver,E21-005-0,E21-005,Fuse 2A
+SX-440,Receiver,E21-007-0,E21-007,Fuse 0.5A
+SX-440,Receiver,E22-012-0,E22-012,Pilot Lamp
+SX-440,Receiver,E22-015-0,E22-015,Pilot Lamp
+SX-440,Receiver,K41-002-B,K41-002,Pilot Lamp socket
+SX-440,Receiver,K72-007-B,K72-007,Plug for Speaker
+SX-440,Receiver,K72-021-B,K72-021,Head phone Jack
+SX-440,Receiver,K92-006-0,K92-006,Fuse Holder 2p
+SX-440,Receiver,K93-003-B,K93-003,Connector 5p
+SX-440,Receiver,M21-267-0,M21-267,Front Panel
+SX-440,Receiver,M21-271-0,M21-271,Plastic Panel
+SX-440,Receiver,M33-086-0,M33-086,Wooden Case
+SX-440,Receiver,M42-009-B,M42-009,Dial Pulley
+SX-440,Receiver,M42-018-E,M42-018,"Dial Pulley,for Tuning Capacitor"
+SX-440,Receiver,M61-017-0,M61-017,Foot
+SX-440,Receiver,R12-024-B,R12-024,"Installation, Operation and Service Manual SX-440"
+SX-440,Receiver,S11-016-A,S11-016,Power Switch
+SX-440,Receiver,S11-018-0,S11-018,Line Voltage Selector
+SX-440,Receiver,S13-021 B,S13-021 B,Input Selector
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (LOUDNESS)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (MODE)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (SPEAKER ON/OFF)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (SPEAKER)
+SX-440,Receiver,S42-002-A,S42-002,Toggle Switch (TAPE MONITOR)
+SX-440,Receiver,T42-022-B,T42-022,AM Ferrite Loopstick Antenna
+SX-440,Receiver,T52-157-0,T52-157,Power Transformer
+SX-440,Receiver,T61-041-0,T61-041,Matching Transformer
+SX-440,Receiver,T61-041-0,T61-041,Matching Transformer
+SX-440,Receiver,W15-073-A,W15-073,"AF Unit (KCLW, FVW, FVZW)"
+SX-440,Receiver,W16-021-0,W16-021,"Power Supply Unit (KCLW, FVW, FVZW)"
+SX-440,Receiver,W16-063,W16-063,Power Supply Unit (NBW)
+SX-440,Receiver,W35-007-0,W35-007,Tuner Unit (F-W)
+SX-440,Receiver,W35-022,W35-022,Tuner Unit (NBW)
+SX-440,Receiver,W35-027,W35-027,"Tuner unit (KCLW, FVW)"
+SX-440,Receiver,W36-011,W36-011,AF Unit (NBW)
+SX-450,Receiver,AAA-036,AAA-036,Knob (TUNlNG)
+SX-450,Receiver,AAB-099,AAB-099,Knob (BALANCE)
+SX-450,Receiver,AAB-099,AAB-099,Knob (BASS)
+SX-450,Receiver,AAB-099,AAB-099,Knob (TREBLE)
+SX-450,Receiver,AAB-100,AAB-100,Knob (FUNCTION)
+SX-450,Receiver,AAB-100,AAB-100,Knob (SPEAKER)
+SX-450,Receiver,AAB-100,AAB-100,Knob (VOLUME)
+SX-450,Receiver,AAD-110,AAD-110,Knob (FM MUTING)
+SX-450,Receiver,AAD-110,AAD-110,Knob (LOUDNESS)
+SX-450,Receiver,AAD-110,AAD-110,Knob (MONO)
+SX-450,Receiver,AAD-110,AAD-110,Knob (TAPE MONITOR)
+SX-450,Receiver,AAF-046,AAF-046,Dial pointer assembly
+SX-450,Receiver,AAG-113,AAG-113,Dial scale board
+SX-450,Receiver,AAW-053,AAW-053,Meter (AM/FM)
+SX-450,Receiver,ABN-025,ABN-025,Boss
+SX-450,Receiver,ACG-001,ACG-001,Ceramic 0.01 125V (KC)
+SX-450,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V (KU)
+SX-450,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V (KU/HG/S)
+SX-450,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V (S)
+SX-450,Receiver,ACG-003,ACG-003,Ceramic 0.01 125V
+SX-450,Receiver,ACG-003,ACG-003,Ceramic 0.01 125V (KC)
+SX-450,Receiver,ACG-003,ACG-003,Ceramic 0.01 125V (KC/KU)
+SX-450,Receiver,ACH-043,ACH-043,Electrolytic capacitor 4700/uF 35V
+SX-450,Receiver,ACK-012,ACK-012,Tuning Capacitor
+SX-450,Receiver,ACV-020,ACV-020,Variable resistor (BALANCE)
+SX-450,Receiver,ACV-161,ACV-161,Variable resistor (VOLUME)
+SX-450,Receiver,ACV-180,ACV-180,Variable resistor (BASS)
+SX-450,Receiver,ACV-180,ACV-180,Variable resistor (TREBLE)
+SX-450,Receiver,ADG-002,ADG-002,AC powercord (S)
+SX-450,Receiver,ADG-005,ADG-005,AC cord (KU)
+SX-450,Receiver,ADG-011,ADG-011,AC cord (KC)
+SX-450,Receiver,AEC-240,AEC-240,Acrylic board
+SX-450,Receiver,AEC-249,AEC-249,Fuse cover
+SX-450,Receiver,AEK-100,AEK-100,"FU4  Fuse  4A (KU,KC)"
+SX-450,Receiver,AEK-100,AEK-100,"FU5  Fuse  4A (KU,KC)"
+SX-450,Receiver,AEK-100,AEK-100,Fuse 4A (S)
+SX-450,Receiver,AEK-100,AEK-100,Fuse 4A (S)
+SX-450,Receiver,AEK-101,AEK-101,"FU6  Fuse  3A (KU,KC)"
+SX-450,Receiver,AEK-104,AEK-104,"Fuse  1.5A (KU,KC)"
+SX-450,Receiver,AEK-104,AEK-104,Fuse 1.5A (S)
+SX-450,Receiver,AEK-104,AEK-104,Fuse 1.6A (S)
+SX-450,Receiver,AEK-107,AEK-107,"FU1  Fuse  0.5A (KU,KC)"
+SX-450,Receiver,AEK-107,AEK-107,"FU2  Fuse  0.5A (KU,KC)"
+SX-450,Receiver,AEK-107,AEK-107,Fuse 0.5A (S)
+SX-450,Receiver,AEK-107,AEK-107,Fuse 0.5A (S)
+SX-450,Receiver,AEK-400,AEK-400,Fuse 4A (HG)
+SX-450,Receiver,AEK-400,AEK-400,Fuse 4A (HG)
+SX-450,Receiver,AEK-401,AEK-401,Fuse 0.5A (HG)
+SX-450,Receiver,AEK-401,AEK-401,Fuse 0.5A (HG)
+SX-450,Receiver,AEK-405,AEK-405,Fuse 1.6A (HG)
+SX-450,Receiver,AEK-405,AEK-405,Fuse 1.6A (HG)
+SX-450,Receiver,AEL-060,AEL-060,"Lamp assembly (KU,KC)"
+SX-450,Receiver,AEL-060,AEL-060,"Lamp assembly (KU,KC)"
+SX-450,Receiver,AEL-060,AEL-060,"Lamp assembly (KU,KC)"
+SX-450,Receiver,AEL-061,AEL-061,"Lamp with leads (KU,KC)"
+SX-450,Receiver,AEL-062,AEL-062,"Lamp with leads (KU,KC)"
+SX-450,Receiver,AKB-027,AKB-027,Terminal (INPUT)
+SX-450,Receiver,AKB-027,AKB-027,Terminal (TAPE)
+SX-450,Receiver,AKE-028,AKE-028,Terminal (ANTENNA)
+SX-450,Receiver,AKE-029,AKE-029,Terminal (SPEAKER)
+SX-450,Receiver,AKE-031,AKE-031,Terminal (GROUND)
+SX-450,Receiver,AKN-009,AKN-009,Phone jack
+SX-450,Receiver,AKN-011,AKN-011,Phone jack (MIC)
+SX-450,Receiver,AKP-004,AKP-004,AC socket (KU/KC/S)
+SX-450,Receiver,AKP-006,AKP-006,AC Inlet (HG)
+SX-450,Receiver,AKP-011,AKP-011,DIN socket
+SX-450,Receiver,AKP-016,AKP-016,Socket (FM antenna)
+SX-450,Receiver,AKR-013,AKR-013,Fuse clip (KC/S)
+SX-450,Receiver,AKR-030,AKR-030,Fuse clip (KU)
+SX-450,Receiver,AKR-031,AKR-031,LINE VOLTAGE SELECTOR (4 position wirh Fuse holder - S)
+SX-450,Receiver,AKX-037,AKX-037,LINE VOLTAGE SELECTOR (2 position - HG)
+SX-450,Receiver,AMS-012,AMS-012,Side panel (L)
+SX-450,Receiver,AMS-013,AMS-013,Side Panel (R)
+SX-450,Receiver,ANB-443,ANB-443,Front panel assembly
+SX-450,Receiver,ANE-120,ANE-120,Top plate (KU/KC)
+SX-450,Receiver,ANE-131,ANE-131,Top plate (HG/S)
+SX-450,Receiver,ARB-185,ARB-185,Operating instructions SX-450 (English-KU/KC)
+SX-450,Receiver,ARB-191,ARB-191,Operating instructions SX-450 (English-S)
+SX-450,Receiver,ARB-193,ARB-193,Operating instructions SX-450 (English-HG)
+SX-450,Receiver,ARD-096,ARD-096,Operating instructions SX-450 (German/French - HG)
+SX-450,Receiver,ASA-042,ASA-042,Rotary switch (SPEAKER)
+SX-450,Receiver,ASA-042,ASA-042,Rotary Switch (SPEAKER/Power - KC/KU)
+SX-450,Receiver,ASA-044,ASA-044,Rotary Switch (SPEAKER/Power - S)
+SX-450,Receiver,ASA-045,ASA-045,Rotary Switch (SPEAKER/Power - HG)
+SX-450,Receiver,ASD-048,ASD-048,Rocary switch (FUNCTION)
+SX-450,Receiver,ASG-115,ASG-115,Push switch assembly
+SX-450,Receiver,ASH-015,ASH-015,Slide Switch (FM DE-EMPHASIS)
+SX-450,Receiver,ASH-015,ASH-015,Slide Switch (KC/KU)
+SX-450,Receiver,ASH-017,ASH-017,Slide Switch (S)
+SX-450,Receiver,ATT-304,ATT-304,Power transformer (KU)
+SX-450,Receiver,ATT-320,ATT-320,Power transformer (KC)
+SX-450,Receiver,ATT-322,ATT-322,Power Transformer (S)
+SX-450,Receiver,ATT-333,ATT-333,Power Transformer (HG)
+SX-450,Receiver,AWE-074,AWE-074,RF assembly
+SX-450,Receiver,AWK-060,AWK-060,AF assembly (KU)
+SX-450,Receiver,AWK-064,AWK-064,AF assembly (KC)
+SX-450,Receiver,AWK-067,AWK-067,AF assembly (S)
+SX-450,Receiver,AWK-069,AWK-069,AF assembly (HG)
+SX-450,Receiver,AXA-006,AXA-006,Tuning drum assembly
+SX-450,Receiver,AXA-117,AXA-117,Tuning shaft assembly
+SX-450,Receiver,AXB-006,AXB-006,"Ferrite bar antenna (KU,KC)"
+SX-450,Receiver,AXB-010,AXB-010,Ferrite Bar antenna (HG)
+SX-450,Receiver,CKDYA912J 50,CKDYA912J 50,Ceramic 9100pF 50V (HG)
+SX-450,Receiver,N/A,N/A,Service Manual SX-450 (KC/KU/HG/S)
+SX-450,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KC/KU)
+SX-450,Receiver,T24-030,T24-030,Ferry inductor

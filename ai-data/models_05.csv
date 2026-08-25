@@ -1,0 +1,2516 @@
+model,category,part_number,normalized_part_number,description
+QX-747A,Receiver,2SB530-R or O (2SA745-R or O),2SB530-R or O (2SA745-R or O),Transistor
+QX-747A,Receiver,2SB530-R or O (2SA745-R or O),2SB530-R or O (2SA745-R or O),Transistor
+QX-747A,Receiver,2SB531S-R or O (2SA756S-B or C),2SB531S-R or O (2SA756S-B or C),Transistor
+QX-747A,Receiver,2SB531S-R or O (2SA756S-B or C),2SB531S-R or O (2SA756S-B or C),Transistor
+QX-747A,Receiver,2SD370-R or O (2SC1403-R or O),2SD370-R or O (2SC1403-R or O),Transistor
+QX-747A,Receiver,2SD370-R or O (2SC1403-R or O),2SD370-R or O (2SC1403-R or O),Transistor
+QX-747A,Receiver,2SD371S-R or O (2SC1030S-B or C),2SD371S-R or O (2SC1030S-B or C),Transistor
+QX-747A,Receiver,2SD371S-R or O (2SC1030S-B or C),2SD371S-R or O (2SC1030S-B or C),Transistor
+QX-747A,Receiver,AAA-023,AAA-023,Knob (TUNING)
+QX-747A,Receiver,AAB-065,AAB-065,Knob (FRONT BASS)
+QX-747A,Receiver,AAB-065,AAB-065,Knob (FRONT TREBLE)
+QX-747A,Receiver,AAB-065,AAB-065,Knob (FUNCTION)
+QX-747A,Receiver,AAB-065,AAB-065,Knob (MODE)
+QX-747A,Receiver,AAB-065,AAB-065,Knob (REAR BASS)
+QX-747A,Receiver,AAB-065,AAB-065,Knob (REAR TREBLE)
+QX-747A,Receiver,AAB-065,AAB-065,Knob (VOLUME)
+QX-747A,Receiver,AAB-079,AAB-079,Knob (LEFT FRONT)
+QX-747A,Receiver,AAB-079,AAB-079,Knob (LEFT REAR)
+QX-747A,Receiver,AAB-079,AAB-079,Knob (RIGHT FRONT)
+QX-747A,Receiver,AAB-079,AAB-079,Knob (RIGHT REAR)
+QX-747A,Receiver,AAB-080,AAB-080,Knob (CD-4 SEPARATION LEFT)
+QX-747A,Receiver,AAB-080,AAB-080,Knob (CD-4 SEPARATION RIGHT)
+QX-747A,Receiver,AAD-055,AAD-055,Knob (POWER)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (DOLBY NR ADAPTOR)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (FM MUTING)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (INDICATOR LEVEL -10dB)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (INDICATOR LEVEL -20dB)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (LOUDNESS)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (SPEAKERS ALL OFF)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (SPEAKERS FRONT)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (TAPE MONITOR 2CH)
+QX-747A,Receiver,AAD-108,AAD-108,Knob (TAPE MONITOR 4CH)
+QX-747A,Receiver,AAF-036,AAF-036,Dial pointer assembly
+QX-747A,Receiver,AAG-094,AAG-094,Dial scale plate
+QX-747A,Receiver,AAW-021,AAW-021,4-channel level indicator
+QX-747A,Receiver,AAW-046,AAW-046,AM-FM meter
+QX-747A,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V
+QX-747A,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V
+QX-747A,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V
+QX-747A,Receiver,ACG-001,ACG-001,Ceramic 0.01 250V
+QX-747A,Receiver,ACH-029,ACH-029,"Electrolytic capacitor 10,000uF 50V"
+QX-747A,Receiver,ACH-029,ACH-029,"Electrolytic capacitor 10,000uF 50V"
+QX-747A,Receiver,ACK-005,ACK-005,CAPACITOR (ELE)
+QX-747A,Receiver,ACT-008,ACT-008,Variable resistor 500k-B2 (LEFT FRONT)
+QX-747A,Receiver,ACT-008,ACT-008,Variable resistor 500k-B2 (LEFT REAR)
+QX-747A,Receiver,ACT-008,ACT-008,Variable resistor 500k-B2 (RIGHT FRONT)
+QX-747A,Receiver,ACT-008,ACT-008,Variable resistor 500k-B2 (RIGHT REAR)
+QX-747A,Receiver,ACV-017,ACV-017,Variable resistor 3k-B (CD-4 SEPARATION LEFT)
+QX-747A,Receiver,ACV-017,ACV-017,Variable resistor 3k-B (CD-4 SEPARATION RIGHT)
+QX-747A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (FRONT BASS)"
+QX-747A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (FRONT TREBLE)"
+QX-747A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (REAR BASS)"
+QX-747A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (REAR TREBLE)"
+QX-747A,Receiver,ACV-310,ACV-310,"Variable resistor 500k-B1, 4-gang (VOLUME)"
+QX-747A,Receiver,AEC-110,AEC-110,Switch cover assembly
+QX-747A,Receiver,AEK-100,AEK-100,"Fuse 4A (110V,120V,130V,primary)"
+QX-747A,Receiver,AEK-101,AEK-101,Fuse 3A (lamp circuit)
+QX-747A,Receiver,AEK-103,AEK-103,"Fuse 2A (220V, 240V, primary)"
+QX-747A,Receiver,AEK-106,AEK-106,Fuse 1A (secondary)
+QX-747A,Receiver,AEK-106,AEK-106,Fuse 1A (secondary)
+QX-747A,Receiver,AEK-106,AEK-106,Fuse 1A (secondary)
+QX-747A,Receiver,AEL-015,AEL-015,"Lamp 8V, 300rnA, bar type (Meter illumination)"
+QX-747A,Receiver,AEL-022,AEL-022,"Lamp 8V, 50mA, with leads (Program indicator)"
+QX-747A,Receiver,AEL-025,AEL-025,"Lamp 6V, 30mA, with leads (CD-4 indicator)"
+QX-747A,Receiver,AKA-004,AKA-004,Antenna terminal board
+QX-747A,Receiver,AKB-014,AKB-014,Phono jack A (4 jacks-2CH TAPE)
+QX-747A,Receiver,AKB-014,AKB-014,Phono jack A (4 jacks-4CH TAPE)
+QX-747A,Receiver,AKB-014,AKB-014,Phono jack A (4 jacks-ADAPTER)
+QX-747A,Receiver,AKB-015,AKB-015,Phono jack B (4 jacks-PHONO/AUX)
+QX-747A,Receiver,AKB-019,AKB-019,Phono jack (1 jack-4 CH MPX OUT)
+QX-747A,Receiver,AKE-010,AKE-010,Speaker output terminal
+QX-747A,Receiver,AKE-016,AKE-016,Speaker output terminal
+QX-747A,Receiver,AKE-017,AKE-017,Screw for ground terminal
+QX-747A,Receiver,AKM-006,AKM-006,Multi-plug (2CH-4CH)
+QX-747A,Receiver,AKM-013-0,AKM-013,4p plug
+QX-747A,Receiver,AKM-015-0,AKM-015,5p plug
+QX-747A,Receiver,AKM-017-0,AKM-017,3p plug
+QX-747A,Receiver,AKN-002,AKN-002,Phone jack (PHONES FRONT)
+QX-747A,Receiver,AKN-002,AKN-002,Phone jack (PHONES REAR)
+QX-747A,Receiver,AkP-005,AkP-005,AC socket
+QX-747A,Receiver,AKP-006,AKP-006,Multi-socket (2CH-4CH)
+QX-747A,Receiver,AKR-027,AKR-027,Fuse holder (with line voltage selector)
+QX-747A,Receiver,AMM-037,AMM-037,Wood cabinet assembly
+QX-747A,Receiver,ANB-326,ANB-326,Front panel assembly
+QX-747A,Receiver,ARB-142,ARB-142,Operating instructions  QX-747A
+QX-747A,Receiver,ART-141-0,ART-141,Service Manual  QX-747A
+QX-747A,Receiver,ASB-067,ASB-067,Rotary switch (FUNCTlON)
+QX-747A,Receiver,ASC-066,ASC-066,Rotary switch (MODE)
+QX-747A,Receiver,ASC-067,ASC-067,Rotary switch (FUNCTION)
+QX-747A,Receiver,ASF-001,ASF-001,Microswitch (switch cover)
+QX-747A,Receiver,ASG-070,ASG-070,Push Switch (POWER)
+QX-747A,Receiver,ASG-078,ASG-078,"Push switch (SPEAKERS ALL OFF, FRONT)"
+QX-747A,Receiver,ASG-078-A,ASG-078,Push switch (SPEAKERS)
+QX-747A,Receiver,ASG-079,ASG-079,"Push switch (TAPE MONITOR 2CH, 4CH,DOLBY NR ADAPTOR,LOUDNESS, FM MUTING)"
+QX-747A,Receiver,ASG-079-A,ASG-079,"Push switch (TAPE MONITOR,DOLBY NR ADP,LOUDNESS, FM MUTING)"
+QX-747A,Receiver,ASG-080,ASG-080,"Push switch (INDICATOR LEVEL -10,-20dB)"
+QX-747A,Receiver,ASG-080-A,ASG-080,Push switch (LEVEL lNDlCATOR SENSITMTY)
+QX-747A,Receiver,ASH-007,ASH-007,Relay (S6)
+QX-747A,Receiver,ASH-013,ASH-013,Slide switch (DE-EMPHASIS)
+QX-747A,Receiver,ASR-007,ASR-007,Relay
+QX-747A,Receiver,ASR-007,ASR-007,Relay
+QX-747A,Receiver,ATB-041,ATB-041,Bar-antenna
+QX-747A,Receiver,ATT-242,ATT-242,Power transformer
+QX-747A,Receiver,AWE-056,AWE-056,Tuner assembly
+QX-747A,Receiver,AWG-024,AWG-024,"Control amplifier assembly (for CH1, CH3)"
+QX-747A,Receiver,AWG-024,AWG-024,"Control amplifier assembly (for CH2, CH4)"
+QX-747A,Receiver,AWH-028,AWH-028,Power amplifier assembly
+QX-747A,Receiver,AWM-076,AWM-076,CD-4 assembly
+QX-747A,Receiver,AWM-077,AWM-077,SQ/RM decoder assembly
+QX-747A,Receiver,AWM-079,AWM-079,Protection circuit assembly
+QX-747A,Receiver,AWR-086,AWR-086,Power supply circuit assembly
+QX-747A,Receiver,AWX-054,AWX-054,Headphone jack assembly
+QX-747A,Receiver,AXA-015,AXA-015,Tuning drum assembly
+QX-747A,Receiver,AXA-039,AXA-039,Tuning shaft assembly
+QX-747A,Receiver,AXB-001,AXB-001,Antenna holder assembly
+QX-747A,Receiver,CEA 101 P 16,CEA 101 P 16,Electrolytic 100 16V
+QX-747A,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-747A,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+QX-747A,Receiver,CQMA 472J 50,CQMA 472J 50,Mylar 0.0047 50V
+QX-747A,Receiver,CQMA 912J 50,CQMA 912J 50,Mylar 0.0091 50V
+QX-747A,Receiver,CQMA 912J 50,CQMA 912J 50,Mylar 0.0091 50V
+QX-747A,Receiver,E22-032,E22-032,"Lamp 8V, 300mA, bar type (Dial illumination)"
+QX-747A,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-747A,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-747A,Receiver,RD¼PS 105J,RD¼PS 105J,Carbon film 1M
+QX-747A,Receiver,RS3P 332J,RS3P 332J,Metal oxide 3.3k  3W
+QX-747A,Receiver,RS3P 332J,RS3P 332J,Metal oxide 3.3k  3W
+QX-747A,Receiver,T22-025,T22-025,Ferrite balun
+QX-8000,Receiver,A19-077-0,A19-077,Knob for Mini switch (SPEAKER)
+QX-8000,Receiver,A19-079-0,A19-079,Knob for Mini switch (QUADRILIZER)
+QX-8000,Receiver,AAA-001-B,AAA-001,Knob for TUNING
+QX-8000,Receiver,AAB-001-0,AAB-001,"Knob for BASS, TREBLE and BALANCE"
+QX-8000,Receiver,AAB-003-A,AAB-003,"Knob for VOLUME, MODE and SELECTOR"
+QX-8000,Receiver,AAD-001-0,AAD-001,Knob for POWER
+QX-8000,Receiver,AAF-002-B,AAF-002,Dial Pointer
+QX-8000,Receiver,AAG-003-B,AAG-003,Dial Glass
+QX-8000,Receiver,AAW-001-A,AAW-001,Signal Meter
+QX-8000,Receiver,AAW-002-A,AAW-002,Tuning Meter
+QX-8000,Receiver,ACT-102-0,ACT-102,"500k HB, dual (BALANCE-FRONT)"
+QX-8000,Receiver,ACT-102-0,ACT-102,"500k HB, dual (BALANCE-REAR)"
+QX-8000,Receiver,ACT-301-A,ACT-301,"500k HB, 4-gang (BALANCE-FRONT/REAR)"
+QX-8000,Receiver,ACV-303,ACV-303,CONTROL(VOLUME)
+QX-8000,Receiver,ACV-303-0,ACV-303,"4-gang, VOLUME"
+QX-8000,Receiver,AEL-001-A,AEL-001,Lamp Ass'y
+QX-8000,Receiver,AEL-015,AEL-015,LAMP(DIAL/POWER)
+QX-8000,Receiver,AEL-019,AEL-019,PILOT LAMP(FUNCTIONS INDICATOR)
+QX-8000,Receiver,AHA-005-0,AHA-005,Side Pad for packing
+QX-8000,Receiver,AHB-001-0,AHB-001,Paper Pad for Packing
+QX-8000,Receiver,AHB-002-A,AHB-002,Top Pad for Packing
+QX-8000,Receiver,AHC-001-0,AHC-001,Accessory Box
+QX-8000,Receiver,AHD-022-A,AHD-022,Packing Case
+QX-8000,Receiver,AKB-002-0,AKB-002,16P Input Terminal Board
+QX-8000,Receiver,AKR-001-0,AKR-001,Line Voltage Selector
+QX-8000,Receiver,AMM-004-0,AMM-004,Wooden Case (cabinet)
+QX-8000,Receiver,ANB-051,ANB-051,FRONT PANEL
+QX-8000,Receiver,ANB-051-A,ANB-051,Front Panel Ass'y
+QX-8000,Receiver,ARB-006-0,ARB-006,Operating Instructions QX-8000
+QX-8000,Receiver,ASB-003-A,ASB-003,SELECTOR Switch
+QX-8000,Receiver,ASC-008-A,ASC-008,MODE Switch
+QX-8000,Receiver,ASG-003-0,ASG-003,POWER Switch (FW)
+QX-8000,Receiver,ASG-004-0,ASG-004,Mini switch (QUADRILIZER)
+QX-8000,Receiver,ASG-005,ASG-005,SWITCH(TAPE MON/HI-/LOW FILTER)
+QX-8000,Receiver,ASG-005-0,ASG-005,"Mini Switch (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000,Receiver,ASG-536 ????,ASG-536 ????,SWITCH(POWER)
+QX-8000,Receiver,ATT-010-B,ATT-010,Power Transformer
+QX-8000,Receiver,AWE-003-C,AWE-003,Tuner Unit
+QX-8000,Receiver,AWF-003-0,AWF-003,Head Amp Unit
+QX-8000,Receiver,AWG-003-0,AWG-003,Control Amp Unit
+QX-8000,Receiver,AWM-001 -A,AWM-001 ,Q Unit
+QX-8000,Receiver,AWR-004-0,AWR-004,Power Supply Unit
+QX-8000,Receiver,AWS-004-B,AWS-004,"Switch Unit (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000,Receiver,AWS-005-0,AWS-005,Switch Unit (Speakers)
+QX-8000,Receiver,AWS-006-0,AWS-006,Switch Unit (QUADRILIZER)
+QX-8000,Receiver,AWX-002-0,AWX-002,VR Unit
+QX-8000,Receiver,AWX-003-0,AWX-003,CR Unit
+QX-8000,Receiver,AWX-004-B,AWX-004,CR Unit
+QX-8000,Receiver,AXA-003-A,AXA-003,Dial Pulley Ass'y
+QX-8000,Receiver,AXB-001-0,AXB-001,AM Antenna Holder Ass'y
+QX-8000,Receiver,B1 l-012-A,B1 l-012,Screw for Grounding
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000,Receiver,C82-045 0,C82-045 0,"100k B, dual (BASS-FRONT)"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-REAR)"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-FRONT)"
+QX-8000,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-REAR)"
+QX-8000,Receiver,D11-003-E,D11-003,AC Power Cord
+QX-8000,Receiver,D52-013-0,D52-013,FM T-type Antenna
+QX-8000,Receiver,D53-002-A,D53-002,AM Lead Antenna
+QX-8000,Receiver,E21-006-0,E21-006,Fuse 3A
+QX-8000,Receiver,E21-012-0,E21-012,Fuse l.5A
+QX-8000,Receiver,E21-022-0,E21-022,Fuse 3A
+QX-8000,Receiver,E21-035-A,E21-035,Fuse 2A
+QX-8000,Receiver,E22-002-0,E22-002,Pilot Lamp for Tuning and Signal Meters
+QX-8000,Receiver,E22-017-0,E22-017,Pilot Lamp for Dial Glass
+QX-8000,Receiver,E22-025-0,E22-025,Pilot Lamp for Program Indicator
+QX-8000,Receiver,K11-043-C,K11-043,Antenna Terminal
+QX-8000,Receiver,K13-047-0,K13-047,4P Ground Terminal
+QX-8000,Receiver,K22-010-E,K22-010,4P Input Terminal Board
+QX-8000,Receiver,K41-002-B,K41-002,Pilot Lamp Socket
+QX-8000,Receiver,K71-028-0,K71-028,Short Fin Plug
+QX-8000,Receiver,K72-007-B,K72-007,Speaker Plug
+QX-8000,Receiver,K72-015-A,K72-015,Pin Plug
+QX-8000,Receiver,K72-026-0,K72-026,Headphones Jack
+QX-8000,Receiver,K72-028-0,K72-028,Speaker Jack
+QX-8000,Receiver,K82-014-0,K82-014,Spare AC Outlet
+QX-8000,Receiver,K91-005-A,K91-005,Pilot Lamp (for Dial Glass) Socket
+QX-8000,Receiver,K96-006-C,K96-006,Fuse Holder
+QX-8000,Receiver,M42-041-C,M42-041,Dial Pulley
+QX-8000,Receiver,M42-071-F,M42-071,Tuning Shaft Ass'v
+QX-8000,Receiver,M52-010-0,M52-010,Washer (square)
+QX-8000,Receiver,R42-186,R42-186,Service manual QX-8000
+QX-8000,Receiver,S31-028-0,S31-028,Mini switch (SPEAKER)
+QX-8000,Receiver,S41-025-0,S41-025,PRE & MAIN Switch
+QX-8000,Receiver,T24-030-0,T24-030,Choke Coil
+QX-8000,Receiver,T42-022-C,T42-022,Ferrite Loopstick Antenna
+QX-8000,Receiver,W23-007-0,W23-007,Main Amp Unit
+QX-8000A,Receiver,AAA-001-A,AAA-001,"Knob, TUNING"
+QX-8000A,Receiver,AAB-026-A,AAB-026,"Knob, VOLUME, MODE and SELECTOR"
+QX-8000A,Receiver,AAB-027-A,AAB-027,"Knob, BASS, TREBLE and BALANCE"
+QX-8000A,Receiver,AAD-001-A,AAD-001,"Knob, POWER"
+QX-8000A,Receiver,AAD-011-0,AAD-011,"Knob, push switch (SPKR/LOUD/TAPE MON)"
+QX-8000A,Receiver,AAF-013-0,AAF-013,Dial pointer
+QX-8000A,Receiver,AAG-003-B,AAG-003,Dial scale
+QX-8000A,Receiver,AAW-001-A,AAW-001,Signal meter
+QX-8000A,Receiver,AAW-002-A,AAW-002,Tuning meter
+QX-8000A,Receiver,ACH-007-0,ACH-007,Electrolytic 4700 63V
+QX-8000A,Receiver,ACT-102-0,ACT-102,"500k HB, dual (BALANCE-FRONT)"
+QX-8000A,Receiver,ACT-102-0,ACT-102,"500k HB, dual (BALANCE-REAR)"
+QX-8000A,Receiver,ACT-301-A,ACT-301,"500k HB, 4-gang (BALANCE-FRONT/REAR)"
+QX-8000A,Receiver,ACV-303-0,ACV-303,4-gang VOLUME
+QX-8000A,Receiver,ADG-003-0,ADG-003,AC power cord
+QX-8000A,Receiver,AEK-003-0,AEK-003,Fuse 3A for protection
+QX-8000A,Receiver,AEK-005-0,AEK-005,Fuse 0.5A for protection
+QX-8000A,Receiver,AEL-001-A,AEL-001,Lamp ass’y
+QX-8000A,Receiver,AEL-007-0,AEL-007,Pilot lamp for program indicator
+QX-8000A,Receiver,AEL-007-0,AEL-007,Pilot lamp for program indicator
+QX-8000A,Receiver,AEL-007-0,AEL-007,Pilot lamp for program indicator
+QX-8000A,Receiver,AEL-007-0,AEL-007,Pilot lamp for program indicator
+QX-8000A,Receiver,AEL-007-0,AEL-007,Pilot lamp for program indicator
+QX-8000A,Receiver,AEL-015,AEL-015,LAMP(DIAL/POWER)
+QX-8000A,Receiver,AHA-005-0,AHA-005,Side pad
+QX-8000A,Receiver,AHB-001-0,AHB-001,Cardboard protector
+QX-8000A,Receiver,AHB-002-A,AHB-002,Top pad
+QX-8000A,Receiver,AHC-001-0,AHC-001,Accessory box
+QX-8000A,Receiver,AHD-105-0,AHD-105,Packing case (FW)
+QX-8000A,Receiver,AHD-107-0,AHD-107,Packing case (KUW)
+QX-8000A,Receiver,AKB-005-0,AKB-005,4P input terminal board
+QX-8000A,Receiver,AKB-007-0,AKB-007,6P input terminal board (A)
+QX-8000A,Receiver,AKB-010-0,AKB-010,4P input terminal board (A)
+QX-8000A,Receiver,AKP-002-0,AKP-002,Spare AC outlet
+QX-8000A,Receiver,AKR-001-0,AKR-001,"Line voltage selector (FW,FSAW)"
+QX-8000A,Receiver,AKR-007-0,AKR-007,Fuse holder (KUW)
+QX-8000A,Receiver,AMM-004-F,AMM-004,Wooden case (cabinet)
+QX-8000A,Receiver,ANB-136,ANB-136,FRONT PANEL
+QX-8000A,Receiver,ANB-136-A,ANB-136,Front panel ass'y
+QX-8000A,Receiver,ARB-028-0,ARB-028,Operating instructions (KUW) QX-8000A
+QX-8000A,Receiver,ARB-058-0,ARB-058,"Operating instructions (KUW,FW,FSAW) QX-8000A"
+QX-8000A,Receiver,ASB-014-A,ASB-014,Input selector (AM/FM/PHONO/AUX)
+QX-8000A,Receiver,ASC-023-A,ASC-023,Mode selector
+QX-8000A,Receiver,ASG-003-0,ASG-003,Power switch (FW)
+QX-8000A,Receiver,ASG-005-0,ASG-005,"Mini Switch (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000A,Receiver,ASG-023-0,ASG-023,Power switch (KUW)
+QX-8000A,Receiver,ASG-536 ????,ASG-536 ????,SWITCH(POWER)
+QX-8000A,Receiver,ATB-006-0,ATB-006,Ferrite loopstick antenna (KUW)
+QX-8000A,Receiver,ATT-082-0,ATT-082,Power transformer (KUW)
+QX-8000A,Receiver,ATT-083-0,ATT-083,"Power transformer (FW,FSAW)"
+QX-8000A,Receiver,AWE-003-0,AWE-003,Tuner unit
+QX-8000A,Receiver,AWF-003-0,AWF-003,Head amp unit
+QX-8000A,Receiver,AWG-003-A,AWG-003,Control amp unit
+QX-8000A,Receiver,AWM-031-0,AWM-031,Decoder unit
+QX-8000A,Receiver,AWM-032-0,AWM-032,Logic unit
+QX-8000A,Receiver,AWR-004-A,AWR-004,Power supply unit
+QX-8000A,Receiver,AWS-004-B,AWS-004,"Switch Unit (FILTERS,LOUDNESS,MUTING,TAPE MONITORS)"
+QX-8000A,Receiver,AWS-005-0,AWS-005,Switch Unit (Speakers)
+QX-8000A,Receiver,AWX-002-0,AWX-002,VR unit
+QX-8000A,Receiver,AWX-003-A,AWX-003,CR unit
+QX-8000A,Receiver,AWX-004-C,AWX-004,"CR unit (FW,FSAW)"
+QX-8000A,Receiver,AWX-012-A,AWX-012,CR unit (KUW)
+QX-8000A,Receiver,AWX-022-A,AWX-022,Lug unit
+QX-8000A,Receiver,AXA-003-C,AXA-003,Dial pulley ass’y
+QX-8000A,Receiver,AXB-001-0,AXB-001,Ferrite loopstick antenna holder
+QX-8000A,Receiver,B11-012-A,B11-012,Screw for grounding
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C52-077-0,C52-077,Electrolytic 2200 35V
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-FRONT)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (BASS-REAR)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-FRONT)"
+QX-8000A,Receiver,C82-045-0,C82-045,"100k B, dual (TREBLE-REAR)"
+QX-8000A,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-8000A,Receiver,E21-021-0,E21-021,Fuse 3A
+QX-8000A,Receiver,E21-035-A,E21-035,Fuse 2A for protection
+QX-8000A,Receiver,E22-002-0,E22-002,Pilot lamp for meter
+QX-8000A,Receiver,E22-0020,E22-0020,Pilot lamp for meter
+QX-8000A,Receiver,E22-017-0,E22-017,Pilot lamp for dial scale
+QX-8000A,Receiver,E22-017-0,E22-017,Pilot lamp for dial scale
+QX-8000A,Receiver,E22-017-0,E22-017,Pilot lamp for dial scale
+QX-8000A,Receiver,E22-017-0,E22-017,Pilot lamp for dial scale
+QX-8000A,Receiver,E22-017-0,E22-017,Pilot lamp for dial scale
+QX-8000A,Receiver,K11-043-0,K11-043,Antenna terminal board
+QX-8000A,Receiver,K13-047-0,K13-047,4P ground terminal
+QX-8000A,Receiver,K41-002-B,K41-002,Pilot lamp (meter) socket
+QX-8000A,Receiver,K72-007-B,K72-007,Speaker plug
+QX-8000A,Receiver,K72-015-A,K72-015,Pin plug
+QX-8000A,Receiver,K72-020-0,K72-020,Microphone jack
+QX-8000A,Receiver,K72-026-0,K72-026,Headphones jack
+QX-8000A,Receiver,K72-028-0,K72-028,Speaker socket
+QX-8000A,Receiver,K91-005-A,K91-005,Pilot lamp (dial scale) socket
+QX-8000A,Receiver,K96-007-C,K96-007,Fuse holder (protection)
+QX-8000A,Receiver,M42-071-F,M42-071,Dial shaft ass'y
+QX-8000A,Receiver,M52-010-0,M52-010,Special washer (square)
+QX-8000A,Receiver,R42-256,R42-256,Service manual QX-8000A
+QX-8000A,Receiver,RD¼PS 474J,RD¼PS 474J,Carbon film 470k
+QX-8000A,Receiver,RD½PS 225J,RD½PS 225J,Carbon film 2.2M ½W (KUW)
+QX-8000A,Receiver,S31-028,S31-028,SWITCH(SPEAKER)
+QX-8000A,Receiver,S31-028-0,S31-028,Mini switch (SPEAKERS)
+QX-8000A,Receiver,S41-022-A,S41-022,De-emphasis switch (FW)
+QX-8000A,Receiver,S41-025-0,S41-025,Slide switch (MAIN/PRE)
+QX-8000A,Receiver,T24-030-0,T24-030,Choke coil
+QX-8000A,Receiver,T42-022-C,T42-022,"Ferrite loopstick antenna (FW,FSAW)"
+QX-8000A,Receiver,W23-007-0,W23-007,Main amp unit
+QX-949,Receiver,AAA-023-0,AAA-023,Knob (Tuning)
+QX-949,Receiver,AAB-055-B,AAB-055,Knob (CD-4 Separation)
+QX-949,Receiver,AAB-064-A,AAB-064,Knob (Level)
+QX-949,Receiver,AAB-065-0,AAB-065,"Knob (Volume, Bass, Treble, Mode, Function)"
+QX-949,Receiver,AAD-054-0,AAD-054,Knob (Push switch)
+QX-949,Receiver,AAD-055-0,AAD-055,Knob (Power)
+QX-949,Receiver,AAE-007-0,AAE-007,Coupler (Knob-to switch)
+QX-949,Receiver,AAE-008-0,AAE-008,Coupler (knob-to-switch)
+QX-949,Receiver,AAF-020-0,AAF-020,Dial pointer assembly
+QX-949,Receiver,AAF-036,AAF-036,DIAL POINTER (AAF-020)
+QX-949,Receiver,AAG-063-A,AAG-063,Dial scale
+QX-949,Receiver,AAH-008-A,AAH-008,Indicator plate
+QX-949,Receiver,AAL-168-0,AAL-168,Model name plate
+QX-949,Receiver,AAW-020-0,AAW-020,Twin meter (Signal and Tuning)
+QX-949,Receiver,AAW-021-0,AAW-021,4-Channel level indicator
+QX-949,Receiver,ABA-010-A,ABA-010,Screw M4 x 15
+QX-949,Receiver,ACE-002-0,ACE-002,Metallized mylar 0.01 250V
+QX-949,Receiver,ACG-001-0,ACG-001,Ceramic 0.01 250V
+QX-949,Receiver,ACG-001-0,ACG-001,Ceramic 0.01 250V
+QX-949,Receiver,ACG-001-0,ACG-001,Ceramic 0.01 250V
+QX-949,Receiver,ACH-029-0,ACH-029,Electrolytic 10000 50V
+QX-949,Receiver,ACH-029-0,ACH-029,Electrolytic 10000 50V
+QX-949,Receiver,ACH-029-0,ACH-029,Electrolytic 10000 50V
+QX-949,Receiver,ACH-029-0,ACH-029,Electrolytic 10000 50V
+QX-949,Receiver,ACH-064,ACH-064,CAPACITOR(ALUMINUM) SUB ACH-233
+QX-949,Receiver,ACT-009-0,ACT-009,Variable resistor 250k-B2 (Level control)
+QX-949,Receiver,ACT-009-0,ACT-009,Variable resistor 250k-B2 (Level control)
+QX-949,Receiver,ACT-009-0,ACT-009,Variable resistor 250k-B2 (Level control)
+QX-949,Receiver,ACT-009-0,ACT-009,Variable resistor 250k-B2 (Level control)
+QX-949,Receiver,ACV-014-0,ACV-014,Variable resistor 10k-C (CD4 separation)
+QX-949,Receiver,ACV-014-0,ACV-014,Variable resistor 10k-C (CD4 separation)
+QX-949,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100K-B (FRONT BASS)
+QX-949,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100K-B (FRONT TREBLE)
+QX-949,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100K-B (REAR BASS)
+QX-949,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100K-B (REAR TREBLE)
+QX-949,Receiver,ACV-122-0,ACV-122,Variable resistor 10k-B2 dual (Carrier level)
+QX-949,Receiver,ACV-311-0,ACV-311,Variable resistor 250k-B1 4-gang (Volume)
+QX-949,Receiver,ADG-003-0,ADG-003,AC power cord
+QX-949,Receiver,ADX-004-B,ADX-004,Connection cord
+QX-949,Receiver,AEB-019-0,AEB-019,P.C. board holder
+QX-949,Receiver,AEB-042-0,AEB-042,Rubber bracket
+QX-949,Receiver,AEB-043-0,AEB-043,Rubber bracket
+QX-949,Receiver,AEB-044-0,AEB-044,Rubber bracket
+QX-949,Receiver,AEC-007-0,AEC-007,Wire clip (C)
+QX-949,Receiver,AEC-024-0,AEC-024,Wire clip (D)
+QX-949,Receiver,AEC-027-B,AEC-027,Foot
+QX-949,Receiver,AEC-036-A,AEC-036,Clip (P.C. Board holder)
+QX-949,Receiver,AEC-079-0,AEC-079,AC cord grommet
+QX-949,Receiver,AEC-101-0,AEC-101,Pulley
+QX-949,Receiver,AEC-110-A,AEC-110,Switch cover assembly
+QX-949,Receiver,AEC-111-A,AEC-111,lnsulator
+QX-949,Receiver,AEC-116-0,AEC-116,Spacer
+QX-949,Receiver,AEC-120-0,AEC-120,Shading plate
+QX-949,Receiver,AEC-121-0,AEC-121,Lens (for CD-4 indicator)
+QX-949,Receiver,AEK-033-0,AEK-033,Fuse 6A (AC power)
+QX-949,Receiver,AEK-034-0,AEK-034,Fuse 6A (protection)
+QX-949,Receiver,AEL-006-0,AEL-006,Pilot lamp 6V 30mA (Stereo indicator)
+QX-949,Receiver,AEL-007-0,AEL-007,Pilot lamp 6V 50mA (Program indicator)
+QX-949,Receiver,AEL-015-0,AEL-015,Pilot lamp 8V 0.3A (twin meter)
+QX-949,Receiver,AHA-038-0,AHA-038,Side pad (L)
+QX-949,Receiver,AHA-039-0,AHA-039,Side pad (R)
+QX-949,Receiver,AHB-012-0,AHB-012,Cardboard protector
+QX-949,Receiver,AHC-006-0,AHC-006,Inside packing
+QX-949,Receiver,AHD-186-0,AHD-186,Packing case (with cord number printed)
+QX-949,Receiver,AHD-187-0,AHD-187,Packing case
+QX-949,Receiver,AKA-002-0,AKA-002,Antenna terminal board
+QX-949,Receiver,AKB-014-0,AKB-014,"Phono Jack (4 jacks - PHONO 1,PHONO 2)"
+QX-949,Receiver,AKB-017-0,AKB-017,"Phono jack (6 jacks - AUX, 2CH TAPE,4CH TAPE1 REC)"
+QX-949,Receiver,AKB-018-0,AKB-018,"Phone jack (6 jacks - 4CH TAPE2 PB,DOLBY NR ADP)"
+QX-949,Receiver,AKB-019-0,AKB-019,Phono jack (1 jack - 4CH MPX OUT)
+QX-949,Receiver,AKC-018-0,AKC-018,Terminal strip (1L2P)
+QX-949,Receiver,AKE-010-0,AKE-010,Speaker output terminal
+QX-949,Receiver,AKE-012-A,AKE-012,Binding post for ground
+QX-949,Receiver,AKE-018-0,AKE-018,Speaker output terminal-A
+QX-949,Receiver,AKK-002-0,AKK-002,Fuse holder (protection)
+QX-949,Receiver,AKM-006-0,AKM-006,Multi-plug
+QX-949,Receiver,AKP-005-0,AKP-005,AC socket
+QX-949,Receiver,AKP-006-0,AKP-006,Multi-socket (Power boosting)
+QX-949,Receiver,AKR-015-0,AKR-015,Fuse holder
+QX-949,Receiver,AKR-015-0,AKR-015,Fuse holder (AC power)
+QX-949,Receiver,ALA-006-0,ALA-006,Boss
+QX-949,Receiver,AMM-028-A,AMM-028,Wooden cabinet
+QX-949,Receiver,ANA-051-A,ANA-051,Chassis
+QX-949,Receiver,ANB-219-A,ANB-219,Front panel assembly
+QX-949,Receiver,ANC-089-A,ANC-089,Hear panel
+QX-949,Receiver,AND-064-A,AND-064,Sub-panel
+QX-949,Receiver,ANE-033-A,ANE-033,Bottom plate
+QX-949,Receiver,ANF-014-A,ANF-014,Lamp-held metal
+QX-949,Receiver,ANF-141-0,ANF-141,Variable resistor-held metal
+QX-949,Receiver,ANF-142-0,ANF-142,Switch-held metal
+QX-949,Receiver,ANF-148-0,ANF-148,Power amplifier-held metal (A)
+QX-949,Receiver,ANF-149-0,ANF-149,Power amplifier-held metal
+QX-949,Receiver,ANF-149-0,ANF-149,Power ampliﬁer-held metal (B)
+QX-949,Receiver,ANF-150-0,ANF-150,P.C. board-hold metal
+QX-949,Receiver,ANF-150-0,ANF-150,Power amplifier-held metal
+QX-949,Receiver,ANF-153-0,ANF-153,Switch-held metal
+QX-949,Receiver,ANF-154-0,ANF-154,P.C. board-held metal
+QX-949,Receiver,ANF-156-0,ANF-156,Power transformer-held metal
+QX-949,Receiver,ANF-157-A,ANF-157,Tuner assembly-held metal (A)
+QX-949,Receiver,ANF-158-A,ANF-158,Tuner assembly-held metal (B)
+QX-949,Receiver,ANF-159-0,ANF-159,P.C. board holder
+QX-949,Receiver,ANF-160-0,ANF-160,Switch-held metal
+QX-949,Receiver,ANF-161-0,ANF-161,Fuse holder-held metal
+QX-949,Receiver,ANF-162-0,ANF-162,Dial scale holder
+QX-949,Receiver,ANF-163-A,ANF-163,Dial scale holder
+QX-949,Receiver,ANF-164-0,ANF-164,Rubber bracket holder
+QX-949,Receiver,ANF-166-0,ANF-166,P.C. board-held metal
+QX-949,Receiver,ANF-167-0,ANF-167,Shield plate
+QX-949,Receiver,ANG-088-A,ANG-088,Pulley-held metal
+QX-949,Receiver,ANG-089-0,ANG-089,Wire guide
+QX-949,Receiver,ANH-155-A,ANH-155,Shield plate
+QX-949,Receiver,ANH-156-A,ANH-156,Lamp box
+QX-949,Receiver,ANH-159-0,ANH-159,Heat sink
+QX-949,Receiver,ANH-162-0,ANH-162,Lamp box
+QX-949,Receiver,ANH-163-0,ANH-163,Cover (power amplifier)
+QX-949,Receiver,ANH-165-A,ANH-165,Shield plate
+QX-949,Receiver,ANH-168-A,ANH-168,Shield plate
+QX-949,Receiver,ANH-169-0,ANH-169,Shield plate
+QX-949,Receiver,ANH-170-A,ANH-170,Shield plate
+QX-949,Receiver,ANK-053-0,ANK-053,P.C. board cover
+QX-949,Receiver,ANK-054-0,ANK-054,Wire cover
+QX-949,Receiver,ANK-055-0,ANK-055,Reinforced metal
+QX-949,Receiver,ANK-056-0,ANK-056,Wire supporter
+QX-949,Receiver,ANK-056-A,ANK-056,Reinforced metal (L)
+QX-949,Receiver,ANK-057-A,ANK-057,Reinforced metal(R)
+QX-949,Receiver,ARB-087-0,ARB-087,Operating instructions QX-949
+QX-949,Receiver,ART-006,ART-006,Service Manual QX-949
+QX-949,Receiver,ASB-034-0,ASB-034,Rotary switch (Function)
+QX-949,Receiver,ASC-052-A,ASC-052,Rotary switch (Mode)
+QX-949,Receiver,ASF-001-0,ASF-001,Microswitch
+QX-949,Receiver,ASG-019-0,ASG-019,Push switch (HIGH FILTER)
+QX-949,Receiver,ASG-019-0,ASG-019,Push switch (LOW FILTER)
+QX-949,Receiver,ASG-043-0,ASG-043,Push switch (Power)
+QX-949,Receiver,ASG-046-0,ASG-046,Push switch (SPEAKERS)  ---- Requires Verification
+QX-949,Receiver,ASG-047-0,ASG-047,Push switch (LEVEL INDICATOR SENSITIVITY)  ---- Requires Verification
+QX-949,Receiver,ASG-049-0,ASG-049,"Push switch (TAPE MON,DOLBY NR ADP,LOUDNESS)  ---- Requires Verification"
+QX-949,Receiver,ASG-050-A,ASG-050,"Push switch (MPX-noise ﬁlter, FM muting)"
+QX-949,Receiver,ASH-008-0,ASH-008,Slide switch (De-emphasis)
+QX-949,Receiver,ASR-003-0,ASR-003,Relay
+QX-949,Receiver,ATB-015-A,ATB-015,Ferrite loopstick antenna
+QX-949,Receiver,ATT-144-A,ATT-144,Power transformer
+QX-949,Receiver,AWE-027-0,AWE-027,Tuner assembly
+QX-949,Receiver,AWF-010-0,AWF-010,Equalizer amplifier assembly
+QX-949,Receiver,AWG-023-0,AWG-023,Control amplifier assembly
+QX-949,Receiver,AWH-027-0,AWH-027,Power amplifier assembly
+QX-949,Receiver,AWH-027-0,AWH-027,Power amplifier assembly
+QX-949,Receiver,AWM-031-0,AWM-031,Decoder circuit assembly
+QX-949,Receiver,AWM-048-0,AWM-048,Matrix circuit assembly
+QX-949,Receiver,AWM-049-A,AWM-049,Protection circuit assembly
+QX-949,Receiver,AWR-038-0,AWR-038,Power supply circuit-A assembly
+QX-949,Receiver,AWR-039-0,AWR-039,Power supply circuit-B assembly
+QX-949,Receiver,AWS-048-A,AWS-048,Switch circuit assembly
+QX-949,Receiver,AWX -052-0,AWX -052,Lamp holder assembly
+QX-949,Receiver,AWX-051-B,AWX-051,Sub-channel circuit assembly
+QX-949,Receiver,AWX-052-0,AWX-052,Lamp board assembly
+QX-949,Receiver,AWX-053-0,AWX-053,Fuse holder assembly
+QX-949,Receiver,AWX-054-0,AWX-054,Headphone jack assembly
+QX-949,Receiver,AXA-015-A,AXA-015,Tuning pulley
+QX-949,Receiver,AXA-039-0,AXA-039,Tuning shaft assembly
+QX-949,Receiver,B21-011-0,B21-011,Washer
+QX-949,Receiver,CEA 100P 50,CEA 100P 50,Electrolytic 10 50V
+QX-949,Receiver,CEA 101P 16,CEA 101P 16,Electrolytic 100 16V
+QX-949,Receiver,CKDYB 562K 50,CKDYB 562K 50,Ceramic 0.0056 50V
+QX-949,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-949,Receiver,CKDYF 103Z 50,CKDYF 103Z 50,Ceramic 0.01 50V
+QX-949,Receiver,CQMA 332J 50,CQMA 332J 50,Mylar 0.0033 50V
+QX-949,Receiver,CQMA 332J 50,CQMA 332J 50,Mylar 0.0033 50V
+QX-949,Receiver,CQMA 392K 50,CQMA 392K 50,Mylar 0.0039 50V
+QX-949,Receiver,CQMA 392K 50,CQMA 392K 50,Mylar 0.0039 50V
+QX-949,Receiver,CSSA 2R2M 16,CSSA 2R2M 16,Electrolytic 2.2 16V
+QX-949,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-949,Receiver,E21 -034-A,E21 -034,Fuse 1A (protection)
+QX-949,Receiver,E21 -036-A,E21 -036,Fuse 3A (protection)
+QX-949,Receiver,E22-017-0,E22-017,Pilot lamp 8V 0.3A (dial scale)
+QX-949,Receiver,K13-047-0,K13-047,Ground terminal strip (4P)
+QX-949,Receiver,K13-048-0,K13-048,Ground terminal strip (2P)
+QX-949,Receiver,M49-025-E,M49-025,Pulley's shaft
+QX-949,Receiver,PQX-1011,PQX-1011,Test record
+QX-949,Receiver,RD¼P5 104J,RD¼P5 104J,Carbon film 100k
+QX-949,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-949,Receiver,RD¼PS 104J,RD¼PS 104J,Carbon film 100k
+QX-949,Receiver,RD¼PS 274J,RD¼PS 274J,Carbon film 270k
+QX-949,Receiver,RD¼PS 472J,RD¼PS 472J,Carbon film 4.7k
+QX-949,Receiver,RD¼PS 472J,RD¼PS 472J,Carbon film 447k
+QX-949,Receiver,RD½FS 225J,RD½FS 225J,Carbon film 2.2M ½W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+QX-949,Receiver,RS3P 332K,RS3P 332K,Metal oxide 3.3k 3W
+QX-949,Receiver,T22-025-A,T22-025,Balun
+QX-949,Receiver,T24-028-A,T24-028,RF choke coil
+QX-949,Receiver,W72-092-C,W72-092,Ferrite loopstick antenna holder assembly
+QX-949A,Receiver,"2SA679-R or Y (2SA747-R, O or Y)","2SA679-R or Y (2SA747-R, O or Y)",Transistor
+QX-949A,Receiver,"2SB530-R or O (2SA745-R, O or Y)","2SB530-R or O (2SA745-R, O or Y)",Transistor
+QX-949A,Receiver,"2SC1079-R or Y (2SC1116-R, O or Y)","2SC1079-R or Y (2SC1116-R, O or Y)",Transistor
+QX-949A,Receiver,"2SD370-R or 0 (2SC1403-R, O or Y)","2SD370-R or 0 (2SC1403-R, O or Y)",Transistor
+QX-949A,Receiver,AAA-023,AAA-023,Knob (TUNING)
+QX-949A,Receiver,AAB-065,AAB-065,Knob (FRONT BASS)
+QX-949A,Receiver,AAB-065,AAB-065,Knob (FRONT TREBLE)
+QX-949A,Receiver,AAB-065,AAB-065,Knob (FUNCTION)
+QX-949A,Receiver,AAB-065,AAB-065,Knob (MODE)
+QX-949A,Receiver,AAB-065,AAB-065,Knob (REAR BASS)
+QX-949A,Receiver,AAB-065,AAB-065,Knob (REAR TREBLE)
+QX-949A,Receiver,AAB-065,AAB-065,Knob (VOLUME)
+QX-949A,Receiver,AAB-079,AAB-079,Knob (IND LEVEL LEFT REAR)
+QX-949A,Receiver,AAB-079,AAB-079,Knob (IND LEVEL RIGHT FRONT)
+QX-949A,Receiver,AAB-079,AAB-079,Knob (IND LEVEL RIGHT REAR)
+QX-949A,Receiver,AAB-079,AAB-079,Knob (IND LEVELLEFT FRONT)
+QX-949A,Receiver,AAB-080,AAB-080,Knob (CD-4 SEPARATION LEFT)
+QX-949A,Receiver,AAB-080,AAB-080,Knob (CD-4 SEPARATION RIGHT)
+QX-949A,Receiver,AAD-055,AAD-055,Knob (POWER)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (DOLBY NR ADAPTOR)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (FM MUTING)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (HIGH FILTER)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (INDICATOR LEVEL -10dB)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (INDICATOR LEVEL -20dB)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (LOUDNESS)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (LOW FILTER)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (MPX NOISE FILTER)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (SPEAKERS FRONT A)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (SPEAKERS FRONT B)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (SPEAKERS REAR A)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (SPEAKERS REAR B)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (TAPE MONITOR 2CH)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (TAPE MONITOR 4CH-1)
+QX-949A,Receiver,AAD-108,AAD-108,Knob (TAPE MONITOR 4CH-2)
+QX-949A,Receiver,AAE-007,AAE-007,KNOB (COUPLER)
+QX-949A,Receiver,AAF-036,AAF-036,Dial pointer assembly (AAF-020)
+QX-949A,Receiver,AAW-021,AAW-021,4-channel level indicator
+QX-949A,Receiver,AAW-042,AAW-042,Twin meter (TUNING/SIGNAL)
+QX-949A,Receiver,ACG-001,ACG-001,Ceramic capacitor 0.01uF 250V
+QX-949A,Receiver,ACH-029,ACH-029,"Electrolytic capacitor 10,000/1F 50V"
+QX-949A,Receiver,ACH-029,ACH-029,"Electrolytic capacitor 10,000uF 50V"
+QX-949A,Receiver,ACH-029,ACH-029,"Electrolytic capacitor 10,000uF 50V"
+QX-949A,Receiver,ACH-029,ACH-029,"Electrolytic capacitor 10,000uF 50V"
+QX-949A,Receiver,ACT-009,ACT-009,Variable resistor 250k-B2 (LEVEL LEFT FRONT)
+QX-949A,Receiver,ACT-009,ACT-009,Variable resistor 250k-B2 (LEVEL LEFT REAR)
+QX-949A,Receiver,ACT-009,ACT-009,Variable resistor 250k-B2 (LEVEL RIGHT FRONT)
+QX-949A,Receiver,ACT-009,ACT-009,Variable resistor 250k-B2 (LEVEL RIGHT REAR)
+QX-949A,Receiver,ACV-017,ACV-017,Variable resistor 3k-B (CD-4 SEPARATION LEFT)
+QX-949A,Receiver,ACV-017,ACV-017,Variable resistor 3k-B (CD-4 SEPARATION RIGHT)
+QX-949A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (FRONT BASS)"
+QX-949A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (FRONT TREBLE)"
+QX-949A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (REAR BASS)"
+QX-949A,Receiver,ACV-110,ACV-110,"Variable resistor 100k-B, dual (REAR TREBLE)"
+QX-949A,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100k-B  (FRONT BASS)
+QX-949A,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100k-B  (REAR BASS)
+QX-949A,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100k-B (FRONT TREBLE)
+QX-949A,Receiver,ACV-110-0,ACV-110,Variable resistor dual 100k-B (REAR TREBLE)
+QX-949A,Receiver,ACV-311,ACV-311,"Variable resistor 250k-B1, 4-gang (VOLUME)"
+QX-949A,Receiver,ADG-004,ADG-004,AC Power Cord (QX-949A/F)
+QX-949A,Receiver,ADG-005,ADG-005,AC Power Cord (QX-949A/KCU)
+QX-949A,Receiver,AEB-042,AEB-042,Rubber Bracket
+QX-949A,Receiver,AEB-043,AEB-043,Rubber Bracket
+QX-949A,Receiver,AEB-044,AEB-044,Rubber Bracket
+QX-949A,Receiver,AEC-017,AEC-017,Pulley
+QX-949A,Receiver,AEC-027,AEC-027,Foot
+QX-949A,Receiver,AEC-076,AEC-076,Insulation Wafer
+QX-949A,Receiver,AEC-079,AEC-079,Strain Relief
+QX-949A,Receiver,AEC-101,AEC-101,Pulley
+QX-949A,Receiver,AEC-110,AEC-110,Switch cover assembly
+QX-949A,Receiver,AEC-119,AEC-119,Sponge
+QX-949A,Receiver,AEC-120,AEC-120,Shading Sponge Ring
+QX-949A,Receiver,AEC-121,AEC-121,Acrylic Cap
+QX-949A,Receiver,AEC-136,AEC-136,Clip
+QX-949A,Receiver,AEE-008,AEE-008,lnsulater
+QX-949A,Receiver,AEE-009,AEE-009,Insulate Board
+QX-949A,Receiver,AEK-101,AEK-101,Fuse 3A
+QX-949A,Receiver,AEK-101,AEK-101,"Fuse 3A (220V,240V,primary - F type)"
+QX-949A,Receiver,AEK-106,AEK-106,Fuse 1A
+QX-949A,Receiver,AEK-106,AEK-106,Fuse 1A
+QX-949A,Receiver,AEK-106,AEK-106,Fuse 1A
+QX-949A,Receiver,AEK-109,AEK-109,Fuse 6A (primary - KSC)
+QX-949A,Receiver,AEK-109,AEK-109,"Fuse 6A(110V,120V,130V, primary) - F type"
+QX-949A,Receiver,AEK-205,AEK-205,Fuse 6A (with leads - KCU type)
+QX-949A,Receiver,AEL-015,AEL-015,"Lamp 8V, 300mA, bar type (Meter illumination)"
+QX-949A,Receiver,AEL-022,AEL-022,"Lamp 8V, 50mA, with leads (Program indicator)"
+QX-949A,Receiver,AEL-025,AEL-025,"Lamp 6V, 30mA, with leads (CD-4 indicator)"
+QX-949A,Receiver,AEO-116,AEO-116,Spacer
+QX-949A,Receiver,AKA-004,AKA-004,Antenna terminal board
+QX-949A,Receiver,AKB-015,AKB-015,Phone jack (4 jacks)
+QX-949A,Receiver,AKB-017,AKB-017,Phono jack (6 jacks)
+QX-949A,Receiver,AKB-018,AKB-018,Phono jack (6 jacks)
+QX-949A,Receiver,AKB-019,AKB-019,Phono jack (1 jack)
+QX-949A,Receiver,AKE-010,AKE-010,Speaker output terminal
+QX-949A,Receiver,AKE-012,AKE-012,Binding post for ground
+QX-949A,Receiver,AKE-018,AKE-018,Speaker output terminal-A
+QX-949A,Receiver,AKM-006,AKM-006,Multi-plug (power boosting switch)
+QX-949A,Receiver,AKN-002,AKN-002,Phone jack (PHONES FRONT)
+QX-949A,Receiver,AKN-002,AKN-002,Phone jack (PHONES REAR)
+QX-949A,Receiver,AKP-005,AKP-005,AC socket
+QX-949A,Receiver,AKP-006,AKP-006,Multi-socket (power boosting switch)
+QX-949A,Receiver,AKR-026,AKR-026,"Fuse holder (for ""KCU"" type)"
+QX-949A,Receiver,AKR-027,AKR-027,"Fuse holder (with line voltage selector,for “F” type)"
+QX-949A,Receiver,ANB-318,ANB-318,Front panel assembly
+QX-949A,Receiver,ARB-133,ARB-133,Operation manual QX-949A
+QX-949A,Receiver,ART-140,ART-140,Service manual QX-949A
+QX-949A,Receiver,ASB-048,ASB-048,Rotary switch (FUNCTION)
+QX-949A,Receiver,ASC-066,ASC-066,Rotary switch (MODE)
+QX-949A,Receiver,ASF-001,ASF-001,Micro switch
+QX-949A,Receiver,ASG-019,ASG-019,Push switch (HIGH FILTER)
+QX-949A,Receiver,ASG-019,ASG-019,Push switch (HIGH FILTER)
+QX-949A,Receiver,ASG-019,ASG-019,Push switch (LOW FILTER)
+QX-949A,Receiver,ASG-019,ASG-019,Push switch (LOW Fl LTER)
+QX-949A,Receiver,ASG-043,ASG-043,Push switch (POWER - for KCU type)
+QX-949A,Receiver,ASG-046,ASG-046,"Push switch (SPEAKERS FRONT A, B,SPEAKERS REAR A, B)  ---- Requires Verification"
+QX-949A,Receiver,ASG-047,ASG-047,"Push switch (INDICATOR LEVEL -10dB, -20dB)  ---- Requires Verification"
+QX-949A,Receiver,ASG-049,ASG-049,"Push switch (TAPE MONITOR 2CH, 4CH-1, 4CH-2,DOLBY NR ADAPTOR, LOUDNESS)  ---- Requires Verification"
+QX-949A,Receiver,ASG-050,ASG-050,"Push switch (FM MUTING, MPX NOISE FILTER)"
+QX-949A,Receiver,ASG-070,ASG-070,Push switch (POWER - for “F” type)
+QX-949A,Receiver,ASH-008,ASH-008,"Slide switch (FM-De-emphasis for “KCU"" type)"
+QX-949A,Receiver,ASH-013,ASH-013,"Slide switch  (FM-De-emphasis for  ""F"" type)"
+QX-949A,Receiver,ASR-007,ASR-007,Relay
+QX-949A,Receiver,ATB-042,ATB-042,Ferrite bar-antenna
+QX-949A,Receiver,ATT-221,ATT-221,"Power transformer (for ""KCU"" type)"
+QX-949A,Receiver,ATT-222,ATT-222,Power transformer (for “F” type)
+QX-949A,Receiver,AWE-041,AWE-041,Tuner assembly
+QX-949A,Receiver,AWG-023,AWG-023,Control amplifier assembly
+QX-949A,Receiver,AWH-027,AWH-027,"Power amplifier assembly (for CH1, CH4)"
+QX-949A,Receiver,AWH-027,AWH-027,"Power amplifier assembly (for CH2, CH3)"
+QX-949A,Receiver,AWM-076,AWM-076,CD-4 assembly
+QX-949A,Receiver,AWM-077,AWM-077,SQ/RM decoder assembly
+QX-949A,Receiver,AWM-079,AWM-079,Protection circuit assembly
+QX-949A,Receiver,AWR-039,AWR-039,Power supply circuit B assembly
+QX-949A,Receiver,AWR-080,AWR-080,Power supply circuit A assembly
+QX-949A,Receiver,AWX-054,AWX-054,Head phone jack assembly
+QX-949A,Receiver,AXA-015,AXA-015,Tuning drum assembly
+QX-949A,Receiver,AXA-039,AXA-039,DIAL SHAFT ASSY
+QX-949A,Receiver,AXA-039,AXA-039,Tuning shaft assembly
+QX-949A,Receiver,AXB-001,AXB-001,Antenna holder assembly
+QX-949A,Receiver,E22-032,E22-032,"Lamp 8V, 300mA, bar type (Dial illumination)"
+QX-949A,Receiver,T22-025,T22-025,Ferrite balun
+QX-9900,Receiver,AAA-014-0,AAA-014,Knob (TUNING)
+QX-9900,Receiver,AAB-025-0,AAB-025,Knob (BALANCE)
+QX-9900,Receiver,AAB-030-0,AAB-030,Knob (MIC MIXING)
+QX-9900,Receiver,AAB-035-0,AAB-035,"Knob (SELECTOR, MODE, and REVERB MODE)"
+QX-9900,Receiver,AAB-036-A,AAB-036,Knob (REVERB TlME)
+QX-9900,Receiver,AAB-037-0,AAB-037,Knob (VOLUME)
+QX-9900,Receiver,AAC-023-A,AAC-023,Knob (BASS and TREBLE-FRONT)
+QX-9900,Receiver,AAC-024-0,AAC-024,Knob (BASS and TREBLE-REAR)
+QX-9900,Receiver,AAD-036-A,AAD-036,Knob (PUSH SWITCH)
+QX-9900,Receiver,AAD-037-0,AAD-037,Knob (POWER)
+QX-9900,Receiver,AAD-038-0,AAD-038,Knob (AUDIO MUTING)
+QX-9900,Receiver,AAE-001-A,AAE-001,Knob (SPEAKER SWITCH A ass'y)
+QX-9900,Receiver,AAE-002-A,AAE-002,Knob (SPEAKER SWITCH B ass'y)
+QX-9900,Receiver,AAF-024-A,AAF-024,Dial pointer
+QX-9900,Receiver,AAG-038-B,AAG-038,Dial scale
+QX-9900,Receiver,AAN -002-0,AAN -002,Reverberation time indicator B
+QX-9900,Receiver,AAN-001-0,AAN-001,Reverberation time indicator A
+QX-9900,Receiver,AAW-011-0,AAW-011,Signal meter
+QX-9900,Receiver,AAW-012-0,AAW-012,Tuning meter
+QX-9900,Receiver,AAW-013-0,AAW-013,Level meter
+QX-9900,Receiver,ABA-010-0,ABA-010,Screw to fix wooden case
+QX-9900,Receiver,ABA-012-0,ABA-012,Speaker to fix bottom plate
+QX-9900,Receiver,ABF-003-0,ABF-003,Washer
+QX-9900,Receiver,ACH-016-A,ACH-016,Electrolytic capacitor 4700uF 50V
+QX-9900,Receiver,ACH-016-A,ACH-016,Electrolytic capacitor 4700uF 50V
+QX-9900,Receiver,ACH-016-A,ACH-016,Electrolytic capacitor 4700uF 50V
+QX-9900,Receiver,ACH-016-A,ACH-016,Electrolytic capacitor 4700uF 50v
+QX-9900,Receiver,ACV-307-0,ACV-307,"4-gang,volume"
+QX-9900,Receiver,ACV-308-0,ACV-308,"500k-B 4-gang, balance (FRONT/REAR)"
+QX-9900,Receiver,ACV-402-0,ACV-402,"100k 4-gang, bass"
+QX-9900,Receiver,ACV-403-0,ACV-403,"50k-B 4-gang, treble"
+QX-9900,Receiver,ACV-506-A,ACV-506,"50k-HB 3-gang, Reverberation time"
+QX-9900,Receiver,ACV-506-A,ACV-506,Reverberation time control
+QX-9900,Receiver,ADG-002-0,ADG-002,AC power cord
+QX-9900,Receiver,AEB-021-A,AEB-021,Cushion rubber
+QX-9900,Receiver,AEC-004-0,AEC-004,Wire clip
+QX-9900,Receiver,AEC-006-0,AEC-006,Pulley
+QX-9900,Receiver,AEC-006-0,AEC-006,Small pulley
+QX-9900,Receiver,AEC-017-0,AEC-017,Small pulley
+QX-9900,Receiver,AEC-027-B,AEC-027,Foot
+QX-9900,Receiver,AEC-032-0,AEC-032,AC cord stopper
+QX-9900,Receiver,AEC-063-0,AEC-063,Wire clip
+QX-9900,Receiver,AEC-069-A,AEC-069,Wire clip
+QX-9900,Receiver,AEK-020-0,AEK-020,Fuse 2.5A
+QX-9900,Receiver,AEK-021-0,AEK-021,Fuse 5A
+QX-9900,Receiver,AEL-007-0,AEL-007,Pilot lamp for program indicator
+QX-9900,Receiver,AEL-007-0,AEL-007,Pilot lamp for reverberation indicator
+QX-9900,Receiver,AEL-011-0,AEL-011,Pilot lamp for speaker switch
+QX-9900,Receiver,AEL-012-0,AEL-012,Channel indicator
+QX-9900,Receiver,AEL-015,AEL-015,LAMP(DIAL/POWER)
+QX-9900,Receiver,AHA-023-A,AHA-023,Side pad (L) ass'y
+QX-9900,Receiver,AHA-024-A,AHA-024,Side pad (R) ass'y
+QX-9900,Receiver,AHB-010-A,AHB-010,Top pad
+QX-9900,Receiver,AHC-001-0,AHC-001,Accessory box
+QX-9900,Receiver,AHC-003-B,AHC-003,Inside packing
+QX-9900,Receiver,AHD-119-A,AHD-119,Packing case (with printed code number)
+QX-9900,Receiver,AHD-120-0,AHD-120,Packing case
+QX-9900,Receiver,AKB-005-0,AKB-005,4P input terminal board
+QX-9900,Receiver,AKB-010-0,AKB-010,4P input terminal board (A)
+QX-9900,Receiver,AKB-012-0,AKB-012,4P input terminal board
+QX-9900,Receiver,AKC-016-0,AKC-016,4P lug terminal
+QX-9900,Receiver,AKC-017-0,AKC-017,6 Plug terminal
+QX-9900,Receiver,AKP-005-0,AKP-005,Spare AC outlet
+QX-9900,Receiver,AKR-001-0,AKR-001,Linie voltage selector
+QX-9900,Receiver,AMM-021-A,AMM-021,Wooden case
+QX-9900,Receiver,ANA-028-A,ANA-028,Chassis
+QX-9900,Receiver,ANA-030-B,ANA-030,Sub chassis
+QX-9900,Receiver,ANB-155-C,ANB-155,From panel ass'y
+QX-9900,Receiver,ANB-156-A,ANB-156,Front glass
+QX-9900,Receiver,ANC-063-A,ANC-063,Rear panel
+QX-9900,Receiver,AND-045-B,AND-045,Dial stay
+QX-9900,Receiver,AND-046-0,AND-046,Dial back panel
+QX-9900,Receiver,ANF-089-0,ANF-089,Shaft-held metal
+QX-9900,Receiver,ANF-090-0,ANF-090,Indicator panel hold metal
+QX-9900,Receiver,ANF-091-B,ANF-091,Unit-held metal
+QX-9900,Receiver,ANF-092-B,ANF-092,Unit-held metal
+QX-9900,Receiver,ANF-094-B,ANF-094,Reverb unit-held metal
+QX-9900,Receiver,ANH-101-0,ANH-101,Shield cover
+QX-9900,Receiver,ANH-102-0,ANH-102,Shield cover
+QX-9900,Receiver,ANH-103-A,ANH-103,Shield cover
+QX-9900,Receiver,ANH-104-A,ANH-104,Main amp cover L
+QX-9900,Receiver,ANH-105-B,ANH-105,Main amp cover R
+QX-9900,Receiver,ANH-106-A,ANH-106,Lamp box
+QX-9900,Receiver,ANH-107-A,ANH-107,Meter-held metal
+QX-9900,Receiver,ANH-107-A,ANH-107,Meter-held metal
+QX-9900,Receiver,ANK-027-0,ANK-027,Dial scale-held metal
+QX-9900,Receiver,ARB-065-0,ARB-065,Operating instructions copy QX-9900
+QX-9900,Receiver,ASC-032-0,ASC-032,Selector switch
+QX-9900,Receiver,ASC-032-0,ASC-032,Selector switch
+QX-9900,Receiver,ASC-033-0,ASC-033,Reverberation mode switch
+QX-9900,Receiver,ASC-034-0,ASC-034,Mode switch
+QX-9900,Receiver,ASG-003-0,ASG-003,Power switch
+QX-9900,Receiver,ASG-029-0,ASG-029,Push switch (AF MUTING)
+QX-9900,Receiver,ASG-030-0,ASG-030,Mini-switch (LEVEL METER RANGE)
+QX-9900,Receiver,ASG-031-A,ASG-031,Mini-switch (SPEAKERS-FRONT)
+QX-9900,Receiver,ASG-031-A,ASG-031,Mini-switch (SPEAKERS-REAR)
+QX-9900,Receiver,ASG-032-0,ASG-032,Mini-switch (FM MUTING)
+QX-9900,Receiver,ASG-032-0,ASG-032,Mini-switch (LOUDNESS-FRONT/REAR)
+QX-9900,Receiver,ASG-033-0,ASG-033,Mini-switch (HIGH/LOW FILTER)
+QX-9900,Receiver,ASG-034-0,ASG-034,Mini-switch (TAPE MONITOR 1/TAPE MONITOR 2)
+QX-9900,Receiver,ASG-536,ASG-536,SWITCH(POWER) ?????
+QX-9900,Receiver,ASH-002-0,ASH-002,Sllde switch (DE-EMPHASIS)
+QX-9900,Receiver,ASR-003-0,ASR-003,Relay
+QX-9900,Receiver,ASX-016-0,ASX-016,Tuning shaft ass'y
+QX-9900,Receiver,ATT-098-A,ATT-098,Power transformer
+QX-9900,Receiver,AWE-015-B,AWE-015,FM/AM unit
+QX-9900,Receiver,AWG-013-0,AWG-013,Control amp unit
+QX-9900,Receiver,AWG-013-0,AWG-013,Control amp unit
+QX-9900,Receiver,AWG-014-0,AWG-014,Tone control unit
+QX-9900,Receiver,AWH-015-B,AWH-015,Main amp unit
+QX-9900,Receiver,AWH-015-B,AWH-015,Main amp unit
+QX-9900,Receiver,AWM-028-0,AWM-028,Protection unit
+QX-9900,Receiver,AWM-029-0,AWM-029,Protection unit
+QX-9900,Receiver,AWM-031-0,AWM-031,Decoder unit
+QX-9900,Receiver,AWM-032-A,AWM-032,Logic unit
+QX-9900,Receiver,AWM-036-0,AWM-036,Reverb amp unit
+QX-9900,Receiver,AWM-037-A,AWM-037,Reverb unit
+QX-9900,Receiver,AWR-024-B,AWR-024,Power supply unit
+QX-9900,Receiver,AWS-025-0,AWS-025,Mini-switch unit
+QX-9900,Receiver,AWS-026-0,AWS-026,Speaker switch unit (A)
+QX-9900,Receiver,AWS-027-0,AWS-027,Speaker switch unit (B)
+QX-9900,Receiver,AWS-028-0,AWS-028,Level meter switch unit
+QX-9900,Receiver,AWX-034-0,AWX-034,Level control unit
+QX-9900,Receiver,AWX-035-0,AWX-035,Balance volume unit
+QX-9900,Receiver,AWX-036-0,AWX-036,Headphone unit
+QX-9900,Receiver,AWX-037-0,AWX-037,CR unit
+QX-9900,Receiver,AWX-038-0,AWX-038,Lamp holder unit (A)
+QX-9900,Receiver,AWX-039-0,AWX-039,Lamp holder unit (B)
+QX-9900,Receiver,AWX-040-0,AWX-040,Lamp holder unit (C)
+QX-9900,Receiver,AXA-015-0,AXA-015,Tuning pulley
+QX-9900,Receiver,AXA-016-0,AXA-016,Tuning shaft ass'y
+QX-9900,Receiver,B11-012-A,B11-012,Screw for grounding
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B21-008-A,B21-008,Boss
+QX-9900,Receiver,B71-031-0,B71-031,Insulating nut
+QX-9900,Receiver,C82-049-0,C82-049,500k B dual balance (FRONT)
+QX-9900,Receiver,C82-049-0,C82-049,"500k-B dual, balance (REAR)"
+QX-9900,Receiver,C82-056-B,C82-056,Mic mixing control
+QX-9900,Receiver,C82-056-B,C82-056,Mic mixing control
+QX-9900,Receiver,C85-056-B,C85-056,"50k-A2, Mic mixing control"
+QX-9900,Receiver,C85-056-B,C85-056,"50k-A2, Mic mixing control"
+QX-9900,Receiver,D52-013-0,D52-013,FM T-type antenna
+QX-9900,Receiver,E22-032-0,E22-032,Pilot lamp
+QX-9900,Receiver,E22-032-0,E22-032,Pilot lamp
+QX-9900,Receiver,E22-032-0,E22-032,Pilot lamp
+QX-9900,Receiver,E22-032-0,E22-032,Pilot lamp for dial scale and meter
+QX-9900,Receiver,E32-045-0,E32-045,Insulating spacer
+QX-9900,Receiver,E32-056-0,E32-056,AC cord stopper
+QX-9900,Receiver,E33-009-B,E33-009,Polishing cloth
+QX-9900,Receiver,E34-004-0,E34-004,Insulator washer
+QX-9900,Receiver,K11-043-D,K11-043,Antenna input terminal board
+QX-9900,Receiver,K72-007-B,K72-007,Speaker plug
+QX-9900,Receiver,K72-024-0,K72-024,Microphone jack
+QX-9900,Receiver,K72-024-0,K72-024,Microphone jack
+QX-9900,Receiver,K72-028-0,K72-028,Speaker socket
+QX-9900,Receiver,K72-028-0,K72-028,Speaker socket
+QX-9900,Receiver,K93-003-B,K93-003,5P connector socket (DIN)
+QX-9900,Receiver,M49-025-E,M49-025,Screw for small pulley
+QX-9900,Receiver,M49-025-E,M49-025,Screw for small pulley
+QX-9900,Receiver,M49-025-E,M49-025,Small pulleys shaft
+QX-9900,Receiver,R42-285,R42-285,Service manual QX-9900
+QX-9900,Receiver,S41-025-0,S41-025,Pre & main switch
+QX-9900,Receiver,T22-025-A,T22-025,Balun
+QX-9900,Receiver,T24-030-0,T24-030,Choke coil
+QX-9900,Receiver,T42-025,T42-025,BAR ANTENNA COIL
+QX-9900,Receiver,T42-025-0,T42-025,AM ferrite loopstick antenna
+QX-9900,Receiver,W11-045-0,W11-045,FM front end
+QX-9900,Receiver,W21-002-B,W21-002,Head amp unit
+QX-9900,Receiver,W21-003-A,W21-003,Mic amp unit
+QX-9900,Receiver,W52-004-0,W52-004,Compound part for REC jack
+QX-9900,Receiver,W72-092-B,W72-092,AM ferrite loopstick antenna holder ass'y
+RG-1,Dynamic Range Expander,AAB-067,AAB-067,Knob (DYNAMIC EXPANSlON)
+RG-1,Dynamic Range Expander,AAB-067,AAB-067,Knob (INPUT LEVEL)
+RG-1,Dynamic Range Expander,AAD-040,AAD-040,Knob (POWER)
+RG-1,Dynamic Range Expander,AAD-040,AAD-040,Knob (PROCESSOR)
+RG-1,Dynamic Range Expander,AAD-040,AAD-040,Knob (TAPE MONITOR)
+RG-1,Dynamic Range Expander,AAW-052,AAW-052,Meter (Dynamic expansion)
+RG-1,Dynamic Range Expander,AAW-052,AAW-052,"Meter (L, Dynamic Expansion)"
+RG-1,Dynamic Range Expander,AAW-052,AAW-052,"Meter (R, Dynamic Expansion)"
+RG-1,Dynamic Range Expander,ABA-012,ABA-012,SCREW(STEEL)
+RG-1,Dynamic Range Expander,ACG-001,ACG-001,Ceramic capacitor 0.01 250V
+RG-1,Dynamic Range Expander,ACV-155,ACV-155,"Variable resistor 100k-B2, dual (INPUT LEVEL)"
+RG-1,Dynamic Range Expander,ADG-005,ADG-005,AC power cord
+RG-1,Dynamic Range Expander,AEB-034,AEB-034,Rubber bracket
+RG-1,Dynamic Range Expander,AEK-106,AEK-106,Fuse 1A (FU 1)
+RG-1,Dynamic Range Expander,AEK-106,AEK-106,Fuse 1A (primary)
+RG-1,Dynamic Range Expander,AEL-042,AEL-042,Lamp with lead 8V 50mA (Power indicator)
+RG-1,Dynamic Range Expander,AEL-042,AEL-042,"Lamp with leads, 8V 50mA  (PL1, Power Indicator)"
+RG-1,Dynamic Range Expander,AEL-058,AEL-058,Lamp (bar type) 8V 0.3A (Meter illumination)
+RG-1,Dynamic Range Expander,AEL-058,AEL-058,Lamp (bar type) 8V 0.3A (Meter illumination)
+RG-1,Dynamic Range Expander,AEL-058,AEL-058,"Lamp, bar-type, 8V 0.3A - (PL2, Meter illumination)"
+RG-1,Dynamic Range Expander,AKB-014,AKB-014,RG lN-0UT terminal
+RG-1,Dynamic Range Expander,AKB-014,AKB-014,TAPE REC-PLAY terminal
+RG-1,Dynamic Range Expander,AKK-002,AKK-002,Lamp socket
+RG-1,Dynamic Range Expander,AKP-002,AKP-002,AC socket (AC outlet)
+RG-1,Dynamic Range Expander,AKP-002,AKP-002,AC socket A
+RG-1,Dynamic Range Expander,ANB-360,ANB-360,Front panel assembly
+RG-1,Dynamic Range Expander,ANE-096,ANE-096,BONNET
+RG-1,Dynamic Range Expander,ARB-158-C,ARB-158,Operating Instructions RG-1
+RG-1,Dynamic Range Expander,ART-145-0,ART-145,Service Manual RG-1
+RG-1,Dynamic Range Expander,ASD-047,ASD-047,"Rotary switch (S1, DYNAMIC EXPANSION)"
+RG-1,Dynamic Range Expander,ASK-066,ASK-066,Lever switch (Power)
+RG-1,Dynamic Range Expander,ASK-092,ASK-092,"Lever switch (S1, TAPE MONITOR)"
+RG-1,Dynamic Range Expander,ASK-092,ASK-092,"Lever switch (S2, PROCESSOR)"
+RG-1,Dynamic Range Expander,ATT-253,ATT-253,Power transformer
+RG-1,Dynamic Range Expander,AWM-086,AWM-086,Processor assembly
+RG-1,Dynamic Range Expander,AWS-089,AWS-089,Switch assembly A
+RG-1,Dynamic Range Expander,AWS-090,AWS-090,Switch assembly B
+RG-1,Dynamic Range Expander,CKDYF 473Z 50,CKDYF 473Z 50,Ceramic capacitor 0.047 50V
+RG-2,Dynamic Range Expander,AAB-201,AAB-201,Knob (DYNAMIC EXPANSION)
+RG-2,Dynamic Range Expander,AAB-201,AAB-201,Knob (INPUT LEVEL)
+RG-2,Dynamic Range Expander,AAD-178,AAD-178,Push knob A (POWER)
+RG-2,Dynamic Range Expander,AAD-179,AAD-179,Push knob B (PROCESSOR)
+RG-2,Dynamic Range Expander,AAD-179,AAD-179,Push knob B (TAPE MONITOR)
+RG-2,Dynamic Range Expander,AAV-003,AAV-003,Flourescent lndlcator tube
+RG-2,Dynamic Range Expander,ABN-028,ABN-028,Special nut
+RG-2,Dynamic Range Expander,ACV-155,ACV-155,Variable resistor 100k-B (INPUT LEVEL)
+RG-2,Dynamic Range Expander,ADE-005,ADE-005,Connection cord
+RG-2,Dynamic Range Expander,ADG-023,ADG-023,AC power cord
+RG-2,Dynamic Range Expander,AEC-327,AEC-327,Strain relief
+RG-2,Dynamic Range Expander,AEC-351,AEC-351,Foot assembly
+RG-2,Dynamic Range Expander,AEL-324,AEL-324,LED(SPEAKER/TAPE MONITOR)
+RG-2,Dynamic Range Expander,AEL-325,AEL-325,LED(POWER)
+RG-2,Dynamic Range Expander,AHA-201,AHA-201,Side pad
+RG-2,Dynamic Range Expander,AHD-684,AHD-684,Packing case
+RG-2,Dynamic Range Expander,AKB-054,AKB-054,4P pin jack assembly (TAPE MONITOR)
+RG-2,Dynamic Range Expander,AKB-054,AKB-054,4P pin jack assembly (TAPE)
+RG-2,Dynamic Range Expander,AKB-054,AKB-054,4P pinjack (PROCESSOR)
+RG-2,Dynamic Range Expander,AKP-002,AKP-002,AC socket (AC OUTLET)
+RG-2,Dynamic Range Expander,ANB-716,ANB-716,Front panel assembly
+RG-2,Dynamic Range Expander,ANE-246,ANE-246,Bonnet case
+RG-2,Dynamic Range Expander,ARB-320,ARB-320,Operating instructions  RG-2
+RG-2,Dynamic Range Expander,ART-366,ART-366,Service manual  RG-2
+RG-2,Dynamic Range Expander,ASE-115,ASE-115,Slide rotary switch (DYNAMIC EXPANSION)
+RG-2,Dynamic Range Expander,ASG-215,ASG-215,Push switch (POWER)
+RG-2,Dynamic Range Expander,ASG-216,ASG-216,Push switch (PROCESSOR)
+RG-2,Dynamic Range Expander,ASG-216,ASG-216,Push switch (TAPE MONITOR)
+RG-2,Dynamic Range Expander,ASG-317,ASG-317,SWITCH(TAPE/PROCESSOR ASSY)
+RG-2,Dynamic Range Expander,ASR-042,ASR-042,Relay
+RG-2,Dynamic Range Expander,ATT-588,ATT-588,Power transformer
+RG-2,Dynamic Range Expander,GWM-134,GWM-134,Processor assembly
+RG-2,Dynamic Range Expander,GWS-186,GWS-186,Switch assembly
+RG-2,Dynamic Range Expander,GWV-101,GWV-101,Dynamic expansion meter assembly
+RG-2,Dynamic Range Expander,GWX-305,GWX-305,Pinjack assembly
+RG-2,Dynamic Range Expander,GWX-306,GWX-306,LED assembly
+RG-2,Dynamic Range Expander,GWX-307,GWX-307,LED assembly
+RG-2,Dynamic Range Expander,GWX-308,GWX-308,LED assembly
+RG-60,Dynamic Range Expander,AAB-351,AAB-351,"Rotary knob (DYNAMIC EXPANSION SELECTOR,INPUT LEVEL)"
+RG-60,Dynamic Range Expander,AAD-750,AAD-750,Push knob A (TAPE/VIDEO)
+RG-60,Dynamic Range Expander,AAD-753,AAD-753,Push knob (POWER)
+RG-60,Dynamic Range Expander,AAV-003,AAV-003,Fluorescent indicator tube
+RG-60,Dynamic Range Expander,ABN-082,ABN-082,Guide boss
+RG-60,Dynamic Range Expander,ACT-187,ACT-187,Variable 100k (INPUT)
+RG-60,Dynamic Range Expander,ADE-072,ADE-072,Connection cord (Gray)
+RG-60,Dynamic Range Expander,ADE-073,ADE-073,Connection cord (Black)
+RG-60,Dynamic Range Expander,ADG-060,ADG-060,"AC power cord - S,S/G"
+RG-60,Dynamic Range Expander,AEC-351,AEC-351,Leg assembly
+RG-60,Dynamic Range Expander,AEC-426,AEC-426,LED (ORN)
+RG-60,Dynamic Range Expander,AEC-525,AEC-525,Nylon rivet
+RG-60,Dynamic Range Expander,AEL-382,AEL-382,LED (RED)
+RG-60,Dynamic Range Expander,AEL-426,AEL-426,LED (TAPE/VIDEO-ORN)
+RG-60,Dynamic Range Expander,AHA-366,AHA-366,Side pad
+RG-60,Dynamic Range Expander,AHB-142,AHB-142,Packing spacer (S/G type only)
+RG-60,Dynamic Range Expander,AHE-283,AHE-283,Packing case (S type)
+RG-60,Dynamic Range Expander,AHE-284,AHE-284,Packing case (S/G type)
+RG-60,Dynamic Range Expander,AKB-108,AKB-108,4P Pin Jack
+RG-60,Dynamic Range Expander,AKP-038,AKP-038,AC socket (AC OUTLETS)
+RG-60,Dynamic Range Expander,AKX-504,AKX-504,"Line voltage selector - S,S/G"
+RG-60,Dynamic Range Expander,ANE-468,ANE-468,Bonnet case
+RG-60,Dynamic Range Expander,ANM-497,ANM-497,Front panel assembly
+RG-60,Dynamic Range Expander,ARB-581,ARB-581,"Operating instructions  RG-60 English (S, S/G types)"
+RG-60,Dynamic Range Expander,ARC-064,ARC-064,Operating instructions  RG-60 ltalian (S type only)
+RG-60,Dynamic Range Expander,ARP-446-0,ARP-446,"Service manual  RG-60 (S,S/G)"
+RG-60,Dynamic Range Expander,ASE-026,ASE-026,Slide rotary switch (DYNAMIC EXPANSION)
+RG-60,Dynamic Range Expander,ASG-348,ASG-348,Push switch (PROCESSOR)
+RG-60,Dynamic Range Expander,ASR-076,ASR-076,Relay (MUTING)
+RG-60,Dynamic Range Expander,ATT-589,ATT-589,"Power transformer (110V, 120V, 220V, 240V) - S,S/G"
+RG-60,Dynamic Range Expander,GWM-330,GWM-330,Processor assembly
+RG-60,Dynamic Range Expander,GWS-497,GWS-497,"Power switch assembly - S,S/G"
+RG-60,Dynamic Range Expander,GWV-118,GWV-118,Dynamic expansion meter assembly
+RG-60,Dynamic Range Expander,GWX-964,GWX-964,Pin jack asembly
+RG-60,Dynamic Range Expander,HA12010,HA12010,IC(METER)
+RG-60,Dynamic Range Expander,SUN6LB4BS,SUN6LB4BS,Push switch (TAPE MONITOR)
+RG-60,Dynamic Range Expander,SUNLYS,SUNLYS,"Push switch (POWER) - S,S/G"
+RG-9,Dynamic Range Expander,ACG-009,ACG-009,CAPACITOR(CERAMIC .047 UFD)
+RG-9,Dynamic Range Expander,ACV-155,ACV-155,CONTROL(INPUT LEVEL)
+RG-9,Dynamic Range Expander,AEL-324,AEL-324,LED(SPEAKER/TAPE MONITOR)
+RG-9,Dynamic Range Expander,AEL-325,AEL-325,LED(POWER)
+RG-9,Dynamic Range Expander,ARP-054,ARP-054,"S/M RG-9/S,SG"
+RG-9,Dynamic Range Expander,ASE-115,ASE-115,SWITCH(DYNAMIC EXPANSION)
+RG-9,Dynamic Range Expander,ASG-215,ASG-215,SWITCH(POWER)
+RG-9,Dynamic Range Expander,ASG-317,ASG-317,SWITCH(TAPE/PROCESSOR ASSY)
+RG-9,Dynamic Range Expander,HA12010,HA12010,IC(METER)
+RT-1011L,Reel To Reel Tape,2SC789,2SC789,Transistor
+RT-1011L,Reel To Reel Tape,2SC789-0 or Y,2SC789-0 or Y,Transistor
+RT-1011L,Reel To Reel Tape,ABA-010-0,ABA-010,Special screw M4 x 15
+RT-1011L,Reel To Reel Tape,ABA-010-0,ABA-010,Special screw M4 x 15
+RT-1011L,Reel To Reel Tape,ADG-004-0,ADG-004,Power cord (FV model)
+RT-1011L,Reel To Reel Tape,AKB-014-0,AKB-014,4P pin jack
+RT-1011L,Reel To Reel Tape,AKC-023-0,AKC-023,Terminal strip 2P
+RT-1011L,Reel To Reel Tape,AKC-023-0,AKC-023,Terminal strip 2p
+RT-1011L,Reel To Reel Tape,AKC-023-0,AKC-023,Terminal strip 2p
+RT-1011L,Reel To Reel Tape,AKR-027-0,AKR-027,Line voltage selector switch (fuse holder 1A fuse)
+RT-1011L,Reel To Reel Tape,AKR-027-0,AKR-027,Line voltage selector switch (FV model)
+RT-1011L,Reel To Reel Tape,ART-076-0,ART-076,Service Manual RT-1011L (KU/FV)
+RT-1011L,Reel To Reel Tape,B11-012-A,B11-012,Binding post
+RT-1011L,Reel To Reel Tape,B22-420-0,B22-420,Washer 3ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-422-0,B22-422,Washer 4ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN 2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN2
+RT-1011L,Reel To Reel Tape,B22-425-0,B22-425,Washer BN2
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1011L,Reel To Reel Tape,D11-003-E,D11-003,Power cord (KU model)
+RT-1011L,Reel To Reel Tape,E32-045-0,E32-045,Insulate washer
+RT-1011L,Reel To Reel Tape,E33-856-0,E33-856,Cleaning ribbon
+RT-1011L,Reel To Reel Tape,E34-004-0,E34-004,lnsulate washer
+RT-1011L,Reel To Reel Tape,N23-608-A,N23-608,Nylon ball
+RT-1011L,Reel To Reel Tape,P45-851-0,P45-851,Splicing tape
+RT-1011L,Reel To Reel Tape,PR-100,PR-100,Metal reel 10-1/2 in
+RT-1011L,Reel To Reel Tape,RAA-062-B,RAA-062,Lever switch knob (B) assembly
+RT-1011L,Reel To Reel Tape,RAA-096-A,RAA-096,Double knob outer (REC LEVEL)
+RT-1011L,Reel To Reel Tape,RAA-097-A,RAA-097,Double knob inner (REC LEVEL)
+RT-1011L,Reel To Reel Tape,RAA-099-A,RAA-099,Double knob outer (OUTPUT LEVEL)
+RT-1011L,Reel To Reel Tape,RAA-102-0,RAA-102,Lever switch knob
+RT-1011L,Reel To Reel Tape,RAA-103-A,RAA-103,Double knob inner (OUTPUT LEVEL)
+RT-1011L,Reel To Reel Tape,RAC-004-A,RAC-004,"Knob (power, reel, speed)"
+RT-1011L,Reel To Reel Tape,RAH-079-A,RAH-079,Tension arm plate
+RT-1011L,Reel To Reel Tape,RAH-106-0,RAH-106,Roller cover (A)
+RT-1011L,Reel To Reel Tape,RAH-107-0,RAH-107,Roller cover (B)
+RT-1011L,Reel To Reel Tape,RAL-130-0,RAL-130,Name plate (model)
+RT-1011L,Reel To Reel Tape,RAL-150-0,RAL-150,Name plate (KU model)
+RT-1011L,Reel To Reel Tape,RAL-151-0,RAL-151,Name plate (FV model)
+RT-1011L,Reel To Reel Tape,RAP-035-0,RAP-035,Frame (A)
+RT-1011L,Reel To Reel Tape,RAP-046-0,RAP-046,Flame (B)
+RT-1011L,Reel To Reel Tape,RAP-046-0,RAP-046,Frame (B)
+RT-1011L,Reel To Reel Tape,RAT-002-A,RAT-002,Pinch roller cap
+RT-1011L,Reel To Reel Tape,RAT-005-A,RAT-005,REC lamp escutcheon
+RT-1011L,Reel To Reel Tape,RAT-007-0,RAT-007,Cap
+RT-1011L,Reel To Reel Tape,RAW-017-0,RAW-017,Counter
+RT-1011L,Reel To Reel Tape,RAW-018-0,RAW-018,Level meter
+RT-1011L,Reel To Reel Tape,RBF-018-0,RBF-018,Washer
+RT-1011L,Reel To Reel Tape,RBF-019-0,RBF-019,Bushing
+RT-1011L,Reel To Reel Tape,RBH-146-0,RBH-146,Pinch pressure spring
+RT-1011L,Reel To Reel Tape,RBH-149-A,RBH-149,Tension arm spring
+RT-1011L,Reel To Reel Tape,RBH-152-0,RBH-152,Release spring
+RT-1011L,Reel To Reel Tape,RBH-162-0,RBH-162,Reel base spring
+RT-1011L,Reel To Reel Tape,RBH-169-0,RBH-169,Shifter spring
+RT-1011L,Reel To Reel Tape,RBH-170-0,RBH-170,Pinch backward spring
+RT-1011L,Reel To Reel Tape,RBH-173-0,RBH-173,Brake Spring
+RT-1011L,Reel To Reel Tape,RBH-194-0,RBH-194,Roller arm spring
+RT-1011L,Reel To Reel Tape,RBK-060-B,RBK-060,Head adj spring
+RT-1011L,Reel To Reel Tape,RBK-073-0,RBK-073,Arm lock spring
+RT-1011L,Reel To Reel Tape,RBN-004-A,RBN-004,Insulate nut
+RT-1011L,Reel To Reel Tape,RCL-010-0,RCL-010,Phase capacitor 0.5 +4uF 250V
+RT-1011L,Reel To Reel Tape,RCL-010-0,RCL-010,Phase capacitor 0.5+4uF 250V
+RT-1011L,Reel To Reel Tape,RCL-015-0,RCL-015,MP capacitor (A) 1+2.8uF 250V
+RT-1011L,Reel To Reel Tape,RCL-015-0,RCL-015,MP capacitor (A) 2.8 + 1uF 250V
+RT-1011L,Reel To Reel Tape,RCN-020-0,RCN-020,Wire wound resistor (A)
+RT-1011L,Reel To Reel Tape,RCN-020-0,RCN-020,Wire wound resistor (A)
+RT-1011L,Reel To Reel Tape,RCN-021-0,RCN-021,Wire wound resister (B)
+RT-1011L,Reel To Reel Tape,RCN-021-0,RCN-021,Wire wound resistor (B)
+RT-1011L,Reel To Reel Tape,RCN-022-0,RCN-022,Wire wound resistor (C)
+RT-1011L,Reel To Reel Tape,RCN-022-0,RCN-022,Wire wound resistor (C)
+RT-1011L,Reel To Reel Tape,RCN-023-0,RCN-023,Wire wound resistor (D)
+RT-1011L,Reel To Reel Tape,RCN-023-0,RCN-023,Wire wound resistor (D)
+RT-1011L,Reel To Reel Tape,RCV-010-B,RCV-010,Rec level control
+RT-1011L,Reel To Reel Tape,RCV-010-B,RCV-010,Rec level control
+RT-1011L,Reel To Reel Tape,RCV-010-B,RCV-010,REC level volume
+RT-1011L,Reel To Reel Tape,RCV-019-0,RCV-019,Play back control
+RT-1011L,Reel To Reel Tape,RCV-019-0,RCV-019,Playback level volume
+RT-1011L,Reel To Reel Tape,RDE-010-A,RDE-010,Connection cord
+RT-1011L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor 1.5kΩ ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor l.5kΩ ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22kΩ. ¼W
+RT-1011L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22Ω ¼W
+RT-1011L,Reel To Reel Tape,REA-005-0,REA-005,Cleaning kit
+RT-1011L,Reel To Reel Tape,REB-052-0,REB-052,Flubher washer (A)
+RT-1011L,Reel To Reel Tape,REB-052-0,REB-052,Shading washer
+RT-1011L,Reel To Reel Tape,REB-077-0,REB-077,Counter belt
+RT-1011L,Reel To Reel Tape,REB-078-0,REB-078,Pinch arm damper
+RT-1011L,Reel To Reel Tape,REB-099-0,REB-099,Cover cushion (A)
+RT-1011L,Reel To Reel Tape,REB-100-0,REB-100,Cover cushion (B)
+RT-1011L,Reel To Reel Tape,REB-103-A,REB-103,Tension arm damper
+RT-1011L,Reel To Reel Tape,REB-108-0,REB-108,Flywheel belt
+RT-1011L,Reel To Reel Tape,REB-109-0,REB-109,Shifter damper
+RT-1011L,Reel To Reel Tape,REB-119-0,REB-119,Reel adjusting sheets
+RT-1011L,Reel To Reel Tape,REC-116-A,REC-116,Foot (A)
+RT-1011L,Reel To Reel Tape,REC-119-A,REC-119,Foot (B)
+RT-1011L,Reel To Reel Tape,REC-122-A,REC-122,Spacer (erase head)
+RT-1011L,Reel To Reel Tape,REC-164-0,REC-164,Power cord clamp
+RT-1011L,Reel To Reel Tape,REC-167-A,REC-167,Button holder
+RT-1011L,Reel To Reel Tape,REC-168-A,REC-168,Counter escutcheon
+RT-1011L,Reel To Reel Tape,REC-170-A,REC-170,Meter escutcheon
+RT-1011L,Reel To Reel Tape,REC-174-0,REC-174,Insulate plate (A)
+RT-1011L,Reel To Reel Tape,REC-175-0,REC-175,Insulate plate (B)
+RT-1011L,Reel To Reel Tape,RED-052-0,RED-052,Buffer felt
+RT-1011L,Reel To Reel Tape,RED-053-0,RED-053,Pinch felt
+RT-1011L,Reel To Reel Tape,RED-065-0,RED-065,Masking plate (B)
+RT-1011L,Reel To Reel Tape,RED-066-0,RED-066,Button felt
+RT-1011L,Reel To Reel Tape,RED-067-A,RED-067,Meter cushion
+RT-1011L,Reel To Reel Tape,RED-068-0,RED-068,Ribbon
+RT-1011L,Reel To Reel Tape,RED-069-0,RED-069,Felt
+RT-1011L,Reel To Reel Tape,RED-079-0,RED-079,Masking plate
+RT-1011L,Reel To Reel Tape,REE-045-0,REE-045,Insulate bushing
+RT-1011L,Reel To Reel Tape,REE-046-A,REE-046,Plate
+RT-1011L,Reel To Reel Tape,REE-050-0,REE-050,Insulate bushing
+RT-1011L,Reel To Reel Tape,REF-005-0,REF-005,E.H. adj spacer (B)
+RT-1011L,Reel To Reel Tape,REG-010-0,REG-010,Vinyl bag
+RT-1011L,Reel To Reel Tape,REK-033-0,REK-033,1A Fuse
+RT-1011L,Reel To Reel Tape,RHA-082-0,RHA-082,Cushion (L)
+RT-1011L,Reel To Reel Tape,RHA-083-0,RHA-083,Cushion (R)
+RT-1011L,Reel To Reel Tape,RHC-023-0,RHC-023,Packing sheet
+RT-1011L,Reel To Reel Tape,RHC-027-0,RHC-027,Protector
+RT-1011L,Reel To Reel Tape,RHC-028-0,RHC-028,Cardboard
+RT-1011L,Reel To Reel Tape,RHC-029-0,RHC-029,Spacer
+RT-1011L,Reel To Reel Tape,RHC-030-0,RHC-030,Side spacer
+RT-1011L,Reel To Reel Tape,RHC-031-0,RHC-031,Cardboard
+RT-1011L,Reel To Reel Tape,RHG-072-0,RHG-072,Outer case
+RT-1011L,Reel To Reel Tape,RHK-131-0,RHK-131,Packing case assembly
+RT-1011L,Reel To Reel Tape,RHL-021-0,RHL-021,Vinyl bag
+RT-1011L,Reel To Reel Tape,RHL-025-0,RHL-025,Vinyl bag
+RT-1011L,Reel To Reel Tape,RKC -016-0,RKC -016,Melded terminal T-type 3P
+RT-1011L,Reel To Reel Tape,RKC-01 3-0,RKC-01 3,Terminal strip 6P
+RT-1011L,Reel To Reel Tape,RKC-013-0,RKC-013,Terminal strip 6P
+RT-1011L,Reel To Reel Tape,RKN-020-0,RKN-020,MIC jack
+RT-1011L,Reel To Reel Tape,RKN-021-0,RKN-021,Headphone jack (A)
+RT-1011L,Reel To Reel Tape,RKP-006-0,RKP-006,DIN socket
+RT-1011L,Reel To Reel Tape,RLA-297-0,RLA-297,Shifter arm shaft
+RT-1011L,Reel To Reel Tape,RLA-300-B,RLA-300,Tape guide (A)
+RT-1011L,Reel To Reel Tape,RLA-300-B,RLA-300,Tape guide (A)
+RT-1011L,Reel To Reel Tape,RLA-301-A,RLA-301,Tape guide (B)
+RT-1011L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1011L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1011L,Reel To Reel Tape,RLA-308-0,RLA-308,Tension arm shaft
+RT-1011L,Reel To Reel Tape,RLA-309-A,RLA-309,Tape guide (C)
+RT-1011L,Reel To Reel Tape,RLA-310-A,RLA-310,Function button shaft
+RT-1011L,Reel To Reel Tape,RLA-311-B,RLA-311,Pole
+RT-1011L,Reel To Reel Tape,RLA-321-0,RLA-321,Reel base screw
+RT-1011L,Reel To Reel Tape,RLA-346-0,RLA-346,Drive pulley (2)
+RT-1011L,Reel To Reel Tape,RLA-356-A,RLA-356,Shifter pole
+RT-1011L,Reel To Reel Tape,RLA-415-0,RLA-415,Flywheel prop (L)
+RT-1011L,Reel To Reel Tape,RLA-415-0,RLA-415,Flywheel prop (R)
+RT-1011L,Reel To Reel Tape,RLA-417-0,RLA-417,Pole
+RT-1011L,Reel To Reel Tape,RLA-428-0,RLA-428,Roller arm shaft
+RT-1011L,Reel To Reel Tape,RLA-429-0,RLA-429,Roller arm guide
+RT-1011L,Reel To Reel Tape,RLA-433-0,RLA-433,Stepped washer
+RT-1011L,Reel To Reel Tape,RLA-433-0,RLA-433,Stepped washer
+RT-1011L,Reel To Reel Tape,RLA-435-0,RLA-435,Solenoid shaft
+RT-1011L,Reel To Reel Tape,RLP-002-0,RLP-002,Button spacer (A)
+RT-1011L,Reel To Reel Tape,RLP-003-A,RLP-003,Button spacer (B)
+RT-1011L,Reel To Reel Tape,RLP-004-0,RLP-004,Shifter roller
+RT-1011L,Reel To Reel Tape,RMS-036-0,RMS-036,Side Board
+RT-1011L,Reel To Reel Tape,RMS-036-0,RMS-036,Sideboard
+RT-1011L,Reel To Reel Tape,RNA-095-A,RNA-095,Shield case (A)
+RT-1011L,Reel To Reel Tape,RNA-164-0,RNA-164,Back cover (B)
+RT-1011L,Reel To Reel Tape,RNA-167-0,RNA-167,Rear panel
+RT-1011L,Reel To Reel Tape,RNB-030-F,RNB-030,Mechanism chassis
+RT-1011L,Reel To Reel Tape,RNB-053-0,RNB-053,Reel chassis
+RT-1011L,Reel To Reel Tape,RNB-057-0,RNB-057,AMP chassis
+RT-1011L,Reel To Reel Tape,RNB-060-0,RNB-060,Control chassis
+RT-1011L,Reel To Reel Tape,RNC-068-0,RNC-068,Stiffen angle
+RT-1011L,Reel To Reel Tape,RNC-072-0,RNC-072,Motor fan
+RT-1011L,Reel To Reel Tape,RNE 513-0,RNE 513,Cord fixer
+RT-1011L,Reel To Reel Tape,RNE-386-B,RNE-386,Solenoid bracket
+RT-1011L,Reel To Reel Tape,RNE-393-0,RNE-393,Switch mounting plate
+RT-1011L,Reel To Reel Tape,RNE-394-0,RNE-394,Counter bracket
+RT-1011L,Reel To Reel Tape,RNE-401-A,RNE-401,Brake adjustment plate
+RT-1011L,Reel To Reel Tape,RNE-404-B,RNE-404,Release plate
+RT-1011L,Reel To Reel Tape,RNE-406-0,RNE-406,Spring hook
+RT-1011L,Reel To Reel Tape,RNE-409-A,RNE-409,Button frame
+RT-1011L,Reel To Reel Tape,RNE-412-A,RNE-412,Function switch bracket
+RT-1011L,Reel To Reel Tape,RNE-475-A,RNE-475,Flywheel bracket
+RT-1011L,Reel To Reel Tape,RNE-478-0,RNE-478,Terminal mounting plate
+RT-1011L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1011L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1011L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B) (FV model)
+RT-1011L,Reel To Reel Tape,RNE-537-A,RNE-537,P.C. board holder
+RT-1011L,Reel To Reel Tape,RNE-605-0,RNE-605,Cord fixer (B)
+RT-1011L,Reel To Reel Tape,RNE-652-A,RNE-652,Terminal strip mounting metal
+RT-1011L,Reel To Reel Tape,RNE-680-0,RNE-680,Motor Fuse P.C. Board holder
+RT-1011L,Reel To Reel Tape,RNE-700-0,RNE-700,Safety angle (A)
+RT-1011L,Reel To Reel Tape,RNE-702-0,RNE-702,Motor chassis
+RT-1011L,Reel To Reel Tape,RNE-723-0,RNE-723,Brake arm (L)
+RT-1011L,Reel To Reel Tape,RNE-724-0,RNE-724,Brake arm (R)
+RT-1011L,Reel To Reel Tape,RNE-730-0,RNE-730,Heat sink
+RT-1011L,Reel To Reel Tape,RNE-735-0,RNE-735,Roller bracket
+RT-1011L,Reel To Reel Tape,RNE-736-0,RNE-736,Pin jack mounting bracket
+RT-1011L,Reel To Reel Tape,RNE-737-0,RNE-737,Shield plate
+RT-1011L,Reel To Reel Tape,RNE-738-0,RNE-738,Head mounting metal
+RT-1011L,Reel To Reel Tape,RNE-739-0,RNE-739,Head base
+RT-1011L,Reel To Reel Tape,RNE-740-0,RNE-740,Switch mounting plate (FV model)
+RT-1011L,Reel To Reel Tape,RNG-031-A,RNG-031,Pinch arm (B)
+RT-1011L,Reel To Reel Tape,RNG-036-0,RNG-036,Chassis frame
+RT-1011L,Reel To Reel Tape,RNG-051-A,RNG-051,Reel feather shaft
+RT-1011L,Reel To Reel Tape,RNG-053-A,RNG-053,Shifter arm
+RT-1011L,Reel To Reel Tape,RNG-055A,RNG-055A,Reel base
+RT-1011L,Reel To Reel Tape,RNK-111-B,RNK-111,Brake guide
+RT-1011L,Reel To Reel Tape,RNP-153-0,RNP-153,Transistor board
+RT-1011L,Reel To Reel Tape,RNX-003-0,RNX-003,Ball bearing
+RT-1011L,Reel To Reel Tape,RPB-020-0,RPB-020,Erase head
+RT-1011L,Reel To Reel Tape,RPB-021-B,RPB-021,Recording head
+RT-1011L,Reel To Reel Tape,RPB-031-0,RPB-031,Playback head
+RT-1011L,Reel To Reel Tape,RRB-041-A,RRB-041,Operating instructions (KU model)
+RT-1011L,Reel To Reel Tape,RRB-046-0,RRB-046,Operating instructions (FV model)
+RT-1011L,Reel To Reel Tape,RRD-008-0,RRD-008,Operating instructions (German/French - FV model)
+RT-1011L,Reel To Reel Tape,RSF-013-0,RSF-013,Microswitch (shut-off switch)
+RT-1011L,Reel To Reel Tape,RSF-013-0,RSF-013,Microswitch (Shut-Off)
+RT-1011L,Reel To Reel Tape,RSH-013-0,RSH-013,Frequency change switch (FV model)
+RT-1011L,Reel To Reel Tape,RSH-013-0,RSH-013,Frequency switch
+RT-1011L,Reel To Reel Tape,RSK-026-0,RSK-026,Lever switch
+RT-1011L,Reel To Reel Tape,RSK-026-0,RSK-026,Lever switch (PAUSE)
+RT-1011L,Reel To Reel Tape,RTT-048-A,RTT-048,Power transformer
+RT-1011L,Reel To Reel Tape,RTT-048-A,RTT-048,Power transformer (FV model)
+RT-1011L,Reel To Reel Tape,RTT-057-A,RTT-057,Power transformer (KU model)
+RT-1011L,Reel To Reel Tape,RWA-021-0,RWA-021,OSC assembly
+RT-1011L,Reel To Reel Tape,RWF-028-0,RWF-028,P.B. amplifier assembly
+RT-1011L,Reel To Reel Tape,RWF-029-0,RWF-029,REC amplifier assembly
+RT-1011L,Reel To Reel Tape,RWG-046-0,RWG-046,Control assembly (FV model)
+RT-1011L,Reel To Reel Tape,RWG-047-0,RWG-047,Control assembly (KU model)
+RT-1011L,Reel To Reel Tape,RWS-024-0,RWS-024,SW circuit assembly
+RT-1011L,Reel To Reel Tape,RWS-026-A,RWS-026,EQ switch circuit assembly (KU model)
+RT-1011L,Reel To Reel Tape,RWS-027-B,RWS-027,EQ switch circuit assembly (FV model)
+RT-1011L,Reel To Reel Tape,RWX-030-0,RWX-030,Spark killer
+RT-1011L,Reel To Reel Tape,RWX-047-0,RWX-047,Shut-off switch P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-048-0,RWX-048,Motor Fuse board assembly
+RT-1011L,Reel To Reel Tape,RWX-057-A,RWX-057,Transistor P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-058-0,RWX-058,REC lamp P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-059-0,RWX-059,Head P.C. board assembly
+RT-1011L,Reel To Reel Tape,RWX-061-A,RWX-061,Fuse P.C. board assembly
+RT-1011L,Reel To Reel Tape,RXA-307-0,RXA-307,Capstan holder assembly
+RT-1011L,Reel To Reel Tape,RXA-309-0,RXA-309,Pinch roller assembly
+RT-1011L,Reel To Reel Tape,RXA-310-D,RXA-310,Tension arm assembly
+RT-1011L,Reel To Reel Tape,RXA-316-A,RXA-316,Button spring assembly
+RT-1011L,Reel To Reel Tape,RXA-360-A,RXA-360,Tension arm cam assembly
+RT-1011L,Reel To Reel Tape,RXA-382-A,RXA-382,Tension arm bracket assembly
+RT-1011L,Reel To Reel Tape,RXA-399-0,RXA-399,Pinch arm (A) assembly
+RT-1011L,Reel To Reel Tape,RXA-436-0,RXA-436,Reel base assembly
+RT-1011L,Reel To Reel Tape,RXA-508-0,RXA-508,Brake plate (R) assembly
+RT-1011L,Reel To Reel Tape,RXA-509-0,RXA-509,Brake plate (L) assembly
+RT-1011L,Reel To Reel Tape,RXA-510-0,RXA-510,Roller guide assembly
+RT-1011L,Reel To Reel Tape,RXA-511-0,RXA-511,Roller arm assembly
+RT-1011L,Reel To Reel Tape,RXM-0 1 2-0,RXM-0 1 2,Capstan motor
+RT-1011L,Reel To Reel Tape,RXM-012-0,RXM-012,Capstan motor
+RT-1011L,Reel To Reel Tape,RXM-017-0,RXM-017,Reel motor
+RT-1011L,Reel To Reel Tape,RXM-017-0,RXM-017,Reel motor
+RT-1011L,Reel To Reel Tape,RXP-019-A,RXP-019,Reset solenoid
+RT-1011L,Reel To Reel Tape,RXP-021-0,RXP-021,Pinch solenoid
+RT-1011L,Reel To Reel Tape,RXP-021-A,RXP-021,Pinch solenoid
+RT-1011L,Reel To Reel Tape,RXP-022-0,RXP-022,Brake solenoid
+RT-1011L,Reel To Reel Tape,RXP-022-A,RXP-022,Brake solenoid
+RT-1011L,Reel To Reel Tape,RXP-022-A,RXP-022,Brake solenoid
+RT-1011L,Reel To Reel Tape,RXX-105-0,RXX-105,Fly wheel assembly
+RT-1011L,Reel To Reel Tape,RXX-110-0,RXX-110,Brake drum assembly
+RT-1011L,Reel To Reel Tape,RXX-111-0,RXX-111,Brake band assembly
+RT-1011L,Reel To Reel Tape,RXX-112-0,RXX-112,Back cover (A - including key No.44) assembly
+RT-1011L,Reel To Reel Tape,RXX-143-0,RXX-143,Function button (A)assembly (STOP) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-144-0,RXX-144,Function button (B) assembly (FF) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-144-0,RXX-144,Function button (B) assembly (HEW) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-144-0,RXX-144,Function button (B) assembly (PLAY) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-145-0,RXX-145,Function button (C) assembly (REC) (including key No 55)
+RT-1011L,Reel To Reel Tape,RXX-146-0,RXX-146,"AMP panel assembly (including key No.33, 57)"
+RT-1011L,Reel To Reel Tape,RXX-147-0,RXX-147,Mech. panel assembly (including key No. 52. 56)
+RT-1011L,Reel To Reel Tape,RXX-149-0,RXX-149,Reel adaptors
+RT-1011L,Reel To Reel Tape,RXX-150-0,RXX-150,Head cover assembly (including key No.55)
+RT-1011L,Reel To Reel Tape,RXX-151-0,RXX-151,Playback head assembly
+RT-1011L,Reel To Reel Tape,RXX-152-0,RXX-152,Recording head assembly
+RT-1011L,Reel To Reel Tape,RXX-154-0,RXX-154,Pinch solenoid assembly
+RT-1011L,Reel To Reel Tape,W063,W063,Diode
+RT-1020L,Reel To Reel Tape,2SC1444-O or Y,2SC1444-O or Y,Transistor
+RT-1020L,Reel To Reel Tape,2SC1444-O or Y,2SC1444-O or Y,Transistor
+RT-1020L,Reel To Reel Tape,ABA-011-0,ABA-011,Special screw M4 x 26
+RT-1020L,Reel To Reel Tape,ABA-011-0,ABA-011,Special screw M4x 26
+RT-1020L,Reel To Reel Tape,AKB-008-0,AKB-008,6P pin jack (INPUT/OUTPUT)
+RT-1020L,Reel To Reel Tape,AKC-013-0,AKC-013,Terminal strip 4P
+RT-1020L,Reel To Reel Tape,AKR-001-0,AKR-001,Line voltage selector switch (fuse holder)
+RT-1020L,Reel To Reel Tape,B11-012-A,B11-012,Screw (GND)
+RT-1020L,Reel To Reel Tape,B22-425-0,B22-425,Washer 6ɸ BN 2
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN 1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer 6ɸ BN1
+RT-1020L,Reel To Reel Tape,B22-426-0,B22-426,Washer ɸ6 BN 1
+RT-1020L,Reel To Reel Tape,B23-405-A,B23-405,Bushing
+RT-1020L,Reel To Reel Tape,D53-851-0,D53-851,Connection cord
+RT-1020L,Reel To Reel Tape,E21-004-A,E21-004,1A fuse
+RT-1020L,Reel To Reel Tape,E32-045-0,E32-045,Insulate Washer
+RT-1020L,Reel To Reel Tape,E33-856-0,E33-856,Head cleaning ribbon
+RT-1020L,Reel To Reel Tape,E34-004-0,E34-004,Insulate washer
+RT-1020L,Reel To Reel Tape,H46-856-0,H46-856,Silica gel
+RT-1020L,Reel To Reel Tape,K15-402-0,K15-402,Molded terminal T-type 3P
+RT-1020L,Reel To Reel Tape,K15-402-0,K15-402,Molded terminal T-type 3P
+RT-1020L,Reel To Reel Tape,K72-024-0,K72-024,MIC jack
+RT-1020L,Reel To Reel Tape,K93-003-B,K93-003,DIN socket
+RT-1020L,Reel To Reel Tape,N23-608-A,N23-608,Nylon ball
+RT-1020L,Reel To Reel Tape,N28-417-0,N28-417,Flywheel belt
+RT-1020L,Reel To Reel Tape,P45-851-0,P45-851,Splicing tape
+RT-1020L,Reel To Reel Tape,PR-100,PR-100,Empty reel (PR-100)
+RT-1020L,Reel To Reel Tape,R XA-310-C,R XA-310,Tension arm assembly
+RT-1020L,Reel To Reel Tape,R42-345-O,R42-345,Service Manual RT-1020L
+RT-1020L,Reel To Reel Tape,RAA-060-0,RAA-060,Lever switch knob (A) assembly
+RT-1020L,Reel To Reel Tape,RAA-062-B,RAA-062,Lever switch knob (B) assembly
+RT-1020L,Reel To Reel Tape,RAA-063-0,RAA-063,"Knob (REC BIAS, REC EQ)"
+RT-1020L,Reel To Reel Tape,RAA-065-A,RAA-065,Double knob inner (REC LEVEL)
+RT-1020L,Reel To Reel Tape,RAA-066-B,RAA-066,Double knob outer (REC _LEVEL)
+RT-1020L,Reel To Reel Tape,RAA-070-0,RAA-070,Double knob inner (FRONT OUTPUT)
+RT-1020L,Reel To Reel Tape,RAA-071-0,RAA-071,Double knob outer (REAR OUTPUT)
+RT-1020L,Reel To Reel Tape,RAC-001-A,RAC-001,Function button (STOP)
+RT-1020L,Reel To Reel Tape,RAC-002-A,RAC-002,Function button (FAST)
+RT-1020L,Reel To Reel Tape,RAC-002-A,RAC-002,Function button (PLAY)
+RT-1020L,Reel To Reel Tape,RAC-002-A,RAC-002,Function button (REWI
+RT-1020L,Reel To Reel Tape,RAC-003-B,RAC-003,Function button (REC)
+RT-1020L,Reel To Reel Tape,RAC-004-A,RAC-004,"Knob (POWER, REEL, SPEED)"
+RT-1020L,Reel To Reel Tape,RAH-079-A,RAH-079,Spin screw
+RT-1020L,Reel To Reel Tape,RAH-092-0,RAH-092,Roller cover (A)
+RT-1020L,Reel To Reel Tape,RAH-093-0,RAH-093,Roller cover (B)
+RT-1020L,Reel To Reel Tape,RAL-092-0,RAL-092,Model plate
+RT-1020L,Reel To Reel Tape,RAP-035-0,RAP-035,Frame (A)
+RT-1020L,Reel To Reel Tape,RAP-036-B,RAP-036,Sash (B)
+RT-1020L,Reel To Reel Tape,RAP-036-B,RAP-036,Sash (B)
+RT-1020L,Reel To Reel Tape,RAP-041-0,RAP-041,Rosette washer
+RT-1020L,Reel To Reel Tape,RAP-043-A,RAP-043,Meter Escutcheon
+RT-1020L,Reel To Reel Tape,RAT-002-A,RAT-002,Cap (pinch roller)
+RT-1020L,Reel To Reel Tape,RAT-003-0,RAT-003,Cap (bearing)
+RT-1020L,Reel To Reel Tape,RAW-017-0,RAW-017,Counter
+RT-1020L,Reel To Reel Tape,RAW-018-0,RAW-018,Level meter
+RT-1020L,Reel To Reel Tape,RAX-008-B,RAX-008,Center base
+RT-1020L,Reel To Reel Tape,RBF-007-0,RBF-007,Nylon washer
+RT-1020L,Reel To Reel Tape,RBH-146-0,RBH-146,Pinch pressure spring
+RT-1020L,Reel To Reel Tape,RBH-148-A,RBH-148,Spring (roller arm)
+RT-1020L,Reel To Reel Tape,RBH-149-A,RBH-149,Tension arm spring
+RT-1020L,Reel To Reel Tape,RBH-152-0,RBH-152,Release-spring
+RT-1020L,Reel To Reel Tape,RBH-162-0,RBH-162,Reel base spring
+RT-1020L,Reel To Reel Tape,RBH-169-0,RBH-169,Shifter spring
+RT-1020L,Reel To Reel Tape,RBH-170-0,RBH-170,Backward spring
+RT-1020L,Reel To Reel Tape,RBH-173-0,RBH-173,Brake spring
+RT-1020L,Reel To Reel Tape,RBK-060-B,RBK-060,Head adj. spring
+RT-1020L,Reel To Reel Tape,RCH-010-0,RCH-010,"Electrolytic capacitor 1,000uF 35V"
+RT-1020L,Reel To Reel Tape,RCH-010-0,RCH-010,"Electrolytic capacitor 1,000uF 50V"
+RT-1020L,Reel To Reel Tape,RCL-010-0,RCL-010,Phase capacitor 0.5 +4uF 250V
+RT-1020L,Reel To Reel Tape,RCL-013-0,RCL-013,MP capacitor (A) 1 + 2.8uF 250V
+RT-1020L,Reel To Reel Tape,RCL-013-0,RCL-013,MP capacitor (A) 2.8 +1uF 250V
+RT-1020L,Reel To Reel Tape,RCN-010-0,RCN-010,Wire wound resistor (A) 100Ω 20W
+RT-1020L,Reel To Reel Tape,RCN-011-0,RCN-011,Wire wound resistor (B) 300Ω 20W
+RT-1020L,Reel To Reel Tape,RCN-012-0,RCN-012,Wire wound resistor (C) 500Ω 20W
+RT-1020L,Reel To Reel Tape,RCN-014-0,RCN-014,Wire wound resistor (D) 2kΩ 20W
+RT-1020L,Reel To Reel Tape,RCV-010-A,RCV-010,REC level volume 10kΩ-A
+RT-1020L,Reel To Reel Tape,RCV-011-0,RCV-011,P.B. level volume 50kΩ-B
+RT-1020L,Reel To Reel Tape,RDG-003-0,RDG-003,Power cord
+RT-1020L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 104J,RD¼PS 104J,Carbon film resistor 100kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor 1.5kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 152J,RD¼PS 152J,Carbon film resistor 1.5KΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 223J,RD¼PS 223J,Carbon film resistor 22kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 302J,RD¼PS 302J,Carbon film resistor 3kΩ ¼W
+RT-1020L,Reel To Reel Tape,RD¼PS 622J,RD¼PS 622J,Carbon film resistor 6.2kΩ ¼W
+RT-1020L,Reel To Reel Tape,REA-005-0,REA-005,Head cleaning kit
+RT-1020L,Reel To Reel Tape,REB-052-0,REB-052,Rubber washer (A)
+RT-1020L,Reel To Reel Tape,REB-077-0,REB-077,Counter belt
+RT-1020L,Reel To Reel Tape,REB-078-0,REB-078,Pinch arm damper
+RT-1020L,Reel To Reel Tape,REB-091-0,REB-091,Shading washer
+RT-1020L,Reel To Reel Tape,REB-094-0,REB-094,Rubber grommet
+RT-1020L,Reel To Reel Tape,REB-098-0,REB-098,Brake arm damper
+RT-1020L,Reel To Reel Tape,REB-099-0,REB-099,Cover cushion (A)
+RT-1020L,Reel To Reel Tape,REB-100-0,REB-100,Cover cushion (B)
+RT-1020L,Reel To Reel Tape,REB-103A,REB-103A,Tension arm damper
+RT-1020L,Reel To Reel Tape,REB-109-0,REB-109,Shifter damper
+RT-1020L,Reel To Reel Tape,REC-115-A,REC-115,Escutcheon (jack)
+RT-1020L,Reel To Reel Tape,REC-116-A,REC-116,Foot (A)
+RT-1020L,Reel To Reel Tape,REC-119-A,REC-119,Foot (B)
+RT-1020L,Reel To Reel Tape,REC-122-A,REC-122,Spacer (erase head)
+RT-1020L,Reel To Reel Tape,REC-145-B,REC-145,Button guard
+RT-1020L,Reel To Reel Tape,RED-052-0,RED-052,Buffer felt
+RT-1020L,Reel To Reel Tape,RED-053-0,RED-053,Felt (pinch roller)
+RT-1020L,Reel To Reel Tape,RED-054-A,RED-054,Felt
+RT-1020L,Reel To Reel Tape,RED-060-B,RED-060,Roller arm damper
+RT-1020L,Reel To Reel Tape,RED-069-0,RED-069,Felt
+RT-1020L,Reel To Reel Tape,REE-042-0,REE-042,Insulate bushing
+RT-1020L,Reel To Reel Tape,REE-043-0,REE-043,Insulate bushing
+RT-1020L,Reel To Reel Tape,REF-005-0,REF-005,E.H. adj. spacer (B)
+RT-1020L,Reel To Reel Tape,RHA-042-C,RHA-042,Cushion (R)
+RT-1020L,Reel To Reel Tape,RHA-043C,RHA-043C,Cushion (L)
+RT-1020L,Reel To Reel Tape,RHA-044-A,RHA-044,"Packing case (Including 1,2,7,10,11,12,13,15)"
+RT-1020L,Reel To Reel Tape,RHA-045-B,RHA-045,Cardboard
+RT-1020L,Reel To Reel Tape,RHA-045-B,RHA-045,Cardboard
+RT-1020L,Reel To Reel Tape,RHA-046-A,RHA-046,Frame for accessory reel
+RT-1020L,Reel To Reel Tape,RHA-047-B,RHA-047,Frame for accessory box
+RT-1020L,Reel To Reel Tape,RHA-049-0,RHA-049,Buffer block
+RT-1020L,Reel To Reel Tape,RHC-023-0,RHC-023,Styrene paper
+RT-1020L,Reel To Reel Tape,RHK-102-0,RHK-102,Packing case assembly
+RT-1020L,Reel To Reel Tape,RHL-007-0,RHL-007,Vinyl bag
+RT-1020L,Reel To Reel Tape,RHX-019-0,RHX-019,Accessory box
+RT-1020L,Reel To Reel Tape,RKC-013-0,RKC-013,Terminal strip 6P
+RT-1020L,Reel To Reel Tape,RKC-013-0,RKC-013,Terminal strip 6P
+RT-1020L,Reel To Reel Tape,RKN-002-A,RKN-002,Headphone jack (A)
+RT-1020L,Reel To Reel Tape,RKP-003-A,RKP-003,AC socket
+RT-1020L,Reel To Reel Tape,RLA-294-A,RLA-294,Flywheel shaft (A)
+RT-1020L,Reel To Reel Tape,RLA-295-A,RLA-295,Flywheel shaft (B)
+RT-1020L,Reel To Reel Tape,RLA-296-A,RLA-296,Hex. pole (motor)
+RT-1020L,Reel To Reel Tape,RLA-297-0,RLA-297,Shifter arm shaft
+RT-1020L,Reel To Reel Tape,RLA-298-0,RLA-298,Shifter pole
+RT-1020L,Reel To Reel Tape,RLA-300-A,RLA-300,Tape guide (A)
+RT-1020L,Reel To Reel Tape,RLA-300A,RLA-300A,Tape guide (A)
+RT-1020L,Reel To Reel Tape,RLA-301-0,RLA-301,Tape guide (B)
+RT-1020L,Reel To Reel Tape,RLA-302-0,RLA-302,Roller arm shaft
+RT-1020L,Reel To Reel Tape,RLA-304-A,RLA-304,Stepped washer
+RT-1020L,Reel To Reel Tape,RLA-304-A,RLA-304,Steppedwasher
+RT-1020L,Reel To Reel Tape,RLA-305-B,RLA-305,Solenoid shaft
+RT-1020L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1020L,Reel To Reel Tape,RLA-307-0,RLA-307,Pinch arm shaft
+RT-1020L,Reel To Reel Tape,RLA-308-0,RLA-308,Tension arm shaft
+RT-1020L,Reel To Reel Tape,RLA-309-A,RLA-309,Tape guide (C)
+RT-1020L,Reel To Reel Tape,RLA-310-A,RLA-310,Function button shaft
+RT-1020L,Reel To Reel Tape,RLA-311-0,RLA-311,Hex. pole (head assembly)
+RT-1020L,Reel To Reel Tape,RLA-317-0,RLA-317,Roller arm guide
+RT-1020L,Reel To Reel Tape,RLA-321-0,RLA-321,Reel base screw
+RT-1020L,Reel To Reel Tape,RLA-345-0,RLA-345,Drive pulley (slightly small drive pulley in diam)
+RT-1020L,Reel To Reel Tape,RLA-346-0,RLA-346,Drive pulley (standard-size drive pulley in diam. - standard speeds)
+RT-1020L,Reel To Reel Tape,RLA-347-0,RLA-347,Drive pulley (slightly large drive pulley in diam.)
+RT-1020L,Reel To Reel Tape,RLP-002-0,RLP-002,Button spacer (A)
+RT-1020L,Reel To Reel Tape,RLP-003-A,RLP-003,Button spacer (B)
+RT-1020L,Reel To Reel Tape,RLP-004-0,RLP-004,Shifter roller
+RT-1020L,Reel To Reel Tape,Rl\IE-404-B,Rl\IE-404,Release plate
+RT-1020L,Reel To Reel Tape,RMS-021-0,RMS-021,Side board
+RT-1020L,Reel To Reel Tape,RMS-021-0,RMS-021,Slde board
+RT-1020L,Reel To Reel Tape,RNA-095-A,RNA-095,Shield case (A)
+RT-1020L,Reel To Reel Tape,RNA-096-A,RNA-096,Shield case (B)
+RT-1020L,Reel To Reel Tape,RNA-098-C,RNA-098,Rear panel
+RT-1020L,Reel To Reel Tape,RNB-030-F,RNB-030,Mechanism chassis
+RT-1020L,Reel To Reel Tape,RNB-032-C,RNB-032,Control chassis
+RT-1020L,Reel To Reel Tape,RNB-042-0,RNB-042,Reel chassis
+RT-1020L,Reel To Reel Tape,RNB-043-0,RNB-043,Amp chassis
+RT-1020L,Reel To Reel Tape,RNC-068-0,RNC-068,Stiffen angle
+RT-1020L,Reel To Reel Tape,RNC-072-0,RNC-072,Motor fan (A)
+RT-1020L,Reel To Reel Tape,RNC-073-0,RNC-073,Meter clamper
+RT-1020L,Reel To Reel Tape,RNE-386-B,RNE-386,Solenoid bracket
+RT-1020L,Reel To Reel Tape,RNE-389-B,RNE-389,Roller bracket
+RT-1020L,Reel To Reel Tape,RNE-392-0,RNE-392,Rubber washer
+RT-1020L,Reel To Reel Tape,RNE-393-0,RNE-393,Switch mounting plate
+RT-1020L,Reel To Reel Tape,RNE-394-0,RNE-394,Counter bracket
+RT-1020L,Reel To Reel Tape,RNE-399-B,RNE-399,Brake arm (L)
+RT-1020L,Reel To Reel Tape,RNE-400-B,RNE-400,Brake arm (R)
+RT-1020L,Reel To Reel Tape,RNE-401-0,RNE-401,Plate
+RT-1020L,Reel To Reel Tape,RNE-403-C,RNE-403,Shield plate
+RT-1020L,Reel To Reel Tape,RNE-406-0,RNE-406,Spring hook
+RT-1020L,Reel To Reel Tape,RNE-407-E,RNE-407,Heat sink
+RT-1020L,Reel To Reel Tape,RNE-409-A,RNE-409,Button frame
+RT-1020L,Reel To Reel Tape,RNE-412-A,RNE-412,Function switch bracket
+RT-1020L,Reel To Reel Tape,RNE-413- B,RNE-413- B,Pin jack mounting bracket
+RT-1020L,Reel To Reel Tape,RNE-415-D,RNE-415,Head base
+RT-1020L,Reel To Reel Tape,RNE-474-B,RNE-474,Motor chassis
+RT-1020L,Reel To Reel Tape,RNE-475-0,RNE-475,Flywheel bracket
+RT-1020L,Reel To Reel Tape,RNE-478-0,RNE-478,Terminal mounting plate
+RT-1020L,Reel To Reel Tape,RNE-479-0,RNE-479,Terminal strip mounting metal
+RT-1020L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1020L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1020L,Reel To Reel Tape,RNE-513-0,RNE-513,Cord fixer (B)
+RT-1020L,Reel To Reel Tape,RNE-537-A,RNE-537,P. C. board holder
+RT-1020L,Reel To Reel Tape,RNE-543-0,RNE-543,Shield Cover
+RT-1020L,Reel To Reel Tape,RNE-554-0,RNE-554,Switch mounting plate
+RT-1020L,Reel To Reel Tape,RNG-031-A,RNG-031,Pinch arm (B)
+RT-1020L,Reel To Reel Tape,RNG-036-C,RNG-036,Chassis frame
+RT-1020L,Reel To Reel Tape,RNG-051-0,RNG-051,Reel feather shaft
+RT-1020L,Reel To Reel Tape,RNG-053-0,RNG-053,Shifter arm
+RT-1020L,Reel To Reel Tape,RNG-055-0,RNG-055,Reel base
+RT-1020L,Reel To Reel Tape,RNK-111-B,RNK-111,Brake guide
+RT-1020L,Reel To Reel Tape,RNK-391-0,RNK-391,Head mounting metal
+RT-1020L,Reel To Reel Tape,RNX-003-0,RNX-003,Ball bearing
+RT-1020L,Reel To Reel Tape,RPB-020-0,RPB-020,Erase head
+RT-1020L,Reel To Reel Tape,RPB-021-A,RPB-021,Recording head
+RT-1020L,Reel To Reel Tape,RPB-022-0,RPB-022,Playback head
+RT-1020L,Reel To Reel Tape,RRB-021-0,RRB-021,Operating instructions RT-1020L
+RT-1020L,Reel To Reel Tape,RRH-001-0,RRH-001,Label (mechanism adj.)
+RT-1020L,Reel To Reel Tape,RRH-002-0,RRH-002,Label (amp. adj.)
+RT-1020L,Reel To Reel Tape,RRW-016-0,RRW-016,Label (voltage selector)
+RT-1020L,Reel To Reel Tape,RSB-008-0,RSB-008,BIAS switch
+RT-1020L,Reel To Reel Tape,RSB-009-0,RSB-009,EQ switch
+RT-1020L,Reel To Reel Tape,RSF-007-0,RSF-007,Microswitch (shut-off switch)
+RT-1020L,Reel To Reel Tape,RSK-021-B,RSK-021,Lever switch (PAUSE)
+RT-1020L,Reel To Reel Tape,RSL-004-0,RSL-004,Frequency switch
+RT-1020L,Reel To Reel Tape,RSL-004-0,RSL-004,Snap switch (frequency change switch)
+RT-1020L,Reel To Reel Tape,RTT-039-A,RTT-039,Power transformer
+RT-1020L,Reel To Reel Tape,RWA-008-A,RWA-008,OSC assembly
+RT-1020L,Reel To Reel Tape,RWF-014-0,RWF-014,P. B. amplifier assembly
+RT-1020L,Reel To Reel Tape,RWF-015-0,RWF-015,REC ampiifier assembly
+RT-1020L,Reel To Reel Tape,RWG-040-0,RWG-040,Control assembly
+RT-1020L,Reel To Reel Tape,RWS-011-A,RWS-011,SW circuit assembly
+RT-1020L,Reel To Reel Tape,RWS-013-A,RWS-013,EQ switch circuit assembly
+RT-1020L,Reel To Reel Tape,RWX-030-0,RWX-030,Spark killer
+RT-1020L,Reel To Reel Tape,RWX-033-0,RWX-033,REC lamp P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-035-0,RWX-035,Head P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-036-A,RWX-036,Fuse P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-038-0,RWX-038,Shut-off switch P.C. board assembly
+RT-1020L,Reel To Reel Tape,RWX-040-0,RWX-040,VR assembly
+RT-1020L,Reel To Reel Tape,RXA-307-0,RXA-307,Capstan bearing assembly
+RT-1020L,Reel To Reel Tape,RXA-309-0,RXA-309,Pinch roller assembly
+RT-1020L,Reel To Reel Tape,RXA-311-A,RXA-311,Roller arm assembly
+RT-1020L,Reel To Reel Tape,RXA-313-A,RXA-313,Brake plate (L) assembly
+RT-1020L,Reel To Reel Tape,RXA-314-A,RXA-314,Brake plate (R) assembly
+RT-1020L,Reel To Reel Tape,RXA-316-A,RXA-316,Button spring assembly
+RT-1020L,Reel To Reel Tape,RXA-360-A,RXA-360,Tension arm cam assembly
+RT-1020L,Reel To Reel Tape,RXA-382-A,RXA-382,Tension arm bracket assembly
+RT-1020L,Reel To Reel Tape,RXA-399-0,RXA-399,Pinch arm (A) assembly
+RT-1020L,Reel To Reel Tape,RXA-400-0,RXA-400,Reel base assembly
+RT-1020L,Reel To Reel Tape,RXM-012-0,RXM-012,Capstan motor
+RT-1020L,Reel To Reel Tape,RXM-015-0,RXM-015,Reel motor
+RT-1020L,Reel To Reel Tape,RXP-011-C,RXP-011,Pinch solenoid
+RT-1020L,Reel To Reel Tape,RXP-012-A,RXP-012,Brake solenoid
+RT-1020L,Reel To Reel Tape,RXP-013-B,RXP-013,Reset solenoid
+RT-1020L,Reel To Reel Tape,RXX-105-0,RXX-105,Flywheel assembly
+RT-1020L,Reel To Reel Tape,RXX-106-0,RXX-106,Pinch solenoid assembly
+RT-1020L,Reel To Reel Tape,RXX-107-0,RXX-107,Playback head assembly
+RT-1020L,Reel To Reel Tape,RXX-108-0,RXX-108,Recording head assembly
+RT-1020L,Reel To Reel Tape,RXX-109-0,RXX-109,Roller guide assembly (Including B)
+RT-1020L,Reel To Reel Tape,RXX-110-0,RXX-110,Brake dram assembly
+RT-1020L,Reel To Reel Tape,RXX-111-0,RXX-111,Brake band assembly
+RT-1020L,Reel To Reel Tape,RXX-113-0,RXX-113,"Back cover (B) assembly (including 46, 47, 52)"
+RT-1020L,Reel To Reel Tape,RXX-115-0,RXX-115,Mech. panel assembly
+RT-1020L,Reel To Reel Tape,RXX-124-0,RXX-124,"Back cover (L) assembly (Including 44, 51, 55)"
+RT-1020L,Reel To Reel Tape,RXX-128-0,RXX-128,Head cover (L) assembly
+RT-1020L,Reel To Reel Tape,RXX-129-0,RXX-129,"Amp. panel (L) assembly (Including 11,34,40)"
+RT-1020L,Reel To Reel Tape,W06B,W06B,Diode
+RT-1020L,Reel To Reel Tape,W06B,W06B,Diode
+RT-1020L,Reel To Reel Tape,W06B,W06B,Diode
+RT-701,Reel To Reel Tape,ADG-013,ADG-013,AC cord
+RT-701,Reel To Reel Tape,ART-231-0,ART-231,Service manual  RT-701
+RT-701,Reel To Reel Tape,ART-254-0,ART-254,Service manual additional  RT-701
+RT-701,Reel To Reel Tape,HXM-033,HXM-033,Capstan motor
+RT-701,Reel To Reel Tape,RAA-164,RAA-164,Knob A (LINE)
+RT-701,Reel To Reel Tape,RAA-165,RAA-165,Knob B (MIC)
+RT-701,Reel To Reel Tape,RAA-166,RAA-166,Knob (PITCH CONTROL)
+RT-701,Reel To Reel Tape,RAC-055,RAC-055,Knob (FUNCTlON SWITCH) assembly
+RT-701,Reel To Reel Tape,RAC-056,RAC-056,Knob (REC SWITCH) assembly
+RT-701,Reel To Reel Tape,RAC-057,RAC-057,Knob (SWITCH) assembly
+RT-701,Reel To Reel Tape,RAH-170,RAH-170,Base cover R
+RT-701,Reel To Reel Tape,RAH-171,RAH-171,Base cover L
+RT-701,Reel To Reel Tape,RAH-172,RAH-172,Cap
+RT-701,Reel To Reel Tape,RAH-189,RAH-189,Head panel A
+RT-701,Reel To Reel Tape,RAW-054,RAW-054,Tape counter
+RT-701,Reel To Reel Tape,RAW-061,RAW-061,Level metev L
+RT-701,Reel To Reel Tape,RAW-062,RAW-062,Level meter R
+RT-701,Reel To Reel Tape,RBH-162,RBH-162,Reel base spring
+RT-701,Reel To Reel Tape,RBH-313,RBH-313,Brake spring
+RT-701,Reel To Reel Tape,RBH-320,RBH-320,Shut off lever
+RT-701,Reel To Reel Tape,RBH-351,RBH-351,Release lever
+RT-701,Reel To Reel Tape,RBH-362,RBH-362,Brake release spring
+RT-701,Reel To Reel Tape,RBK-093,RBK-093,Adjuster spring
+RT-701,Reel To Reel Tape,RCL-015,RCL-015,MP capacitor
+RT-701,Reel To Reel Tape,RCL-017,RCL-017,MP capacitor
+RT-701,Reel To Reel Tape,RCN-033,RCN-033,Wire wound resistor A 350 25w
+RT-701,Reel To Reel Tape,RCN-034,RCN-034,Wire wound resistor D 2k 20w
+RT-701,Reel To Reel Tape,RCS-011,RCS-011,Variable resistor (PITCH CONTROL)
+RT-701,Reel To Reel Tape,REB-205,REB-205,Counter belt
+RT-701,Reel To Reel Tape,REB-215,REB-215,Reel sheet
+RT-701,Reel To Reel Tape,REC-218,REC-218,Foot assembly
+RT-701,Reel To Reel Tape,REC-234,REC-234,Rear panel escutcheon
+RT-701,Reel To Reel Tape,REC-245,REC-245,Head housing
+RT-701,Reel To Reel Tape,REC-256,REC-256,Stroke adjuster
+RT-701,Reel To Reel Tape,REC-257,REC-257,Strain relief
+RT-701,Reel To Reel Tape,REC-260,REC-260,E head mount B
+RT-701,Reel To Reel Tape,REK-044,REK-044,Fuse 3.15A
+RT-701,Reel To Reel Tape,REK-048,REK-048,Fuse 0.5A
+RT-701,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-701,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-701,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-701,Reel To Reel Tape,REK-055,REK-055,Fuse 2A
+RT-701,Reel To Reel Tape,RKR-017,RKR-017,Fuse Clip
+RT-701,Reel To Reel Tape,RLA-321,RLA-321,Reel base screw
+RT-701,Reel To Reel Tape,RLA-653,RLA-653,Housing Stud
+RT-701,Reel To Reel Tape,RLA-656,RLA-656,Tape guide C
+RT-701,Reel To Reel Tape,RLA-736,RLA-736,Tape guide A
+RT-701,Reel To Reel Tape,RLA-789,RLA-789,Pinch arm shaft
+RT-701,Reel To Reel Tape,RLA-790,RLA-790,Tape guide B
+RT-701,Reel To Reel Tape,RNA-298,RNA-298,Shield case
+RT-701,Reel To Reel Tape,RNF-067,RNF-067,Head mount A
+RT-701,Reel To Reel Tape,RNF-068,RNF-068,Head mount B
+RT-701,Reel To Reel Tape,RNF-069,RNF-069,R head mount
+RT-701,Reel To Reel Tape,RNF-074,RNF-074,Brake adjustment plate
+RT-701,Reel To Reel Tape,RNF-077,RNF-077,E head spacer A (for E head height adjustment)
+RT-701,Reel To Reel Tape,RNF-078,RNF-078,E head spacer B (for E head height adjustment)
+RT-701,Reel To Reel Tape,RNF-079,RNF-079,Mount plate
+RT-701,Reel To Reel Tape,RNF-082,RNF-082,Reel plate
+RT-701,Reel To Reel Tape,RNF-085,RNF-085,Shield case spacer
+RT-701,Reel To Reel Tape,RNF-104,RNF-104,Pause adjuster
+RT-701,Reel To Reel Tape,RNF-202,RNF-202,Tension holder R
+RT-701,Reel To Reel Tape,RNF-203,RNF-203,Tension holder L
+RT-701,Reel To Reel Tape,RNG-123,RNG-123,Reel base
+RT-701,Reel To Reel Tape,RNG-125,RNG-125,Reel stopper
+RT-701,Reel To Reel Tape,RNK-296,RNK-296,Brake guide
+RT-701,Reel To Reel Tape,RNK-303,RNK-303,Brake drum
+RT-701,Reel To Reel Tape,RPB-040,RPB-040,Recording head (4T2C)
+RT-701,Reel To Reel Tape,RPB-041,RPB-041,Playback head (4T2C)
+RT-701,Reel To Reel Tape,RPB-047,RPB-047,Erase head (4T2C)
+RT-701,Reel To Reel Tape,RSF-007,RSF-007,Micro switch
+RT-701,Reel To Reel Tape,RSG-046,RSG-046,Pause switch
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (FF)
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (PLAY)
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (REC)
+RT-701,Reel To Reel Tape,RSG-047,RSG-047,Function switch (REW)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (BIAS)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (EQUALIZATION)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (MONITOR)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (POWER)
+RT-701,Reel To Reel Tape,RSG-049,RSG-049,Push switch (SPEED)
+RT-701,Reel To Reel Tape,RTT-115,RTT-115,Power transformer
+RT-701,Reel To Reel Tape,RTT-166,RTT-166,Power transformer (Improved)
+RT-701,Reel To Reel Tape,RWF-064,RWF-064,Playback amplifier assembly
+RT-701,Reel To Reel Tape,RWF-065,RWF-065,MIC amplifier assembly
+RT-701,Reel To Reel Tape,RWF-081,RWF-081,Playback ampliﬁer assembly
+RT-701,Reel To Reel Tape,RWG-068,RWG-068,Servo amplifier assembly
+RT-701,Reel To Reel Tape,RWG-070,RWG-070,Control assembly
+RT-701,Reel To Reel Tape,RWR-054,RWR-054,Power and oscillation assembly
+RT-701,Reel To Reel Tape,RWR-059,RWR-059,Power and oscillation assembly (Improved)
+RT-701,Reel To Reel Tape,RWS-051,RWS-051,Function switch assembly
+RT-701,Reel To Reel Tape,RWS-062,RWS-062,Switch assembly (KU)
+RT-701,Reel To Reel Tape,RWS-063,RWS-063,Switch assembly (KC)
+RT-701,Reel To Reel Tape,RWS-067,RWS-067,Switch assembly  (Improved - KC)
+RT-701,Reel To Reel Tape,RWS-068,RWS-068,Switch assembly  (Improved - KU)
+RT-701,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-701,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-701,Reel To Reel Tape,RWX-142,RWX-142,Indicator assembly
+RT-701,Reel To Reel Tape,RWX-146,RWX-146,Connector assembly L
+RT-701,Reel To Reel Tape,RWX-147,RWX-147,Connector assembly R
+RT-701,Reel To Reel Tape,RWX-170,RWX-170,Fuse assembly
+RT-701,Reel To Reel Tape,RWX-171,RWX-171,Connector assembly L
+RT-701,Reel To Reel Tape,RWX-172,RWX-172,Connector assembly R
+RT-701,Reel To Reel Tape,RXA-601,RXA-601,Shield assembly
+RT-701,Reel To Reel Tape,RXA-758,RXA-758,Jack assembly
+RT-701,Reel To Reel Tape,RXA-766,RXA-766,Brake arm L assembly
+RT-701,Reel To Reel Tape,RXA-767,RXA-767,Brake arm R assembly
+RT-701,Reel To Reel Tape,RXA-771,RXA-771,Pause arm assembly
+RT-701,Reel To Reel Tape,RXA-774,RXA-774,Solenoid bar assembly
+RT-701,Reel To Reel Tape,RXA-781,RXA-781,Tension arm R assembly
+RT-701,Reel To Reel Tape,RXA-782,RXA-782,Tension arm L assembly
+RT-701,Reel To Reel Tape,RXA-848,RXA-848,Brake drive arm assembly
+RT-701,Reel To Reel Tape,RXA-850,RXA-850,Shut off bracket assembly
+RT-701,Reel To Reel Tape,RXA-853,RXA-853,Brake band assembly
+RT-701,Reel To Reel Tape,RXA-871,RXA-871,Pinch roller assembly
+RT-701,Reel To Reel Tape,RXA-873,RXA-873,Pinch roller arm assembly
+RT-701,Reel To Reel Tape,RXA-874,RXA-874,Shifter roller arm assembly
+RT-701,Reel To Reel Tape,RXA-902,RXA-902,Shifter roller assembly
+RT-701,Reel To Reel Tape,RXM-032,RXM-032,Reel motor
+RT-701,Reel To Reel Tape,RXM-033,RXM-033,Capstan motor
+RT-701,Reel To Reel Tape,RXP-038,RXP-038,Solenoid (PINCH)
+RT-701,Reel To Reel Tape,RXP-040,RXP-040,Solenoid (BRAKE)
+RT-701,Reel To Reel Tape,RXP-041,RXP-041,Solenoid (PAUSE)
+RT-701,Reel To Reel Tape,RXP-042,RXP-042,Solenoid (RELEASE)
+RT-701,Reel To Reel Tape,RXX-199,RXX-199,Front panel assembly
+RT-701,Reel To Reel Tape,W06B,W06B,Diode
+RT-701,Reel To Reel Tape,W06B,W06B,Diode
+RT-707,Reel To Reel Tape,AKP-002,AKP-002,AC socket
+RT-707,Reel To Reel Tape,ART-232,ART-232,Service manual  RT-707
+RT-707,Reel To Reel Tape,ART-254-0,ART-254,Service manual. RT-707 additional
+RT-707,Reel To Reel Tape,BBH-352,BBH-352,Shut off spring
+RT-707,Reel To Reel Tape,BEB-219,BEB-219,Cushion rubber
+RT-707,Reel To Reel Tape,H46-853,H46-853,Vinyl bag
+RT-707,Reel To Reel Tape,P45-851,P45-851,Splicing tape
+RT-707,Reel To Reel Tape,PLA-676,PLA-676,Release arm stad
+RT-707,Reel To Reel Tape,PLA-677,PLA-677,Rod collar
+RT-707,Reel To Reel Tape,PR-85,PR-85,"PR-85 cannot be supplied 7"" Metal reel"
+RT-707,Reel To Reel Tape,RAA-164,RAA-164,"Knob A (MIC,LINE)"
+RT-707,Reel To Reel Tape,RAA-165,RAA-165,"Knob B (MIC,LINE)"
+RT-707,Reel To Reel Tape,RAA-166,RAA-166,Knob (PITCH CONTROL)
+RT-707,Reel To Reel Tape,RAC-052,RAC-052,Knob (REPEAT) assembly
+RT-707,Reel To Reel Tape,RAC-054,RAC-054,Knob (DIRECTION)
+RT-707,Reel To Reel Tape,RAC-055,RAC-055,Knob (FUNCTION SWITCH) assembly
+RT-707,Reel To Reel Tape,RAC-056,RAC-056,REC button assembly
+RT-707,Reel To Reel Tape,RAC-057,RAC-057,Knob (SWITCH) assembly
+RT-707,Reel To Reel Tape,RAH-170,RAH-170,Base cover R
+RT-707,Reel To Reel Tape,RAH-171,RAH-171,Base cover L
+RT-707,Reel To Reel Tape,RAH-176,RAH-176,Head panel B
+RT-707,Reel To Reel Tape,RAK-004,RAK-004,Plate
+RT-707,Reel To Reel Tape,RAW-055,RAW-055,Level meter R
+RT-707,Reel To Reel Tape,RAW-056,RAW-056,Level meter L
+RT-707,Reel To Reel Tape,RAW-057,RAW-057,Tape counter
+RT-707,Reel To Reel Tape,RBF-019,RBF-019,Insulator
+RT-707,Reel To Reel Tape,RBH-313,RBH-313,Brake spring
+RT-707,Reel To Reel Tape,RBH-320,RBH-320,Shut off lever
+RT-707,Reel To Reel Tape,RBH-322,RBH-322,Release lever
+RT-707,Reel To Reel Tape,RBH-323,RBH-323,Release arm spring
+RT-707,Reel To Reel Tape,RBH-325,RBH-325,Spring C
+RT-707,Reel To Reel Tape,RBH-326,RBH-326,T Spring B
+RT-707,Reel To Reel Tape,RBH-329,RBH-329,T spring A
+RT-707,Reel To Reel Tape,RBK-093,RBK-093,Adjuster spring
+RT-707,Reel To Reel Tape,RCN-023,RCN-023,Wire wound resistor D
+RT-707,Reel To Reel Tape,RCN-024,RCN-024,Wire wound resistor A
+RT-707,Reel To Reel Tape,RCS-011,RCS-011,Variable resistor 10k-B (PITCH CONTROL)
+RT-707,Reel To Reel Tape,RCS-013,RCS-013,Variable resistor (OUTPUT LEVEL CONTROL) 20k-B
+RT-707,Reel To Reel Tape,RCS-013,RCS-013,Variable resistor (OUTPUT LEVEL CONTROL) 20k-B
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (LINE)
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (LINE)
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (MIC)
+RT-707,Reel To Reel Tape,RCV-033,RCV-033,Variable resistor 10k-A (MIC)
+RT-707,Reel To Reel Tape,RDE-010,RDE-010,Connection cord
+RT-707,Reel To Reel Tape,RDG-013,RDG-013,Power cord (KU)
+RT-707,Reel To Reel Tape,REA-016,REA-016,Head cleaning assembly
+RT-707,Reel To Reel Tape,REA-019,REA-019,Sensing tape
+RT-707,Reel To Reel Tape,REB-103,REB-103,Tension arm damper
+RT-707,Reel To Reel Tape,REB-205,REB-205,Counter belt
+RT-707,Reel To Reel Tape,REB-210,REB-210,Reel pad
+RT-707,Reel To Reel Tape,REC-164,REC-164,Strain relief
+RT-707,Reel To Reel Tape,REC-234,REC-234,Rear panel escutcheon
+RT-707,Reel To Reel Tape,REC-252,REC-252,Switch holder
+RT-707,Reel To Reel Tape,REC-254,REC-254,lnsulator collar
+RT-707,Reel To Reel Tape,REC-256,REC-256,Stroke adjuster
+RT-707,Reel To Reel Tape,REC-260,REC-260,E head mount B
+RT-707,Reel To Reel Tape,REE-060,REE-060,Insulator
+RT-707,Reel To Reel Tape,REL-029,REL-029,Pilot lamp
+RT-707,Reel To Reel Tape,REL-042,REL-042,Pilot lamp  (with lead wire)
+RT-707,Reel To Reel Tape,RFB-039,RFB-039,Erase head (4T2C)
+RT-707,Reel To Reel Tape,RHA-13,RHA-13,Cushion R
+RT-707,Reel To Reel Tape,RHA-135,RHA-135,Cushion L
+RT-707,Reel To Reel Tape,RHC-064,RHC-064,Mount
+RT-707,Reel To Reel Tape,RHG-184,RHG-184,Packing case (KU)
+RT-707,Reel To Reel Tape,RHG-185,RHG-185,Packing case (KC)
+RT-707,Reel To Reel Tape,RKB-011,RKB-011,Terminal (4P)
+RT-707,Reel To Reel Tape,RKP-030,RKP-030,DIN connector
+RT-707,Reel To Reel Tape,RLA 667,RLA 667,Shut off arm pin
+RT-707,Reel To Reel Tape,RLA-647,RLA-647,Pinch arm shaft
+RT-707,Reel To Reel Tape,RLA-652,RLA-652,Spring retainer B
+RT-707,Reel To Reel Tape,RLA-655,RLA-655,Tape guide B
+RT-707,Reel To Reel Tape,RLA-657,RLA-657,Spring hook
+RT-707,Reel To Reel Tape,RLA-658,RLA-658,Pin
+RT-707,Reel To Reel Tape,RLA-659,RLA-659,Arm pin A
+RT-707,Reel To Reel Tape,RLA-668,RLA-668,Oil cap B
+RT-707,Reel To Reel Tape,RLA-669,RLA-669,Oil cap A
+RT-707,Reel To Reel Tape,RLA-740,RLA-740,Stopper boss
+RT-707,Reel To Reel Tape,RLA-741,RLA-741,Tape guide A
+RT-707,Reel To Reel Tape,RLP-004,RLP-004,Shifter roller
+RT-707,Reel To Reel Tape,RNA-296,RNA-296,Bonnet
+RT-707,Reel To Reel Tape,RNA-298,RNA-298,Shield case P
+RT-707,Reel To Reel Tape,RNF-067,RNF-067,Head mount A
+RT-707,Reel To Reel Tape,RNF-068,RNF-068,Head mount B
+RT-707,Reel To Reel Tape,RNF-069,RNF-069,R Head Mount
+RT-707,Reel To Reel Tape,RNF-074,RNF-074,Brake adjustment plate
+RT-707,Reel To Reel Tape,RNF-077,RNF-077,E head spacer A
+RT-707,Reel To Reel Tape,RNF-078,RNF-078,E head spacer B
+RT-707,Reel To Reel Tape,RNF-079,RNF-079,Mount plate
+RT-707,Reel To Reel Tape,RNF-085,RNF-085,Shield case spacer
+RT-707,Reel To Reel Tape,RNF-094,RNF-094,Head spacer
+RT-707,Reel To Reel Tape,RNF-104,RNF-104,Pause adjuster
+RT-707,Reel To Reel Tape,RNF-146,RNF-146,Tension-R
+RT-707,Reel To Reel Tape,RNF-147,RNF-147,Tension holder L
+RT-707,Reel To Reel Tape,RNF-165,RNF-165,Boss collar
+RT-707,Reel To Reel Tape,RNG-112,RNG-112,Reel base
+RT-707,Reel To Reel Tape,RNK-296,RNK-296,Brake guide
+RT-707,Reel To Reel Tape,RNK-297,RNK-297,Spring retainer A
+RT-707,Reel To Reel Tape,RNK-303,RNK-303,Brake drum
+RT-707,Reel To Reel Tape,RPB-039 or RPB-047,RPB-039 or RPB-047,Erase head (4T2C)
+RT-707,Reel To Reel Tape,RPB-040,RPB-040,Recording head (4T2C)
+RT-707,Reel To Reel Tape,RPB-041,RPB-041,Playback head (4T2C)
+RT-707,Reel To Reel Tape,RRB-078,RRB-078,Operating instructions  RT-707
+RT-707,Reel To Reel Tape,RRF-040,RRF-040,Reel pad instructions
+RT-707,Reel To Reel Tape,RSF-007,RSF-007,Micro switch (SHUT-OFF)
+RT-707,Reel To Reel Tape,RSG-048,RSG-048,SWITCH(PAUSE/REPEAT)
+RT-707,Reel To Reel Tape,RSG-050,RSG-050,SWITCH ASSY(FF/REW/PLAY/REC)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (EQ)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (POWER)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (RECORD LEFT)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (RECORD RIGHT)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch (SPEED)
+RT-707,Reel To Reel Tape,RSG-051,RSG-051,Push switch(BIAS)
+RT-707,Reel To Reel Tape,RSR-025,RSR-025,RELAY SWITCH
+RT-707,Reel To Reel Tape,RTT-115,RTT-115,Power transformer (KCU)
+RT-707,Reel To Reel Tape,RTT-116,RTT-116,Power transformer (KCU - Improved)
+RT-707,Reel To Reel Tape,RTT-118,RTT-118,Power transformer (D model)
+RT-707,Reel To Reel Tape,RTT-123,RTT-123,Power transformer (HG model)
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,Mic amplifier assembly
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,"MlC amplifier assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,MlC amplifier assembly (HG)
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,MlC amplifier assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWF-065,RWF-065,MlC amplifier assembly (KCU)
+RT-707,Reel To Reel Tape,RWF-069,RWF-069,Playback amplifier assembly (KCU)
+RT-707,Reel To Reel Tape,RWF-078,RWF-078,"Playback amplifier assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWF-080,RWF-080,Playback amplifier assembly (HG)
+RT-707,Reel To Reel Tape,RWF-080,RWF-080,Playback amplifier assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWG-069,RWG-069,"Servo amplifier assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWG-069,RWG-069,Servo amplifier assembly (HG)
+RT-707,Reel To Reel Tape,RWG-070,RWG-070,"Control assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWG-070,RWG-070,Control assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWG-070,RWG-070,Control assembly (KCU)
+RT-707,Reel To Reel Tape,RWG-076,RWG-076,Servo amplifier assembly (Improved Mode - KCU)
+RT-707,Reel To Reel Tape,RWG-076,RWG-076,Servo amplifier assembly (KCU)
+RT-707,Reel To Reel Tape,RWG-082,RWG-082,Control assembly (HG)
+RT-707,Reel To Reel Tape,RWR-050,RWR-050,"Power and oscillation assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWR-053,RWR-053,Power and oscillation assembly (KCU)
+RT-707,Reel To Reel Tape,RWR-056,RWR-056,Power and oscillation assembly (HG)
+RT-707,Reel To Reel Tape,RWR-058,RWR-058,Power and oscillation assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWS-052,RWS-052,"Function switch assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWS-052,RWS-052,Function switch assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWS-052,RWS-052,Function switch assembly (KCU)
+RT-707,Reel To Reel Tape,RWS-053,RWS-053,"Switch assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWS-058,RWS-058,Switch assembly (Improved Model - KU)
+RT-707,Reel To Reel Tape,RWS-058,RWS-058,Switch assembly (KU)
+RT-707,Reel To Reel Tape,RWS-059,RWS-059,Switch assembly (Improved Model - KC)
+RT-707,Reel To Reel Tape,RWS-059,RWS-059,Switch assembly (KC)
+RT-707,Reel To Reel Tape,RWS-065,RWS-065,Switch assembly (HG)
+RT-707,Reel To Reel Tape,RWS-066,RWS-066,Function switch assembly (HG)
+RT-707,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-707,Reel To Reel Tape,RWX-030,RWX-030,Spark killer
+RT-707,Reel To Reel Tape,RWX-141,RWX-141,Fuse assembly (KCU)
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,"lndicator assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,lndicator assembly (HG)
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,lndicator assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWX-142,RWX-142,lndicator assembly (KCU)
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,"Connector assembly L (D,D/G)"
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,Connector assembly L (HG)
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,Connector assembly L (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWX-151,RWX-151,Connector assembly L (KCU)
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,"Connector assembly R (D,D/G)"
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,Connector assembly R (HG)
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,Connector assembly R (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWX-152,RWX-152,Connector assembly R (KCU)
+RT-707,Reel To Reel Tape,RWX-154,RWX-154,Equalizer amplifier assembly
+RT-707,Reel To Reel Tape,RWX-155,RWX-155,Meter amplifier assembly
+RT-707,Reel To Reel Tape,RWX-170,RWX-170,Fuse assembly (Improved Model - KCU)
+RT-707,Reel To Reel Tape,RWX-174,RWX-174,"Terminal assembly (D,D/G)"
+RT-707,Reel To Reel Tape,RWX-185,RWX-185,Fuse assembly (HG)
+RT-707,Reel To Reel Tape,RWX-I52,RWX-I52,Connector assembly R
+RT-707,Reel To Reel Tape,RXA-601,RXA-601,Shield assembly
+RT-707,Reel To Reel Tape,RXA-758,RXA-758,Jack assembly
+RT-707,Reel To Reel Tape,RXA-759,RXA-759,Pinch roller assembly
+RT-707,Reel To Reel Tape,RXA-760,RXA-760,Shifter roller assembly
+RT-707,Reel To Reel Tape,RXA-761,RXA-761,Pinch roller arm assembly
+RT-707,Reel To Reel Tape,RXA-762,RXA-762,Shifter roller arm assembly
+RT-707,Reel To Reel Tape,RXA-766,RXA-766,Brake arm L assembly
+RT-707,Reel To Reel Tape,RXA-767,RXA-767,Brake arm R assembly
+RT-707,Reel To Reel Tape,RXA-769,RXA-769,Brake arm assembly
+RT-707,Reel To Reel Tape,RXA-772,RXA-772,Brake band assembIy
+RT-707,Reel To Reel Tape,RXA-773,RXA-773,Release arm assembly
+RT-707,Reel To Reel Tape,RXA-774,RXA-774,Solenoid bar assembly
+RT-707,Reel To Reel Tape,RXA-780,RXA-780,Sensing guide assembly
+RT-707,Reel To Reel Tape,RXA-781,RXA-781,Tension arm R assembly
+RT-707,Reel To Reel Tape,RXA-782,RXA-782,Tension arm L assembly
+RT-707,Reel To Reel Tape,RXA-832,RXA-832,Shut off arm assembly
+RT-707,Reel To Reel Tape,RXM-032,RXM-032,Reel motor
+RT-707,Reel To Reel Tape,RXM-033,RXM-033,Capstan motor
+RT-707,Reel To Reel Tape,RXM-034,RXM-034,Reel motor (L)
+RT-707,Reel To Reel Tape,RXM-035,RXM-035,Capstan motor
+RT-707,Reel To Reel Tape,RXP-038,RXP-038,Solenoid (PlNCH)
+RT-707,Reel To Reel Tape,RXP-040,RXP-040,Solenoid (BRAKE)
+RT-707,Reel To Reel Tape,RXP-041,RXP-041,Solenoid (PAUSE)
+RT-707,Reel To Reel Tape,RXX-207,RXX-207,Front panel assembly
+RT-707,Reel To Reel Tape,RXX-227,RXX-227,PINCH ROLLER ASSY(TAKE-UP)
+RT-707,Reel To Reel Tape,W06B,W06B,Diode
+RT-707,Reel To Reel Tape,W06B,W06B,Diode
+RT-909,Reel To Reel Tape,ABA-010,ABA-010,Flange screw M4x5
+RT-909,Reel To Reel Tape,B22-424,B22-424,Washer 5o
+RT-909,Reel To Reel Tape,C43-003,C43-003,Capacitor 0.01 (D/G)
+RT-909,Reel To Reel Tape,EDG-022,EDG-022,Power cord
+RT-909,Reel To Reel Tape,FlP5D8,FlP5D8,Flourescent indicactor tube
+RT-909,Reel To Reel Tape,H46-853,H46-853,Vinyl bag B
+RT-909,Reel To Reel Tape,HXX-268,HXX-268,Front panel assembly
+RT-909,Reel To Reel Tape,N23-608,N23-608,Nylon ball
+RT-909,Reel To Reel Tape,P45-851,P45-851,Splicing tape
+RT-909,Reel To Reel Tape,RAC-113,RAC-113,Meter knob assembly
+RT-909,Reel To Reel Tape,RAC-114,RAC-114,Counter knob assembly
+RT-909,Reel To Reel Tape,RAC-115,RAC-115,Switch knob assembly
+RT-909,Reel To Reel Tape,RAC-118,RAC-118,Function knob assembly
+RT-909,Reel To Reel Tape,RAC-119,RAC-119,REC knob assembly
+RT-909,Reel To Reel Tape,RAC-120,RAC-120,Knob A assembly
+RT-909,Reel To Reel Tape,RAC-121,RAC-121,Knob B assembly
+RT-909,Reel To Reel Tape,RAC-122,RAC-122,Knob (PITCH CONTROL)
+RT-909,Reel To Reel Tape,RAD-130,RAD-130,"Switch cap (MONITOR,BIAS,EQ,REC MODE ON/OFF)"
+RT-909,Reel To Reel Tape,RAD-130,RAD-130,Switch cap (POWER)
+RT-909,Reel To Reel Tape,RAH-293,RAH-293,Front panel
+RT-909,Reel To Reel Tape,RBH-583,RBH-583,Senter link return spring
+RT-909,Reel To Reel Tape,RBH-584,RBH-584,Pause lever spring
+RT-909,Reel To Reel Tape,RBH-585,RBH-585,Reel base sﬂrmg
+RT-909,Reel To Reel Tape,RBH-586,RBH-586,Reel base adjust spring
+RT-909,Reel To Reel Tape,RBH-591,RBH-591,Brake spring
+RT-909,Reel To Reel Tape,RBH-622,RBH-622,Knob return spring
+RT-909,Reel To Reel Tape,RBH-645,RBH-645,Pressure spring
+RT-909,Reel To Reel Tape,RBK-137,RBK-137,Head adjust spring
+RT-909,Reel To Reel Tape,RBK-139,RBK-139,Thrust spring
+RT-909,Reel To Reel Tape,RCS-022,RCS-022,Pitch control volume
+RT-909,Reel To Reel Tape,RCV-075,RCV-075,Variable resistor (LINE)
+RT-909,Reel To Reel Tape,RCV-076,RCV-076,Variable resistor (OUTPUT)
+RT-909,Reel To Reel Tape,RCV-079,RCV-079,Variable resistor (MIC)
+RT-909,Reel To Reel Tape,RDE-010,RDE-010,Connection code
+RT-909,Reel To Reel Tape,RDG-022,RDG-022,Power code (KU)
+RT-909,Reel To Reel Tape,RDG-024,RDG-024,Power code (D/G)
+RT-909,Reel To Reel Tape,REA-019,REA-019,Sensing foil assembly
+RT-909,Reel To Reel Tape,REA-021,REA-021,Head cleaning assembly
+RT-909,Reel To Reel Tape,REB-052,REB-052,Oil thrower washer A
+RT-909,Reel To Reel Tape,REB-220,REB-220,Cover cushion A
+RT-909,Reel To Reel Tape,REB-221,REB-221,Cover cushion B
+RT-909,Reel To Reel Tape,REB-349,REB-349,Heel sheet
+RT-909,Reel To Reel Tape,REB-361,REB-361,Belt
+RT-909,Reel To Reel Tape,REB-374,REB-374,Arm cushion
+RT-909,Reel To Reel Tape,REC-150,REC-150,Capacitor sleeve A (D/G)
+RT-909,Reel To Reel Tape,REC-272,REC-272,Strain relief
+RT-909,Reel To Reel Tape,REC-278,REC-278,Switch spacer
+RT-909,Reel To Reel Tape,REC-305,REC-305,Pinch roller can
+RT-909,Reel To Reel Tape,REC-315,REC-315,Insulator collar
+RT-909,Reel To Reel Tape,REC-319,REC-319,Foot R
+RT-909,Reel To Reel Tape,REC-320,REC-320,Foot L
+RT-909,Reel To Reel Tape,RED-166,RED-166,Stopper felt
+RT-909,Reel To Reel Tape,RED-167,RED-167,Fool felt
+RT-909,Reel To Reel Tape,REK-044,REK-044,Fuse 4A
+RT-909,Reel To Reel Tape,REK-048,REK-048,Fuse 0.5A
+RT-909,Reel To Reel Tape,REK-048,REK-048,Fuse 0.5A
+RT-909,Reel To Reel Tape,REK-051,REK-051,Fuse 1A
+RT-909,Reel To Reel Tape,REK-055,REK-055,Fuse 2A
+RT-909,Reel To Reel Tape,REK-066,REK-066,Fuse 4A
+RT-909,Reel To Reel Tape,RHA-188,RHA-188,Cushion L
+RT-909,Reel To Reel Tape,RHA-189,RHA-189,Cushion R
+RT-909,Reel To Reel Tape,RHB-107,RHB-107,Operating instructions
+RT-909,Reel To Reel Tape,RHC-094,RHC-094,Accessory mount
+RT-909,Reel To Reel Tape,RHC-095,RHC-095,Accessory box
+RT-909,Reel To Reel Tape,RHG-313,RHG-313,Packing case (KU)
+RT-909,Reel To Reel Tape,RHG-318,RHG-318,Packing case (D/G)
+RT-909,Reel To Reel Tape,RHL-018,RHL-018,Vinyl bag
+RT-909,Reel To Reel Tape,RHL-025,RHL-025,Vinyl bag
+RT-909,Reel To Reel Tape,RHL-055,RHL-055,Vinyl bag
+RT-909,Reel To Reel Tape,RHL-056,RHL-056,Vinyl bag
+RT-909,Reel To Reel Tape,RKB-014,RKB-014,"Terminal (OUTPUT, lNPUT)"
+RT-909,Reel To Reel Tape,RKN-056,RKN-056,Headphones jack
+RT-909,Reel To Reel Tape,RKN-058,RKN-058,Mic jack
+RT-909,Reel To Reel Tape,RKP-121,RKP-121,Connector assembly (5p)
+RT-909,Reel To Reel Tape,RKP-126,RKP-126,Connector assembly (4p)
+RT-909,Reel To Reel Tape,RKP-128,RKP-128,Connector assembly (9p)
+RT-909,Reel To Reel Tape,RKP-130,RKP-130,Connector assembly (19p)
+RT-909,Reel To Reel Tape,RKR-020,RKR-020,Line voltage selector - Switchable 3-positions (D/G)
+RT-909,Reel To Reel Tape,RLB-105,RLB-105,Finch roller collar
+RT-909,Reel To Reel Tape,RLB-108,RLB-108,Shalt
+RT-909,Reel To Reel Tape,RLB-111,RLB-111,Tape guide
+RT-909,Reel To Reel Tape,RLB-112,RLB-112,Tape guide R
+RT-909,Reel To Reel Tape,RLB-116,RLB-116,Reel base shaft
+RT-909,Reel To Reel Tape,RLB-129,RLB-129,Sliding key
+RT-909,Reel To Reel Tape,RNA-424,RNA-424,Bonnet
+RT-909,Reel To Reel Tape,RNA-428,RNA-428,Blank panel
+RT-909,Reel To Reel Tape,RNE-605,RNE-605,UL cord clamper D
+RT-909,Reel To Reel Tape,RNG-209,RNG-209,Reel base
+RT-909,Reel To Reel Tape,RNG-227,RNG-227,Heel base blade
+RT-909,Reel To Reel Tape,RNG-230,RNG-230,Head base
+RT-909,Reel To Reel Tape,RNG-230,RNG-230,Head base
+RT-909,Reel To Reel Tape,RNK-811,RNK-811,Power switch joint
+RT-909,Reel To Reel Tape,RNK-812,RNK-812,Switch joint
+RT-909,Reel To Reel Tape,RNK-827,RNK-827,Sensor slit
+RT-909,Reel To Reel Tape,RNK-829,RNK-829,Counter lens
+RT-909,Reel To Reel Tape,RNK-831,RNK-831,Meter lens
+RT-909,Reel To Reel Tape,RNK-832,RNK-832,Handle L
+RT-909,Reel To Reel Tape,RNK-833,RNK-833,Brake drum
+RT-909,Reel To Reel Tape,RNK-834,RNK-834,Handle R
+RT-909,Reel To Reel Tape,RNK-835,RNK-835,Head housing A
+RT-909,Reel To Reel Tape,RNK-842,RNK-842,Head housing B
+RT-909,Reel To Reel Tape,RPB-047,RPB-047,Erase head (4T 2C EH)
+RT-909,Reel To Reel Tape,RPB-064,RPB-064,REC head (4T 2C RH)
+RT-909,Reel To Reel Tape,RPB-065,RPB-065,P.B head (4T 2C PBH)
+RT-909,Reel To Reel Tape,RRW-112,RRW-112,UL caution label A
+RT-909,Reel To Reel Tape,RSA-020,RSA-020,Power switch (D/G)
+RT-909,Reel To Reel Tape,RSA-021,RSA-021,"Power switch (KC, KU)"
+RT-909,Reel To Reel Tape,RSF-022,RSF-022,Micro switch
+RT-909,Reel To Reel Tape,RSG-063,RSG-063,Function switch (RESET)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (BIAS)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (EQ)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (MONITOR)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (REC MODE - L)
+RT-909,Reel To Reel Tape,RSG-086,RSG-086,Mode switch (REC MODE - R)
+RT-909,Reel To Reel Tape,RSG-087,RSG-087,Meter switch (AVG/PEAK)
+RT-909,Reel To Reel Tape,RSG-087,RSG-087,Meter switch (DIMMER)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (FF)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (FWD)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (PAUSE)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (REC)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (REV)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (REW)
+RT-909,Reel To Reel Tape,RSG-088,RSG-088,Push switch (STOP)
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,AUTO REPEAT
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,REEL
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,TAPE SPEED
+RT-909,Reel To Reel Tape,RSG-089,RSG-089,TIMER START
+RT-909,Reel To Reel Tape,RSR-024,RSR-024,Relay
+RT-909,Reel To Reel Tape,RTT-178,RTT-178,Power transformer (KU)
+RT-909,Reel To Reel Tape,RTT-199,RTT-199,Power transformer (D/G)
+RT-909,Reel To Reel Tape,RWF-088,RWF-088,Preamplifier assembly
+RT-909,Reel To Reel Tape,RWG-105,RWG-105,Control B assembly
+RT-909,Reel To Reel Tape,RWS-078,RWS-078,Function switch assembly
+RT-909,Reel To Reel Tape,RWS-079,RWS-079,Switch assembly
+RT-909,Reel To Reel Tape,RWX-109,RWX-109,Spark klller (UL)
+RT-909,Reel To Reel Tape,RWX-336,RWX-336,Counter assembly
+RT-909,Reel To Reel Tape,RWX-339,RWX-339,Driver assembly
+RT-909,Reel To Reel Tape,RWX-340,RWX-340,Mother assembly
+RT-909,Reel To Reel Tape,RXB-174,RXB-174,Bearing assembly
+RT-909,Reel To Reel Tape,RXB-194,RXB-194,Pinch roller assembly
+RT-909,Reel To Reel Tape,RXB-195,RXB-195,Pinch arm L assembly
+RT-909,Reel To Reel Tape,RXB-196,RXB-196,Pinch arm R assembly
+RT-909,Reel To Reel Tape,RXB-200,RXB-200,Sensing guide assembly
+RT-909,Reel To Reel Tape,RXB-204,RXB-204,Brake band assembly
+RT-909,Reel To Reel Tape,RXB-239,RXB-239,Pulley assembly
+RT-909,Reel To Reel Tape,RXB-283,RXB-283,Capstan assembly
+RT-909,Reel To Reel Tape,RXM-060,RXM-060,Reel motor
+RT-909,Reel To Reel Tape,RXP-070,RXP-070,Pause solenoid
+RT-909,Reel To Reel Tape,RXP-071,RXP-071,Pinch solenoid
+RT-909,Reel To Reel Tape,RXP-075,RXP-075,Brake solenoid
+RT-909,Reel To Reel Tape,RXX-265,RXX-265,Tension roller assembly L
+RT-909,Reel To Reel Tape,RXX-266,RXX-266,Tension roller assembly R
+RT-909,Reel To Reel Tape,RXX-267,RXX-267,Control A assembly
+RT-909,Reel To Reel Tape,RXX-268,RXX-268,Front panel assembly
+SA-1000,Integrated Amplifier,A12-232-A,A12-232,Middle knob
+SA-1000,Integrated Amplifier,A12-240-0,A12-240,Knob for Imp. switch
+SA-1000,Integrated Amplifier,A12-299-A,A12-299,Large knob
+SA-1000,Integrated Amplifier,A19-096-0,A19-096,Lever switch knob
+SA-1000,Integrated Amplifier,ABE-001-O,ABE-001,Tooth washer
+SA-1000,Integrated Amplifier,ACH-001-B,ACH-001,Electrolytic 1000 63V
+SA-1000,Integrated Amplifier,AEC-012-0,AEC-012,Foot
+SA-1000,Integrated Amplifier,AEK-004-O,AEK-004,Fuse 1A (KUW model)
+SA-1000,Integrated Amplifier,AHD-011-O,AHD-011,Packing case (FVW model)
+SA-1000,Integrated Amplifier,AHD-012-O,AHD-012,Packing case (KUW model)
+SA-1000,Integrated Amplifier,AKP-002-O,AKP-002,AC outlet (KUW model)
+SA-1000,Integrated Amplifier,AKR-001-O,AKR-001,Fuse holder (FVW model)
+SA-1000,Integrated Amplifier,ANB-053-0,ANB-053,Front panel Ass'y
+SA-1000,Integrated Amplifier,ARB-002-A,ARB-002,Operating instructions (KUW model)
+SA-1000,Integrated Amplifier,ARB-003-A,ARB-003,Operating instructions (FVW model)
+SA-1000,Integrated Amplifier,ASA-001-A,ASA-001,Speaker selector with AC switch (KUW model)
+SA-1000,Integrated Amplifier,ASC-009-0,ASC-009,Mode switch
+SA-1000,Integrated Amplifier,ASK-001-0,ASK-001,Lever switch (TAPE MONITOR)
+SA-1000,Integrated Amplifier,AST-001-0,AST-001,Thermo switch (KUW model)
+SA-1000,Integrated Amplifier,ATT-011-A,ATT-011,Power transformer (FVW model)
+SA-1000,Integrated Amplifier,B11-012-A,B11-012,Screw for ground
+SA-1000,Integrated Amplifier,B11-015-B,B11-015,Screw
+SA-1000,Integrated Amplifier,B21-011-O,B21-011,Tooth washer
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electroiytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-1000,Integrated Amplifier,C52-088-B,C52-088,Electrolytic 4700 50V
+SA-1000,Integrated Amplifier,C85-048-B,C85-048,Dual-potentiometer 500k (HB BALANCE)
+SA-1000,Integrated Amplifier,C85-054-0,C85-054,Dual-potentiometer 500k (B1 VOLUME)
+SA-1000,Integrated Amplifier,D11-002-B,D11-002,AC cord (FVW model)
+SA-1000,Integrated Amplifier,D11-003-E,D11-003,AC cord (KUW model)
+SA-1000,Integrated Amplifier,D51-003-B,D51-003,Connection cord (White)
+SA-1000,Integrated Amplifier,D51-004-B,D51-004,Connection cord (Red)
+SA-1000,Integrated Amplifier,E21-006-O,E21-006,3A fuse (FVW model)
+SA-1000,Integrated Amplifier,E21-012-O,E21-012,1.5A fuse (FVW model)
+SA-1000,Integrated Amplifier,E21-020-O,E21-020,Fuse 1A (FVW model)
+SA-1000,Integrated Amplifier,E21-021-O,E21-021,3A fuse (KUW model)
+SA-1000,Integrated Amplifier,E22-020-O,E22-020,Swan type pilot lamp
+SA-1000,Integrated Amplifier,H11-070-B,H11-070,Styrol
+SA-1000,Integrated Amplifier,H11-078-O,H11-078,Cardboard cushion
+SA-1000,Integrated Amplifier,K21-005-C,K21-005,1P input Jack
+SA-1000,Integrated Amplifier,K21-010E,K21-010E,4P input jack
+SA-1000,Integrated Amplifier,K22-013-0,K22-013,6P input jack
+SA-1000,Integrated Amplifier,K24-002-A,K24-002,3P socket
+SA-1000,Integrated Amplifier,K42-003-A,K42-003,Pilot lamp socket
+SA-1000,Integrated Amplifier,K42-003-A,K42-003,Swan type pilot lamp socket
+SA-1000,Integrated Amplifier,K72-007-B,K72-007,Speaker plug
+SA-1000,Integrated Amplifier,K72-015-A,K72-015,Fin plug
+SA-1000,Integrated Amplifier,K72-024-O,K72-024,Microphone jack
+SA-1000,Integrated Amplifier,K72-026-O,K72-026,Headphone jack
+SA-1000,Integrated Amplifier,K72-031-O,K72-031,Dual speaker socket
+SA-1000,Integrated Amplifier,K82-012-O,K82-012,AC outlet (FVW model)
+SA-1000,Integrated Amplifier,K82-014-O,K82-014,Dual AC outlet (FVW model)
+SA-1000,Integrated Amplifier,K93-003-B,K93-003,5P connecter socket
+SA-1000,Integrated Amplifier,K96-007-B,K96-007,Fuse holder (KUW model)
+SA-1000,Integrated Amplifier,M52-139-C,M52-139,Wooden case
+SA-1000,Integrated Amplifier,S11-022-A,S11-022,Speaker selector with AC switch (FVW model)
+SA-1000,Integrated Amplifier,S13-045-0,S13-045,Input selector switch
+SA-1000,Integrated Amplifier,S14-038-0,S14-038,Selector switch (PHONO IMP SELECTOR)
+SA-1000,Integrated Amplifier,S15-034-A,S15-034,Tone switch (TREBLE)
+SA-1000,Integrated Amplifier,S15-034-A,S15-034,Tone switch (TREBLE)
+SA-1000,Integrated Amplifier,S15-037-0,S15-037,Tone switch (BASS)
+SA-1000,Integrated Amplifier,S15-037-0,S15-037,Tone switch (BASS)
+SA-1000,Integrated Amplifier,S41-025-0,S41-025,Slide switch (PRE/MAIN)
+SA-1000,Integrated Amplifier,S42-004-A,S42-004,Lever switch (HIGH FILTER)
+SA-1000,Integrated Amplifier,S42-005-B,S42-005,Lever switch (LOW FILTER)
+SA-1000,Integrated Amplifier,S42-013-A,S42-013,Lever switch (PHONO 2 SELECTOR)
+SA-1000,Integrated Amplifier,S42-014-0,S42-014,Lever switch (LOUDNESS)
+SA-1000,Integrated Amplifier,S42-014-0,S42-014,Lever switch (MUTING)
+SA-1000,Integrated Amplifier,S42-015-0,S42-015,Lever switch (DUPLICATE)
+SA-1000,Integrated Amplifier,S61-006-0,S61-006,Relay
+SA-1000,Integrated Amplifier,T52-211-C,T52-211,Power transformer (KUW model)
+SA-1000,Integrated Amplifier,W15-050-C,W15-050,Control amplifier unit
+SA-1000,Integrated Amplifier,W16-035-A,W16-035,Power supply unit
+SA-1000,Integrated Amplifier,W21-007-0,W21-007,Head amplifier unit
+SA-1000,Integrated Amplifier,W23-008-0,W23-008,Main amplifier unit
+SA-1000,Integrated Amplifier,W28-004-0,W28-004,Filter unit
+SA-1000,Integrated Amplifier,W28-008-A,W28-008,Protector unit
+SA-1000,Integrated Amplifier,W52-004-0,W52-004,Compound part for REC
+SA-1040,Integrated Amplifier,AAB-324,AAB-324,Rotary knob A
+SA-1040,Integrated Amplifier,AAB-325,AAB-325,Rotary knob B
+SA-1040,Integrated Amplifier,AAD-645,AAD-645,Push knob ass‘y C
+SA-1040,Integrated Amplifier,AAD-677,AAD-677,Push knob ass'y A
+SA-1040,Integrated Amplifier,AAD-693,AAD-693,Push knob ass'y B
+SA-1040,Integrated Amplifier,AAV-311,AAV-311,LED level display
+SA-1040,Integrated Amplifier,ABN-074,ABN-074,Guide nut A
+SA-1040,Integrated Amplifier,ABN-075,ABN-075,Guide nut B
+SA-1040,Integrated Amplifier,ACE-214,ACE-214,Capacitor (0.22/AC125V) - KU
+SA-1040,Integrated Amplifier,ACE-215,ACE-215,Capacitor (0.22) - S
+SA-1040,Integrated Amplifier,ACE-215,ACE-215,Capacitor (0.22) - S/G
+SA-1040,Integrated Amplifier,ACE-215,ACE-215,Capacitor (0.22) - YP
+SA-1040,Integrated Amplifier,ACG-001,ACG-001,Capacitor (0.01) - S
+SA-1040,Integrated Amplifier,ACG-001,ACG-001,Capacitor (0.01) - YP
+SA-1040,Integrated Amplifier,ACG-501,ACG-501,Capacitor (0.01) - KU
+SA-1040,Integrated Amplifier,ACG-502,ACG-502,Capacitor (0.01) - S/G
+SA-1040,Integrated Amplifier,ACG-502,ACG-502,Capacitor (0.01/AC125V) - KU
+SA-1040,Integrated Amplifier,ACH-259,ACH-259,Electrolytic capacitor(8200/56V)
+SA-1040,Integrated Amplifier,ACH-260,ACH-260,"Electrolytic capacitor (10,000/80V)"
+SA-1040,Integrated Amplifier,ACT-168,ACT-168,Variable resistor 100k (TREBLE)
+SA-1040,Integrated Amplifier,ACT-169,ACT-169,Variable resistor 100k (BASS)
+SA-1040,Integrated Amplifier,ACT-170,ACT-170,Variable resistor 100k (BALANCE)
+SA-1040,Integrated Amplifier,ACT-171,ACT-171,Variable resistor 100k (VOLUME)
+SA-1040,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S
+SA-1040,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S/G
+SA-1040,Integrated Amplifier,ADG-064,ADG-064,AC power cord - YP
+SA-1040,Integrated Amplifier,ADG-073,ADG-073,AC power cord - KU
+SA-1040,Integrated Amplifier,AEC-471,AEC-471,Nylon rivet
+SA-1040,Integrated Amplifier,AEC-510,AEC-510,Nylon rivet
+SA-1040,Integrated Amplifier,AEC-847,AEC-847,Leg ass‘y
+SA-1040,Integrated Amplifier,AEC-982,AEC-982,Volume escutcheon
+SA-1040,Integrated Amplifier,AEK-042,AEK-042,Fuse (T3.15A) - YP
+SA-1040,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S
+SA-1040,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S
+SA-1040,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S/G
+SA-1040,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S/G
+SA-1040,Integrated Amplifier,AEK-309,AEK-309,Fuse (6.3A) - KU
+SA-1040,Integrated Amplifier,AEL-369,AEL-369,LED indicator (ADAPTER/TAPE2)
+SA-1040,Integrated Amplifier,AEL-370,AEL-370,LED (FUNCTION)
+SA-1040,Integrated Amplifier,AHE-214,AHE-214,Packing case - KU
+SA-1040,Integrated Amplifier,AHE-227,AHE-227,Packing case - S
+SA-1040,Integrated Amplifier,AHE-227,AHE-227,Packing case - S/G
+SA-1040,Integrated Amplifier,AHE-227,AHE-227,Packing case - YP
+SA-1040,Integrated Amplifier,AHE-340,AHE-340,Front rear pad
+SA-1040,Integrated Amplifier,AKB-093,AKB-093,Terminal (PHONES)
+SA-1040,Integrated Amplifier,AKB-094,AKB-094,Terminal (ADAPTOR/TAPE2)
+SA-1040,Integrated Amplifier,AKB-094,AKB-094,Terminal (TAPE1)
+SA-1040,Integrated Amplifier,AKB-095,AKB-095,Terminal (INPUT)
+SA-1040,Integrated Amplifier,AKB-098,AKB-098,Terminal (PHONO L - WHITE)
+SA-1040,Integrated Amplifier,AKB-099,AKB-099,Terminal (PHONO R - RED)
+SA-1040,Integrated Amplifier,AKE-105,AKE-105,Terminal (SPEAKERS)
+SA-1040,Integrated Amplifier,AKN-045,AKN-045,Phone jack (PHONES)
+SA-1040,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - KU
+SA-1040,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S
+SA-1040,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S/G
+SA-1040,Integrated Amplifier,ANE-420,ANE-420,Bonnet case
+SA-1040,Integrated Amplifier,ANM-394,ANM-394,Front panel ass'y
+SA-1040,Integrated Amplifier,ARB-543,ARB-543,Operating instructions  SA-1040 (English) - KU
+SA-1040,Integrated Amplifier,ARB-543,ARB-543,Operating instructions  SA-1040 (English) - S
+SA-1040,Integrated Amplifier,ARB-543,ARB-543,Operating instructions  SA-1040 (English) - S/G
+SA-1040,Integrated Amplifier,ARC-049,ARC-049,Operating instructions  SA-1040 (Spanish) - S
+SA-1040,Integrated Amplifier,ARP-296-0,ARP-296,Service manual  SA-1040 (KU)
+SA-1040,Integrated Amplifier,ASG-545,ASG-545,Push switch (POWER)
+SA-1040,Integrated Amplifier,ASG-812,ASG-812,Push switch (FUNCTION)
+SA-1040,Integrated Amplifier,ASR-107,ASR-107,Relay
+SA-1040,Integrated Amplifier,ATS-013,ATS-013,Power transformer (120V) - KU
+SA-1040,Integrated Amplifier,ATS-027,ATS-027,Power transformer (240V) - YP
+SA-1040,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S"
+SA-1040,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S/G"
+SA-1040,Integrated Amplifier,AWF-059,AWF-059,Equalizer amp ass'y
+SA-1040,Integrated Amplifier,AWG-090,AWG-090,Control ass’y
+SA-1040,Integrated Amplifier,GWK-228,GWK-228,AF ass'y
+SA-1040,Integrated Amplifier,SEA8V2B1B4S,SEA8V2B1B4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2, SUBSONIC)"
+SA-1040,Integrated Amplifier,SEAV4S,SEAV4S,"Push selector switch (CD/AUX1,2)"
+SA-1040,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+SA-1050,Integrated Amplifier,AAB-324,AAB-324,Rotary knob A
+SA-1050,Integrated Amplifier,AAB-325,AAB-325,Rotary knob B
+SA-1050,Integrated Amplifier,AAD-634,AAD-634,"Push knob A (POWER, FUNCTION)"
+SA-1050,Integrated Amplifier,AAD-635,AAD-635,Push knob B (SPEAKERS)
+SA-1050,Integrated Amplifier,AAD-636,AAD-636,"Push knob C (LOUDNESS, SUBSONIC, ADAPTER/TAPE2)"
+SA-1050,Integrated Amplifier,AAD-637,AAD-637,Push knob D (CD/VIDEO)
+SA-1050,Integrated Amplifier,AAV-311,AAV-311,LED level display
+SA-1050,Integrated Amplifier,ABN-074,ABN-074,Guide nut A
+SA-1050,Integrated Amplifier,ABN-075,ABN-075,Guide nut B
+SA-1050,Integrated Amplifier,ACE-214,ACE-214,Capacitor (0.22/AC125V) - KU
+SA-1050,Integrated Amplifier,ACE-215,ACE-215,Capacitor (0.22) - S
+SA-1050,Integrated Amplifier,ACE-215,ACE-215,Capacitor (0.22) - S/G
+SA-1050,Integrated Amplifier,ACE-215,ACE-215,Capacitor (0.22) - YP
+SA-1050,Integrated Amplifier,ACG-001,ACG-001,Capacitor (0.01) - S
+SA-1050,Integrated Amplifier,ACG-001,ACG-001,Capacitor (0.01) - YP
+SA-1050,Integrated Amplifier,ACG-501,ACG-501,Capacitor (0.01) - KU
+SA-1050,Integrated Amplifier,ACG-502,ACG-502,Capacitor (0.01) - S/G
+SA-1050,Integrated Amplifier,ACG-502,ACG-502,Capacitor (0.01/AC125V) - KU
+SA-1050,Integrated Amplifier,ACH-259,ACH-259,Electrolytic capacitor(8200/56V)
+SA-1050,Integrated Amplifier,ACH-260,ACH-260,"Electrolytic capacitor (10,000/80V)"
+SA-1050,Integrated Amplifier,ACT-168,ACT-168,Variable resistor 100k (TREBLE)
+SA-1050,Integrated Amplifier,ACT-169,ACT-169,Variable resistor 100k (BASS)
+SA-1050,Integrated Amplifier,ACT-170,ACT-170,Variable resistor 100k (BALANCE)
+SA-1050,Integrated Amplifier,ACT-171,ACT-171,Variable resistor 100k (VOLUME)
+SA-1050,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S
+SA-1050,Integrated Amplifier,ADG-060,ADG-060,AC power cord - S/G
+SA-1050,Integrated Amplifier,ADG-064,ADG-064,AC power cord - YP
+SA-1050,Integrated Amplifier,ADG-073,ADG-073,AC power cord - KU
+SA-1050,Integrated Amplifier,AEC-471,AEC-471,Nylon rivet
+SA-1050,Integrated Amplifier,AEC-510,AEC-510,Nylon rivet
+SA-1050,Integrated Amplifier,AEC-847,AEC-847,Leg ass‘y
+SA-1050,Integrated Amplifier,AEC-982,AEC-982,Volume escutcheon
+SA-1050,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S
+SA-1050,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S
+SA-1050,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S/G
+SA-1050,Integrated Amplifier,AEK-124,AEK-124,Fuse (3.15A) - S/G
+SA-1050,Integrated Amplifier,AEK-309,AEK-309,Fuse (6.3A) - KU
+SA-1050,Integrated Amplifier,AEK-403,AEK-403,Fuse (T2.5A) - YP
+SA-1050,Integrated Amplifier,AEL-369,AEL-369,LED indicator (ADAPTER/TAPE2)
+SA-1050,Integrated Amplifier,AEL-370,AEL-370,LED (FUNCTION)
+SA-1050,Integrated Amplifier,AHE-214,AHE-214,Packing case - KU
+SA-1050,Integrated Amplifier,AHE-298,AHE-298,Packing case - S
+SA-1050,Integrated Amplifier,AHE-298,AHE-298,Packing case - S/G
+SA-1050,Integrated Amplifier,AHE-298,AHE-298,Packing case - YP
+SA-1050,Integrated Amplifier,AHE-340,AHE-340,Front rear pad
+SA-1050,Integrated Amplifier,AKB-093,AKB-093,Terminal (PHONES)
+SA-1050,Integrated Amplifier,AKB-094,AKB-094,Terminal (ADAPTOR/TAPE2)
+SA-1050,Integrated Amplifier,AKB-094,AKB-094,Terminal (TAPE1)
+SA-1050,Integrated Amplifier,AKB-095,AKB-095,Terminal (INPUT)
+SA-1050,Integrated Amplifier,AKB-098,AKB-098,Terminal (PHONO L - WHITE)
+SA-1050,Integrated Amplifier,AKB-099,AKB-099,Terminal (PHONO R - RED)
+SA-1050,Integrated Amplifier,AKE-105,AKE-105,Terminal (SPEAKERS)
+SA-1050,Integrated Amplifier,AKN-045,AKN-045,Phone jack (PHONES)
+SA-1050,Integrated Amplifier,AKP-501,AKP-501,AC socket (AC OUTLETS) - KU
+SA-1050,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S
+SA-1050,Integrated Amplifier,AKX-063,AKX-063,Line voltage selector - S/G
+SA-1050,Integrated Amplifier,ANE-420,ANE-420,Bonnet case
+SA-1050,Integrated Amplifier,ANM-545,ANM-545,"Front panel ass'y (KU, S, S/G)"
+SA-1050,Integrated Amplifier,ARB-587,ARB-587,Operating instructions  SA-1050 (English) - KU
+SA-1050,Integrated Amplifier,ARB-587,ARB-587,Operating instructions  SA-1050 (English) - S
+SA-1050,Integrated Amplifier,ARB-587,ARB-587,Operating instructions  SA-1050 (English) - S/G
+SA-1050,Integrated Amplifier,ARB-587,ARB-587,Operating instructions  SA-1050 - YP
+SA-1050,Integrated Amplifier,ARC-065,ARC-065,Operating instructions  SA-1050 (Spanish) - S
+SA-1050,Integrated Amplifier,ARP-493-0,ARP-493,Service manual  SA-1050 (KU)
+SA-1050,Integrated Amplifier,ASG-545,ASG-545,Push switch (POWER)
+SA-1050,Integrated Amplifier,ASG-812,ASG-812,Push switch (FUNCTION)
+SA-1050,Integrated Amplifier,ASR-107,ASR-107,Relay
+SA-1050,Integrated Amplifier,ATS-013,ATS-013,Power transformer (120V) - KU
+SA-1050,Integrated Amplifier,ATS-027,ATS-027,Power transformer (240V) - YP
+SA-1050,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S"
+SA-1050,Integrated Amplifier,ATS-030,ATS-030,"Power transformer (110V,120V, 220V, 240V) - S/G"
+SA-1050,Integrated Amplifier,AWF-059,AWF-059,Equalizer amp ass'y
+SA-1050,Integrated Amplifier,AWG-090,AWG-090,Control ass’y
+SA-1050,Integrated Amplifier,GWK-228,GWK-228,AF ass'y
+SA-1050,Integrated Amplifier,SEA8V2B1B4S,SEA8V2B1B4S,"Push switch (LOUDNESS, ADAPTOR/TAPE2, SUBSONIC)"
+SA-1050,Integrated Amplifier,SEAV4S,SEAV4S,"Push selector switch (CD/AUX1,2)"
+SA-1050,Integrated Amplifier,SUL6MYBXSFC,SUL6MYBXSFC,Push switch (SPEAKERS)
+SA-3000,Integrated Amplifier,2SB758A,2SB758A,Transistor
+SA-3000,Integrated Amplifier,2SD848A,2SD848A,Transistor
+SA-3000,Integrated Amplifier,AAB-189,AAB-189,Knob (VOLUME)
+SA-3000,Integrated Amplifier,AAB-190,AAB-190,Knob (FUNCTION)
+SA-3000,Integrated Amplifier,AAB-191,AAB-191,"Knob (BASS, TREBLE)"
+SA-3000,Integrated Amplifier,AAB-192,AAB-192,Knob (BALANCE)
+SA-3000,Integrated Amplifier,AAD-150,AAD-150,Knob (LOUDNESS)
+SA-3000,Integrated Amplifier,AAD-150,AAD-150,Knob (POWER)
+SA-3000,Integrated Amplifier,AAD-150,AAD-150,Knob (SPEAKERS)
+SA-3000,Integrated Amplifier,AAD-150,AAD-150,Knob (TAPE MONITOR)
+SA-3000,Integrated Amplifier,ACG-004,ACG-004,Ceramic capacitor
+SA-3000,Integrated Amplifier,ACT-118,ACT-118,Variable 500k (BALANCE)
+SA-3000,Integrated Amplifier,ACT-122,ACT-122,Variable 100k (BASS)
+SA-3000,Integrated Amplifier,ACT-123,ACT-123,Variable 100k (TREBLE)
+SA-3000,Integrated Amplifier,ACV-184,ACV-184,Variable 250k (VOLUME)
+SA-3000,Integrated Amplifier,ADG-023,ADG-023,AC power cord (KU)
+SA-3000,Integrated Amplifier,ADG-032,ADG-032,AC power cord (HE)
+SA-3000,Integrated Amplifier,ADG-033,ADG-033,AC power cord (HB)
+SA-3000,Integrated Amplifier,AEC-099,AEC-099,Cover
+SA-3000,Integrated Amplifier,AEC-288,AEC-288,Insulator
+SA-3000,Integrated Amplifier,AEC-327,AEC-327,Strain relief
+SA-3000,Integrated Amplifier,AEC-351,AEC-351,Foot assembly
+SA-3000,Integrated Amplifier,AEC-451,AEC-451,Side panel L
+SA-3000,Integrated Amplifier,AEC-452,AEC-452,Side panel R
+SA-3000,Integrated Amplifier,AEC-527,AEC-527,Insulator
+SA-3000,Integrated Amplifier,AEK-018,AEK-018,Fuse 1.25A
+SA-3000,Integrated Amplifier,AEK-408,AEK-408,Fuse 160mA
+SA-3000,Integrated Amplifier,AEK-409,AEK-409,Fuse 125mA
+SA-3000,Integrated Amplifier,AEL-069,AEL-069,Lamp 7.5V  50mA (KU)
+SA-3000,Integrated Amplifier,AEL-097,AEL-097,"Lamp 7.5V  50mA (HE, HB)"
+SA-3000,Integrated Amplifier,AHA-223,AHA-223,Front pad
+SA-3000,Integrated Amplifier,AHA-224,AHA-224,Rear pad
+SA-3000,Integrated Amplifier,AHD-671,AHD-671,"Packing case (HE, HB)"
+SA-3000,Integrated Amplifier,AKB-056,AKB-056,Terminal (INPUT)
+SA-3000,Integrated Amplifier,AKB-058,AKB-058,"Terminal (TAPE, AUX)"
+SA-3000,Integrated Amplifier,AKB-060,AKB-060,Termmal (INPUT)
+SA-3000,Integrated Amplifier,AKE-038,AKE-038,Terminal (SPEAKERS)
+SA-3000,Integrated Amplifier,AKH-009,AKH-009,Transistor socket
+SA-3000,Integrated Amplifier,AKN-024,AKN-024,Phones jack
+SA-3000,Integrated Amplifier,AKP-026,AKP-026,AC socket (AC OUTLET - HE)
+SA-3000,Integrated Amplifier,AKX-057,AKX-057,"Voltage selector (HE, HB)"
+SA-3000,Integrated Amplifier,ANB-695,ANB-695,Front panel assembly
+SA-3000,Integrated Amplifier,ANE-197,ANE-197,Top plate
+SA-3000,Integrated Amplifier,ARB-305,ARB-305,Operating instructions (English)
+SA-3000,Integrated Amplifier,ARD-128,ARD-128,Operating instructions (German/French)
+SA-3000,Integrated Amplifier,ART-356-0,ART-356,"Service manual  SA-3000 (HE, HB)"
+SA-3000,Integrated Amplifier,ART-379-0,ART-379,Service manual  SA-3000 (KU)
+SA-3000,Integrated Amplifier,ASD-071 (ASE-110),ASD-071 (ASE-110),Slide rotary (FUNCTION)
+SA-3000,Integrated Amplifier,ASH-015,ASH-015,Slide switch (INTERFERENCE)
+SA-3000,Integrated Amplifier,ASK-147,ASK-147,Lever switch (LOUDNESS)
+SA-3000,Integrated Amplifier,ASK-148,ASK-148,Lever (SPEAKERS)
+SA-3000,Integrated Amplifier,ASK-148,ASK-148,Lever (TAPE MONITOR)
+SA-3000,Integrated Amplifier,ASK-148,ASK-148,Lever switch (SPEAKERS)
+SA-3000,Integrated Amplifier,ASK-148,ASK-148,Lever switch (TAPE MONITOR)
+SA-3000,Integrated Amplifier,ASK-511,ASK-511,"Lever switch (POWER - HE, HB)"
+SA-3000,Integrated Amplifier,ASK-516,ASK-516,Power switch (KU)
+SA-3000,Integrated Amplifier,ASR-033,ASR-033,Relay (KU)
+SA-3000,Integrated Amplifier,ATT-552,ATT-552,"Power transformer (HE, HB)"
+SA-3000,Integrated Amplifier,ATT-553,ATT-553,"Power transformer (HE, HB)"
+SA-3000,Integrated Amplifier,ATT-601,ATT-601,Power transformer (KU)
+SA-3000,Integrated Amplifier,ATT-602,ATT-602,Power transformer (KU)
+SA-3000,Integrated Amplifier,AWM-162,AWM-162,"Protection Control Assembly (HE, HB)"
+SA-3000,Integrated Amplifier,AWM-179,AWM-179,Protection assembly (KU)
+SA-3000,Integrated Amplifier,AWR-181,AWR-181,"Fuse Assembly (HE, HB)"
+SA-3000,Integrated Amplifier,AWR-201,AWR-201,Terminal assembly (KU)
+SA-3000,Integrated Amplifier,GWF-114,GWF-114,Equalizer assembly
+SA-3000,Integrated Amplifier,GWF-121,GWF-121,Equalizer Assembly (KU)
+SA-3000,Integrated Amplifier,GWH-116,GWH-116,"Power amp assembly L (HE, HB)"
+SA-3000,Integrated Amplifier,GWH-117,GWH-117,"Power amp assembly R (HE, HB)"
+SA-3000,Integrated Amplifier,GWH-131,GWH-131,Power amp assembly L (KU)
+SA-3000,Integrated Amplifier,GWH-132,GWH-132,Power amp assembly R (KU)
+SA-3000,Integrated Amplifier,GWX-255,GWX-255,"Phone jack assembly (HE, HB)"
+SA-3000,Integrated Amplifier,GWX-264,GWX-264,"Input Terminal Assembly (HE, HB)"
+SA-3000,Integrated Amplifier,GWX-311,GWX-311,Phone jack assembly (KU)
+SA-3000,Integrated Amplifier,GWX-312,GWX-312,Input terminal assembly (KU)
+SA-420,Integrated Amplifier,AAB-250,AAB-250,"Knob (BASS, TREBLE, BALANCE)"
+SA-420,Integrated Amplifier,AAB-251,AAB-251,"Knob (FUNCTION,VOLUME)"
+SA-420,Integrated Amplifier,AAD-264,AAD-264,Knob (POWER)
+SA-420,Integrated Amplifier,AAD-265,AAD-265,"Knob (SPEAKERS, TAPE/ADAPTOR,LOUDNESS)"
+SA-420,Integrated Amplifier,ACG-001,ACG-001,Ceramic capacitor (0.01/AC 250V) - S
+SA-420,Integrated Amplifier,ACH-217,ACH-217,Electrolytic capacitor (4700/35V)
+SA-420,Integrated Amplifier,ACT-021,ACT-021,Variable resistor (BALANCE)
+SA-420,Integrated Amplifier,ACT-126,ACT-126,Variable resistor (VOLUME)
+SA-420,Integrated Amplifier,ACT-127,ACT-127,Variable resistor (BASS)
+SA-420,Integrated Amplifier,ACT-127,ACT-127,Variable resistor (TREBLE)
+SA-420,Integrated Amplifier,ADG-043,ADG-043,AC power cord - YP
+SA-420,Integrated Amplifier,ADG-046,ADG-046,AC power cord - S
+SA-420,Integrated Amplifier,ADG-052,ADG-052,AC power cord - KU
+SA-420,Integrated Amplifier,AEC-672,AEC-672,Foot assembly
+SA-420,Integrated Amplifier,AEK-102,AEK-102,Fuse (2.5A) - KU
+SA-420,Integrated Amplifier,AEK-106,AEK-106,Fuse (1A) - S
+SA-420,Integrated Amplifier,AEK-106,AEK-106,Fuse (1A) - YP
+SA-420,Integrated Amplifier,AEL-075,AEL-075,Lamp (Wire term. 8V/50mA - FUNCTION)
+SA-420,Integrated Amplifier,AHA-290,AHA-290,Side pad
+SA-420,Integrated Amplifier,AHD-901,AHD-901,Packing case - KU
+SA-420,Integrated Amplifier,AHD-902,AHD-902,Packing case - S
+SA-420,Integrated Amplifier,AHD-902,AHD-902,Packing case - YP
+SA-420,Integrated Amplifier,AKB-077,AKB-077,Terminal (PHONES)
+SA-420,Integrated Amplifier,AKB-078,AKB-078,Terminal (TAPE/ADAPTOR)
+SA-420,Integrated Amplifier,AKB-079,AKB-079,Terminal (lNPUT)
+SA-420,Integrated Amplifier,AKE-047,AKE-047,Terminal (SPEAKERS)
+SA-420,Integrated Amplifier,AKN-030,AKN-030,Phone jack (PHONES)
+SA-420,Integrated Amplifier,AKP-041,AKP-041,AC socket (AC OUTLETS) - KU
+SA-420,Integrated Amplifier,AKP-041,AKP-041,AC socket (AC OUTLETS) - S
+SA-420,Integrated Amplifier,AKR-031,AKR-031,Line voltage selector - S
+SA-420,Integrated Amplifier,ANE-289,ANE-289,Top cover
+SA-420,Integrated Amplifier,ANM-008,ANM-008,Front panel assembly
+SA-420,Integrated Amplifier,ARB-405,ARB-405,Operating instructions (English) - KU
+SA-420,Integrated Amplifier,ARB-406,ARB-406,Operating instructions (English) - S
+SA-420,Integrated Amplifier,ARB-406,ARB-406,Operating instructions (English) - YP
+SA-420,Integrated Amplifier,ASE-110,ASE-110,Rotary slide switch (FUNCTION)
+SA-420,Integrated Amplifier,ASG-266,ASG-266,Push switch (SPEAKERS)
+SA-420,Integrated Amplifier,ASG-285,ASG-285,"Push switch (TAPE/ADAPTOR,LOUDNESS)"
+SA-420,Integrated Amplifier,ASG-520,ASG-520,Push switch (POWER) - S
+SA-420,Integrated Amplifier,ASG-521,ASG-521,Push switch (POWER) - KU
+SA-420,Integrated Amplifier,ASG-522,ASG-522,Push switch (POWER) - YP
+SA-420,Integrated Amplifier,ATT-793,ATT-793,Power transformer (120V) - KU
+SA-420,Integrated Amplifier,ATT-794,ATT-794,Power transformer (240V) - YP
+SA-420,Integrated Amplifier,ATT-795,ATT-795,"Power transformer (110V, 120V, 220V, 240V) - S"
+SA-420,Integrated Amplifier,GWK-174,GWK-174,AF assembly - KU
+SA-420,Integrated Amplifier,GWK-176,GWK-176,AF assembly - YP
+SA-420,Integrated Amplifier,GWK-177,GWK-177,AF assembly - S
+SA-500,Integrated Amplifier,A12-120-A,A12-120,"Knob, for Selector, Mode, Bass, and Treble"
+SA-500,Integrated Amplifier,A12-144-O,A12-144,"Knob, for Balance"
+SA-500,Integrated Amplifier,A12-150-O,A12-150,"Knob, Volume (R)"
+SA-500,Integrated Amplifier,A12-151-O,A12-151,"Knob, Volume (L)"
+SA-500,Integrated Amplifier,A62-045-O,A62-045,Lens. for Pilot Lamp
+SA-500,Integrated Amplifier,B11-005-A,B11-005,"Screw, to fix Metal Cover"
+SA-500,Integrated Amplifier,C82-040-O,C82-040,100K dual Bass control
+SA-500,Integrated Amplifier,C82-040-O,C82-040,100K dual Treble control
+SA-500,Integrated Amplifier,C87-021-O,C87-021,"250K Dual, Volume Control"
+SA-500,Integrated Amplifier,E21-004-O,E21-004,Fuse 1A
+SA-500,Integrated Amplifier,E21-007-O,E21-007,Fuse 0.5A
+SA-500,Integrated Amplifier,E22-006-O,E22-006,Pilot Lamp
+SA-500,Integrated Amplifier,K21-013-C,K21-013,Terminal 6P
+SA-500,Integrated Amplifier,K42-003-O,K42-003,Pilot Lamp socket
+SA-500,Integrated Amplifier,K72-007-B,K72-007,"Plug, for Speaker"
+SA-500,Integrated Amplifier,K72-021-B,K72-021,Headphone jack
+SA-500,Integrated Amplifier,K82-007-B,K82-007,Spare AC Outlet (FV)
+SA-500,Integrated Amplifier,K93-003-B,K93-003,Connector 5P(DlN type)
+SA-500,Integrated Amplifier,M21-293-A,M21-293,Front Panel
+SA-500,Integrated Amplifier,M33-117-O,M33-117,Metal Cover
+SA-500,Integrated Amplifier,N/A,N/A,"Installation, Operating and Service Manual (FV)"
+SA-500,Integrated Amplifier,S11-016-A,S11-016,Power Switch (FV)
+SA-500,Integrated Amplifier,S11-018-O,S11-018,Line Voitage Selector
+SA-500,Integrated Amplifier,S13-028-A,S13-028,lnput Selector
+SA-500,Integrated Amplifier,S16-038 C,S16-038 C,Mode Selector
+SA-500,Integrated Amplifier,S31-018-O,S31-018,Push switch
+SA-500,Integrated Amplifier,S31-018-O,S31-018,Speakers switch
+SA-500,Integrated Amplifier,T52-141-O,T52-141,Power Transformer (FV)
+SA-500,Integrated Amplifier,W15-004-O,W15-004,MAIN AMP Unit (NB)
+SA-500,Integrated Amplifier,W15-032-O,W15-032,HEAD AMP unit
+SA-500,Integrated Amplifier,W15-033-O,W15-033,CONTROL AMP Unit
+SA-500,Integrated Amplifier,W15-055-O,W15-055,MAIN AMP Unit
+SA-500,Integrated Amplifier,W15-075-O,W15-075,PUSH SWITCH Unit
+SA-500A,Integrated Amplifier,A12-631-A,A12-631,"Knob for Bass, Treble and Speakers"
+SA-500A,Integrated Amplifier,A19-095-A,A19-095,Knob for Lever Switch
+SA-500A,Integrated Amplifier,AAB-004-B,AAB-004,Knob for Selector
+SA-500A,Integrated Amplifier,AAB-005-A,AAB-005,Knob for Volume (R)
+SA-500A,Integrated Amplifier,AAB-006-B,AAB-006,Knob for Volume (L)
+SA-500A,Integrated Amplifier,ACE-001-0,ACE-001,Oil paper 0.01 800V (KU/KC)
+SA-500A,Integrated Amplifier,ACV-201-O,ACV-201,"Volume Control, 250k-B1"
+SA-500A,Integrated Amplifier,AEX-002-O,AEX-002,Fuse 2A for Protection (KU)
+SA-500A,Integrated Amplifier,AEX-004-O,AEX-004,Fuse 1A for Protection (KU)
+SA-500A,Integrated Amplifier,AHD-047-A,AHD-047,Packing Case
+SA-500A,Integrated Amplifier,AKB-002-O,AKB-002,16P Input Terminal Board
+SA-500A,Integrated Amplifier,AKP-002-O,AKP-002,Spare AC Outlet (KU)
+SA-500A,Integrated Amplifier,AKR-001-0,AKR-001,Line Voltage Selector (FV)
+SA-500A,Integrated Amplifier,ANB-091-O,ANB-091,Front Panel Ass'y
+SA-500A,Integrated Amplifier,ANE-006-A,ANE-006,Metal Cover
+SA-500A,Integrated Amplifier,ARB-039-O,ARB-039,Operating Instructions (KC/FV)
+SA-500A,Integrated Amplifier,ARB-040-O,ARB-040,Operating Instructions (KU)
+SA-500A,Integrated Amplifier,ASA-011-O,ASA-011,Speakers Switch (KU)
+SA-500A,Integrated Amplifier,ASA-012-0,ASA-012,Speakers Switch (FV)
+SA-500A,Integrated Amplifier,ASA-016-0,ASA-016,Speakers Switch (KC)
+SA-500A,Integrated Amplifier,ASC-016-O,ASC-016,Selector Switch
+SA-500A,Integrated Amplifier,ASK-009-A,ASK-009,Lever Switch (Tape Mon 1)
+SA-500A,Integrated Amplifier,ASK-009-A,ASK-009,Lever Switch (Tape Mon 2)
+SA-500A,Integrated Amplifier,ASK-010-A,ASK-010,Lever Switch (Mode)
+SA-500A,Integrated Amplifier,ATH-003-O,ATH-003,Choke Coil
+SA-500A,Integrated Amplifier,ATH-003-O,ATH-003,Choke Coil
+SA-500A,Integrated Amplifier,ATT-036-B,ATT-036,Power Transformer (KU)
+SA-500A,Integrated Amplifier,ATT-037-A,ATT-037,Power Transformer (FV)
+SA-500A,Integrated Amplifier,AWG-010-O,AWG-010,Control Amp Unit
+SA-500A,Integrated Amplifier,AWH-005-A,AWH-005,Main Amp Unit
+SA-500A,Integrated Amplifier,AWS-009-O,AWS-009,Switch Unit
+SA-500A,Integrated Amplifier,B11-012-A,B11-012,Screw for Grounding
+SA-500A,Integrated Amplifier,B11-015-B,B11-015,Screw to fix Metal Cover
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (FV)
+SA-500A,Integrated Amplifier,C43-003-0,C43-003,Ceramic 0.01 DC 1.4kV (KU/KC)
+SA-500A,Integrated Amplifier,C52-066-B,C52-066,Electrolytic 3300 50V (FV)
+SA-500A,Integrated Amplifier,C52-066-B,C52-066,Electrolytic 3300 50V (KU/KC)
+SA-500A,Integrated Amplifier,CEB 471 P35,CEB 471 P35,Electrolytic 470 35V (FV)
+SA-500A,Integrated Amplifier,CEB 471P 35,CEB 471P 35,Electrolytic 470 35V (KU/KC)
+SA-500A,Integrated Amplifier,D11-003-E,D11-003,AC Power Cord
+SA-500A,Integrated Amplifier,D51-003-B,D51-003,Connection Cord (white)
+SA-500A,Integrated Amplifier,D51-004-B,D51-004,Connection Cord (red)
+SA-500A,Integrated Amplifier,E21-004-A,E21-004,Fuse 1A (FV)
+SA-500A,Integrated Amplifier,E21-004-A,E21-004,Fuse 1A (KC)
+SA-500A,Integrated Amplifier,E21-020-0,E21-020,Fuse 1A for Protection (FV)
+SA-500A,Integrated Amplifier,E21-020-O,E21-020,Fuse 1A for Protection (KC)
+SA-500A,Integrated Amplifier,E21-026-0,E21-026,Fuse 2A for Protection (FV)
+SA-500A,Integrated Amplifier,E21-026-O,E21-026,Fuse 2A for Protection (KC)
+SA-500A,Integrated Amplifier,E21-033-O,E21-033,Fuse 1A (KU)
+SA-500A,Integrated Amplifier,E22-026-O,E22-026,Pilot Lamp
+SA-500A,Integrated Amplifier,FR2-02,FR2-02,Diode
+SA-500A,Integrated Amplifier,FR2-02,FR2-02,Diode
+SA-500A,Integrated Amplifier,H11-038-C,H11-038,Styrotector
+SA-500A,Integrated Amplifier,H12-126-A,H12-126,Soft Paper
+SA-500A,Integrated Amplifier,H12-159-0,H12-159,Cardboard Spacer
+SA-500A,Integrated Amplifier,H14-044-0,H14-044,Vinyl Bag
+SA-500A,Integrated Amplifier,K13-047-O,K13-047,4P Ground Terminal
+SA-500A,Integrated Amplifier,K41-002-B,K41-002,Pilot Lamp Socket
+SA-500A,Integrated Amplifier,K72-007-B,K72-007,Speaker Plug
+SA-500A,Integrated Amplifier,K72-026-O,K72-026,Headphones Jack
+SA-500A,Integrated Amplifier,K72-031-O,K72-031,Speaker Socket
+SA-500A,Integrated Amplifier,K82-014-0,K82-014,Spare AC Outlet (FV)
+SA-500A,Integrated Amplifier,K82-014-0,K82-014,Spare AC Outlet (KC)
+SA-500A,Integrated Amplifier,K93-003-B,K93-003,5P Connector (DIN)
+SA-500A,Integrated Amplifier,K96-007-C,K96-007,Fuse Holder
+SA-500A,Integrated Amplifier,M61-017-A,M61-017,Foot
+SA-500A,Integrated Amplifier,R42-221-0,R42-221,Service Manual (KU/KC/FV)
+SA-500A,Integrated Amplifier,W15-032-C,W15-032,Head Amp Unit
+SA-500A,Integrated Amplifier,W52-004-O,W52-004,Compound Part for Rec Terminal
+SA-5200,Integrated Amplifier,AAB-051-0,AAB-051,"Knob (FUNCTION, BASS, TREBLE)"
+SA-5200,Integrated Amplifier,AAB-052-0,AAB-052,Knob (VOLUME ..... outer)
+SA-5200,Integrated Amplifier,AAB-053-A,AAB-053,Knob (VOLUME ..... inner)
+SA-5200,Integrated Amplifier,AAD-045-0,AAD-045,Knob (POWER)
+SA-5200,Integrated Amplifier,AAD-046-B,AAD-046,"Knob (SPEAKERS, MODE, TAPE MONITOR, LOUDNESS)"
+SA-5200,Integrated Amplifier,ABA-013-0,ABA-013,Sideboard fixing screw
+SA-5200,Integrated Amplifier,ACH-022-0,ACH-022,"Electrolytic capacitor 4,700uF 50V"
+SA-5200,Integrated Amplifier,ACV-117-0,ACV-117,Volume control(250k-B1)
+SA-5200,Integrated Amplifier,ACV-118-0,ACV-118,"Potentiometer, dual (100k-A2) Bass"
+SA-5200,Integrated Amplifier,ACV-118-0,ACV-118,"Potentiometer, dual (100k-A2) Treble"
+SA-5200,Integrated Amplifier,ADE-005-0,ADE-005,Cord with pin plug
+SA-5200,Integrated Amplifier,ADG-003-0,ADG-003,"AC power cord (KU, KC model)"
+SA-5200,Integrated Amplifier,ADG-004-0,ADG-004,AC power cord (FV model)
+SA-5200,Integrated Amplifier,AEB-034-0,AEB-034,Grommet (rubber)
+SA-5200,Integrated Amplifier,AEC-037-0,AEC-037,Wire clip-S
+SA-5200,Integrated Amplifier,AEC-058-0,AEC-058,Fuse holder (protection) cover (FV model)
+SA-5200,Integrated Amplifier,AEC-061-A,AEC-061,Foot
+SA-5200,Integrated Amplifier,AEC-079-0,AEC-079,AC cord stopper
+SA-5200,Integrated Amplifier,AEC-095-0,AEC-095,Spacer (A)
+SA-5200,Integrated Amplifier,AEC-096-0,AEC-096,Spacer (B)
+SA-5200,Integrated Amplifier,AEC-097-A,AEC-097,Lens (power indicator)
+SA-5200,Integrated Amplifier,AEK-009-0,AEK-009,Fuse 1.5A (protection)
+SA-5200,Integrated Amplifier,AEK-016-0,AEK-016,"Fuse 0.5A (AC power, protection) (FV model)"
+SA-5200,Integrated Amplifier,AEL-007-0,AEL-007,Pilot lamp (power indicator)
+SA-5200,Integrated Amplifier,AHA-031-0,AHA-031,Side pad
+SA-5200,Integrated Amplifier,AHD-162-0,AHD-162,Packing case (FV model)
+SA-5200,Integrated Amplifier,AHD-163-0,AHD-163,Packing case (KU model)
+SA-5200,Integrated Amplifier,AHD-179-0,AHD-179,Packing case (KC model)
+SA-5200,Integrated Amplifier,AHG-009-0,AHG-009,Vinyl bag
+SA-5200,Integrated Amplifier,AKA-001-0,AKA-001,Speaker terminal board
+SA-5200,Integrated Amplifier,AKB-013-0,AKB-013,Two-fold pin jack
+SA-5200,Integrated Amplifier,AKB-014-0,AKB-014,Four-fold pin jack-A
+SA-5200,Integrated Amplifier,AKB-018-0,AKB-018,Six-fold pin jack-A
+SA-5200,Integrated Amplifier,AKC-015-0,AKC-015,1 L2P strip lug terminal
+SA-5200,Integrated Amplifier,AKE-011-A,AKE-011,Screw for grounding
+SA-5200,Integrated Amplifier,AKP-002-0,AKP-002,"Spare AC outlet (KU, KC model)"
+SA-5200,Integrated Amplifier,AKP-004-0,AKP-004,Spare AC.outlet (Dual) (FV model)
+SA-5200,Integrated Amplifier,AKR-001-0,AKR-001,Fuse holder (AC power) (FV model)
+SA-5200,Integrated Amplifier,AKR-011-0,AKR-011,Fuse holder (protection) (FV model)
+SA-5200,Integrated Amplifier,AKR-012-0,AKR-012,"Fuse holder (AC power) (KU, KC model)"
+SA-5200,Integrated Amplifier,AKR-012-0,AKR-012,"Fuse holder (protection) (KU, KC model)"
+SA-5200,Integrated Amplifier,ALA-006-A,ALA-006,Special nut
+SA-5200,Integrated Amplifier,AMS-003-A,AMS-003,Side board-L
+SA-5200,Integrated Amplifier,AMS-004-A,AMS-004,Side board-R
+SA-5200,Integrated Amplifier,ANA-042-A,ANA-042,Chassis
+SA-5200,Integrated Amplifier,ANB-191-0,ANB-191,Front panel
+SA-5200,Integrated Amplifier,ANC-079-0,ANC-079,Rear panel
+SA-5200,Integrated Amplifier,ANE-024-0,ANE-024,Metal cover
+SA-5200,Integrated Amplifier,ANH-147-0,ANH-147,Shield plate
+SA-5200,Integrated Amplifier,ARB-076-0,ARB-076,Operating instructions  SA-5200
+SA-5200,Integrated Amplifier,ASB-029-A,ASB-029,Function switch (rotary type)
+SA-5200,Integrated Amplifier,ASG-023-0,ASG-023,"Power switch (push-button type) (KU,KC model)"
+SA-5200,Integrated Amplifier,ASG-032-0,ASG-032,"Push switch (MODE, LOUDNESS)"
+SA-5200,Integrated Amplifier,ASG-041-0,ASG-041,"Push switch (TAPE MONITOR, SPEAKERS A/B)"
+SA-5200,Integrated Amplifier,ASG-042-0,ASG-042,Power switch (push-button type) (FV model)
+SA-5200,Integrated Amplifier,ATT-127-0,ATT-127,Power transformer (KU model)
+SA-5200,Integrated Amplifier,ATT-128-0,ATT-128,Power transformer (FV model)
+SA-5200,Integrated Amplifier,ATT-135-0,ATT-135,Power transformer (KC model)
+SA-5200,Integrated Amplifier,AWF-008-0,AWF-008,Equalizer amplifier assembly
+SA-5200,Integrated Amplifier,AWG-021-0,AWG-021,Control amplifier assembly
+SA-5200,Integrated Amplifier,AWH-019-E,AWH-019,Power amplifier assembly
+SA-5200,Integrated Amplifier,AWR-034-B,AWR-034,Power supply circuit assembly
+SA-5200,Integrated Amplifier,AWS-046-0,AWS-046,Switch circuit-A assembly
+SA-5200,Integrated Amplifier,AWS-047-0,AWS-047,Switch circuit-B assembly
+SA-5200,Integrated Amplifier,AWW-004-0,AWW-004,Compound part for REC jack
+SA-5200,Integrated Amplifier,B11-034-0,B11-034,Metal cover fixing screw
+SA-5200,Integrated Amplifier,B21-011-0,B21-011,Washer
+SA-5200,Integrated Amplifier,B22-009-0,B22-009,Washer (11ø)
+SA-5200,Integrated Amplifier,B22-016-0,B22-016,Washer
+SA-5200,Integrated Amplifier,B22-016-0,B22-016,Washer
+SA-5200,Integrated Amplifier,B71-004-0,B71-004,Nut (9ø)
+SA-5200,Integrated Amplifier,B71-005-0,B71-005,Nut (11ø)
+SA-5200,Integrated Amplifier,E21-028-0,E21-028,Fuse 0.5A (protection) (KU model)
+SA-5200,Integrated Amplifier,E21-033-0,E21-033,"Fuse 1Ą (AC power, protection) (KU model)"
+SA-5200,Integrated Amplifier,E21-034-A,E21-034,Fuse 1A (AC power) (FV model)
+SA-5200,Integrated Amplifier,E33-009-B,E33-009,Polyshing cloth
+SA-5200,Integrated Amplifier,H12-113-0,H12-113,Soft sheet-C
+SA-5200,Integrated Amplifier,K13-047-0,K13-047,4P strip lug terminal
+SA-5200,Integrated Amplifier,K72-026-0,K72-026,Headphone jack
+SA-5200,Integrated Amplifier,K93-003-B,K93-003,5P connector socket (DIN-type)
+SA-5200,Integrated Amplifier,M46-027-0,M46-027,Wire clamper
