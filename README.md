@@ -115,6 +115,12 @@ If you identify an error or have additional source information:
 2. Submit a **Pull Request** if you are comfortable editing the database directly.
 3. Contributions remain subject to the project license.
 
+## AI Search Index
+
+The ai-data directory contains automatically generated search indexes derived from the authoritative Pioneer_Parts_Database.csv. These files are provided to facilitate machine retrieval of the database where the complete CSV may exceed the retrieval limits of some AI systems.
+
+The files in ai-data are derived data and should not be edited independently. The master CSV is the authoritative source.
+
 ## Disclaimer
 
 This database is provided "as-is" for informational, educational, and restoration purposes.
