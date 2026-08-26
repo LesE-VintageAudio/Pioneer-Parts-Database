@@ -19,6 +19,12 @@ The database can be used to:
 
 The database itself contains historical parts information. Current marketplace listings, prices, and availability are not part of this dataset and should be obtained through separate searches.
 
+## AI and Search Indexing
+
+Pioneer_Parts_Database.md contains the complete database in a human- and machine-readable Markdown table. It is provided to facilitate indexing by search engines, AI systems, and other automated information-retrieval tools.
+
+The CSV file remains the canonical machine-readable dataset.
+
 ## Database File
 
 The primary database is:
