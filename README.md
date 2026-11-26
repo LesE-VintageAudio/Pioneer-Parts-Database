@@ -182,7 +182,7 @@ The files in ai-data are derived data and should not be edited independently. Th
 <h3>Site Map</h3>
 <p>
 
-<a href="/sitemap.xml">Site Map</a>
+<a href="Pioneer-Parts-Database/sitemap.xml">Site Map</a>
 </p>
 
 ## Disclaimer
