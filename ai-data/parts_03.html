@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parts 03 | Pioneer Vintage Audio Parts Database</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 20px; line-height: 1.4; color: #222; }
+    h1 { font-size: 1.4rem; margin-bottom: 0.5rem; }
+    .nav { margin-bottom: 1rem; }
+    input[type="text"] { padding: 8px; width: 100%; max-width: 400px; margin-bottom: 1rem; border: 1px solid #ccc; border-radius: 4px; }
+    table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+    th, td { border: 1px solid #ddd; padding: 6px 10px; text-align: left; }
+    th { background-color: #f4f4f4; position: sticky; top: 0; }
+    tr:nth-child(even) { background-color: #fafafa; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="../">&larr; Back to Database Home</a></div>
+  <h1>Parts 03</h1>
+  <input type="text" id="filterInput" onkeyup="filterTable()" placeholder="Filter rows on this page...">
+  <table id="partsTable">
+    <thead>
+      <tr><th>model</th><th>category</th><th>part_number</th><th>normalized_part_number</th><th>description</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>SX-8</td><td>Receiver</td><td>AAV-307</td><td>AAV-307</td><td>LED array</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>AAV-311</td><td>AAV-311</td><td>LED level display</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>AAV-311</td><td>AAV-311</td><td>LED level display</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>AAV-312</td><td>AAV-312</td><td>LED level display</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>AAV-312</td><td>AAV-312</td><td>LED level display</td></tr>
+      <tr><td>GR-551</td><td>Equalizer</td><td>AAV1016 (AAV1015)</td><td>AAV1016 (AAV1015)</td><td>Fluorescent tube</td></tr>
+      <tr><td>GR-555</td><td>Equalizer</td><td>AAV1016 (AAV1015)</td><td>AAV1016 (AAV1015)</td><td>Fluorescent tube</td></tr>
+      <tr><td>GR-777</td><td>Equalizer</td><td>AAV1056</td><td>AAV1056</td><td>Fluorescent Indicator tube</td></tr>
+      <tr><td>QX-8000</td><td>Receiver</td><td>AAW-001-A</td><td>AAW-001</td><td>Signal Meter</td></tr>
+      <tr><td>QX-8000A</td><td>Receiver</td><td>AAW-001-A</td><td>AAW-001</td><td>Signal meter</td></tr>
+      <tr><td>SX-6000</td><td>Receiver</td><td>AAW-001-A</td><td>AAW-001</td><td>Signal Meter</td></tr>
+      <tr><td>QX-8000</td><td>Receiver</td><td>AAW-002-A</td><td>AAW-002</td><td>Tuning Meter</td></tr>
+      <tr><td>QX-8000A</td><td>Receiver</td><td>AAW-002-A</td><td>AAW-002</td><td>Tuning meter</td></tr>
+      <tr><td>SX-6000</td><td>Receiver</td><td>AAW-002-A</td><td>AAW-002</td><td>Tuning Meter</td></tr>
+      <tr><td>TX-9800</td><td>Tuner</td><td>AAW-002</td><td>AAW-002</td><td>METER(TUNING)</td></tr>
+      <tr><td>QX-4000</td><td>Receiver</td><td>AAW-003-0</td><td>AAW-003</td><td>Tuning meter</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>AAW-003-0</td><td>AAW-003</td><td>Signal meter</td></tr>
+      <tr><td>SX-424</td><td>Receiver</td><td>AAW-003-A</td><td>AAW-003</td><td>Signal meter</td></tr>
+      <tr><td>QL-600</td><td>Integrated Amplifier</td><td>AAW-004-0</td><td>AAW-004</td><td>Level Meter</td></tr>
+      <tr><td>SX-525</td><td>Receiver</td><td>AAW-005-0</td><td>AAW-005</td><td>Signal meter</td></tr>
+      <tr><td>SX-626 (1973)</td><td>Receiver</td><td>AAW-005-0</td><td>AAW-005</td><td>Signal meter</td></tr>
+      <tr><td>SX-727</td><td>Receiver</td><td>AAW-006-0</td><td>AAW-006</td><td>Signal meter</td></tr>
+      <tr><td>SX-828</td><td>Receiver</td><td>AAW-006-0</td><td>AAW-006</td><td>Signal meter</td></tr>
+      <tr><td>SX-727</td><td>Receiver</td><td>AAW-007-0</td><td>AAW-007</td><td>Tuning meter</td></tr>
+      <tr><td>SX-828</td><td>Receiver</td><td>AAW-007-0</td><td>AAW-007</td><td>Tuning meter</td></tr>
+      <tr><td>QL-600A</td><td>Integrated Amplifier</td><td>AAW-009-0</td><td>AAW-009</td><td>Level meter</td></tr>
+      <tr><td>QM-800A</td><td>Amplifier</td><td>AAW-010-0</td><td>AAW-010</td><td>Level meter</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>AAW-011-0</td><td>AAW-011</td><td>Signal meter</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>AAW-012-0</td><td>AAW-012</td><td>Tuning meter</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>AAW-013-0</td><td>AAW-013</td><td>Level meter</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>AAW-014-0</td><td>AAW-014</td><td>Level meter</td></tr>
+      <tr><td>TX-710</td><td>Tuner</td><td>AAW-015</td><td>AAW-015</td><td>METER</td></tr>
+      <tr><td>TX-7100</td><td>Tuner</td><td>AAW-015-0</td><td>AAW-015</td><td>Signal meter</td></tr>
+      <tr><td>TX-8100</td><td>Tuner</td><td>AAW-015-0</td><td>AAW-015</td><td>Signal meter</td></tr>
+      <tr><td>TX-9100</td><td>Tuner</td><td>AAW-015-0</td><td>AAW-015</td><td>Signal meter</td></tr>
+      <tr><td>TX-710</td><td>Tuner</td><td>AAW-016</td><td>AAW-016</td><td>METER</td></tr>
+      <tr><td>TX-7100</td><td>Tuner</td><td>AAW-016-A</td><td>AAW-016</td><td>Tuning rneter</td></tr>
+      <tr><td>TX-8100</td><td>Tuner</td><td>AAW-016-A</td><td>AAW-016</td><td>Tuning meter</td></tr>
+      <tr><td>TX-9100</td><td>Tuner</td><td>AAW-016-A</td><td>AAW-016</td><td>Tuning meter</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>AAW-018-A</td><td>AAW-018</td><td>AM-FM meter</td></tr>
+      <tr><td>TX-6200</td><td>Tuner</td><td>AAW-018-0</td><td>AAW-018</td><td>AM/FM meter</td></tr>
+      <tr><td>QD-240</td><td>Other</td><td>AAW-019</td><td>AAW-019</td><td>METER(SEPARATION)</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>AAW-020-0</td><td>AAW-020</td><td>Twin meter (Signal and Tuning)</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>AAW-021-0</td><td>AAW-021</td><td>4-channel level indicator</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>AAW-021</td><td>AAW-021</td><td>4-channel level indicator</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>AAW-021-0</td><td>AAW-021</td><td>4-Channel level indicator</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>AAW-021</td><td>AAW-021</td><td>4-channel level indicator</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>AAW-025-0</td><td>AAW-025</td><td>Peak meter</td></tr>
+      <tr><td>SX-434</td><td>Receiver</td><td>AAW-026-A</td><td>AAW-026</td><td>Tuning meter</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>AAW-029-0</td><td>AAW-029</td><td>Meter (Signal Bt tuning)</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>AAW-029-0</td><td>AAW-029</td><td>Meter (Signal &amp; Tuning)</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>AAW-029-0</td><td>AAW-029</td><td>Meter (Tuning &amp; Signal)</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>AAW-032-0</td><td>AAW-032</td><td>Meter (signal &amp; tuning)</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>AAW-033-0</td><td>AAW-033</td><td>Meter (Signal &amp; Tuning)</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>AAW-033-0</td><td>AAW-033</td><td>Meter (signal &amp; tuning)</td></tr>
+      <tr><td>TX-5300</td><td>Tuner</td><td>AAW-035-A</td><td>AAW-035</td><td>AM/FM mater</td></tr>
+      <tr><td>SX-1050</td><td>Receiver</td><td>AAW-040</td><td>AAW-040</td><td>Double meter (SIGNAL/TUNING)</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>AAW-040</td><td>AAW-040</td><td>Double meter (SIGNAL/TUNING)</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>AAW-040</td><td>AAW-040</td><td>Meter</td></tr>
+      <tr><td>SX-750</td><td>Receiver</td><td>AAW-040</td><td>AAW-040</td><td>Double meter</td></tr>
+      <tr><td>SX-850</td><td>Receiver</td><td>AAW-040</td><td>AAW-040</td><td>Double meter (SIGNAL/TUNING)</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>AAW-040</td><td>AAW-040</td><td>Double meter (SIGNAL/TUNING)</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>AAW-040-0</td><td>AAW-040</td><td>Double meter (SIGNAL/TUNING)</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>AAW-042</td><td>AAW-042</td><td>Twin meter (TUNING/SIGNAL)</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>AAW-046</td><td>AAW-046</td><td>AM-FM meter</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>AAW-051</td><td>AAW-051</td><td>Peak level meter (LEFT CHANNEL)</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>AAW-051</td><td>AAW-051</td><td>Peak level meter (RIGHT CHANNEL)</td></tr>
+      <tr><td>RG-1</td><td>Dynamic Range Expander</td><td>AAW-052</td><td>AAW-052</td><td>Meter (Dynamic expansion)</td></tr>
+      <tr><td>RG-1</td><td>Dynamic Range Expander</td><td>AAW-052</td><td>AAW-052</td><td>Meter (L, Dynamic Expansion)</td></tr>
+      <tr><td>RG-1</td><td>Dynamic Range Expander</td><td>AAW-052</td><td>AAW-052</td><td>Meter (R, Dynamic Expansion)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>AAW-053</td><td>AAW-053</td><td>Meter (AM/FM)</td></tr>
+      <tr><td>SX-550</td><td>Receiver</td><td>AAW-053</td><td>AAW-053</td><td>Meter</td></tr>
+      <tr><td>TX-6500II</td><td>Tuner</td><td>AAW-053</td><td>AAW-053</td><td>AM-FM meter</td></tr>
+      <tr><td>TX-8500II</td><td>Tuner</td><td>AAW-054</td><td>AAW-054</td><td>Signal meter</td></tr>
+      <tr><td>TX-9500II</td><td>Tuner</td><td>AAW-054</td><td>AAW-054</td><td>Signal meter</td></tr>
+      <tr><td>TX-8500II</td><td>Tuner</td><td>AAW-055</td><td>AAW-055</td><td>Tuning meter</td></tr>
+      <tr><td>TX-9500II</td><td>Tuner</td><td>AAW-055</td><td>AAW-055</td><td>Tuning meter</td></tr>
+      <tr><td>SPEC-4</td><td>Amplifier</td><td>AAW-068</td><td>AAW-068</td><td>Peak meter (LEFT)</td></tr>
+      <tr><td>SPEC-4</td><td>Amplifier</td><td>AAW-068</td><td>AAW-068</td><td>Peak meter (RIGHT)</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>AAW-069</td><td>AAW-069</td><td>Power meter</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>AAW-069</td><td>AAW-069</td><td>Meter (POWER)</td></tr>
+      <tr><td>SX-1080</td><td>Receiver</td><td>AAW-074</td><td>AAW-074</td><td>Power meter</td></tr>
+      <tr><td>SX-1080</td><td>Receiver</td><td>AAW-075</td><td>AAW-075</td><td>Double meter</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>AAW-075</td><td>AAW-075</td><td>Double meter</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>AAW-075</td><td>AAW-075</td><td>Twin meter (SIGNAL/TUNING)</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>AAW-075</td><td>AAW-075</td><td>Double meter</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>AAW-076</td><td>AAW-076</td><td>Meter (SIGNAL)</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>AAW-077</td><td>AAW-077</td><td>Meter (TUNING)</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>AAW-078</td><td>AAW-078</td><td>Meter (WATTS 8Ω)</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>AAW-079</td><td>AAW-079</td><td>Power meter</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>AAW-080</td><td>AAW-080</td><td>Power meter</td></tr>
+      <tr><td>F-28</td><td>Tuner</td><td>AAW-081</td><td>AAW-081</td><td>Signal meter</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>AAW-087</td><td>AAW-087</td><td>Power meter (HG)</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>AAW-087</td><td>AAW-087</td><td>Power meter (S,S/G)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>AAW-087</td><td>AAW-087</td><td>Meter (WATTS/8Ω - HG)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>AAW-087</td><td>AAW-087</td><td>Meter (WATTS/8Ω) - S,S/G)</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>AAW-089</td><td>AAW-089</td><td>AM-FM meter</td></tr>
+      <tr><td>SX-680/690</td><td>Receiver</td><td>AAW-089</td><td>AAW-089</td><td>AM/FM meter</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>AAW-090</td><td>AAW-090</td><td>Power meter</td></tr>
+      <tr><td>SX-680/690</td><td>Receiver</td><td>AAW-091</td><td>AAW-091</td><td>POWER meter</td></tr>
+      <tr><td>SX-780</td><td>Receiver</td><td>AAW-092</td><td>AAW-092</td><td>Power meter</td></tr>
+      <tr><td>SX-780</td><td>Receiver</td><td>AAW-093</td><td>AAW-093</td><td>AM-FM meter</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>AAW-094</td><td>AAW-094</td><td>Twin meter (POWER)</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>AAW-102</td><td>AAW-102</td><td>Twin meter (SIGNAL/TUNING)</td></tr>
+      <tr><td>TX-7800</td><td>Tuner</td><td>AAW-102</td><td>AAW-102</td><td>Signal/Tuning meter</td></tr>
+      <tr><td>TX-410</td><td>Tuner</td><td>AAW-122</td><td>AAW-122</td><td>TUNING METER</td></tr>
+      <tr><td>SX-3500</td><td>Receiver</td><td>AAW-124</td><td>AAW-124</td><td>SIGNAL/TUNING meter</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>AAW-124</td><td>AAW-124</td><td>Signal/Tuning meter (SX-3600 KU)</td></tr>
+      <tr><td>SX-600L</td><td>Receiver</td><td>AAW-126</td><td>AAW-126</td><td>Signal meter</td></tr>
+      <tr><td>SX-700L</td><td>Receiver</td><td>AAW-126</td><td>AAW-126</td><td>Signal meter</td></tr>
+      <tr><td>SX-600</td><td>Receiver</td><td>AAW-127</td><td>AAW-127</td><td>Signal meter</td></tr>
+      <tr><td>SX-700</td><td>Receiver</td><td>AAW-127</td><td>AAW-127</td><td>Signal meter</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>AAW-128</td><td>AAW-128</td><td>Signal meter</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>AAW-129</td><td>AAW-129</td><td>Signal /Tuning meter (SX-3600 KU)</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>AAX-192</td><td>AAX-192</td><td>label (240V)</td></tr>
+      <tr><td>F-7</td><td>Tuner</td><td>AAX-192</td><td>AAX-192</td><td>240V label</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>AAX-193</td><td>AAX-193</td><td>label (220V)</td></tr>
+      <tr><td>F-7</td><td>Tuner</td><td>AAX-193</td><td>AAX-193</td><td>220V label</td></tr>
+      <tr><td>SA-970</td><td>Integrated Amplifier</td><td>AAY-161</td><td>AAY-161</td><td>Push knob (ADAPTOR/TAPE 2)</td></tr>
+      <tr><td>SA-970</td><td>Integrated Amplifier</td><td>AAY-161</td><td>AAY-161</td><td>Push knob (LOUDNESS)</td></tr>
+      <tr><td>SA-970</td><td>Integrated Amplifier</td><td>AAY-161</td><td>AAY-161</td><td>Push knob (SPEAKERS - BLACK)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-232</td><td>AAY-232</td><td>Push knob (PHONO)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-233</td><td>AAY-233</td><td>Push knob (TUNER)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-234</td><td>AAY-234</td><td>Push knob (CD)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-235</td><td>AAY-235</td><td>Push knob (AUX11)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-236</td><td>AAY-236</td><td>Push knob (AUX2)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-237</td><td>AAY-237</td><td>Push knob (AUX3)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-238</td><td>AAY-238</td><td>Power knob (Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-239</td><td>AAY-239</td><td>Push knob (A)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-240</td><td>AAY-240</td><td>Push knob (B)(Silver)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-244</td><td>AAY-244</td><td>Push knob (PHONO)(Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-245</td><td>AAY-245</td><td>Push knob (TUNER)(Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-246</td><td>AAY-246</td><td>Push knob (CD)(Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-247</td><td>AAY-247</td><td>Push knob (AUX11)(Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-248</td><td>AAY-248</td><td>Push knob (AUX2)(Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-249</td><td>AAY-249</td><td>Push knob (AUX3)(Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-250</td><td>AAY-250</td><td>Power knob (Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-251</td><td>AAY-251</td><td>Push knob (A) (Black)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>AAY-252</td><td>AAY-252</td><td>Push knob (B) (Black)</td></tr>
+      <tr><td>A-77X</td><td>Integrated Amplifier</td><td>AAY-277</td><td>AAY-277</td><td>Push knob (POWER) (Silver) - HE</td></tr>
+      <tr><td>SA-970</td><td>Integrated Amplifier</td><td>AAY-404</td><td>AAY-404</td><td>Power knob (BLACK)</td></tr>
+      <tr><td>SX-1000TA (Early)</td><td>Receiver</td><td>AB1016</td><td>AB1016</td><td>Screw, to fix metal cover</td></tr>
+      <tr><td>QC-800A</td><td>Pre-Amplifier</td><td>ABA-001-0</td><td>ABA-001</td><td>Screw to ﬁx wooden case</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ABA-002-0</td><td>ABA-002</td><td>Tapping screw MSXB</td></tr>
+      <tr><td>H-R9000</td><td>8-Track Tape</td><td>ABA-003-0</td><td>ABA-003</td><td>Special Screw</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-003</td><td>ABA-003</td><td>Screw 3x10</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ABA-003-0</td><td>ABA-003</td><td>Round head screw M3x10</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ABA-004-0</td><td>ABA-004</td><td>Pulley shaft</td></tr>
+      <tr><td>CT-F7171</td><td>Cassette Tape</td><td>ABA-010-0</td><td>ABA-010</td><td>Screw M4x15</td></tr>
+      <tr><td>QA-800A</td><td>Integrated Amplifier</td><td>ABA-010-0</td><td>ABA-010</td><td>Screw to fix wooden case</td></tr>
+      <tr><td>QM-800A</td><td>Amplifier</td><td>ABA-010-0</td><td>ABA-010</td><td>Screw to fix wooden c</td></tr>
+      <tr><td>QX-4000</td><td>Receiver</td><td>ABA-010-0</td><td>ABA-010</td><td>Screw to fix wooden case</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Color-plated wide shoulder screw</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ABA-010-0</td><td>ABA-010</td><td>Screw M4x15</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4 x 15</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>ABA-010-0</td><td>ABA-010</td><td>Screw to fix wooden case</td></tr>
+      <tr><td>RT-1011L</td><td>Reel To Reel Tape</td><td>ABA-010-0</td><td>ABA-010</td><td>Special screw M4 x 15</td></tr>
+      <tr><td>RT-1011L</td><td>Reel To Reel Tape</td><td>ABA-010-0</td><td>ABA-010</td><td>Special screw M4 x 15</td></tr>
+      <tr><td>RT-909</td><td>Reel To Reel Tape</td><td>ABA-010</td><td>ABA-010</td><td>Flange screw M4x5</td></tr>
+      <tr><td>SA-8100</td><td>Integrated Amplifier</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw to fix wooden case</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ABA-010-0</td><td>ABA-010</td><td>Screw to fix wooden case</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4X15</td></tr>
+      <tr><td>SX-434</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4x15</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4 x 15</td></tr>
+      <tr><td>SX-626 (1973)</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4x15</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4x15</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4X15</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw M4 x 15</td></tr>
+      <tr><td>TX-7100</td><td>Tuner</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw to fix wooden cabinet</td></tr>
+      <tr><td>TX-8100</td><td>Tuner</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw to fix wooden cabinet</td></tr>
+      <tr><td>TX-9100</td><td>Tuner</td><td>ABA-010-A</td><td>ABA-010</td><td>Screw to fix wooden case</td></tr>
+      <tr><td>CT-F6161</td><td>Cassette Tape</td><td>ABA-011-0</td><td>ABA-011</td><td>Screw M4x 26</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ABA-011-A</td><td>ABA-011</td><td>Screw M4X26</td></tr>
+      <tr><td>RT-1020L</td><td>Reel To Reel Tape</td><td>ABA-011-0</td><td>ABA-011</td><td>Special screw M4 x 26</td></tr>
+      <tr><td>RT-1020L</td><td>Reel To Reel Tape</td><td>ABA-011-0</td><td>ABA-011</td><td>Special screw M4x 26</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ABA-011-A</td><td>ABA-011</td><td>Screw M4X26</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>ABA-012-0</td><td>ABA-012</td><td>Speaker to fix bottom plate</td></tr>
+      <tr><td>RG-1</td><td>Dynamic Range Expander</td><td>ABA-012</td><td>ABA-012</td><td>SCREW(STEEL)</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ABA-012-0</td><td>ABA-012</td><td>Screw</td></tr>
+      <tr><td>TX-9100</td><td>Tuner</td><td>ABA-012-0</td><td>ABA-012</td><td>Screw to fix bottom plate</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ABA-012-0</td><td>ABA-012</td><td>Tapping screw 4x8</td></tr>
+      <tr><td>SA-5200</td><td>Integrated Amplifier</td><td>ABA-013-0</td><td>ABA-013</td><td>Sideboard fixing screw</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ABA-016-0</td><td>ABA-016</td><td>Screw (switch holder)</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ABA-017-B</td><td>ABA-017</td><td>Special screw</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ABA-018-0</td><td>ABA-018</td><td>Screw (switch holder)</td></tr>
+      <tr><td>TX-5300</td><td>Tuner</td><td>ABA-021-A</td><td>ABA-021</td><td>Screw, front panel</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-025</td><td>ABA-025</td><td>Fan head screw 3x4</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-034</td><td>ABA-034</td><td>Pan head screw 3x4</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-048</td><td>ABA-048</td><td>Screw 3x6</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-048</td><td>ABA-048</td><td>Screw 3x6</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-048</td><td>ABA-048</td><td>Screw 3x6</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-049</td><td>ABA-049</td><td>Screw 3x8</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-049</td><td>ABA-049</td><td>Screw 3x8</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-050</td><td>ABA-050</td><td>Screw 3x10</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-065</td><td>ABA-065</td><td>Screw 3x6</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-069</td><td>ABA-069</td><td>Screw 4x8</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-071</td><td>ABA-071</td><td>Screw 4x16</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ABA-076</td><td>ABA-076</td><td>Screw (for top cover - S)</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ABA-078-A</td><td>ABA-078</td><td>Collar head tapping screw M3x8</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>ABA-079</td><td>ABA-079</td><td>Screw (for top cover - HG)</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>ABA-079</td><td>ABA-079</td><td>Screw (for top cover - S,S/G)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ABA-079</td><td>ABA-079</td><td>Screw (for Top cover - HG)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ABA-079</td><td>ABA-079</td><td>Screw (for Top cover - S,S/G)</td></tr>
+      <tr><td>SA-9900</td><td>Integrated Amplifier</td><td>ABA-079-A</td><td>ABA-079</td><td>Tapping screw 4X3</td></tr>
+      <tr><td>TX-5300</td><td>Tuner</td><td>ABA-079-A</td><td>ABA-079</td><td>Screw, bonnet, M4x8</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ABA-079-A</td><td>ABA-079</td><td>Collar head tapping screw 4x8</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-082</td><td>ABA-082</td><td>Screw 3x10</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-082</td><td>ABA-082</td><td>Screw 3x10</td></tr>
+      <tr><td>SA-9900</td><td>Integrated Amplifier</td><td>ABA-083-0</td><td>ABA-083</td><td>Tapping screw 4X12</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABA-100</td><td>ABA-100</td><td>Screw 5X12</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ABA-115</td><td>ABA-115</td><td>Tapping screw (for SPEAKERS terminal) - HEZ</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-115</td><td>ABA-115</td><td>Special screw</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-115</td><td>ABA-115</td><td>Special screw</td></tr>
+      <tr><td>TX-930</td><td>Tuner</td><td>ABA-115</td><td>ABA-115</td><td>Screw with bar</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABA-140</td><td>ABA-140</td><td>Screw</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ABA-176</td><td>ABA-176</td><td>Screw</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABA-176</td><td>ABA-176</td><td>Screw</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABA-176</td><td>ABA-176</td><td>Screw</td></tr>
+      <tr><td>F-7</td><td>Tuner</td><td>ABA-176</td><td>ABA-176</td><td>Screw</td></tr>
+      <tr><td>SX-50</td><td>Receiver</td><td>ABA-176</td><td>ABA-176</td><td>Screw</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ABA-176</td><td>ABA-176</td><td>Screw</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ABA-176</td><td>ABA-176</td><td>Terminal screw</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-180</td><td>ABA-180</td><td>Screw 4 x 6 (for bonnet case - TX-608/KU)</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ABA-187</td><td>ABA-187</td><td>Screw</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABA-193</td><td>ABA-193</td><td>Screw</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABA-193</td><td>ABA-193</td><td>Screw</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ABA-193</td><td>ABA-193</td><td>Screw</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ABA-204</td><td>ABA-204</td><td>Tapping screw</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ABA-204</td><td>ABA-204</td><td>Screw (3 X 6)</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ABA-206</td><td>ABA-206</td><td>Screw (for top cover - KU, S/G)</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-206</td><td>ABA-206</td><td>Screw 4 x 25 (for side panels - TX-6800/KU)</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-206</td><td>ABA-206</td><td>Washerfaced screw 4x25</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABA-214</td><td>ABA-214</td><td>Screw</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABA-214</td><td>ABA-214</td><td>Screw</td></tr>
+      <tr><td>SR-303</td><td>Reverb</td><td>ABA-228</td><td>ABA-228</td><td>Screw 3x6</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABA-228</td><td>ABA-228</td><td>Screw 3x6</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ABA-234</td><td>ABA-234</td><td>Screw (3X12)</td></tr>
+      <tr><td>TX-130L</td><td>Tuner</td><td>ABA-252</td><td>ABA-252</td><td>Screw</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ABA-258</td><td>ABA-258</td><td>Screw</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABA-258</td><td>ABA-258</td><td>Screw</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABA-258</td><td>ABA-258</td><td>Screw</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ABA-258</td><td>ABA-258</td><td>Screw (for heat sink of D25)</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABA-261</td><td>ABA-261</td><td>Screw</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABA-261</td><td>ABA-261</td><td>Brazier head screw</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ABA-283</td><td>ABA-283</td><td>PWB Screw</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ABA-283</td><td>ABA-283</td><td>Screw</td></tr>
+      <tr><td>SA-1000</td><td>Integrated Amplifier</td><td>ABE-001-O</td><td>ABE-001</td><td>Tooth washer</td></tr>
+      <tr><td>SA-9900</td><td>Integrated Amplifier</td><td>ABE-001-0</td><td>ABE-001</td><td>Claw washer</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ABE-001-0</td><td>ABE-001</td><td>Claw washer</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ABE-005-0</td><td>ABE-005</td><td>Washer</td></tr>
+      <tr><td>SA-9900</td><td>Integrated Amplifier</td><td>ABE-006-0</td><td>ABE-006</td><td>Claw washer</td></tr>
+      <tr><td>TX-6800/608</td><td>Tuner</td><td>ABE-035</td><td>ABE-035</td><td>Washer</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ABE-072</td><td>ABE-072</td><td>CS-type washer</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>ABF-003-0</td><td>ABF-003</td><td>Washer</td></tr>
+      <tr><td>SX-D5000</td><td>Receiver</td><td>ABH-043</td><td>ABH-043</td><td>Coiled spring</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABH-045</td><td>ABH-045</td><td>Spring</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABH-045</td><td>ABH-045</td><td>Coiled spring</td></tr>
+      <tr><td>GR-777</td><td>Equalizer</td><td>ABH-052</td><td>ABH-052</td><td>Coil spring</td></tr>
+      <tr><td>SX-D5000</td><td>Receiver</td><td>ABH-058</td><td>ABH-058</td><td>Coiled spring</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABH-069</td><td>ABH-069</td><td>Spring</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABH-069</td><td>ABH-069</td><td>Coiled spring</td></tr>
+      <tr><td>F-7</td><td>Tuner</td><td>ABH-069</td><td>ABH-069</td><td>Coiled spring</td></tr>
+      <tr><td>F-7</td><td>Tuner</td><td>ABH-070</td><td>ABH-070</td><td>Coiled spring</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ABH-088</td><td>ABH-088</td><td>Coiled spring</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ABH-088</td><td>ABH-088</td><td>Coiled spring</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ABH-088</td><td>ABH-088</td><td>Coiled spring</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ABH-088</td><td>ABH-088</td><td>Coiled spring</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABH-091</td><td>ABH-091</td><td>Spring</td></tr>
+      <tr><td>SX-8</td><td>Receiver</td><td>ABH-091</td><td>ABH-091</td><td>Coiled spring</td></tr>
+      <tr><td>SX-8</td><td>Receiver</td><td>ABH-092</td><td>ABH-092</td><td>Coiled spring</td></tr>
+      <tr><td>SX-8</td><td>Receiver</td><td>ABH-093</td><td>ABH-093</td><td>Coiled spring</td></tr>
+      <tr><td>F-90</td><td>Tuner</td><td>ABH-095</td><td>ABH-095</td><td>Coiled spring</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ABH-099</td><td>ABH-099</td><td>Coil spring</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABH-099</td><td>ABH-099</td><td>Spring</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABH-100</td><td>ABH-100</td><td>Spring</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABH-102</td><td>ABH-102</td><td>Spring</td></tr>
+      <tr><td>TX-950</td><td>Tuner</td><td>ABH-134</td><td>ABH-134</td><td>Coiled spring</td></tr>
+      <tr><td>A-77X</td><td>Integrated Amplifier</td><td>ABH-135</td><td>ABH-135</td><td>Spring</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ABH-135</td><td>ABH-135</td><td>Spring</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ABH-159</td><td>ABH-159</td><td>Coil spring</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ABH-169</td><td>ABH-169</td><td>Coil spring</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABH-230</td><td>ABH-230</td><td>Capacitor</td></tr>
+      <tr><td>GR-551</td><td>Equalizer</td><td>ABH1021</td><td>ABH1021</td><td>Coll spring</td></tr>
+      <tr><td>GR-555</td><td>Equalizer</td><td>ABH1021</td><td>ABH1021</td><td>Coll spring</td></tr>
+      <tr><td>GR-777</td><td>Equalizer</td><td>ABH1036</td><td>ABH1036</td><td>Coll spring</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ABK-003-0</td><td>ABK-003</td><td>Hold plate</td></tr>
+      <tr><td>SX-626 (1973)</td><td>Receiver</td><td>ABL-069-0</td><td>ABL-069</td><td>Model name plate    NBW</td></tr>
+      <tr><td>SA-9900</td><td>Integrated Amplifier</td><td>ABN-009-0</td><td>ABN-009</td><td>Special nut</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ABN-018</td><td>ABN-018</td><td>Boss</td></tr>
+      <tr><td>SX-750</td><td>Receiver</td><td>ABN-018</td><td>ABN-018</td><td>Special Nut</td></tr>
+      <tr><td>SA-7800</td><td>Integrated Amplifier</td><td>ABN-024</td><td>ABN-024</td><td>Nut M9</td></tr>
+      <tr><td>SA-8500II</td><td>Integrated Amplifier</td><td>ABN-024</td><td>ABN-024</td><td>Washer faced nut M9</td></tr>
+      <tr><td>SA-8800</td><td>Integrated Amplifier</td><td>ABN-024</td><td>ABN-024</td><td>Nut M9</td></tr>
+      <tr><td>SA-9500II</td><td>Integrated Amplifier</td><td>ABN-024</td><td>ABN-024</td><td>Washer faced nut M9</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ABN-024</td><td>ABN-024</td><td>Washer faced nut</td></tr>
+      <tr><td>SX-1050</td><td>Receiver</td><td>ABN-024</td><td>ABN-024</td><td>Washer faced nut 9ɸ</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ABN-024</td><td>ABN-024</td><td>Washer faced nut</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ABN-024</td><td>ABN-024</td><td>Washer faced nut</td></tr>
+      <tr><td>SX-3500</td><td>Receiver</td><td>ABN-024</td><td>ABN-024</td><td>Nut M9</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ABN-024</td><td>ABN-024</td><td>Nut M9</td></tr>
+      <tr><td>SX-850</td><td>Receiver</td><td>ABN-024</td><td>ABN-024</td><td>Flange nut 9ɸ</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ABN-024</td><td>ABN-024</td><td>Washer faced nut</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ABN-025</td><td>ABN-025</td><td>Boss</td></tr>
+      <tr><td>SX-550</td><td>Receiver</td><td>ABN-025</td><td>ABN-025</td><td>Union Nut</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ABN-028</td><td>ABN-028</td><td>Nut</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ABN-028</td><td>ABN-028</td><td>Special nut</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABN-028</td><td>ABN-028</td><td>Nut</td></tr>
+      <tr><td>RG-2</td><td>Dynamic Range Expander</td><td>ABN-028</td><td>ABN-028</td><td>Special nut</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ABN-028</td><td>ABN-028</td><td>Nut</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ABN-028</td><td>ABN-028</td><td>Union nut</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABN-046</td><td>ABN-046</td><td>Boss</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABN-046</td><td>ABN-046</td><td>Union nut</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ABN-047</td><td>ABN-047</td><td>Boss</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ABN-047</td><td>ABN-047</td><td>Union unit</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ABN-047</td><td>ABN-047</td><td>Union nut</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ABN-047</td><td>ABN-047</td><td>Union nut</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ABN-048</td><td>ABN-048</td><td>Washerfaced nut</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABN-048</td><td>ABN-048</td><td>Washerlacrzd nut</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ABN-048</td><td>ABN-048</td><td>Nut</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ABN-048</td><td>ABN-048</td><td>Nut (M9)</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ABN-048</td><td>ABN-048</td><td>Washerfaced nut</td></tr>
+      <tr><td>SA-708</td><td>Integrated Amplifier</td><td>ABN-049</td><td>ABN-049</td><td>Union nut</td></tr>
+      <tr><td>SA-708</td><td>Integrated Amplifier</td><td>ABN-050</td><td>ABN-050</td><td>Union nut</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ABN-066</td><td>ABN-066</td><td>Union nut</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ABN-074</td><td>ABN-074</td><td>Guide nut A</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ABN-074</td><td>ABN-074</td><td>Guide nut A</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ABN-075</td><td>ABN-075</td><td>Guide nut B</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ABN-075</td><td>ABN-075</td><td>Guide nut B</td></tr>
+      <tr><td>SX-50</td><td>Receiver</td><td>ABN-080</td><td>ABN-080</td><td>Nut</td></tr>
+      <tr><td>RG-60</td><td>Dynamic Range Expander</td><td>ABN-082</td><td>ABN-082</td><td>Guide boss</td></tr>
+      <tr><td>SX-1000TA (Early)</td><td>Receiver</td><td>AC6433</td><td>AC6433</td><td>Variable Capacitor</td></tr>
+      <tr><td>SX-525</td><td>Receiver</td><td>ACE -001-0</td><td>ACE -001</td><td>Oil paper 0.01  800V</td></tr>
+      <tr><td>SA-500A</td><td>Integrated Amplifier</td><td>ACE-001-0</td><td>ACE-001</td><td>Oil paper 0.01 800V (KU/KC)</td></tr>
+      <tr><td>SA-800</td><td>Integrated Amplifier</td><td>ACE-001-A</td><td>ACE-001</td><td>Oil 0.01 800V (KUW)</td></tr>
+      <tr><td>SX-424</td><td>Receiver</td><td>ACE-001-A</td><td>ACE-001</td><td>Oil paper  0.01  800V (KUW)</td></tr>
+      <tr><td>SX-626 (1971)</td><td>Receiver</td><td>ACE-001-A</td><td>ACE-001</td><td>Oil paper 0.01 800V</td></tr>
+      <tr><td>SX-727</td><td>Receiver</td><td>ACE-001-A</td><td>ACE-001</td><td>Oil paper  0.01  800V (KUW)</td></tr>
+      <tr><td>SX-828</td><td>Receiver</td><td>ACE-001-A</td><td>ACE-001</td><td>Oil paper  0.01  800V (KUW)</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>ACE-002-0</td><td>ACE-002</td><td>Metallized mylar 0.01 800V (KUW model)</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACE-002-0</td><td>ACE-002</td><td>Metalized mylar 0.01 250V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACE-002-0</td><td>ACE-002</td><td>Metallized mylar 0.01 250V</td></tr>
+      <tr><td>SA-7100</td><td>Integrated Amplifier</td><td>ACE-002-0</td><td>ACE-002</td><td>Metallized mylar 0.01  0.01  800V KUW model</td></tr>
+      <tr><td>SA-8100</td><td>Integrated Amplifier</td><td>ACE-002-0</td><td>ACE-002</td><td>Metallized mylar 0.01 800V  KUW model only</td></tr>
+      <tr><td>SR-202W</td><td>Reverb</td><td>ACE-003-0</td><td>ACE-003</td><td>Screen Board</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACE-004-0</td><td>ACE-004</td><td>Wire clip</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACE-214</td><td>ACE-214</td><td>Capacitor (0.22/AC125V) - KU</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACE-214</td><td>ACE-214</td><td>Capacitor (0.22/AC125V) - KU</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACE-214</td><td>ACE-214</td><td>Capacitor (0.22/AC125V) - KU</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACE-214</td><td>ACE-214</td><td>(0.22/AC125V) - KU</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACE-214</td><td>ACE-214</td><td>(0.22/AC125V) - KU</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22/AC250V) - HB</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22/AC250V) - HE</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22/AC250V) - S</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22/AC250V) - YP</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22) - S</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22) - S/G</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22) - YP</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22) - S</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22) - S/G</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>Capacitor (0.22) - YP</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>(0.22/AC250V) - HB</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>(0.22/AC250V) - HE</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>(0.22/AC250V) - S</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>(0.22/AC250V) - S/G</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>(0.22/AC250V) - S</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACE-215</td><td>ACE-215</td><td>(0.22/AC250V) - S/G</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ACE-216</td><td>ACE-216</td><td>Capacitor (0.1/AC125V)</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACE-327</td><td>ACE-327</td><td>Strain relief - KU</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ACE-506</td><td>ACE-506</td><td>Ceramic capacitor 0.01/AC250V</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor (0.01/AC250V) - KU</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor 0.01/250V</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (N-type)</td></tr>
+      <tr><td>M-25</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor</td></tr>
+      <tr><td>QD-240</td><td>Other</td><td>ACG-001</td><td>ACG-001</td><td>CAPACITOR .01MF/250V</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V (FW model only)</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V (FW model)</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V (FW model)</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor 0.01uF 250V</td></tr>
+      <tr><td>RG-1</td><td>Dynamic Range Expander</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor 0.01 250V</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor (0.01) - S</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor (0.01) - YP</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor (0.01) - S</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor (0.01) - YP</td></tr>
+      <tr><td>SA-420</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC 250V) - S</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC220V) - HB</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC220V) - HE</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC220V) - HEZ</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC220V) - S</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC220V) - YP</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S,S/G)</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S,S/G,HG)</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>SA-6800/608</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (HG)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S/G)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S/G)</td></tr>
+      <tr><td>SA-710</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor - KU</td></tr>
+      <tr><td>SA-7500II</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (KU)</td></tr>
+      <tr><td>SA-8500II</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC250V) - HB</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC250V) - HE</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC250V) - HEZ</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC250V) - S/SG</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC250V) - YP</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>(0.01/AC250V) - S</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>(0.01/AC250V) - S/G</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>(0.01/AC250V) - YP</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>(0.01/AC250V) - S</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>(0.01/AC250V) - S/G</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>(0.01/AC250V) - YP</td></tr>
+      <tr><td>SA-9500</td><td>Integrated Amplifier</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>SA-9500II</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/250V</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/250V (S, S/G)</td></tr>
+      <tr><td>SG-9</td><td>Equalizer</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC 250V) - KU</td></tr>
+      <tr><td>SG-9</td><td>Equalizer</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC 250V) - R</td></tr>
+      <tr><td>SG-9</td><td>Equalizer</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/AC 250V) - R/G</td></tr>
+      <tr><td>SG-90</td><td>Equalizer</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/AC250V (S,S/G)</td></tr>
+      <tr><td>SG-9500</td><td>Equalizer</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (C1, 0.01/1F 250V)</td></tr>
+      <tr><td>SG-9800</td><td>Equalizer</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/250V)</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SPEC-4</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>SPEC-4</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor 0.01uF/250V</td></tr>
+      <tr><td>SPEC-4</td><td>Amplifier</td><td>ACG-001</td><td>ACG-001</td><td>Ceramlc 0.01 250V</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic 0.01 250V (F)</td></tr>
+      <tr><td>SX-1080</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic  0.01  250V</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (HG/S)</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Capacitor  0.01/250V (S)</td></tr>
+      <tr><td>SX-3900</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor 0.01/250V</td></tr>
+      <tr><td>SX-434</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (FV)</td></tr>
+      <tr><td>SX-434</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (FV)</td></tr>
+      <tr><td>SX-434</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (KCU,FV)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 125V (KC)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (KU)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (KU/HG/S)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S)</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250 (FV)</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (FV)</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (KCU,FV)</td></tr>
+      <tr><td>SX-550</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V (DC1 .4kV) (KU)</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/250V (SX-580/KU)</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/250V (SX-590/HG)</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/250V (SX-590/HGW4)</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (FV)</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (KCU,FV)</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V (DC1 .4kV) (KU)</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V (DC1.4kV) (KU/S)</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (HG/S)</td></tr>
+      <tr><td>SX-680/690</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/250V</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (F,GN)</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (KCU,F)</td></tr>
+      <tr><td>SX-750</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 150V (DC1 .4kV)</td></tr>
+      <tr><td>SX-780</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 /250V</td></tr>
+      <tr><td>SX-8</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor S/SG-type</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (F)</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01/250v</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic  0.01  250V (F)</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01  250V</td></tr>
+      <tr><td>SX-D5000</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/250V) - HG</td></tr>
+      <tr><td>SX-D5000</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (0.01/250V) - KU</td></tr>
+      <tr><td>SX-D7000</td><td>Receiver</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic capacitor (KU)</td></tr>
+      <tr><td>TX-6500II</td><td>Tuner</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S)</td></tr>
+      <tr><td>TX-6500II</td><td>Tuner</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V (S)</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic capacitor 0.01 250V</td></tr>
+      <tr><td>TX-9500</td><td>Tuner</td><td>ACG-001-0</td><td>ACG-001</td><td>Ceramic capacitor 0.01 250V</td></tr>
+      <tr><td>TX-9500II</td><td>Tuner</td><td>ACG-001</td><td>ACG-001</td><td>Ceramic 0.01 250V</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>ACG-002-0</td><td>ACG-002</td><td>Ceramic 0.01 150V (KUW model)</td></tr>
+      <tr><td>SA-7100</td><td>Integrated Amplifier</td><td>ACG-002-0</td><td>ACG-002</td><td>Ceramic  0.01  1 50V KUW model</td></tr>
+      <tr><td>SA-8100</td><td>Integrated Amplifier</td><td>ACG-002-0</td><td>ACG-002</td><td>Ceramic 0.01 150V  KUW model only</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V (KL-type)</td></tr>
+      <tr><td>SA-5500II</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Capacitor</td></tr>
+      <tr><td>SA-6500II</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V</td></tr>
+      <tr><td>SA-6500II</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V</td></tr>
+      <tr><td>SA-7500II</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V</td></tr>
+      <tr><td>SA-7500II</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic capacitor 0.01uF 125V</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V (KU)</td></tr>
+      <tr><td>SA-8800</td><td>Integrated Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic capacitor (0.01 uF 125V)</td></tr>
+      <tr><td>SA-9500</td><td>Integrated Amplifier</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SG-9500</td><td>Equalizer</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic capacitor (0.01uF 150V)</td></tr>
+      <tr><td>SPEC-1</td><td>Pre-Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic 0.01 250V (KCU)</td></tr>
+      <tr><td>SX-1050</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SX-1050</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V</td></tr>
+      <tr><td>SX-1080</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic  0.01  125V</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V  DC 1.4kV (KCU)</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V  DC 1.4kV (KCU)</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic, 0.01 uf, 150V(DC1.4kV)</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic, 0.01 uf, 150V(DC1.4kV)</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic (For KU type)  0.01  125V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic  0.01  125V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic  0.01  125V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic  0.01  125V</td></tr>
+      <tr><td>SX-434</td><td>Receiver</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic  0.01  250V (KCU)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V (KC)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 125V (KC/KU)</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic  0.01  250V (KCU)</td></tr>
+      <tr><td>SX-550</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1 .4kV)</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01/125V (SX-580/KU)</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic  0.01  250V (KCU)</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1.4kV - KCU)</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1.4kV) (KC)</td></tr>
+      <tr><td>SX-680/690</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01/125V</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic  0.01  250V (KCU)</td></tr>
+      <tr><td>SX-750</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1 .4kV)</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic  0.01  250V (KCU)</td></tr>
+      <tr><td>SX-850</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1.4kV)</td></tr>
+      <tr><td>SX-850</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1.4kV)</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ACG-003-0</td><td>ACG-003</td><td>Ceramic  0.01  250V (KCU)</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1.4kV)</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01 150V (DC1.4kV)</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic capacitor (0.01pF 150V,DC1.4kV)</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic capacitor(0.01uF 150V, DC1.4kV)</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>ACG-003</td><td>ACG-003</td><td>Ceramic 0.01  125V</td></tr>
+      <tr><td>SA-3000</td><td>Integrated Amplifier</td><td>ACG-004</td><td>ACG-004</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ACG-004-0</td><td>ACG-004</td><td>Ceramic  0.01  150V</td></tr>
+      <tr><td>RG-9</td><td>Dynamic Range Expander</td><td>ACG-009</td><td>ACG-009</td><td>CAPACITOR(CERAMIC .047 UFD)</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-009</td><td>ACG-009</td><td>Ceramic  0.047  150V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-009</td><td>ACG-009</td><td>Ceramic  0.047  150V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-009</td><td>ACG-009</td><td>Ceramic  0.047  150V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-009</td><td>ACG-009</td><td>Ceramic  0.047  150V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACG-009</td><td>ACG-009</td><td>Ceramic  0.047  150V</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>ACG-014</td><td>ACG-014</td><td>Ceramic 0.01 125V (KC)</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>ACG-014</td><td>ACG-014</td><td>Ceramic 0.01 125V (KC)</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACG-014</td><td>ACG-014</td><td>Ceramic 0.01 125V (KC)</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACG-014</td><td>ACG-014</td><td>Ceramic 0.01 125V (KC)</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>ACG-014</td><td>ACG-014</td><td>Ceramic (For KC type)  0.01  125V</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic (0.01/630V)</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor (0.01/AC125V) - KU</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor (0.01/AC125V) - KU</td></tr>
+      <tr><td>SG-9</td><td>Equalizer</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor (0.01/AC125V) - KC</td></tr>
+      <tr><td>SX-202</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic (0.01/AC125V)</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Capacitor  0.01/125V (KU)</td></tr>
+      <tr><td>SX-3500</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor 0.01/125V</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor (0.01 /1 25V)</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor</td></tr>
+      <tr><td>SX-8</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor  KU-type</td></tr>
+      <tr><td>SX-D5000</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor (0.01/125V) - KU</td></tr>
+      <tr><td>SX-D7000</td><td>Receiver</td><td>ACG-017</td><td>ACG-017</td><td>Ceramic capacitor (KC)</td></tr>
+      <tr><td>A-6</td><td>Integrated Amplifier</td><td>ACG-019</td><td>ACG-019</td><td>Ceramic capacitor (0.01/AC150V) - KU</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACG-501</td><td>ACG-501</td><td>Capacitor (0.01) - KU</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACG-501</td><td>ACG-501</td><td>Capacitor (0.01) - KU</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01/AC125V) - HB</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01/AC125V) - HE</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01/AC125V) - YP</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Ceramic capacitor 0.01/AC250V</td></tr>
+      <tr><td>A-77X</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01/AC250V)</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01) - S/G</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01/AC125V) - KU</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01) - S/G</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>Capacitor (0.01/AC125V) - KU</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>(0.01/AC125V) - KU</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACG-502</td><td>ACG-502</td><td>(0.01/AC125V) - KU</td></tr>
+      <tr><td>SG-90</td><td>Equalizer</td><td>ACG-502</td><td>ACG-502</td><td>Ceramic 0.01/AC125V (KU)</td></tr>
+      <tr><td>SX-50</td><td>Receiver</td><td>ACG-502</td><td>ACG-502</td><td>Ceramic (0.01/AC 125V)</td></tr>
+      <tr><td>SX-828</td><td>Receiver</td><td>ACH 001-C</td><td>ACH 001</td><td>Electrolytic  1000  63V</td></tr>
+      <tr><td>SA-1000</td><td>Integrated Amplifier</td><td>ACH-001-B</td><td>ACH-001</td><td>Electrolytic 1000 63V</td></tr>
+      <tr><td>SA-800</td><td>Integrated Amplifier</td><td>ACH-001-B</td><td>ACH-001</td><td>Electrolytic 1000 63V (FVW)</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>ACH-001-0</td><td>ACH-001</td><td>Ceramic 0.01 250V (F)</td></tr>
+      <tr><td>SX-727</td><td>Receiver</td><td>ACH-001-C</td><td>ACH-001</td><td>Electrolytic  1000  63V</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACH-001-C</td><td>ACH-001</td><td>Electrolytic  1000  63V</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACH-001-C</td><td>ACH-001</td><td>Electrolytic capacitor 1,000uF 63V</td></tr>
+      <tr><td>QA-800</td><td>Integrated Amplifier</td><td>ACH-003-A</td><td>ACH-003</td><td>Electrolytic 4700 63V</td></tr>
+      <tr><td>QA-800A</td><td>Integrated Amplifier</td><td>ACH-003-A</td><td>ACH-003</td><td>Electrolytic 4700 63V</td></tr>
+      <tr><td>SX-6000</td><td>Receiver</td><td>ACH-005-0</td><td>ACH-005</td><td>Electrolytic 3300 80V</td></tr>
+      <tr><td>QX-8000A</td><td>Receiver</td><td>ACH-007-0</td><td>ACH-007</td><td>Electrolytic 4700 63V</td></tr>
+      <tr><td>QL-600</td><td>Integrated Amplifier</td><td>ACH-008-0</td><td>ACH-008</td><td>Electrolytic 3300 50V</td></tr>
+      <tr><td>QL-600A</td><td>Integrated Amplifier</td><td>ACH-008-A</td><td>ACH-008</td><td>Electrolytic 3300 50V</td></tr>
+      <tr><td>SX-525</td><td>Receiver</td><td>ACH-011-A</td><td>ACH-011</td><td>Electrolytic 3300  63V</td></tr>
+      <tr><td>SX-626 (1971)</td><td>Receiver</td><td>ACH-011-A</td><td>ACH-011</td><td>Electrolytic 3300 63V</td></tr>
+      <tr><td>SX-626 (1973)</td><td>Receiver</td><td>ACH-011-A</td><td>ACH-011</td><td>Electrolytic capacitor 3,300uF, 63V</td></tr>
+      <tr><td>SX-727</td><td>Receiver</td><td>ACH-014-0</td><td>ACH-014</td><td>Electrolytic  6800  50V</td></tr>
+      <tr><td>SX-727</td><td>Receiver</td><td>ACH-014-0</td><td>ACH-014</td><td>Electrolytic  6800  50V</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ACH-014-0</td><td>ACH-014</td><td>Electrolytic  6800  50V</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ACH-014-0</td><td>ACH-014</td><td>Electrolytic  6800  50V</td></tr>
+      <tr><td>SX-737</td><td>Receiver</td><td>ACH-014-0</td><td>ACH-014</td><td>Electrolytic capacitor 6,800uF 50V</td></tr>
+      <tr><td>SX-828</td><td>Receiver</td><td>ACH-015-0</td><td>ACH-015</td><td>Electrolytic  8000  50V</td></tr>
+      <tr><td>SX-828</td><td>Receiver</td><td>ACH-015-0</td><td>ACH-015</td><td>Electrolytic  8000  50V</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACH-015-0</td><td>ACH-015</td><td>Electrolytic  8000  50V</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACH-015-0</td><td>ACH-015</td><td>Electrolytic  8000  50V</td></tr>
+      <tr><td>SX-838</td><td>Receiver</td><td>ACH-015-0</td><td>ACH-015</td><td>Electrolytic capacitor 8,000uF 50V</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>ACH-016-A</td><td>ACH-016</td><td>Electrolytic capacitor 4700uF 50V</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>ACH-016-A</td><td>ACH-016</td><td>Electrolytic capacitor 4700uF 50V</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>ACH-016-A</td><td>ACH-016</td><td>Electrolytic capacitor 4700uF 50V</td></tr>
+      <tr><td>QX-9900</td><td>Receiver</td><td>ACH-016-A</td><td>ACH-016</td><td>Electrolytic capacitor 4700uF 50v</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACH-017-0</td><td>ACH-017</td><td>Electrolytic capacitor 40+40gF 315V</td></tr>
+      <tr><td>SA-7100</td><td>Integrated Amplifier</td><td>ACH-018-0</td><td>ACH-018</td><td>Electrolytic  6800  35V</td></tr>
+      <tr><td>SA-7100</td><td>Integrated Amplifier</td><td>ACH-018-0</td><td>ACH-018</td><td>Electrolytic  6800  35V</td></tr>
+      <tr><td>SA-7500</td><td>Integrated Amplifier</td><td>ACH-019-0</td><td>ACH-019</td><td>Electrolytic capacitor (C3, C4) 10,000uF, 50V</td></tr>
+      <tr><td>SA-8100</td><td>Integrated Amplifier</td><td>ACH-019-0</td><td>ACH-019</td><td>Electrolytic capacitor 10000uF 50V</td></tr>
+      <tr><td>SA-8100</td><td>Integrated Amplifier</td><td>ACH-019-0</td><td>ACH-019</td><td>Electrolytic capacitor 10000uF 50V</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ACH-019-0</td><td>ACH-019</td><td>Electrolytic  10,000  50V</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ACH-019-0</td><td>ACH-019</td><td>Electrolytic  10,000  50V</td></tr>
+      <tr><td>SX-939</td><td>Receiver</td><td>ACH-019-0</td><td>ACH-019</td><td>Electrolytic capacitor l0,000uF 50V</td></tr>
+      <tr><td>SA-9100</td><td>Integrated Amplifier</td><td>ACH-020-0</td><td>ACH-020</td><td>Electrolytic capacitor 15000 uF 50V</td></tr>
+      <tr><td>SA-9100</td><td>Integrated Amplifier</td><td>ACH-020-0</td><td>ACH-020</td><td>Electrolytic capacitor 15000 uF 50V</td></tr>
+      <tr><td>SA-5200</td><td>Integrated Amplifier</td><td>ACH-022-0</td><td>ACH-022</td><td>Electrolytic capacitor 4,700uF 50V</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACH-028-0</td><td>ACH-028</td><td>Electrolytic 15,000 50V</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACH-028-0</td><td>ACH-028</td><td>Electrolytic 15,000 50V</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACH-029</td><td>ACH-029</td><td>Electrolytic capacitor 10,000uF 50V</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACH-029</td><td>ACH-029</td><td>Electrolytic capacitor 10,000uF 50V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACH-029-0</td><td>ACH-029</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACH-029-0</td><td>ACH-029</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACH-029-0</td><td>ACH-029</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACH-029-0</td><td>ACH-029</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACH-029</td><td>ACH-029</td><td>Electrolytic capacitor 10,000/1F 50V</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACH-029</td><td>ACH-029</td><td>Electrolytic capacitor 10,000uF 50V</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACH-029</td><td>ACH-029</td><td>Electrolytic capacitor 10,000uF 50V</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACH-029</td><td>ACH-029</td><td>Electrolytic capacitor 10,000uF 50V</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACH-035-0</td><td>ACH-035</td><td>Electrolytic 33000 80V</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACH-035-0</td><td>ACH-035</td><td>Electrolytic 33000 80V</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACH-035-0</td><td>ACH-035</td><td>Electrolytic capacitor 33,000pF 80V</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>ACH-037-0</td><td>ACH-037</td><td>Electrolytic 18000 63V</td></tr>
+      <tr><td>SX-1010</td><td>Receiver</td><td>ACH-037-0</td><td>ACH-037</td><td>Electrolytic 18000 63V</td></tr>
+      <tr><td>SX-434</td><td>Receiver</td><td>ACH-040-0</td><td>ACH-040</td><td>Electrolytic capacitor 3,300 uF, 25V</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>ACH-041-0</td><td>ACH-041</td><td>Electrolytic  6800  35V</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>ACH-041-0</td><td>ACH-041</td><td>Electrolytic  6800  35V</td></tr>
+      <tr><td>SX-636</td><td>Receiver</td><td>ACH-041-0</td><td>ACH-041</td><td>Electrolytic capacitor 6,800pF, 35V</td></tr>
+      <tr><td>SX-535</td><td>Receiver</td><td>ACH-042-0</td><td>ACH-042</td><td>Electrolytic capacitor 4,700uF 35V</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACH-043</td><td>ACH-043</td><td>Electrolytic capacitor 4700/uF 35V</td></tr>
+      <tr><td>SA-9900</td><td>Integrated Amplifier</td><td>ACH-046-0</td><td>ACH-046</td><td>Electrolytic capacitor 22,000uF 63V (C1, C2)</td></tr>
+      <tr><td>SA-9500</td><td>Integrated Amplifier</td><td>ACH-047-0</td><td>ACH-047</td><td>Electrolytic 18,000 63V</td></tr>
+      <tr><td>SA-9500</td><td>Integrated Amplifier</td><td>ACH-047-0</td><td>ACH-047</td><td>Electrolytic 18,000 63V</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>ACH-047</td><td>ACH-047</td><td>Capacitor</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>ACH-047</td><td>ACH-047</td><td>Electrolytic 18,000  63V</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>ACH-047</td><td>ACH-047</td><td>Electrolytic 18,000  63V</td></tr>
+      <tr><td>SA-8500</td><td>Integrated Amplifier</td><td>ACH-048-0</td><td>ACH-048</td><td>Electrolytic capacitor 15000uF 50V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACH-052</td><td>ACH-052</td><td>Electrolytic 15000 100V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACH-052</td><td>ACH-052</td><td>Electrolytic 15000 100V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACH-052</td><td>ACH-052</td><td>Electrolytic 15000 100V</td></tr>
+      <tr><td>SPEC-2</td><td>Amplifier</td><td>ACH-052</td><td>ACH-052</td><td>Electrolytic 15000 100V</td></tr>
+      <tr><td>SX-550</td><td>Receiver</td><td>ACH-055</td><td>ACH-055</td><td>Electrolytic 6,800 35V</td></tr>
+      <tr><td>SX-550</td><td>Receiver</td><td>ACH-055</td><td>ACH-055</td><td>Electrolytic 6,800 35V</td></tr>
+      <tr><td>SPEC-4</td><td>Amplifier</td><td>ACH-056</td><td>ACH-056</td><td>Electrolytic capacitor 22,000uF/80V</td></tr>
+      <tr><td>SX-1050</td><td>Receiver</td><td>ACH-056</td><td>ACH-056</td><td>Electrolytic 22000 80V</td></tr>
+      <tr><td>SX-1050</td><td>Receiver</td><td>ACH-056</td><td>ACH-056</td><td>Electrolytic 22000 80V</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACH-056</td><td>ACH-056</td><td>Electrolytic, 22000 uf, 80V</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACH-056</td><td>ACH-056</td><td>Electrolytic, 22000 uf, 80V</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACH-056</td><td>ACH-056</td><td>Electrolytic, 22000 uf, 80V</td></tr>
+      <tr><td>SX-1250</td><td>Receiver</td><td>ACH-056</td><td>ACH-056</td><td>Electrolytic, 22000 uf, 80V</td></tr>
+      <tr><td>M-22</td><td>Amplifier</td><td>ACH-057</td><td>ACH-057</td><td>Electrolytic capacitor</td></tr>
+      <tr><td>SX-750</td><td>Receiver</td><td>ACH-057</td><td>ACH-057</td><td>Electrolytic 15,000 50V</td></tr>
+      <tr><td>SX-750</td><td>Receiver</td><td>ACH-057</td><td>ACH-057</td><td>Electrolytic 15,000 50V</td></tr>
+      <tr><td>SA-6500</td><td>Integrated Amplifier</td><td>ACH-058</td><td>ACH-058</td><td>Electrolytic capacitor 8,200uF 35V</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ACH-059</td><td>ACH-059</td><td>Electrolytic 22000 63V</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ACH-059</td><td>ACH-059</td><td>Electrolytic 22000 63V</td></tr>
+      <tr><td>SA-7500II</td><td>Integrated Amplifier</td><td>ACH-062</td><td>ACH-062</td><td>Electrolytic capacitor 10,000uF 50v</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACH-064</td><td>ACH-064</td><td>CAPACITOR(ALUMINUM) SUB ACH-233</td></tr>
+      <tr><td>SA-8500II</td><td>Integrated Amplifier</td><td>ACH-064</td><td>ACH-064</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>SA-8500II</td><td>Integrated Amplifier</td><td>ACH-064</td><td>ACH-064</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>SA-8500II</td><td>Integrated Amplifier</td><td>ACH-064</td><td>ACH-064</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>SA-8500II</td><td>Integrated Amplifier</td><td>ACH-064</td><td>ACH-064</td><td>Electrolytic 10000 50V</td></tr>
+      <tr><td>SA-8500II</td><td>Integrated Amplifier</td><td>ACH-064</td><td>ACH-064</td><td>Electrolytic capacitor 10,000uF 50V</td></tr>
+      <tr><td>SA-9500II</td><td>Integrated Amplifier</td><td>ACH-065</td><td>ACH-065</td><td>Electrolytic 12000 63V</td></tr>
+      <tr><td>SA-9500II</td><td>Integrated Amplifier</td><td>ACH-065</td><td>ACH-065</td><td>Electrolytic 12000 63V</td></tr>
+      <tr><td>SA-9500II</td><td>Integrated Amplifier</td><td>ACH-065</td><td>ACH-065</td><td>Electrolytic 12000 63V</td></tr>
+      <tr><td>SA-9500II</td><td>Integrated Amplifier</td><td>ACH-065</td><td>ACH-065</td><td>Electrolytic 12000 63V</td></tr>
+      <tr><td>SX-850</td><td>Receiver</td><td>ACH-068</td><td>ACH-068</td><td>Electrolytic 15,000 50V</td></tr>
+      <tr><td>SX-850</td><td>Receiver</td><td>ACH-068</td><td>ACH-068</td><td>Electrolytic 15,000 50V</td></tr>
+      <tr><td>SX-850</td><td>Receiver</td><td>ACH-068</td><td>ACH-068</td><td>Electrolytic capacitor (15,000uF, 50V)</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACH-071</td><td>ACH-071</td><td>Electrolytic 8,000 50V</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACH-071</td><td>ACH-071</td><td>Electrolytic 8,000 50V</td></tr>
+      <tr><td>SA-6500II</td><td>Integrated Amplifier</td><td>ACH-073</td><td>ACH-073</td><td>Electrolytic capacitor 6,800uF 42V</td></tr>
+      <tr><td>SA-6800/608</td><td>Integrated Amplifier</td><td>ACH-082</td><td>ACH-082</td><td>Electrolytic 8,000uF 50V</td></tr>
+      <tr><td>SA-6800/608</td><td>Integrated Amplifier</td><td>ACH-082</td><td>ACH-082</td><td>Electrolytic 8,000uF 50V</td></tr>
+      <tr><td>SA-7800</td><td>Integrated Amplifier</td><td>ACH-082</td><td>ACH-082</td><td>Electrolytic 8000uF/50V</td></tr>
+      <tr><td>SA-7800</td><td>Integrated Amplifier</td><td>ACH-082</td><td>ACH-082</td><td>Electrolytic 8000uF/50V</td></tr>
+      <tr><td>SA-7800</td><td>Integrated Amplifier</td><td>ACH-082</td><td>ACH-082</td><td>Electrolytic 8000uF/50V</td></tr>
+      <tr><td>SA-7800</td><td>Integrated Amplifier</td><td>ACH-082</td><td>ACH-082</td><td>Electrolytic 8000uF/50V</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACH-083</td><td>ACH-083</td><td>Electrolytic 12,000 63V</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACH-083</td><td>ACH-083</td><td>Electrolytic 12,000 83V</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACH-083</td><td>ACH-083</td><td>Electrolytic 12,000 63V</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACH-083</td><td>ACH-083</td><td>Electrolytic 12,000 83V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACH-084</td><td>ACH-084</td><td>Electrolytic  22000  100V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACH-084</td><td>ACH-084</td><td>Electrolytic  22000  100V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACH-084</td><td>ACH-084</td><td>Electrolytic  22000  100V</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACH-084</td><td>ACH-084</td><td>Electrolytic  22000  100V</td></tr>
+      <tr><td>SX-1080</td><td>Receiver</td><td>ACH-085</td><td>ACH-085</td><td>Electrolytic  22000  71V</td></tr>
+      <tr><td>SX-1080</td><td>Receiver</td><td>ACH-085</td><td>ACH-085</td><td>Electrolytic  22000  71V</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>ACH-089</td><td>ACH-089</td><td>Electrolytic  15000  100V</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>ACH-089</td><td>ACH-089</td><td>Electrolytic  15000  100V</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>ACH-089</td><td>ACH-089</td><td>Electrolytic  15000  100V</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>ACH-089</td><td>ACH-089</td><td>Electrolytic  15000  100V</td></tr>
+      <tr><td>M-25</td><td>Amplifier</td><td>ACH-093</td><td>ACH-093</td><td>Electrolytic capacitor 22,000/80</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>ACH-094</td><td>ACH-094</td><td>Electrolytic 15,000/50v</td></tr>
+      <tr><td>A-27</td><td>Integrated Amplifier</td><td>ACH-095</td><td>ACH-095</td><td>Electrolytic capacitor (18000uF 71V)</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ACH-106</td><td>ACH-106</td><td>Electrolytic capacitor (10000/71Vl</td></tr>
+      <tr><td>A-77X</td><td>Integrated Amplifier</td><td>ACH-107</td><td>ACH-107</td><td>Electrolytic capacitor (8200/63V)</td></tr>
+      <tr><td>A-27</td><td>Integrated Amplifier</td><td>ACH-202</td><td>ACH-202</td><td>CAPACITOR</td></tr>
+      <tr><td>A-8</td><td>Integrated Amplifier</td><td>ACH-209</td><td>ACH-209</td><td>CAPA(12000/63V)</td></tr>
+      <tr><td>SA-8800</td><td>Integrated Amplifier</td><td>ACH-209</td><td>ACH-209</td><td>Electrolytic capacitor (12,000uF 63V)</td></tr>
+      <tr><td>SX-8</td><td>Receiver</td><td>ACH-209</td><td>ACH-209</td><td>Electrolytic capacitor (1200V/63V)</td></tr>
+      <tr><td>A-9</td><td>Integrated Amplifier</td><td>ACH-210</td><td>ACH-210</td><td>Electrolytic capacitor (15000/71V)</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ACH-210</td><td>ACH-210</td><td>Electrolytic 15,000/71 V</td></tr>
+      <tr><td>SX-3900</td><td>Receiver</td><td>ACH-210</td><td>ACH-210</td><td>Electrolytic capacitor 15,000uF, 71V</td></tr>
+      <tr><td>A-5</td><td>Integrated Amplifier</td><td>ACH-211</td><td>ACH-211</td><td>CAPACITOR(5600 MFD/50 VOLTS)</td></tr>
+      <tr><td>A-6</td><td>Integrated Amplifier</td><td>ACH-212</td><td>ACH-212</td><td>Electrolytic (12000/56V)</td></tr>
+      <tr><td>SX-700</td><td>Receiver</td><td>ACH-215</td><td>ACH-215</td><td>Electrolytic (8200/50V)</td></tr>
+      <tr><td>SX-700L</td><td>Receiver</td><td>ACH-215</td><td>ACH-215</td><td>Electrolytic (8200/50V)</td></tr>
+      <tr><td>SA-420</td><td>Integrated Amplifier</td><td>ACH-217</td><td>ACH-217</td><td>Electrolytic capacitor (4700/35V)</td></tr>
+      <tr><td>SX-600L</td><td>Receiver</td><td>ACH-218</td><td>ACH-218</td><td>Electrolytic (3300/35V)</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ACH-224</td><td>ACH-224</td><td>Electrolytic (8000/42V)</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ACH-230</td><td>ACH-230</td><td>CAPACITOR</td></tr>
+      <tr><td>A-40</td><td>Integrated Amplifier</td><td>ACH-238</td><td>ACH-238</td><td>CAPA(8200/56V)SA1060</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACH-238</td><td>ACH-238</td><td>Electrolytic Capacitor (8200/56V)</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACH-238</td><td>ACH-238</td><td>Electrolytic Capacitor (8200/56V)</td></tr>
+      <tr><td>SA-970</td><td>Integrated Amplifier</td><td>ACH-238</td><td>ACH-238</td><td>Electrolytic Capacitor (8200/56V)</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACH-239</td><td>ACH-239</td><td>Electrolytic capacitor (5600/42V)</td></tr>
+      <tr><td>A-70</td><td>Integrated Amplifier</td><td>ACH-247</td><td>ACH-247</td><td>Electrolytic (10,000/80V)</td></tr>
+      <tr><td>A-70</td><td>Integrated Amplifier</td><td>ACH-254</td><td>ACH-254</td><td>Electrolytic (1000/63V)</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ACH-255</td><td>ACH-255</td><td>Electrolytic (22000/71V)</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ACH-256</td><td>ACH-256</td><td>Electrolytic (22000/71V)</td></tr>
+      <tr><td>SX-50</td><td>Receiver</td><td>ACH-257</td><td>ACH-257</td><td>Electroiytic (8200/50)</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACH-259</td><td>ACH-259</td><td>Electrolytic capacitor(8200/56V)</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACH-259</td><td>ACH-259</td><td>Electrolytic capacitor(8200/56V)</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACH-260</td><td>ACH-260</td><td>Electrolytic capacitor (10,000/80V)</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACH-260</td><td>ACH-260</td><td>Electrolytic capacitor (10,000/80V)</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACH-263</td><td>ACH-263</td><td>CAPACITOR A60 (8200UF/56V)</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACH-264</td><td>ACH-264</td><td>CAPACITOR A60 (10000UF/80V)</td></tr>
+      <tr><td>A-717</td><td>Integrated Amplifier</td><td>ACH-268</td><td>ACH-268</td><td>CAP(12000/71V)A-80</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>ACH-268</td><td>ACH-268</td><td>Electrolytic (12,000/71V)</td></tr>
+      <tr><td>A-717</td><td>Integrated Amplifier</td><td>ACH-269</td><td>ACH-269</td><td>CAP(1000/100V)A-80</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>ACH-269</td><td>ACH-269</td><td>Electrolytic (10,000/100V)</td></tr>
+      <tr><td>TX-555Z</td><td>Tuner</td><td>ACH-389</td><td>ACH-389</td><td>CAPACITOR(3300/10V)TX555Z</td></tr>
+      <tr><td>A-717</td><td>Integrated Amplifier</td><td>ACH1045</td><td>ACH1045</td><td>CAPACITOR A717(22000/63V)</td></tr>
+      <tr><td>A-757</td><td>Integrated Amplifier</td><td>ACH1045</td><td>ACH1045</td><td>CAPACITOR A717(22000/63V)</td></tr>
+      <tr><td>A-91D</td><td>Integrated Amplifier</td><td>ACH1046</td><td>ACH1046</td><td>CAPACITOR A91(27000/80V)</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACK-005</td><td>ACK-005</td><td>CAPACITOR (ELE)</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACK-005</td><td>ACK-005</td><td>CAPACITOR (ELE)</td></tr>
+      <tr><td>SX-450</td><td>Receiver</td><td>ACK-012</td><td>ACK-012</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-550</td><td>Receiver</td><td>ACK-012</td><td>ACK-012</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>ACK-012</td><td>ACK-012</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-650</td><td>Receiver</td><td>ACK-012</td><td>ACK-012</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-680/690</td><td>Receiver</td><td>ACK-012</td><td>ACK-012</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-780</td><td>Receiver</td><td>ACK-012</td><td>ACK-012</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>ACK-012</td><td>ACK-012</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-750</td><td>Receiver</td><td>ACK-015</td><td>ACK-015</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-1050</td><td>Receiver</td><td>ACK-016</td><td>ACK-016</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-950</td><td>Receiver</td><td>ACK-016</td><td>ACK-016</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-1080</td><td>Receiver</td><td>ACK-022</td><td>ACK-022</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-1280</td><td>Receiver</td><td>ACK-022</td><td>ACK-022</td><td>Tuning Capacitor</td></tr>
+      <tr><td>SX-980</td><td>Receiver</td><td>ACK-022</td><td>ACK-022</td><td>Tuning Capacitor</td></tr>
+      <tr><td>TX-530</td><td>Tuner</td><td>ACK-027</td><td>ACK-027</td><td>VARIABLE CAPACITOR</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACL-001-0</td><td>ACL-001</td><td>Oil paper capacitor 0.2uF 1.5kV</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACN-003-0</td><td>ACN-003</td><td>Wire wound 3.3 20W</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACN-003-0</td><td>ACN-003</td><td>Wire wound resistor 3.3 ohm 20W</td></tr>
+      <tr><td>A-27</td><td>Integrated Amplifier</td><td>ACN-020</td><td>ACN-020</td><td>RESISTOR</td></tr>
+      <tr><td>A-27</td><td>Integrated Amplifier</td><td>ACN-022</td><td>ACN-022</td><td>Wire wound resistor 10Ω 10W - S</td></tr>
+      <tr><td>A-27</td><td>Integrated Amplifier</td><td>ACN-022</td><td>ACN-022</td><td>Wire wound resistor 10Ω 10W - S/G</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACN-026</td><td>ACN-026</td><td>Wire wound 360 10W</td></tr>
+      <tr><td>SX-1980</td><td>Receiver</td><td>ACN-027</td><td>ACN-027</td><td>Wire wound 470 10W</td></tr>
+      <tr><td>SX-3800</td><td>Receiver</td><td>ACN-029</td><td>ACN-029</td><td>Resistor 2.2M (KU)</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ACN-029</td><td>ACN-029</td><td>Carbon composition resistor</td></tr>
+      <tr><td>SX-780</td><td>Receiver</td><td>ACN-029</td><td>ACN-029</td><td>Carbon composition resistor 2.2MΩ</td></tr>
+      <tr><td>SX-8</td><td>Receiver</td><td>ACN-029</td><td>ACN-029</td><td>Carbon composition resistor (2.2M,1/2W) KU-type</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>ACN-029</td><td>ACN-029</td><td>Carbon composition 2.2M/½W</td></tr>
+      <tr><td>SX-D5000</td><td>Receiver</td><td>ACN-029</td><td>ACN-029</td><td>Carbon composition resistor</td></tr>
+      <tr><td>SX-D5000</td><td>Receiver</td><td>ACN-029</td><td>ACN-029</td><td>Resistor (2.2M/½W) - KU</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ACN-031</td><td>ACN-031</td><td>Wire wound 220/5W</td></tr>
+      <tr><td>SX-780</td><td>Receiver</td><td>ACN-031</td><td>ACN-031</td><td>Wire wound resistor 220Ω</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>ACN-031</td><td>ACN-031</td><td>Wire wound 220/5w</td></tr>
+      <tr><td>A-70</td><td>Integrated Amplifier</td><td>ACN-039</td><td>ACN-039</td><td>RESISTOR(.22 OHMS/2 WATTS)</td></tr>
+      <tr><td>SA-9800</td><td>Integrated Amplifier</td><td>ACN-044</td><td>ACN-044</td><td>Wire wound 150/5W</td></tr>
+      <tr><td>A-70</td><td>Integrated Amplifier</td><td>ACN-064</td><td>ACN-064</td><td>RESISTOR A70</td></tr>
+      <tr><td>SX-3800</td><td>Receiver</td><td>ACN-115</td><td>ACN-115</td><td>Resistor (4.7/10W)</td></tr>
+      <tr><td>SX-3700</td><td>Receiver</td><td>ACN-116</td><td>ACN-116</td><td>Resistor (200Ω, 10w)</td></tr>
+      <tr><td>SX-820</td><td>Receiver</td><td>ACN-116</td><td>ACN-116</td><td>Resistor (200Ω, 10w)</td></tr>
+      <tr><td>SX-3700</td><td>Receiver</td><td>ACN-117</td><td>ACN-117</td><td>Resistor (82Ω, 5W)</td></tr>
+      <tr><td>SX-820</td><td>Receiver</td><td>ACN-117</td><td>ACN-117</td><td>Resistor (82Ω, 5W)</td></tr>
+      <tr><td>A-71</td><td>Integrated Amplifier</td><td>ACN-130</td><td>ACN-130</td><td>RESISTOR(.47 OHMS/5 WATT X 2)</td></tr>
+      <tr><td>A-858</td><td>Integrated Amplifier</td><td>ACN-130</td><td>ACN-130</td><td>RESISTOR(.47 OHMS/5 WATT X 2)</td></tr>
+      <tr><td>A-40</td><td>Integrated Amplifier</td><td>ACN-131</td><td>ACN-131</td><td>RESISTOR(.22 OHMS/2 WATT X 2)</td></tr>
+      <tr><td>SX-202</td><td>Receiver</td><td>ACN-131</td><td>ACN-131</td><td>Wire-wound (0.22x2,2W)</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACN-139</td><td>ACN-139</td><td>RESISTOR(.33X2/5W)</td></tr>
+      <tr><td>A-717</td><td>Integrated Amplifier</td><td>ACN-139</td><td>ACN-139</td><td>RESISTOR(.33X2/5W)</td></tr>
+      <tr><td>SX-202</td><td>Receiver</td><td>ACN-140</td><td>ACN-140</td><td>Carbon composition (2.2M, 1/2W)</td></tr>
+      <tr><td>A-717</td><td>Integrated Amplifier</td><td>ACN-144</td><td>ACN-144</td><td>RESISTOR(150 OHMS/10 WATTS)</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>ACN-144</td><td>ACN-144</td><td>RESISTOR(150 OHMS/10 WATTS)</td></tr>
+      <tr><td>A-717</td><td>Integrated Amplifier</td><td>ACN-146</td><td>ACN-146</td><td>RESISTOR A-80 .22/5WX2</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>ACN-146</td><td>ACN-146</td><td>RESISTOR A-80 .22/5WX2</td></tr>
+      <tr><td>SX-50</td><td>Receiver</td><td>ACN-147</td><td>ACN-147</td><td>Wire wound (75/10W)</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ACN-190</td><td>ACN-190</td><td>Cement resistor</td></tr>
+      <tr><td>TX-7800</td><td>Tuner</td><td>ACP-025</td><td>ACP-025</td><td>Gain adj 33k</td></tr>
+      <tr><td>TX-7800</td><td>Tuner</td><td>ACP-025</td><td>ACP-025</td><td>Muting Level Adjust 33k</td></tr>
+      <tr><td>M-25</td><td>Amplifier</td><td>ACP-033</td><td>ACP-033</td><td>Input Level Control 470</td></tr>
+      <tr><td>TX-7800</td><td>Tuner</td><td>ACP-056</td><td>ACP-056</td><td>Pilot auto canceller adjust 22k</td></tr>
+      <tr><td>TX-7800</td><td>Tuner</td><td>ACP-057</td><td>ACP-057</td><td>Separation adjust 150</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ACP-078</td><td>ACP-078</td><td>Variable-resistor (LEVEL ADJ)</td></tr>
+      <tr><td>C-72</td><td>Pre-Amplifier</td><td>ACS1061</td><td>ACS1061</td><td>Variable resistor 250k X 2 (TREBLE, BASS)</td></tr>
+      <tr><td>C-72</td><td>Pre-Amplifier</td><td>ACS1062</td><td>ACS1062</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SD-1000</td><td>Other</td><td>ACT-001-0</td><td>ACT-001</td><td>50k B,POSITION</td></tr>
+      <tr><td>SD-1000</td><td>Other</td><td>ACT-001-0</td><td>ACT-001</td><td>50k B,POSITION</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACT-001-0</td><td>ACT-001</td><td>Volume (Horiz position) 50k-B</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACT-001-0</td><td>ACT-001</td><td>Volume (Vert position) 50k-B</td></tr>
+      <tr><td>SD-1000</td><td>Other</td><td>ACT-002-O</td><td>ACT-002</td><td>250k A2, HORIZ GAIN</td></tr>
+      <tr><td>SD-1000</td><td>Other</td><td>ACT-002-O</td><td>ACT-002</td><td>250k A2, VERT GAIN</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACT-002-0</td><td>ACT-002</td><td>Volume (Horiz gain) 250k-A</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACT-002-0</td><td>ACT-002</td><td>Volume (Vert gain) 250k-A</td></tr>
+      <tr><td>SD-1000</td><td>Other</td><td>ACT-003-O</td><td>ACT-003</td><td>500k B,SWEEP VARIABLE</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACT-003-0</td><td>ACT-003</td><td>Volume (Sweep variable) 500k-B</td></tr>
+      <tr><td>QX-747</td><td>Receiver</td><td>ACT-008-0</td><td>ACT-008</td><td>Variable resistor 500k-B2 (level)</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACT-008</td><td>ACT-008</td><td>Variable resistor 500k-B2 (LEFT FRONT)</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACT-008</td><td>ACT-008</td><td>Variable resistor 500k-B2 (LEFT REAR)</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACT-008</td><td>ACT-008</td><td>Variable resistor 500k-B2 (RIGHT FRONT)</td></tr>
+      <tr><td>QX-747A</td><td>Receiver</td><td>ACT-008</td><td>ACT-008</td><td>Variable resistor 500k-B2 (RIGHT REAR)</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACT-009-0</td><td>ACT-009</td><td>Variable resistor 250k-B2 (Level control)</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACT-009-0</td><td>ACT-009</td><td>Variable resistor 250k-B2 (Level control)</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACT-009-0</td><td>ACT-009</td><td>Variable resistor 250k-B2 (Level control)</td></tr>
+      <tr><td>QX-949</td><td>Receiver</td><td>ACT-009-0</td><td>ACT-009</td><td>Variable resistor 250k-B2 (Level control)</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACT-009</td><td>ACT-009</td><td>Variable resistor 250k-B2 (LEVEL LEFT FRONT)</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACT-009</td><td>ACT-009</td><td>Variable resistor 250k-B2 (LEVEL LEFT REAR)</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACT-009</td><td>ACT-009</td><td>Variable resistor 250k-B2 (LEVEL RIGHT FRONT)</td></tr>
+      <tr><td>QX-949A</td><td>Receiver</td><td>ACT-009</td><td>ACT-009</td><td>Variable resistor 250k-B2 (LEVEL RIGHT REAR)</td></tr>
+      <tr><td>SX-580/590</td><td>Receiver</td><td>ACT-019</td><td>ACT-019</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SX-680/690</td><td>Receiver</td><td>ACT-019</td><td>ACT-019</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SX-780</td><td>Receiver</td><td>ACT-019</td><td>ACT-019</td><td>Variable 1M (BALANCE)</td></tr>
+      <tr><td>SX-880/890</td><td>Receiver</td><td>ACT-019</td><td>ACT-019</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SA-420</td><td>Integrated Amplifier</td><td>ACT-021</td><td>ACT-021</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SX-3700</td><td>Receiver</td><td>ACT-021</td><td>ACT-021</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SX-3800</td><td>Receiver</td><td>ACT-021</td><td>ACT-021</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SX-820</td><td>Receiver</td><td>ACT-021</td><td>ACT-021</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SX-600</td><td>Receiver</td><td>ACT-022</td><td>ACT-022</td><td>Variable resistor (1M, BALANCE)</td></tr>
+      <tr><td>SX-600L</td><td>Receiver</td><td>ACT-022</td><td>ACT-022</td><td>Variable resistor (1M, BALANCE)</td></tr>
+      <tr><td>SX-700</td><td>Receiver</td><td>ACT-022</td><td>ACT-022</td><td>Variable resistor (1M, BALANCE)</td></tr>
+      <tr><td>SX-700L</td><td>Receiver</td><td>ACT-022</td><td>ACT-022</td><td>Variable resistor (1M, BALANCE)</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ACT-023</td><td>ACT-023</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SX-3500</td><td>Receiver</td><td>ACT-023</td><td>ACT-023</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ACT-023</td><td>ACT-023</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ACT-023</td><td>ACT-023</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ACT-023</td><td>ACT-023</td><td>Variable resistor 1M (BALANCE)</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACT-027</td><td>ACT-027</td><td>Variable 100k (BALANCE)</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ACT-028</td><td>ACT-028</td><td>Variable (BALANCE)</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ACT-028</td><td>ACT-028</td><td>Variable resistor 100k (BALANCE)</td></tr>
+      <tr><td>QX-8000</td><td>Receiver</td><td>ACT-102-0</td><td>ACT-102</td><td>500k HB, dual (BALANCE-FRONT)</td></tr>
+      <tr><td>QX-8000</td><td>Receiver</td><td>ACT-102-0</td><td>ACT-102</td><td>500k HB, dual (BALANCE-REAR)</td></tr>
+      <tr><td>QX-8000A</td><td>Receiver</td><td>ACT-102-0</td><td>ACT-102</td><td>500k HB, dual (BALANCE-FRONT)</td></tr>
+      <tr><td>QX-8000A</td><td>Receiver</td><td>ACT-102-0</td><td>ACT-102</td><td>500k HB, dual (BALANCE-REAR)</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACT-103-0</td><td>ACT-103</td><td>4 CH display volume (L) Dual 500k-B</td></tr>
+      <tr><td>SD-1100</td><td>Other</td><td>ACT-103-0</td><td>ACT-103</td><td>4 CH display volume (R) Dual 500k-B</td></tr>
+      <tr><td>SA-8100</td><td>Integrated Amplifier</td><td>ACT-104-0</td><td>ACT-104</td><td>Level control for AUX 2    100k-B2</td></tr>
+      <tr><td>SA-9100</td><td>Integrated Amplifier</td><td>ACT-104-0</td><td>ACT-104</td><td>Level control (100k-B2 x 2) AUX 2</td></tr>
+      <tr><td>SA-9100</td><td>Integrated Amplifier</td><td>ACT-104-0</td><td>ACT-104</td><td>Level control (100k-B2 x 2) SPEAKER B</td></tr>
+      <tr><td>SA-8100</td><td>Integrated Amplifier</td><td>ACT-105-A</td><td>ACT-105</td><td>Level control for PHONO 2   2k-B2</td></tr>
+      <tr><td>SA-8500</td><td>Integrated Amplifier</td><td>ACT-105-A</td><td>ACT-105</td><td>Variable resistor 2k-B (MIC/PHON0 2 LEVEL)</td></tr>
+      <tr><td>QX-646</td><td>Receiver</td><td>ACT-108-0</td><td>ACT-108</td><td>Potentiometer (CARRIER LEVEL CONTROL)10k-B</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACT-112-0</td><td>ACT-112</td><td>Variable resistor, dual 20k-A(speaker A)</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACT-112-0</td><td>ACT-112</td><td>Variable resistor, dual 20k-A(speaker B)</td></tr>
+      <tr><td>Exclusive M3</td><td>Amplifier</td><td>ACT-112-0</td><td>ACT-112</td><td>Variable resistor, dual 20k-A(speaker C)</td></tr>
+      <tr><td>SA-5800/508</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SA-5800/508</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor 100kΩ (BASS)</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor 100kΩ (TREBLE)</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor 100kΩ (BASS)</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor 100kΩ (TREBLE)</td></tr>
+      <tr><td>SA-6800/608</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor (BASS)</td></tr>
+      <tr><td>SA-6800/608</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor (TREBLE)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor (BASS, TREBLE)</td></tr>
+      <tr><td>SA-708</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor (BASS, TREBLE)</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACT-117</td><td>ACT-117</td><td>Variable resistor (BASS, TREBLE)</td></tr>
+      <tr><td>SA-3000</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable 500k (BALANCE)</td></tr>
+      <tr><td>SA-5800/508</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable resistor 500k (BALANCE)</td></tr>
+      <tr><td>SA-606</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable resistor 500kΩ-HB (BALANCE)</td></tr>
+      <tr><td>SA-6700</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable resistor 500kΩ-HB (BALANCE)</td></tr>
+      <tr><td>SA-6800/608</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SA-706</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SA-708</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SA-7700</td><td>Integrated Amplifier</td><td>ACT-118</td><td>ACT-118</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>F-28</td><td>Tuner</td><td>ACT-121</td><td>ACT-121</td><td>Variable resistor 10kΩ (OUTPUT LEVEL)</td></tr>
+      <tr><td>TX-7800</td><td>Tuner</td><td>ACT-121</td><td>ACT-121</td><td>Output level 10k dual</td></tr>
+      <tr><td>SA-3000</td><td>Integrated Amplifier</td><td>ACT-122</td><td>ACT-122</td><td>Variable 100k (BASS)</td></tr>
+      <tr><td>SA-3000</td><td>Integrated Amplifier</td><td>ACT-123</td><td>ACT-123</td><td>Variable 100k (TREBLE)</td></tr>
+      <tr><td>SA-420</td><td>Integrated Amplifier</td><td>ACT-126</td><td>ACT-126</td><td>Variable resistor (VOLUME)</td></tr>
+      <tr><td>SX-3700</td><td>Receiver</td><td>ACT-126</td><td>ACT-126</td><td>Variable resistor 250k (VOLUME)</td></tr>
+      <tr><td>SX-820</td><td>Receiver</td><td>ACT-126</td><td>ACT-126</td><td>Variable resistor 250k (VOLUME)</td></tr>
+      <tr><td>SA-420</td><td>Integrated Amplifier</td><td>ACT-127</td><td>ACT-127</td><td>Variable resistor (BASS)</td></tr>
+      <tr><td>SA-420</td><td>Integrated Amplifier</td><td>ACT-127</td><td>ACT-127</td><td>Variable resistor (TREBLE)</td></tr>
+      <tr><td>SA-710</td><td>Integrated Amplifier</td><td>ACT-127</td><td>ACT-127</td><td>Variable resistor 100k (BASS, TREBLE)</td></tr>
+      <tr><td>SX-3700</td><td>Receiver</td><td>ACT-127</td><td>ACT-127</td><td>Variable 100K (BASS)</td></tr>
+      <tr><td>SX-3700</td><td>Receiver</td><td>ACT-127</td><td>ACT-127</td><td>Variable 100K (TREBLE)</td></tr>
+      <tr><td>SX-820</td><td>Receiver</td><td>ACT-127</td><td>ACT-127</td><td>Variable 100K (BASS)</td></tr>
+      <tr><td>SX-820</td><td>Receiver</td><td>ACT-127</td><td>ACT-127</td><td>Variable 100K (TREBLE)</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor 250k (VOLUME)</td></tr>
+      <tr><td>SX-3500</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor 250k (VOLUME)</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor 250k (VOLUME)</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable 250k (VOLUME)</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor 250k (VOLUME)</td></tr>
+      <tr><td>SX-600</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor (250k, VOLUME)</td></tr>
+      <tr><td>SX-600L</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor (250k, VOLUME)</td></tr>
+      <tr><td>SX-700</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor (250k, VOLUME)</td></tr>
+      <tr><td>SX-700L</td><td>Receiver</td><td>ACT-128</td><td>ACT-128</td><td>Variable resistor (250k, VOLUME)</td></tr>
+      <tr><td>SX-3400</td><td>Receiver</td><td>ACT-129</td><td>ACT-129</td><td>Variable resistor 100k (BASS, TREBLE)</td></tr>
+      <tr><td>SX-600</td><td>Receiver</td><td>ACT-129</td><td>ACT-129</td><td>Variable resistor (100k, BASS, TREBLE)</td></tr>
+      <tr><td>SX-600L</td><td>Receiver</td><td>ACT-129</td><td>ACT-129</td><td>Variable resistor (100k, BASS, TREBLE)</td></tr>
+      <tr><td>SX-700</td><td>Receiver</td><td>ACT-129</td><td>ACT-129</td><td>Variable resistor (100k, BASS, TREBLE)</td></tr>
+      <tr><td>SX-700L</td><td>Receiver</td><td>ACT-129</td><td>ACT-129</td><td>Variable resistor (100k, BASS, TREBLE)</td></tr>
+      <tr><td>SA-710</td><td>Integrated Amplifier</td><td>ACT-130</td><td>ACT-130</td><td>Variable resistor 500k (BALANCE)</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ACT-132</td><td>ACT-132</td><td>Variable resistor 68k (VOLUME)</td></tr>
+      <tr><td>SX-3900</td><td>Receiver</td><td>ACT-133</td><td>ACT-133</td><td>2-gang variable resistor (BALANCE)</td></tr>
+      <tr><td>SX-3900</td><td>Receiver</td><td>ACT-134</td><td>ACT-134</td><td>2-gang variable resistor (BASS)</td></tr>
+      <tr><td>SX-3900</td><td>Receiver</td><td>ACT-134</td><td>ACT-134</td><td>2-gang variable resistor (TREBLE)</td></tr>
+      <tr><td>SX-3800</td><td>Receiver</td><td>ACT-135</td><td>ACT-135</td><td>Variable 10k (BASS)</td></tr>
+      <tr><td>SX-3800</td><td>Receiver</td><td>ACT-136</td><td>ACT-136</td><td>Variable 10k (TREBLE)</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ACT-138</td><td>ACT-138</td><td>Variable (BASS)</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ACT-138</td><td>ACT-138</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SX-6</td><td>Receiver</td><td>ACT-139</td><td>ACT-139</td><td>Variable (TREBLE)</td></tr>
+      <tr><td>SX-7</td><td>Receiver</td><td>ACT-139</td><td>ACT-139</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>A-5</td><td>Integrated Amplifier</td><td>ACT-140</td><td>ACT-140</td><td>CONTROL(BASS/TREBLE)</td></tr>
+      <tr><td>A-6</td><td>Integrated Amplifier</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 100K (BASS)</td></tr>
+      <tr><td>A-6</td><td>Integrated Amplifier</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 100K (TREBLE)</td></tr>
+      <tr><td>SX-3500</td><td>Receiver</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 150k (BASS, TREBLE)</td></tr>
+      <tr><td>SX-3600/720</td><td>Receiver</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 100k (BASS, TREBLE)</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SX-4</td><td>Receiver</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SX-5</td><td>Receiver</td><td>ACT-140</td><td>ACT-140</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ACT-143</td><td>ACT-143</td><td>Variable 10k (BALANCE)</td></tr>
+      <tr><td>A-8</td><td>Integrated Amplifier</td><td>ACT-143</td><td>ACT-143</td><td>Variable 10k (BALANCE)</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ACT-144</td><td>ACT-144</td><td>Variable 100k (BASS)</td></tr>
+      <tr><td>A-7</td><td>Integrated Amplifier</td><td>ACT-144</td><td>ACT-144</td><td>Variable 100k (TREBLE)</td></tr>
+      <tr><td>A-70</td><td>Integrated Amplifier</td><td>ACT-145</td><td>ACT-145</td><td>Variable dual 250k (BALANCE)</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACT-148</td><td>ACT-148</td><td>Variable resistor (BALANCE)</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACT-149</td><td>ACT-149</td><td>Variable 100k (BASS,TREBLE)</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACT-149</td><td>ACT-149</td><td>Variable resistor (BASS)</td></tr>
+      <tr><td>SA-530</td><td>Integrated Amplifier</td><td>ACT-149</td><td>ACT-149</td><td>Variable resistor (TREBLE)</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACT-149</td><td>ACT-149</td><td>Variable resistor (BASS)</td></tr>
+      <tr><td>SA-930</td><td>Integrated Amplifier</td><td>ACT-149</td><td>ACT-149</td><td>Variable resistor (TREBLE)</td></tr>
+      <tr><td>SX-202</td><td>Receiver</td><td>ACT-162</td><td>ACT-162</td><td>Volume (250k)</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ACT-163</td><td>ACT-163</td><td>Volume (100k, BASS)</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ACT-163</td><td>ACT-163</td><td>Volume (10k,TREBLE)</td></tr>
+      <tr><td>A-90</td><td>Integrated Amplifier</td><td>ACT-166</td><td>ACT-166</td><td>Volume (10k, BALANCE)</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACT-168</td><td>ACT-168</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACT-168</td><td>ACT-168</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACT-168</td><td>ACT-168</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACT-168</td><td>ACT-168</td><td>Variable resistor 100k (TREBLE)</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACT-169</td><td>ACT-169</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACT-169</td><td>ACT-169</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACT-169</td><td>ACT-169</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACT-169</td><td>ACT-169</td><td>Variable resistor 100k (BASS)</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACT-170</td><td>ACT-170</td><td>Variable resistor 100k (BALANCE)</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACT-170</td><td>ACT-170</td><td>Variable resistor 100k (BALANCE)</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACT-170</td><td>ACT-170</td><td>Variable resistor 250k (BALANCE)</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACT-170</td><td>ACT-170</td><td>Variable resistor 250k (BALANCE)</td></tr>
+      <tr><td>SA-1040</td><td>Integrated Amplifier</td><td>ACT-171</td><td>ACT-171</td><td>Variable resistor 100k (VOLUME)</td></tr>
+      <tr><td>SA-1050</td><td>Integrated Amplifier</td><td>ACT-171</td><td>ACT-171</td><td>Variable resistor 100k (VOLUME)</td></tr>
+      <tr><td>SA-940</td><td>Integrated Amplifier</td><td>ACT-171</td><td>ACT-171</td><td>Variable resistor 100k (VOLUME)</td></tr>
+      <tr><td>SA-950</td><td>Integrated Amplifier</td><td>ACT-171</td><td>ACT-171</td><td>Variable resistor 100k (VOLUME)</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACT-177</td><td>ACT-177</td><td>Variable resistor dual 100k (BASS)</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACT-177</td><td>ACT-177</td><td>Variable resistor dual 100k (TREBLE)</td></tr>
+      <tr><td>A-77X</td><td>Integrated Amplifier</td><td>ACT-179</td><td>ACT-179</td><td>Varable resistor 250k (BALANCE)</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>ACT-179</td><td>ACT-179</td><td>Volume resistor 250k (BALANCE)</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ACT-179</td><td>ACT-179</td><td>Variable resistor 250k (BALANCE)</td></tr>
+      <tr><td>A-80</td><td>Integrated Amplifier</td><td>ACT-180</td><td>ACT-180</td><td>Variable resistor 100k (TREBLE, BASS)</td></tr>
+      <tr><td>A-60</td><td>Integrated Amplifier</td><td>ACT-184</td><td>ACT-184</td><td>Variable resistor dual 250k (BALANCE)</td></tr>
+      <tr><td>SG-90</td><td>Equalizer</td><td>ACT-185</td><td>ACT-185</td><td>Variable 10k (INPUT LEVEL)</td></tr>
+      <tr><td>RG-60</td><td>Dynamic Range Expander</td><td>ACT-187</td><td>ACT-187</td><td>Variable 100k (INPUT)</td></tr>
+      <tr><td>A-88X</td><td>Integrated Amplifier</td><td>ACT-189</td><td>ACT-189</td><td>Variable 50k-X2 (TREBLE, BASS)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ACT-190</td><td>ACT-190</td><td>(TONE BASS,TREBLE)</td></tr>
+      <tr><td>A-77X</td><td>Integrated Amplifier</td><td>ACT-190</td><td>ACT-190</td><td>Variable resistor (TREBLE, BASS)</td></tr>
+      <tr><td>A-66X</td><td>Integrated Amplifier</td><td>ACT-200</td><td>ACT-200</td><td>(MAIN VOLUME)</td></tr>
+      <tr><td>SX-60</td><td>Receiver</td><td>ACT-209</td><td>ACT-209</td><td>Variable 250k, 50k X 2 (VOLUME, BALANCE)</td></tr>
+      <tr><td>SX-50</td><td>Receiver</td><td>ACT-210</td><td>ACT-210</td><td>100k x 2,50k (VOLUME, BALANCE)</td></tr>
+      <tr><td>QX-8000</td><td>Receiver</td><td>ACT-301-A</td><td>ACT-301</td><td>500k HB, 4-gang (BALANCE-FRONT/REAR)</td></tr>
+      <tr><td>QX-8000A</td><td>Receiver</td><td>ACT-301-A</td><td>ACT-301</td><td>500k HB, 4-gang (BALANCE-FRONT/REAR)</td></tr>
+      <tr><td>SA-9100</td><td>Integrated Amplifier</td><td>ACT-302-A</td><td>ACT-302</td><td>Level control (10k-B2 x 2 / 2.2k-B2 x 2)  PHONO 2</td></tr>
+      <tr><td>SA-9500</td><td>Integrated Amplifier</td><td>ACT-304-0</td><td>ACT-304</td><td>Impedance selection 233kΩ (PHONO 2 IMPEDANCE)</td></tr>
+      <tr><td>SA-9900</td><td>Integrated Amplifier</td><td>ACT-304-0</td><td>ACT-304</td><td>Variable Resistor (PHONO 2/MIC LEVEL) 4-gang 2K-HB/10K-HB</td></tr>
+    </tbody>
+  </table>
+  <script>
+    function filterTable() {
+      const filter = document.getElementById("filterInput").value.toUpperCase();
+      const rows = document.getElementById("partsTable").getElementsByTagName("tr");
+      for (let i = 1; i < rows.length; i++) {
+        const text = rows[i].textContent || rows[i].innerText;
+        rows[i].style.display = text.toUpperCase().indexOf(filter) > -1 ? "" : "none";
+      }
+    }
+  </script>
+</body>
+</html>

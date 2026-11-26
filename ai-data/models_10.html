@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Models 10 | Pioneer Vintage Audio Parts Database</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 20px; line-height: 1.4; color: #222; }
+    h1 { font-size: 1.4rem; margin-bottom: 0.5rem; }
+    .nav { margin-bottom: 1rem; }
+    input[type="text"] { padding: 8px; width: 100%; max-width: 400px; margin-bottom: 1rem; border: 1px solid #ccc; border-radius: 4px; }
+    table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+    th, td { border: 1px solid #ddd; padding: 6px 10px; text-align: left; }
+    th { background-color: #f4f4f4; position: sticky; top: 0; }
+    tr:nth-child(even) { background-color: #fafafa; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="../">&larr; Back to Database Home</a></div>
+  <h1>Models 10</h1>
+  <input type="text" id="filterInput" onkeyup="filterTable()" placeholder="Filter rows on this page...">
+  <table id="partsTable">
+    <thead>
+      <tr><th>model</th><th>category</th><th>part_number</th><th>normalized_part_number</th><th>description</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>TX-D1000</td><td>Tuner</td><td>AEL-315</td><td>AEL-315</td><td>LED</td></tr>
+      <tr><td>TX-D1000</td><td>Tuner</td><td>AEL-319</td><td>AEL-319</td><td>LED</td></tr>
+      <tr><td>TX-D1000</td><td>Tuner</td><td>ART-431</td><td>ART-431</td><td>S/M(TXD1000)</td></tr>
+      <tr><td>TX-D1000</td><td>Tuner</td><td>ASG-151</td><td>ASG-151</td><td>SWITCH(MEMORY/DOWN/UP/STATION C</td></tr>
+      <tr><td>TX-D1000</td><td>Tuner</td><td>ASG-217</td><td>ASG-217</td><td>SWITCH(POWER)</td></tr>
+    </tbody>
+  </table>
+  <script>
+    function filterTable() {
+      const filter = document.getElementById("filterInput").value.toUpperCase();
+      const rows = document.getElementById("partsTable").getElementsByTagName("tr");
+      for (let i = 1; i < rows.length; i++) {
+        const text = rows[i].textContent || rows[i].innerText;
+        rows[i].style.display = text.toUpperCase().indexOf(filter) > -1 ? "" : "none";
+      }
+    }
+  </script>
+</body>
+</html>
