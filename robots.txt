@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lese-vintageaudio.github.io/Pioneer-Parts-Database/sitemap.xml
