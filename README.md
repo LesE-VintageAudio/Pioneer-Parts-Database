@@ -179,6 +179,12 @@ The files in ai-data are derived data and should not be edited independently. Th
 </p>
 
 
+<h3>Site Map</h3>
+<p>
+
+<a href="/sitemap.xml">Site Map</a>
+</p>
+
 ## Disclaimer
 
 This database is provided "as-is" for informational, educational, and restoration purposes.
