@@ -127,6 +127,60 @@ The ai-data directory contains automatically generated search indexes derived fr
 
 The files in ai-data are derived data and should not be edited independently. The master CSV is the authoritative source.
 
+## HTML
+
+<h2>Browse &amp; Searchable Data Indexes</h2>
+<p>Use the links below to browse individual part tables, model indexes, and cross-references directly in your browser:</p>
+
+<h3>Cross-Reference &amp; Lookup</h3>
+<ul>
+  <li><a href="ai-data/part_cross_reference.html">Part Cross-Reference Table</a></li>
+  <li><a href="ai-data/part_lookup.html">Part Lookup Table</a></li>
+</ul>
+
+<h3>Parts Index (Chunks 01–24)</h3>
+<p>
+  <a href="ai-data/parts_01.html">Parts 01</a> |
+  <a href="ai-data/parts_02.html">Parts 02</a> |
+  <a href="ai-data/parts_03.html">Parts 03</a> |
+  <a href="ai-data/parts_04.html">Parts 04</a> |
+  <a href="ai-data/parts_05.html">Parts 05</a> |
+  <a href="ai-data/parts_06.html">Parts 06</a> |
+  <a href="ai-data/parts_07.html">Parts 07</a> |
+  <a href="ai-data/parts_08.html">Parts 08</a> |
+  <a href="ai-data/parts_09.html">Parts 09</a> |
+  <a href="ai-data/parts_10.html">Parts 10</a> |
+  <a href="ai-data/parts_11.html">Parts 11</a> |
+  <a href="ai-data/parts_12.html">Parts 12</a> |
+  <a href="ai-data/parts_13.html">Parts 13</a> |
+  <a href="ai-data/parts_14.html">Parts 14</a> |
+  <a href="ai-data/parts_15.html">Parts 15</a> |
+  <a href="ai-data/parts_16.html">Parts 16</a> |
+  <a href="ai-data/parts_17.html">Parts 17</a> |
+  <a href="ai-data/parts_18.html">Parts 18</a> |
+  <a href="ai-data/parts_19.html">Parts 19</a> |
+  <a href="ai-data/parts_20.html">Parts 20</a> |
+  <a href="ai-data/parts_21.html">Parts 21</a> |
+  <a href="ai-data/parts_22.html">Parts 22</a> |
+  <a href="ai-data/parts_23.html">Parts 23</a> |
+  <a href="ai-data/parts_24.html">Parts 24</a>
+</p>
+
+<h3>Models Index (Chunks 01–10)</h3>
+<p>
+  <a href="ai-data/models_01.html">Models 01</a> |
+  <a href="ai-data/models_02.html">Models 02</a> |
+  <a href="ai-data/models_03.html">Models 03</a> |
+  <a href="ai-data/models_04.html">Models 04</a> |
+  <a href="ai-data/models_05.html">Models 05</a> |
+  <a href="ai-data/models_06.html">Models 06</a> |
+  <a href="ai-data/models_07.html">Models 07</a> |
+  <a href="ai-data/models_08.html">Models 08</a> |
+  <a href="ai-data/models_09.html">Models 09</a> |
+  <a href="ai-data/models_10.html">Models 10</a>
+</p>
+
+
 ## Disclaimer
 
 This database is provided "as-is" for informational, educational, and restoration purposes.
