@@ -127,8 +127,6 @@ The ai-data directory contains automatically generated search indexes derived fr
 
 The files in ai-data are derived data and should not be edited independently. The master CSV is the authoritative source.
 
-## HTML
-
 <h2>Browse &amp; Searchable Data Indexes</h2>
 <p>Use the links below to browse individual part tables, model indexes, and cross-references directly in your browser:</p>
 
