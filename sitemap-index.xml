@@ -2,150 +2,242 @@
 <urlset xmlns="http://sitemaps.org">
   <url>
     <loc>https://github.io/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_01.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_01_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_02.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_01_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_03.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_02_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_04.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_02_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_05.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_03_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_06.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_03_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_07.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_04_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_08.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_04_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/models_09.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/models_05_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_05_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_06_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_06_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_07_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_07_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_08_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_08_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_09_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/models_09_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/models_10.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/part_cross_reference.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/part_cross_reference_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
-    <loc>https://github.io/ai-data/part_lookup.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://github.io/ai-data/part_cross_reference_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_cross_reference_03.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_cross_reference_04.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_cross_reference_05.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_cross_reference_06.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_cross_reference_07.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_cross_reference_08.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_01.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_02.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_03.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_04.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_05.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_06.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_07.html</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/ai-data/part_lookup_08.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_01.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_02.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_03.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_04.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_05.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_06.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_07.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_08.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_09.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_10.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_11.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_12.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_13.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_14.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_15.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_16.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_17.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_18.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_19.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_20.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_21.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_22.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_23.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://github.io/ai-data/parts_24.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
 </urlset>
